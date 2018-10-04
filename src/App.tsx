@@ -5,6 +5,8 @@ import logo from './logo.svg';
 
 class App extends React.Component {
   public render() {
+    let x = 1
+
     return (
       <div className="App">
         <header className="App-header">
