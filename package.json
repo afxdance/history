@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "airtable": "^0.5.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts-ts": "3.1.0"
@@ -22,3 +23,4 @@
     "typescript": "^3.1.1"
   }
 }
+

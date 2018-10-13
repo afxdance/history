@@ -1,11 +1,15 @@
-import * as React from 'react';
-import './App.css';
-
-import logo from './logo.svg';
+import * as React from "react";
+import "./App.css";
+import AFX from "./data";
+import logo from "./logo.svg";
+import { GroupsComponent } from "./GroupsComponent";
 
 class App extends React.Component {
   public render() {
-    let x = 1
+    let groups: any = [];
+    for (let key in AFX.Groups) {
+      groups.push(<GroupsComponent group={AFX.Groups[key]} />);
+    }
 
     return (
       <div className="App">
@@ -16,6 +20,7 @@ class App extends React.Component {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
+        {groups}
       </div>
     );
   }
