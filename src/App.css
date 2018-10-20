@@ -23,8 +23,12 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 /* Active Admin CSS */
@@ -517,12 +521,22 @@ body {
 }
 
 /* line 31, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: normal;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 34, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
+h1 img,
+h2 img,
+h3 img,
+h4 img,
+h5 img,
+h6 img {
   margin: 0;
 }
 
@@ -599,17 +613,20 @@ blockquote {
 }
 
 /* line 56, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-strong, dfn {
+strong,
+dfn {
   font-weight: bold;
 }
 
 /* line 57, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-em, dfn {
+em,
+dfn {
   font-style: italic;
 }
 
 /* line 58, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-sup, sub {
+sup,
+sub {
   line-height: 0;
 }
 
@@ -637,8 +654,10 @@ pre {
 }
 
 /* line 66, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-pre, code, tt {
-  font: 1em 'andale mono', 'lucida console', monospace;
+pre,
+code,
+tt {
+  font: 1em "andale mono", "lucida console", monospace;
   line-height: 1.5;
 }
 
@@ -649,7 +668,8 @@ li ol {
 }
 
 /* line 71, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-ul, ol {
+ul,
+ol {
   margin: 0 1.5em 1.5em 0;
   padding-left: 1.5em;
 }
@@ -696,13 +716,15 @@ thead th {
 }
 
 /* line 84, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
-th, td, caption {
+th,
+td,
+caption {
   padding: 4px 10px 4px 5px;
 }
 
 /* line 87, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
 .small {
-  font-size: .8em;
+  font-size: 0.8em;
   margin-bottom: 1.875em;
   line-height: 1.875em;
 }
@@ -812,7 +834,8 @@ th, td, caption {
   top: -2px;
 }
 /* line 42, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
-#header a, #header a:link {
+#header a,
+#header a:link {
   color: #cdcdcd;
 }
 /* line 44, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
@@ -835,7 +858,7 @@ th, td, caption {
   margin-right: 4px;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 1.0em;
+  font-size: 1em;
   position: relative;
   /* Hover on li, display the ul */
   /* Drop down menus */
@@ -854,12 +877,15 @@ th, td, caption {
 }
 /* line 77, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
 #header ul.tabs > li.has_nested > a {
-  background: url(/assets/active_admin/nested_menu_arrow-15084d93c65c1964d7077700ea748bd2d70cfa2d4c19707c58a9c64e232dd442.gif) no-repeat calc(100% - 7px) 50%;
+  background: url(/assets/active_admin/nested_menu_arrow-15084d93c65c1964d7077700ea748bd2d70cfa2d4c19707c58a9c64e232dd442.gif)
+    no-repeat calc(100% - 7px) 50%;
   padding-right: 20px;
 }
 /* line 82, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
 #header ul.tabs > li.has_nested.current > a {
-  background: #7b8389 url(/assets/active_admin/nested_menu_arrow_dark-7c43b8e0a5f8823875f49a093c9d7a6b374f885b6f9cc248ae9cd7e6e9b29034.gif) no-repeat calc(100% - 7px) 50%;
+  background: #7b8389
+    url(/assets/active_admin/nested_menu_arrow_dark-7c43b8e0a5f8823875f49a093c9d7a6b374f885b6f9cc248ae9cd7e6e9b29034.gif)
+    no-repeat calc(100% - 7px) 50%;
   padding-right: 20px;
 }
 /* line 87, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
@@ -873,7 +899,9 @@ th, td, caption {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border-bottom: 5px solid #7b8389;
-  background: #7b8389 url(/assets/active_admin/nested_menu_arrow_dark-7c43b8e0a5f8823875f49a093c9d7a6b374f885b6f9cc248ae9cd7e6e9b29034.gif) no-repeat calc(100% - 7px) 50%;
+  background: #7b8389
+    url(/assets/active_admin/nested_menu_arrow_dark-7c43b8e0a5f8823875f49a093c9d7a6b374f885b6f9cc248ae9cd7e6e9b29034.gif)
+    no-repeat calc(100% - 7px) 50%;
   z-index: 1020;
 }
 /* line 101, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
@@ -953,12 +981,21 @@ form {
   /* Buttons */
 }
 /* line 4, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form ul, form ol, form li, form fieldset, form legend, form input, form textarea, form select, form p {
+form ul,
+form ol,
+form li,
+form fieldset,
+form legend,
+form input,
+form textarea,
+form select,
+form p {
   margin: 0;
   padding: 0;
 }
 /* line 5, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form ol, form ul {
+form ol,
+form ul {
   list-style: none;
 }
 /* line 7, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -989,12 +1026,12 @@ form fieldset legend span {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
 }
 /* line 19, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1006,9 +1043,9 @@ form fieldset ol > li label {
   display: block;
   width: 20%;
   float: left;
-  font-size: 1.0em;
+  font-size: 1em;
   font-weight: bold;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 28, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
 form fieldset ol > li label abbr {
@@ -1056,7 +1093,13 @@ form .has_many_container.ui-sortable .has_many_container {
   margin-right: 2em;
 }
 /* line 75, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form .ui-sortable input[type=text], form .ui-sortable input[type=password], form .ui-sortable input[type=email], form .ui-sortable input[type=number], form .ui-sortable input[type=url], form .ui-sortable input[type=tel], form .ui-sortable textarea {
+form .ui-sortable input[type="text"],
+form .ui-sortable input[type="password"],
+form .ui-sortable input[type="email"],
+form .ui-sortable input[type="number"],
+form .ui-sortable input[type="url"],
+form .ui-sortable input[type="tel"],
+form .ui-sortable textarea {
   width: calc(80% - 22px - 2em - 1px);
 }
 /* line 83, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1101,38 +1144,38 @@ form fieldset > ol > li fieldset.has_many_fields ol {
   margin: 0;
 }
 /* line 120, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form input[type=text],
-form input[type=password],
-form input[type=email],
-form input[type=number],
-form input[type=url],
-form input[type=tel],
-form input[type=date],
-form input[type=time],
+form input[type="text"],
+form input[type="password"],
+form input[type="email"],
+form input[type="number"],
+form input[type="url"],
+form input[type="tel"],
+form input[type="date"],
+form input[type="time"],
 form textarea {
   width: calc(80% - 22px);
   border: 1px solid #c9d0d6;
   border-radius: 3px;
   font-size: 0.95em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   outline: none;
   padding: 8px 10px 7px;
 }
 /* line 137, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form input[type=text]:focus,
-form input[type=password]:focus,
-form input[type=email]:focus,
-form input[type=number]:focus,
-form input[type=url]:focus,
-form input[type=tel]:focus,
-form input[type=date]:focus,
-form input[type=time]:focus,
+form input[type="text"]:focus,
+form input[type="password"]:focus,
+form input[type="email"]:focus,
+form input[type="number"]:focus,
+form input[type="url"]:focus,
+form input[type="tel"]:focus,
+form input[type="date"]:focus,
+form input[type="time"]:focus,
 form textarea:focus {
   border: 1px solid #99a2aa;
   box-shadow: 0 0 4px #99a2aa;
 }
 /* line 143, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form input[type=date] {
+form input[type="date"] {
   width: calc(100% - 22px);
 }
 /* line 147, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1152,36 +1195,46 @@ form fieldset > ol > li p.inline-hints {
   margin: 0.5em 0 0 20%;
 }
 /* line 159, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.date_select fieldset ol li, form fieldset > ol > li.time_select fieldset ol li, form fieldset > ol > li.datetime_select fieldset ol li {
+form fieldset > ol > li.date_select fieldset ol li,
+form fieldset > ol > li.time_select fieldset ol li,
+form fieldset > ol > li.datetime_select fieldset ol li {
   float: left;
   width: auto;
   margin: 0 0.5em 0 0;
 }
 /* line 161, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.date_select fieldset ol li label, form fieldset > ol > li.time_select fieldset ol li label, form fieldset > ol > li.datetime_select fieldset ol li label {
+form fieldset > ol > li.date_select fieldset ol li label,
+form fieldset > ol > li.time_select fieldset ol li label,
+form fieldset > ol > li.datetime_select fieldset ol li label {
   display: none;
 }
 /* line 162, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.date_select fieldset ol li input, form fieldset > ol > li.time_select fieldset ol li input, form fieldset > ol > li.datetime_select fieldset ol li input {
+form fieldset > ol > li.date_select fieldset ol li input,
+form fieldset > ol > li.time_select fieldset ol li input,
+form fieldset > ol > li.datetime_select fieldset ol li input {
   display: inline;
   margin: 0;
   padding: 0;
 }
 /* line 168, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.check_boxes fieldset ol, form fieldset > ol > li.radio fieldset ol {
+form fieldset > ol > li.check_boxes fieldset ol,
+form fieldset > ol > li.radio fieldset ol {
   margin-bottom: -0.6em;
 }
 /* line 170, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.check_boxes fieldset ol li, form fieldset > ol > li.radio fieldset ol li {
+form fieldset > ol > li.check_boxes fieldset ol li,
+form fieldset > ol > li.radio fieldset ol li {
   margin: 0.1em 0 0.5em 0;
 }
 /* line 172, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.check_boxes fieldset ol li label, form fieldset > ol > li.radio fieldset ol li label {
+form fieldset > ol > li.check_boxes fieldset ol li label,
+form fieldset > ol > li.radio fieldset ol li label {
   float: none;
   width: 100%;
 }
 /* line 175, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.check_boxes fieldset ol li label input, form fieldset > ol > li.radio fieldset ol li label input {
+form fieldset > ol > li.check_boxes fieldset ol li label input,
+form fieldset > ol > li.radio fieldset ol li label input {
   margin-right: 0.2em;
 }
 /* line 182, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1223,7 +1276,13 @@ form fieldset > ol > li ul.errors li {
   display: list-item;
 }
 /* line 213, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset > ol > li.error input[type=text], form fieldset > ol > li.error input[type=password], form fieldset > ol > li.error input[type=email], form fieldset > ol > li.error input[type=number], form fieldset > ol > li.error input[type=url], form fieldset > ol > li.error input[type=tel], form fieldset > ol > li.error textarea {
+form fieldset > ol > li.error input[type="text"],
+form fieldset > ol > li.error input[type="password"],
+form fieldset > ol > li.error input[type="email"],
+form fieldset > ol > li.error input[type="number"],
+form fieldset > ol > li.error input[type="url"],
+form fieldset > ol > li.error input[type="tel"],
+form fieldset > ol > li.error textarea {
   border: 1px solid #932419;
 }
 /* line 220, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1244,12 +1303,14 @@ form ul.errors li {
   display: list-item;
 }
 /* line 233, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form input[type=submit], form input[type=button], form button {
+form input[type="submit"],
+form input[type="button"],
+form button {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
@@ -1257,7 +1318,8 @@ form input[type=submit], form input[type=button], form button {
   background-color: #838a90;
   background-image: linear-gradient(180deg, #838a90, #414549);
   text-shadow: #000 0 1px 0;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
   border: solid 1px #484e53;
   border-color: #484e53;
   border-top-color: #616a71;
@@ -1268,27 +1330,39 @@ form input[type=submit], form input[type=button], form button {
   cursor: pointer;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-form input[type=submit].disabled, form input[type=button].disabled, form button.disabled {
+form input[type="submit"].disabled,
+form input[type="button"].disabled,
+form button.disabled {
   opacity: 0.5;
   cursor: default;
 }
 /* line 29, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-form input[type=submit]:not(.disabled):hover, form input[type=button]:not(.disabled):hover, form button:not(.disabled):hover {
+form input[type="submit"]:not(.disabled):hover,
+form input[type="button"]:not(.disabled):hover,
+form button:not(.disabled):hover {
   background-color: #8b9297;
   background-image: linear-gradient(180deg, #8b9297, #484d51);
 }
 /* line 33, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-form input[type=submit]:not(.disabled):active, form input[type=button]:not(.disabled):active, form button:not(.disabled):active {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #FFF;
+form input[type="submit"]:not(.disabled):active,
+form input[type="button"]:not(.disabled):active,
+form button:not(.disabled):active {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #fff;
   background-color: #71797f;
   background-image: linear-gradient(180deg, #71797f, #35383b);
 }
 /* line 239, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form .buttons, form .actions {
+form .buttons,
+form .actions {
   margin-top: 15px;
 }
 /* line 241, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form .buttons input[type=submit], form .buttons input[type=button], form .buttons button, form .actions input[type=submit], form .actions input[type=button], form .actions button {
+form .buttons input[type="submit"],
+form .buttons input[type="button"],
+form .buttons button,
+form .actions input[type="submit"],
+form .actions input[type="button"],
+form .actions button {
   margin-right: 10px;
 }
 /* line 244, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1302,24 +1376,27 @@ form .buttons .actions .create_another label {
   display: inline;
 }
 /* line 254, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset.buttons li, form fieldset.actions li {
+form fieldset.buttons li,
+form fieldset.actions li {
   float: left;
   padding: 0;
 }
 /* line 258, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form fieldset.buttons li.cancel a, form fieldset.actions li.cancel a {
+form fieldset.buttons li.cancel a,
+form fieldset.actions li.cancel a {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -1327,35 +1404,38 @@ form fieldset.buttons li.cancel a, form fieldset.actions li.cancel a {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-form fieldset.buttons li.cancel a.disabled, form fieldset.actions li.cancel a.disabled {
+form fieldset.buttons li.cancel a.disabled,
+form fieldset.actions li.cancel a.disabled {
   opacity: 0.5;
   cursor: default;
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-form fieldset.buttons li.cancel a:not(.disabled):hover, form fieldset.actions li.cancel a:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+form fieldset.buttons li.cancel a:not(.disabled):hover,
+form fieldset.actions li.cancel a:not(.disabled):hover {
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-form fieldset.buttons li.cancel a:not(.disabled):active, form fieldset.actions li.cancel a:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+form fieldset.buttons li.cancel a:not(.disabled):active,
+form fieldset.actions li.cancel a:not(.disabled):active {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 
 /* line 268, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
 .sidebar_section label {
   display: block;
   text-transform: uppercase;
-  color: #5E6469;
+  color: #5e6469;
   font-size: 0.9em;
   font-weight: bold;
 }
@@ -1364,7 +1444,12 @@ form fieldset.buttons li.cancel a:not(.disabled):active, form fieldset.actions l
   width: 240px;
 }
 /* line 280, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-.sidebar_section input[type=text], .sidebar_section input[type=password], .sidebar_section input[type=email], .sidebar_section input[type=url], .sidebar_section input[type=tel], .sidebar_section textarea {
+.sidebar_section input[type="text"],
+.sidebar_section input[type="password"],
+.sidebar_section input[type="email"],
+.sidebar_section input[type="url"],
+.sidebar_section input[type="tel"],
+.sidebar_section textarea {
   width: 220px;
 }
 
@@ -1374,7 +1459,7 @@ form.filter_form .filter_form_field {
   clear: both;
 }
 /* line 301, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form.filter_form .filter_form_field.select_and_search input[type=text] {
+form.filter_form .filter_form_field.select_and_search input[type="text"] {
   margin-left: 16px;
   width: 88px;
 }
@@ -1392,23 +1477,33 @@ form.filter_form .filter_form_field.filter_check_boxes fieldset {
   padding-bottom: 0px;
 }
 /* line 316, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form.filter_form .filter_form_field.filter_check_boxes .check_boxes_wrapper label {
+form.filter_form
+  .filter_form_field.filter_check_boxes
+  .check_boxes_wrapper
+  label {
   font-weight: normal;
   margin-bottom: 3px;
   text-transform: none;
-  font-size: 1.0em;
+  font-size: 1em;
 }
 /* line 321, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form.filter_form .filter_form_field.filter_check_boxes .check_boxes_wrapper label input {
+form.filter_form
+  .filter_form_field.filter_check_boxes
+  .check_boxes_wrapper
+  label
+  input {
   vertical-align: baseline;
 }
 /* line 326, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form.filter_form .filter_form_field.filter_date_range input[type=text] {
+form.filter_form .filter_form_field.filter_date_range input[type="text"] {
   box-sizing: border-box;
   width: 114px;
 }
 /* line 330, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
-form.filter_form .filter_form_field.filter_date_range input[type=text] + input {
+form.filter_form
+  .filter_form_field.filter_date_range
+  input[type="text"]
+  + input {
   margin-left: 6px;
 }
 /* line 336, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_forms.scss */
@@ -1416,15 +1511,16 @@ form.filter_form a.clear_filters_btn {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -1432,7 +1528,7 @@ form.filter_form a.clear_filters_btn {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 form.filter_form a.clear_filters_btn.disabled {
@@ -1441,19 +1537,19 @@ form.filter_form a.clear_filters_btn.disabled {
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 form.filter_form a.clear_filters_btn:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 form.filter_form a.clear_filters_btn:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 
 /* line 4, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_comments.scss */
@@ -1472,11 +1568,14 @@ form.filter_form a.clear_filters_btn:not(.disabled):active {
   color: #767e84;
 }
 /* line 16, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_comments.scss */
-.comments .active_admin_comment .active_admin_comment_meta .active_admin_comment_author {
+.comments
+  .active_admin_comment
+  .active_admin_comment_meta
+  .active_admin_comment_author {
   font-size: 1.2em;
   font-weight: bold;
   margin: 0;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 23, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_comments.scss */
 .comments .active_admin_comment .active_admin_comment_body {
@@ -1514,7 +1613,7 @@ body.logged_in .flash {
   color: #cb9810;
   font-weight: bold;
   font-size: 1.1em;
-  line-height: 1.0em;
+  line-height: 1em;
   padding: 13px 30px 11px;
   position: relative;
 }
@@ -1540,7 +1639,7 @@ body.logged_out .flash {
   background: none;
   color: #666;
   font-weight: bold;
-  line-height: 1.0em;
+  line-height: 1em;
   padding: 0;
   margin-bottom: 8px;
 }
@@ -1655,7 +1754,8 @@ body.logged_out .flash {
   width: 156px;
 }
 /* line 103, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_date_picker.scss */
-.ui-datepicker table.ui-datepicker-calendar td, .ui-datepicker table.ui-datepicker-calendar th {
+.ui-datepicker table.ui-datepicker-calendar td,
+.ui-datepicker table.ui-datepicker-calendar th {
   padding: 0px;
   text-align: center;
 }
@@ -1691,7 +1791,11 @@ body.logged_out .flash {
   color: #fff;
 }
 /* line 134, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_date_picker.scss */
-.ui-datepicker table.ui-datepicker-calendar tbody td a.ui-state-active.ui-state-hover {
+.ui-datepicker
+  table.ui-datepicker-calendar
+  tbody
+  td
+  a.ui-state-active.ui-state-hover {
   background-color: #5a5f64;
   color: #fff;
 }
@@ -1731,27 +1835,30 @@ table.index_table th {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
   border-right: none;
   padding-left: 12px;
   padding-right: 12px;
 }
 /* line 28, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tables.scss */
-table.index_table th a, table.index_table th a:link, table.index_table th a:visited {
-  color: #5E6469;
+table.index_table th a,
+table.index_table th a:link,
+table.index_table th a:visited {
+  color: #5e6469;
   text-decoration: none;
   display: block;
   white-space: nowrap;
 }
 /* line 35, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tables.scss */
 table.index_table th.sortable a {
-  background: url(/assets/active_admin/orderable-29374dbb55b0012d78a37c614d573bb3474f0779849b478a147d0f1845ca6617.png) no-repeat 0 4px;
+  background: url(/assets/active_admin/orderable-29374dbb55b0012d78a37c614d573bb3474f0779849b478a147d0f1845ca6617.png)
+    no-repeat 0 4px;
   padding-left: 13px;
 }
 /* line 39, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tables.scss */
@@ -1763,7 +1870,8 @@ table.index_table th.sorted-desc a {
   background-position: 0 -56px;
 }
 /* line 42, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tables.scss */
-table.index_table th.sorted-asc, table.index_table th.sorted-desc {
+table.index_table th.sorted-asc,
+table.index_table th.sorted-desc {
   background-color: #e2e2e2;
   background-image: linear-gradient(180deg, #e2e2e2, #d2d4d6);
 }
@@ -1794,7 +1902,7 @@ table.index_table td {
 .panel_contents table th {
   padding-top: 10px;
   background: none;
-  color: #5E6469;
+  color: #5e6469;
   box-shadow: none;
   text-shadow: #fff 0 1px 0;
   text-transform: uppercase;
@@ -1823,7 +1931,8 @@ table.index_table td {
   background: #ecedee;
 }
 /* line 88, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tables.scss */
-.attributes_table table th, .attributes_table table td {
+.attributes_table table th,
+.attributes_table table td {
   padding: 8px 12px 6px 12px;
   vertical-align: top;
   border-bottom: 1px solid #e8e8e8;
@@ -1836,7 +1945,7 @@ table.index_table td {
   font-size: 0.9em;
   padding-left: 0;
   text-transform: uppercase;
-  color: #5E6469;
+  color: #5e6469;
   text-shadow: #fff 0 1px 0;
 }
 /* line 104, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tables.scss */
@@ -1896,12 +2005,12 @@ table.index_table td {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
 }
 /* line 16, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_modal_dialog.scss */
@@ -1921,7 +2030,8 @@ table.index_table td {
   margin-right: 10px;
 }
 /* line 23, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_modal_dialog.scss */
-.ui-dialog .ui-dialog-buttonpane, .ui-dialog form {
+.ui-dialog .ui-dialog-buttonpane,
+.ui-dialog form {
   padding: 7px 15px 13px;
 }
 /* line 27, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_modal_dialog.scss */
@@ -1929,8 +2039,8 @@ table.index_table td {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
@@ -1938,7 +2048,8 @@ table.index_table td {
   background-color: #838a90;
   background-image: linear-gradient(180deg, #838a90, #414549);
   text-shadow: #000 0 1px 0;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
   border: solid 1px #484e53;
   border-color: #484e53;
   border-top-color: #616a71;
@@ -1959,7 +2070,7 @@ table.index_table td {
 }
 /* line 33, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .ui-dialog .ui-dialog-buttonpane button:not(.disabled):active {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #FFF;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #fff;
   background-color: #71797f;
   background-image: linear-gradient(180deg, #71797f, #35383b);
 }
@@ -1968,15 +2079,16 @@ table.index_table td {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -1984,7 +2096,7 @@ table.index_table td {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .ui-dialog .ui-dialog-buttonpane button:last-child.disabled {
@@ -1993,19 +2105,19 @@ table.index_table td {
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .ui-dialog .ui-dialog-buttonpane button:last-child:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .ui-dialog .ui-dialog-buttonpane button:last-child:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 
 /* line 33, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_modal_dialog.scss */
@@ -2021,8 +2133,8 @@ table.index_table td {
 /* line 5, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_blank_slates.scss */
 .blank_slate_container .blank_slate {
   border-radius: 3px;
-  border: 1px dashed #DADADA;
-  color: #AAA;
+  border: 1px dashed #dadada;
+  color: #aaa;
   display: inline-block;
   font-size: 1.2em;
   font-weight: bold;
@@ -2052,12 +2164,15 @@ table.index_table td {
   display: block;
   font-size: 0.9em;
   font-weight: normal;
-  line-height: 1.0em;
+  line-height: 1em;
   margin-bottom: 12px;
   text-transform: uppercase;
 }
 /* line 9, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_breadcrumbs.scss */
-.breadcrumb a, .breadcrumb a:link, .breadcrumb a:visited, .breadcrumb a:active {
+.breadcrumb a,
+.breadcrumb a:link,
+.breadcrumb a:visited,
+.breadcrumb a:active {
   color: #8a949e;
   text-decoration: none;
 }
@@ -2080,15 +2195,16 @@ table.index_table td {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -2096,7 +2212,7 @@ table.index_table td {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
   position: relative;
   padding-right: 22px !important;
   cursor: pointer;
@@ -2108,35 +2224,35 @@ table.index_table td {
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .dropdown_menu .dropdown_menu_button:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .dropdown_menu .dropdown_menu_button:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 /* line 10, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
 .dropdown_menu .dropdown_menu_button:before {
-  content: ' ';
+  content: " ";
   position: absolute;
   width: 0;
   height: 0;
   border-width: 3px 3px 0;
   border-style: solid;
-  border-color: #FFF transparent;
+  border-color: #fff transparent;
   right: 12px;
   top: 45%;
 }
 /* line 22, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
 .dropdown_menu .dropdown_menu_button:after {
-  content: ' ';
+  content: " ";
   position: absolute;
   width: 0;
   height: 0;
@@ -2161,7 +2277,7 @@ table.index_table td {
 }
 /* line 51, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
 .dropdown_menu .dropdown_menu_nipple:before {
-  content: ' ';
+  content: " ";
   position: absolute;
   width: 0;
   height: 0;
@@ -2173,7 +2289,7 @@ table.index_table td {
 }
 /* line 65, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
 .dropdown_menu .dropdown_menu_nipple:after {
-  content: ' ';
+  content: " ";
   position: absolute;
   width: 0;
   height: 0;
@@ -2190,7 +2306,7 @@ table.index_table td {
   background-color: white;
   padding: 2px;
   box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-  background-color: #5E6469;
+  background-color: #5e6469;
   background-color: #686e74;
   background-image: linear-gradient(180deg, #686e74, #52575c);
   border: solid 1px #464a4e;
@@ -2203,7 +2319,7 @@ table.index_table td {
 /* line 93, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
 .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list {
   display: block;
-  background-color: #FFF;
+  background-color: #fff;
   border: solid 1px #464a4e;
   box-shadow: #6a7176 0px 1px 0px 0px;
   border-radius: 3px;
@@ -2235,16 +2351,20 @@ table.index_table td {
   background-color: #75a1c2;
   background-image: linear-gradient(180deg, #75a1c2, #608cb4);
   text-shadow: #5a83aa 0 1px 0;
-  color: #FFF;
+  color: #fff;
 }
 /* line 127, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
 .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li a:active {
   background-color: #608cb4;
   background-image: linear-gradient(180deg, #608cb4, #75a1c2);
-  color: #FFF;
+  color: #fff;
 }
 /* line 135, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_dropdown_menu.scss */
-.dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li:first-child a {
+.dropdown_menu
+  .dropdown_menu_list_wrapper
+  .dropdown_menu_list
+  li:first-child
+  a {
   border-top-left-radius: 2px;
   border-top-right-radius: 2px;
 }
@@ -2265,12 +2385,17 @@ a.member_link {
 }
 
 /* line 6, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_buttons.scss */
-a.button, a:link.button, a:visited.button, input[type=submit], input[type=button], button {
+a.button,
+a:link.button,
+a:visited.button,
+input[type="submit"],
+input[type="button"],
+button {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
@@ -2278,7 +2403,8 @@ a.button, a:link.button, a:visited.button, input[type=submit], input[type=button
   background-color: #838a90;
   background-image: linear-gradient(180deg, #838a90, #414549);
   text-shadow: #000 0 1px 0;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
   border: solid 1px #484e53;
   border-color: #484e53;
   border-top-color: #616a71;
@@ -2288,18 +2414,33 @@ a.button, a:link.button, a:visited.button, input[type=submit], input[type=button
   color: #efefef;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-a.button.disabled, a:link.button.disabled, a:visited.button.disabled, input[type=submit].disabled, input[type=button].disabled, button.disabled {
+a.button.disabled,
+a:link.button.disabled,
+a:visited.button.disabled,
+input[type="submit"].disabled,
+input[type="button"].disabled,
+button.disabled {
   opacity: 0.5;
   cursor: default;
 }
 /* line 29, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-a.button:not(.disabled):hover, a:link.button:not(.disabled):hover, a:visited.button:not(.disabled):hover, input[type=submit]:not(.disabled):hover, input[type=button]:not(.disabled):hover, button:not(.disabled):hover {
+a.button:not(.disabled):hover,
+a:link.button:not(.disabled):hover,
+a:visited.button:not(.disabled):hover,
+input[type="submit"]:not(.disabled):hover,
+input[type="button"]:not(.disabled):hover,
+button:not(.disabled):hover {
   background-color: #8b9297;
   background-image: linear-gradient(180deg, #8b9297, #484d51);
 }
 /* line 33, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-a.button:not(.disabled):active, a:link.button:not(.disabled):active, a:visited.button:not(.disabled):active, input[type=submit]:not(.disabled):active, input[type=button]:not(.disabled):active, button:not(.disabled):active {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #FFF;
+a.button:not(.disabled):active,
+a:link.button:not(.disabled):active,
+a:visited.button:not(.disabled):active,
+input[type="submit"]:not(.disabled):active,
+input[type="button"]:not(.disabled):active,
+button:not(.disabled):active {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #fff;
   background-color: #71797f;
   background-image: linear-gradient(180deg, #71797f, #35383b);
 }
@@ -2323,7 +2464,9 @@ table.index_grid td {
 }
 
 /* line 1, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_links.scss */
-a, a:link, a:visited {
+a,
+a:link,
+a:visited {
   color: #38678b;
   text-decoration: underline;
 }
@@ -2349,15 +2492,16 @@ a:hover {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -2365,7 +2509,7 @@ a:hover {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .pagination a.disabled {
@@ -2374,27 +2518,27 @@ a:hover {
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .pagination a:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .pagination a:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 /* line 14, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_pagination.scss */
 .pagination span.page.current {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
@@ -2402,7 +2546,8 @@ a:hover {
   background-color: #838a90;
   background-image: linear-gradient(180deg, #838a90, #414549);
   text-shadow: #000 0 1px 0;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
   border: solid 1px #484e53;
   border-color: #484e53;
   border-top-color: #616a71;
@@ -2423,12 +2568,13 @@ a:hover {
 }
 /* line 33, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .pagination span.page.current:not(.disabled):active {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #FFF;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px #fff;
   background-color: #71797f;
   background-image: linear-gradient(180deg, #71797f, #35383b);
 }
 /* line 18, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_pagination.scss */
-.pagination a, .pagination span.page.current {
+.pagination a,
+.pagination span.page.current {
   border-radius: 0px;
   margin-right: 4px;
   padding: 2px 5px;
@@ -2460,15 +2606,16 @@ a:hover {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -2476,7 +2623,7 @@ a:hover {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
   border-radius: 0px;
   padding: 1px 5px;
 }
@@ -2487,19 +2634,19 @@ a:hover {
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .pagination_per_page select:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .pagination_per_page select:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 
 /* line 47, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_pagination.scss */
@@ -2514,14 +2661,16 @@ a:hover {
 }
 
 /* line 2, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_panels.scss */
-.section, .panel {
+.section,
+.panel {
   background: #f4f4f4;
   border-radius: 4px;
   box-shadow: inset 0 1px 4px #ddd;
   margin-bottom: 20px;
 }
 /* line 27, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_sections.scss */
-.section > h3, .panel > h3 {
+.section > h3,
+.panel > h3 {
   background-color: #efefef;
   background-image: linear-gradient(180deg, #efefef, #dfe1e2);
   text-shadow: #fff 0 1px 0;
@@ -2531,26 +2680,29 @@ a:hover {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
 }
 /* line 30, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_sections.scss */
-.section > h3 .header_action, .panel > h3 .header_action {
+.section > h3 .header_action,
+.panel > h3 .header_action {
   float: right;
 }
 /* line 35, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_sections.scss */
-.section > div, .panel > div {
+.section > div,
+.panel > div {
   padding: 3px 15px 15px 15px;
 }
 /* line 37, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_sections.scss */
-.section hr, .panel hr {
+.section hr,
+.panel hr {
   border: none;
-  border-bottom: 1px solid #E8E8E8;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 /* line 6, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_panels.scss */
@@ -2571,12 +2723,12 @@ a:hover {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
 }
 /* line 30, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_sections.scss */
@@ -2590,7 +2742,7 @@ a:hover {
 /* line 37, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_sections.scss */
 .sidebar_section hr {
   border: none;
-  border-bottom: 1px solid #E8E8E8;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 /* line 1, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_columns.scss */
@@ -2616,20 +2768,28 @@ a:hover {
   font-size: 0.8em;
 }
 /* line 10, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_status_tags.scss */
-.status_tag.ok, .status_tag.published, .status_tag.complete, .status_tag.completed, .status_tag.green {
+.status_tag.ok,
+.status_tag.published,
+.status_tag.complete,
+.status_tag.completed,
+.status_tag.green {
   background: #8daa92;
 }
 /* line 11, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_status_tags.scss */
-.status_tag.warn, .status_tag.warning, .status_tag.orange {
+.status_tag.warn,
+.status_tag.warning,
+.status_tag.orange {
   background: #e29b20;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_status_tags.scss */
-.status_tag.error, .status_tag.errored, .status_tag.red {
+.status_tag.error,
+.status_tag.errored,
+.status_tag.red {
   background: #d45f53;
 }
 /* line 14, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_status_tags.scss */
 .status_tag.yes {
-  background: #6090DB;
+  background: #6090db;
 }
 /* line 15, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_status_tags.scss */
 .status_tag.no {
@@ -2655,19 +2815,21 @@ a:hover {
 }
 
 /* line 10, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
-a.table_tools_button, .table_tools .dropdown_menu_button {
+a.table_tools_button,
+.table_tools .dropdown_menu_button {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -2675,9 +2837,9 @@ a.table_tools_button, .table_tools .dropdown_menu_button {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F0F0F0);
+  color: #5e6469;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f0f0f0);
   border-color: #d0d0d0;
   border-top-color: #d9d9d9;
   border-right-color: #d0d0d0;
@@ -2688,41 +2850,46 @@ a.table_tools_button, .table_tools .dropdown_menu_button {
   margin: 0;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-a.table_tools_button.disabled, .table_tools .dropdown_menu_button.disabled {
+a.table_tools_button.disabled,
+.table_tools .dropdown_menu_button.disabled {
   opacity: 0.5;
   cursor: default;
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-a.table_tools_button:not(.disabled):hover, .table_tools .dropdown_menu_button:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+a.table_tools_button:not(.disabled):hover,
+.table_tools .dropdown_menu_button:not(.disabled):hover {
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+a.table_tools_button:not(.disabled):active,
+.table_tools .dropdown_menu_button:not(.disabled):active {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 /* line 19, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
-a.table_tools_button:not(.disabled):hover, .table_tools .dropdown_menu_button:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F6F6F6);
+a.table_tools_button:not(.disabled):hover,
+.table_tools .dropdown_menu_button:not(.disabled):hover {
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f6f6f6);
 }
 /* line 23, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
-a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:not(.disabled):active {
+a.table_tools_button:not(.disabled):active,
+.table_tools .dropdown_menu_button:not(.disabled):active {
   border-color: #c8c8c8;
   border-top-color: #d7d7d7;
   border-right-color: #c8c8c8;
   border-bottom-color: #c3c3c3;
   border-left-color: #c8c8c8;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.17) inset;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E8E8E8);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e8e8e8);
 }
 
 /* line 31, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
@@ -2737,7 +2904,7 @@ a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:n
 }
 /* line 39, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
 .table_tools_segmented_control li a {
-  border-width: 1px .5px 1px .5px;
+  border-width: 1px 0.5px 1px 0.5px;
   border-radius: 0;
 }
 /* line 44, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
@@ -2754,15 +2921,15 @@ a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:n
 }
 /* line 56, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
 .table_tools_segmented_control li.selected a {
-  background-color: #F0F0F0;
-  background-image: linear-gradient(180deg, #F0F0F0, #FDFDFD);
+  background-color: #f0f0f0;
+  background-image: linear-gradient(180deg, #f0f0f0, #fdfdfd);
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
   cursor: default;
 }
 /* line 61, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_table_tools.scss */
 .table_tools_segmented_control li.selected a:hover {
-  background-color: #F0F0F0;
-  background-image: linear-gradient(180deg, #F0F0F0, #FDFDFD);
+  background-color: #f0f0f0;
+  background-image: linear-gradient(180deg, #f0f0f0, #fdfdfd);
 }
 
 /* line 1, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_index_list.scss */
@@ -2831,15 +2998,16 @@ a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:n
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -2847,9 +3015,9 @@ a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:n
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F0F0F0);
+  color: #5e6469;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f0f0f0);
   border-color: #d0d0d0;
   border-top-color: #d9d9d9;
   border-right-color: #d0d0d0;
@@ -2857,7 +3025,7 @@ a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:n
   border-left-color: #d0d0d0;
   text-decoration: none;
   border-radius: 0;
-  border-width: 1px .5px 1px .5px;
+  border-width: 1px 0.5px 1px 0.5px;
   margin-right: 0;
   padding: 4px 14px 4px;
 }
@@ -2868,41 +3036,41 @@ a.table_tools_button:not(.disabled):active, .table_tools .dropdown_menu_button:n
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .ui-tabs-nav li a:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
 .ui-tabs-nav li a:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 /* line 40, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tabs.scss */
 .ui-tabs-nav li a:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F6F6F6);
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f6f6f6);
 }
 /* line 47, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tabs.scss */
 .ui-tabs-nav li.ui-tabs-active a {
   cursor: default;
-  background-color: #F0F0F0;
-  background-image: linear-gradient(180deg, #F0F0F0, #FDFDFD);
+  background-color: #f0f0f0;
+  background-image: linear-gradient(180deg, #f0f0f0, #fdfdfd);
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
 }
 /* line 52, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tabs.scss */
 .ui-tabs-nav li.ui-tabs-active a a:hover {
-  background-color: #F0F0F0;
-  background-image: linear-gradient(180deg, #F0F0F0, #FDFDFD);
+  background-color: #f0f0f0;
+  background-image: linear-gradient(180deg, #f0f0f0, #fdfdfd);
 }
 
 /* line 60, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/components/_tabs.scss */
 .tab-content {
-  border: 1px solid #D3D3D3;
+  border: 1px solid #d3d3d3;
   padding: 15px;
   padding-top: 30px;
   text-align: left;
@@ -2934,12 +3102,12 @@ body.logged_out h2 {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
   background-color: #6a7176;
   background-image: linear-gradient(180deg, #6a7176, #4d5256);
@@ -2966,7 +3134,9 @@ body.logged_out #login form fieldset li {
   padding: 10px 0;
 }
 /* line 33, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/pages/_logged_out.scss */
-body.logged_out #login form fieldset input[type=text], body.logged_out #login form fieldset input[type=email], body.logged_out #login form fieldset input[type=password] {
+body.logged_out #login form fieldset input[type="text"],
+body.logged_out #login form fieldset input[type="email"],
+body.logged_out #login form fieldset input[type="password"] {
   width: 70%;
 }
 /* line 36, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/pages/_logged_out.scss */
@@ -3048,17 +3218,17 @@ body.logged_out #login a {
   border-right-color: #d4d4d4;
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #FFF inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px #fff inset;
   font-size: 1em;
   font-weight: bold;
   line-height: 18px;
   margin-bottom: 0.5em;
-  color: #5E6469;
+  color: #5e6469;
   padding: 5px 10px 3px 10px;
   box-sizing: border-box;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
   display: table;
-  border-bottom-color: #EEE;
+  border-bottom-color: #eee;
   width: 100%;
   position: relative;
   margin: 0;
@@ -3074,7 +3244,8 @@ body.logged_out #login a {
   height: 0;
 }
 /* line 14, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/structure/_title_bar.scss */
-#title_bar #titlebar_left, #title_bar #titlebar_right {
+#title_bar #titlebar_left,
+#title_bar #titlebar_right {
   height: 50px;
   vertical-align: middle;
   display: table-cell;
@@ -3092,19 +3263,21 @@ body.logged_out #login a {
   font-weight: bold;
 }
 /* line 34, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/structure/_title_bar.scss */
-#title_bar .action_items span.action_item > a, #title_bar .action_items span.action_item > .dropdown_menu > a {
+#title_bar .action_items span.action_item > a,
+#title_bar .action_items span.action_item > .dropdown_menu > a {
   border-radius: 200px;
   display: inline-block;
   font-weight: bold;
-  font-size: 1.0em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 12px;
   margin-right: 3px;
   padding: 7px 16px 6px;
   text-decoration: none;
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #E7E7E7);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #e7e7e7);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
   border-top-color: #d3d3d3;
@@ -3112,185 +3285,205 @@ body.logged_out #login a {
   border-bottom-color: #c2c2c2;
   border-left-color: #c7c7c7;
   text-shadow: #fff 0 1px 0;
-  color: #5E6469;
+  color: #5e6469;
   padding: 12px 17px 10px;
   margin: 0px;
 }
 /* line 12, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-#title_bar .action_items span.action_item > a.disabled, #title_bar .action_items span.action_item > .dropdown_menu > a.disabled {
+#title_bar .action_items span.action_item > a.disabled,
+#title_bar .action_items span.action_item > .dropdown_menu > a.disabled {
   opacity: 0.5;
   cursor: default;
 }
 /* line 50, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-#title_bar .action_items span.action_item > a:not(.disabled):hover, #title_bar .action_items span.action_item > .dropdown_menu > a:not(.disabled):hover {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF, #F1F1F1);
+#title_bar .action_items span.action_item > a:not(.disabled):hover,
+#title_bar
+  .action_items
+  span.action_item
+  > .dropdown_menu
+  > a:not(.disabled):hover {
+  background-color: #ffffff;
+  background-image: linear-gradient(180deg, #ffffff, #f1f1f1);
 }
 /* line 54, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/mixins/_buttons.scss */
-#title_bar .action_items span.action_item > a:not(.disabled):active, #title_bar .action_items span.action_item > .dropdown_menu > a:not(.disabled):active {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #EEE;
+#title_bar .action_items span.action_item > a:not(.disabled):active,
+#title_bar
+  .action_items
+  span.action_item
+  > .dropdown_menu
+  > a:not(.disabled):active {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eee;
   border-color: #b9b9b9;
   border-top-color: #c2c2c2;
   border-right-color: #b9b9b9;
   border-bottom-color: #b7b7b7;
   border-left-color: #b9b9b9;
-  background-color: #F3F3F3;
-  background-image: linear-gradient(180deg, #F3F3F3, #D8D8D8);
+  background-color: #f3f3f3;
+  background-image: linear-gradient(180deg, #f3f3f3, #d8d8d8);
 }
 
 /* line 35, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_base.scss */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-size: 72%;
-  background: #FFF;
+  background: #fff;
   color: #323537;
 }
 body {
-	margin: 0;
+  margin: 0;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 ::-webkit-scrollbar {
-    display: none;
+  display: none;
 }
 
 .main {
-	background-color: black;
-	text-align: center;
+  background-color: black;
+  text-align: center;
 }
 
 .icon {
-	margin: 80px 0 60px 0;
-	height: 380px;
+  margin: 80px 0 60px 0;
+  height: 380px;
 }
 
 .about {
-	text-align: left;
+  text-align: left;
 }
 
 .about--text {
-	font-family: Lato;
-	width: 60%;
-	color: white;
-	line-height: 28px;
-	font-size: 20px;
-	margin: auto;
+  font-family: Lato;
+  width: 60%;
+  color: white;
+  line-height: 28px;
+  font-size: 20px;
+  margin: auto;
 }
 
 strong {
-	font-size: 24px;
-	font-weight: 400;
-	color: #ff4c4c;
+  font-size: 24px;
+  font-weight: 400;
+  color: #ff4c4c;
 }
 
 .social-media {
-	margin: auto;
-	text-align: center;
+  margin: auto;
+  text-align: center;
 }
 
 .fa.fa-facebook {
-	font-size: 80px;
-	margin: 24px;
-	color: white;
+  font-size: 80px;
+  margin: 24px;
+  color: white;
 }
-	.fa.fa-facebook:hover {
-		color: #3b5998;
-	}
+.fa.fa-facebook:hover {
+  color: #3b5998;
+}
 
 .fa.fa-instagram {
-	font-size: 80px;
-	margin: 24px;
-	color: white;
+  font-size: 80px;
+  margin: 24px;
+  color: white;
 }
-	.fa.fa-instagram:hover {
-		color: #cd486b;
-	}
+.fa.fa-instagram:hover {
+  color: #cd486b;
+}
 
 .fa.fa-youtube-play {
-	font-size: 80px;
-	margin: 24px;
-	color: white;
+  font-size: 80px;
+  margin: 24px;
+  color: white;
 }
-	.fa.fa-youtube-play:hover {
-		color: #FF0000;
-	}
+.fa.fa-youtube-play:hover {
+  color: #ff0000;
+}
 
 .board {
-	text-align: center;
+  text-align: center;
 }
 
 .board--title {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	font-size: 50px;
-	color: black;
-	text-align: center;
-	margin-top: 80px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin-top: 80px;
 }
 
 .board--subtitle {
-	font-family: Alegreya Sans SC;
-	font-size: 18px;
-	color: black;
-	text-align: center;
-	margin-bottom: 80px;
+  font-family: Alegreya Sans SC;
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  margin-bottom: 80px;
 }
 
 .banner--border {
-	height: 150px;
-	transform: translateY(50px);
+  height: 150px;
+  transform: translateY(50px);
 }
 
 .board--member {
-	font-family: Alegreya Sans SC;
-	position: relative;
-	width: 200px;
-	display: inline-block;
-	margin:24px;
+  font-family: Alegreya Sans SC;
+  position: relative;
+  width: 200px;
+  display: inline-block;
+  margin: 24px;
 }
-	.board--member:hover .overlay {
-  		height: 34%;
-	}
+.board--member:hover .overlay {
+  height: 34%;
+}
+
+
 
 .board--img {
-	width: 200px;
+  width: 200px;
+  height: 200px;
+  left: 50%;
+  top: 50%;
+  object-fit: cover;
+  object-position: center;
 }
-	.board--img:hover {
-		cursor: pointer;
-	}
+
+.board--img:hover {
+  cursor: pointer;
+}
 
 .member--info {
-	color: white;
-	text-align: left;
-	margin-top:8px;
-	margin-left:12px;
+  color: white;
+  text-align: left;
+  margin-top: 8px;
+  margin-left: 12px;
 }
 
 .name {
-	font-size: 24px;
+  font-size: 24px;
   font-weight: 400;
   margin-bottom: 0px;
 }
 
 .title {
-	font-size: 18px;
+  font-size: 18px;
   font-weight: 300;
   margin-top: 0px;
 }
 
 .overlay {
- 	position: absolute;
- 	bottom: 0;
-  	background-color: rgba(0, 0, 0, 0.5);
-  	color: white;
-  	overflow: hidden;
-  	width: 100%;
-  	height: 0;
-  	transition: .5s ease;
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: 0.5s ease;
 }
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
