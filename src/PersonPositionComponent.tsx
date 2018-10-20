@@ -10,18 +10,26 @@ export class PersonPositionComponent extends React.Component<any> {
     );
     if (personPosition.picture) {
       return (
-        <div>
-          {personComp}
-          <p>{personPosition.positionTitle}</p>
+        <div className="board--member">
           <img src={personPosition.picture[0].url} width="200px" />
+          <div className="overlay">
+            <div className="member-info">
+              {personComp}
+              <p className="title">{personPosition.positionTitle}</p>
+            </div>
+          </div>
         </div>
       );
     } else {
       return (
-        <div>
-          {personComp}
-          <p>{personPosition.positionTitle}</p>
-          <p>No picture :(</p>
+        <div className="board--member">
+          <img src={"https://i.imgur.com/4qcFzdm.png"} width="200px" />
+          <div className="overlay">
+            <div className="member-info">
+              {personComp}
+              <p className="title">{personPosition.positionTitle}</p>
+            </div>
+          </div>
         </div>
       );
     }
