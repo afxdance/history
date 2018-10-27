@@ -33,6 +33,7 @@ export class PersonPositionComponent extends React.Component<any> {
             src={"https://i.imgur.com/4qcFzdm.png"}
             width="200px"
             height="200px"
+          
           />
           <div className="overlay">
             <div className="member-info">

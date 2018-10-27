@@ -3348,8 +3348,9 @@ a {
 }
 
 .icon {
-  margin: 80px 0 60px 0;
-  height: 380px;
+  height: auto;
+  width: 40%;;
+  opacity: 0.5;
 }
 
 .about {
@@ -3439,8 +3440,6 @@ strong {
   height: 34%;
 }
 
-
-
 .board--img {
   width: 200px;
   height: 200px;
@@ -3482,6 +3481,39 @@ strong {
   width: 100%;
   height: 0;
   transition: 0.5s ease;
+}
+
+.video-container {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  position: relative;
+}
+
+.video {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.video-overlay-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.video-overlay {
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*
