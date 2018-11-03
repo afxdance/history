@@ -3343,8 +3343,15 @@ a {
 }
 
 .main {
-  background-color: black;
+  background-color: white;
   text-align: center;
+  z-index: 2;
+  padding-bottom: 40px;
+}
+
+#root {
+  background-color: white;
+  z-index: 2;
 }
 
 .icon {
@@ -3355,57 +3362,70 @@ a {
 
 .about {
   text-align: left;
+  padding-top: 40px;
 }
 
 .about--text {
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   width: 60%;
-  color: white;
-  line-height: 28px;
-  font-size: 20px;
+  color: black;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 100;
   margin: auto;
 }
 
 strong {
-  font-size: 24px;
   font-weight: 400;
-  color: #ff4c4c;
+}
+
+.center-container {
+  position: relative;
 }
 
 .social-media {
   margin: auto;
   text-align: center;
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 
 .fa.fa-facebook {
-  font-size: 80px;
+  font-size: 40px;
   margin: 24px;
-  color: white;
+  color: black;
 }
 .fa.fa-facebook:hover {
   color: #3b5998;
 }
 
 .fa.fa-instagram {
-  font-size: 80px;
+  font-size: 40px;
   margin: 24px;
-  color: white;
+  color: black;
 }
 .fa.fa-instagram:hover {
   color: #cd486b;
 }
 
 .fa.fa-youtube-play {
-  font-size: 80px;
+  font-size: 40px;
   margin: 24px;
-  color: white;
+  color: black;
 }
 .fa.fa-youtube-play:hover {
   color: #ff0000;
 }
 
+.border {
+  width: 300px;
+  border: .5px solid gray;
+  margin: auto;
+}
+
 .board {
   text-align: center;
+  margin-bottom: 60px;
 }
 
 .board--title {
@@ -3414,8 +3434,6 @@ strong {
   font-weight: 300;
   color: black;
   text-align: center;
-  margin-top: 100px;
-  margin-bottom: 10px;
 }
 
 .board--subtitle {
@@ -3487,12 +3505,16 @@ strong {
   transition: 0.5s ease;
 }
 
+.vid-padding {
+  padding: 56.25%;
+}
+
 .video-container {
-  height: 100%;
   width: 100%;
   padding-bottom: 56.25%;
   overflow: hidden;
-  position: relative;
+  position: fixed;
+  z-index: -100;
 }
 
 .video {

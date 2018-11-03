@@ -15,7 +15,7 @@ export class GroupsComponent extends React.Component<any> {
     }
     return (
       <div className="board">
-        <h2 className="board--title">{group.name}</h2>
+        <div className="board--title">{group.name}</div>
         <div className="board--row">{ppComps}</div>
       </div>
     );
