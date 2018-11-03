@@ -3409,8 +3409,9 @@ strong {
 }
 
 .board--title {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 50px;
+  font-weight: 300;
   color: black;
   text-align: center;
   margin-top: 80px;
