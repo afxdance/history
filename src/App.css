@@ -3334,7 +3334,7 @@ body {
   margin: 0;
 }
 
-a {
+a, a:link {
   text-decoration: none;
 }
 
