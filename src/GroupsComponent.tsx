@@ -1,6 +1,7 @@
 import * as React from "react";
 import AFX from "./data";
 import { PersonPositionComponent } from "./PersonPositionComponent";
+import { HoverWrapperComponent } from "./HoverWrapperComponent";
 
 export class GroupsComponent extends React.Component<any> {
   public render() {

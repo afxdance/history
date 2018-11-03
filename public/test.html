@@ -1,0 +1,42 @@
+<style>
+  .HoverWrapper {
+    position: relative;
+  }
+
+  .HoverWrapper-content {
+    position: absolute;
+    z-index: 3000;
+    background-color: red;
+    color: white;
+    display: none;
+    left: 0%;
+    top: 100%;
+  }
+
+  .HoverWrapper-inline {
+    background: yellow;
+  }
+
+  .HoverWrapper:hover .HoverWrapper-content {
+    display: inline-block;
+  }
+
+  .icon {
+    background-color: black;
+    width: 20%;
+    height: 20%;
+  }
+</style>
+
+
+content contentcontentcontentcontentcontentcontentcontent contentcontentcontentcontentcontentcontentcontent
+<span class="HoverWrapper">
+  <span class="HoverWrapper-inline">
+    Inline Content
+  </span>
+
+  <span class="HoverWrapper-content">
+    Blah
+  </span>
+</span>
+content contentcontentcontentcontentcontentcontentcontent contentcontentcontentcontentcontentcontentcontent

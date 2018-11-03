@@ -3349,7 +3349,7 @@ a {
 
 .icon {
   height: auto;
-  width: 40%;;
+  width: 40%;
   opacity: 0.5;
 }
 
@@ -3516,6 +3516,33 @@ strong {
   align-items: center;
 }
 
+.HoverWrapper {
+  position: relative;
+}
+
+.HoverWrapper-content {
+  position: absolute;
+  z-index: 3000;
+  background-color: red;
+  color: white;
+  display: none;
+  left: 0%;
+  top: 100%;
+}
+
+.HoverWrapper-inline {
+  background: yellow;
+}
+
+.HoverWrapper:hover .HoverWrapper-content {
+  display: inline-block;
+}
+
+.icon {
+  background-color: black;
+  width: 20%;
+  height: 20%;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
