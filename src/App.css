@@ -3478,7 +3478,7 @@ strong {
 
 .overlay {
   position: absolute;
-  bottom: 0;
+  bottom: 5px;
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
   overflow: hidden;
