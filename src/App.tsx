@@ -11,6 +11,8 @@ class App extends React.Component {
       groups.push(<GroupsComponent group={AFX.Groups[key]} />);
     }
 
+    console.log("IMPACTS");
+
     return <div className="App">{groups}</div>;
   }
 }
