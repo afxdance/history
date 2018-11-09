@@ -3543,6 +3543,18 @@ strong {
   width: 20%;
   height: 20%;
 }
+
+.rowOfHover {
+  position: relative;
+}
+
+.pictureHover {
+  float: left;
+}
+
+/* .infoHover {
+  float: right;
+} */
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
