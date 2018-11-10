@@ -3422,7 +3422,7 @@ strong {
   font-family: "Open sans";
   background-color: #64b664;
 
-  /* width: 48%; */
+  /* width: 44%; */
 
   padding: 20px;
   margin: 4px 4px 0px 0px;
@@ -3431,7 +3431,7 @@ strong {
 }
 
 .team--single--summer {
-  font-family: "Open sans";
+  font-family: "Open Sans";
   background-color: #aabaff;
 
   /* width: 48%; */
@@ -3445,6 +3445,11 @@ strong {
 .team--name {
   margin: 12px;
 }
+
+.team--directors {
+  margin: 12px;
+}
+
 .team--img {
   width: 240px;
   /* TODO: Responsive */

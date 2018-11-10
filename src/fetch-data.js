@@ -4,7 +4,7 @@ let airtableAccount = new Airtable({ apiKey: "keyhVt6vNdkp7msYH" });
 let base = airtableAccount.base("app5gc254OPlaTFG2");
 
 async function main() {
-  for (let table of ["People", "Groups", "PersonPositions"]) {
+  for (let table of ["People", "Groups", "PersonPositions", "Semesters"]) {
     recordsById = {};
     // console.log(1);
     await base(table)

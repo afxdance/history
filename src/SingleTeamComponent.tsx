@@ -18,7 +18,6 @@ export class SingleTeamComponent extends React.Component<any> {
     if (team.teamSemesterId) {
       let semesterKey: string = team.teamSemesterId[0];
       let semesterStr: string = AFX.Semesters[semesterKey].codename;
-      console.log("SEMESTER " + semesterStr);
       return semesterStr[semesterStr.length - 1] == "b";
     } else {
       return false;
@@ -26,7 +25,21 @@ export class SingleTeamComponent extends React.Component<any> {
   }
   public render() {
     let team: AFX.Group = this.props.team;
-    team.teamSemesterId;
+    let directorsStr: string = "";
+
+    // Make teams string
+    if (team.positionIds) {
+      for (let directorIdx in team.positionIds) {
+        let directorKey = team.positionIds[directorIdx];
+        let dirPersonKey: string = AFX.PersonPositions[directorKey].person[0];
+        let directorPerson: AFX.Person = AFX.People[dirPersonKey];
+        console.dir("position " + directorPerson.name);
+        directorsStr += directorPerson.name;
+        if (parseInt(directorIdx) < team.positionIds.length - 1) {
+          directorsStr += ", ";
+        }
+      }
+    }
     // return <div className="name">TEAM</div>;
     // return <div>{team.name}</div>;
     if (team.teamPicture && team.videoUrl) {
@@ -45,6 +58,8 @@ export class SingleTeamComponent extends React.Component<any> {
             // height="200px"
             // color="#24ae24"
           />
+
+          <div className="team--directors">{directorsStr}</div>
 
           <div>
             <a href={team.videoUrl}>Watch {team.name} on YouTube!</a>
