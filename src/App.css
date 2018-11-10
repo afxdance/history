@@ -3356,7 +3356,7 @@ a, a:link {
 
 .icon {
   height: auto;
-  width: 40%;;
+  width: 40%;
   opacity: 0.5;
 }
 
@@ -3543,6 +3543,65 @@ strong {
   max-height: 100vh;
 }
 
+.HoverWrapper {
+  position: relative;
+}
+
+.HoverWrapper-content {
+  position: absolute;
+  z-index: 3000;
+  color: white;
+  display: none;
+  left: 0%;
+  top: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.HoverWrapper-content h1 {
+  color: white;
+}
+
+.HoverWrapper:hover .HoverWrapper-content {
+  display: inline-block;
+}
+
+.icon {
+  width: 20%;
+  height: 20%;
+}
+
+.rowOfHover {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.rowOfHover div {
+  margin: 10px;
+  min-width: 95px;
+}
+
+.infoPicHover {
+  width: 80px;
+  height: 80px;
+  position: relative;
+  object-position: center;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.infoHover {
+  display: flex;
+  /* flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+/* .infoHover {
+  float: right;
+} */
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.

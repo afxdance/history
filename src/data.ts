@@ -2019,32 +2019,6 @@ export namespace AFX {
         "recAlXOGF37p5Qrtk"
       ],
       "positionTitle": "Project Lead",
-      "picture": [
-        {
-          "id": "att3QWpyQgbSb2VeK",
-          "url": "https://dl.airtable.com/iNqq60uVTzuiwYqREjPK_15123044_10207861575520722_4534538643409813160_o.jpg",
-          "filename": "15123044_10207861575520722_4534538643409813160_o.jpg",
-          "size": 102233,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/iGIcVTDbRPS6nLuDifzo_small_15123044_10207861575520722_4534538643409813160_o.jpg",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/2EJhjfsR4eYxc1NO3FDg_large_15123044_10207861575520722_4534538643409813160_o.jpg",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/JiguceFaSNqE9J31hJXq_full_15123044_10207861575520722_4534538643409813160_o.jpg",
-              "width": 1367,
-              "height": 1367
-            }
-          }
-        }
-      ],
       "person": [
         "rec8Bd60VEzSli6cO"
       ],
