@@ -3523,15 +3523,15 @@ strong {
 .HoverWrapper-content {
   position: absolute;
   z-index: 3000;
-  background-color: red;
   color: white;
   display: none;
   left: 0%;
   top: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
-.HoverWrapper-inline {
-  background: yellow;
+.HoverWrapper-content h1 {
+  color: white;
 }
 
 .HoverWrapper:hover .HoverWrapper-content {
@@ -3539,17 +3539,37 @@ strong {
 }
 
 .icon {
-  background-color: black;
   width: 20%;
   height: 20%;
 }
 
 .rowOfHover {
   position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.pictureHover {
-  float: left;
+.rowOfHover div {
+  margin: 10px;
+  min-width: 95px;
+}
+
+.infoPicHover {
+  width: 80px;
+  height: 80px;
+  position: relative;
+  object-position: center;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.infoHover {
+  display: flex;
+  /* flex-direction: column;
+  justify-content: center;
+  align-items: center; */
 }
 
 /* .infoHover {

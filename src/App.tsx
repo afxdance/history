@@ -1,9 +1,7 @@
 import * as React from "react";
 import "./App.css";
 import AFX from "./data";
-import logo from "./logo.svg";
 import { GroupsComponent } from "./GroupsComponent";
-import { HoverWrapperComponent } from "./HoverWrapperComponent";
 
 class App extends React.Component {
   public render() {
@@ -13,14 +11,7 @@ class App extends React.Component {
       groups.push(<GroupsComponent group={AFX.Groups[key]} />);
     }
 
-    let test = <HoverWrapperComponent>wrapped content</HoverWrapperComponent>;
-
-    return (
-      <div className="App">
-        {test}
-        {groups}
-      </div>
-    );
+    return <div className="App">{groups}</div>;
   }
 }
 
