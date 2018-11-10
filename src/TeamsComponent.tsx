@@ -1,10 +1,20 @@
 import * as React from "react";
 
 import AFX from "./data";
+import { SingleTeamComponent } from "./SingleTeamComponent";
+
 export class TeamsComponent extends React.Component<any> {
   public render() {
-    let person: AFX.Person = this.props.person;
-    return <div className="name">{person.name}</div>;
+    let teamIds: string[] = this.props.teamIds;
+    // return <div className="name">{group.name}</div>;
+    console.log(teamIds);
+    let teamComponents: any = [];
+    for (let team in teamIds) {
+      let teamKey: string = teamIds[team];
+      // console.log("pushing " + teamKey);
+      teamComponents.push(<SingleTeamComponent team={AFX.Groups[teamKey]} />);
+    }
+    return <div>{teamComponents}</div>;
   }
 }
 
@@ -31,4 +41,3 @@ export class TeamsComponent extends React.Component<any> {
 //     );
 //   }
 // }
-

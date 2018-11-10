@@ -809,14 +809,9 @@ caption {
 }
 
 header {
-
-  position:fixed;
+  position: fixed;
   z-index: 10000;
-
-
-
 }
-
 
 /* line 16, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_header.scss */
 #header h1 {
@@ -3450,8 +3445,6 @@ strong {
   height: 34%;
 }
 
-
-
 .board--img {
   width: 200px;
   height: 200px;
@@ -3459,6 +3452,7 @@ strong {
   top: 50%;
   object-fit: cover;
   object-position: center;
+  border-radius: 50%;
 }
 
 .board--img:hover {

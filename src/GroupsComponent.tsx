@@ -5,6 +5,7 @@ import { PersonPositionComponent } from "./PersonPositionComponent";
 export class GroupsComponent extends React.Component<any> {
   public render() {
     let group: AFX.Group = this.props.group;
+    // console.log(group);
     //ppComps = personPositionComponents
     let ppComps: any = [];
     if (group.type == "board") {
