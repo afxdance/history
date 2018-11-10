@@ -2,6 +2,17 @@ import * as React from "react";
 
 import AFX from "./data";
 
+/*
+TODO:
+- implement director titles
+- decide where the program should note the difference between summer and fall teams
+- figure out how to organize the information within each box
+- how many boxes on each line
+- better flex box styling
+- better optimization of images loaded -- slow scrolling
+
+*/
+
 export class SingleTeamComponent extends React.Component<any> {
   private isSummerTeam(team: AFX.Group) {
     if (team.teamSemesterId) {

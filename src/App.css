@@ -3432,7 +3432,7 @@ strong {
 
 .team--single--summer {
   font-family: "Open sans";
-  background-color: #AABAff;
+  background-color: #aabaff;
 
   /* width: 48%; */
 
@@ -3449,10 +3449,10 @@ strong {
   width: 240px;
   /* TODO: Responsive */
   margin: 16px;
-  filter: drop-shadow(8px 8px 0px #333333);
+  /* filter: drop-shadow(8px 8px 0px #333333); */
   opacity: 0.9;
-  display: flex;
-  justify-content: flex-end;
+  /* display: flex;
+  justify-content: flex-end; */
 }
 
 .board {
