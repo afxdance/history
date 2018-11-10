@@ -3409,12 +3409,59 @@ strong {
   color: #ff0000;
 }
 
+.teams {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #008000;
+  /* padding-bottom: 20px; */
+}
+
+.team--single {
+  font-family: "Open sans";
+  background-color: #64b664;
+
+  /* width: 48%; */
+
+  padding: 20px;
+  margin: 4px 4px 0px 0px;
+  flex: 1;
+  /* flex */
+}
+
+.team--single--summer {
+  font-family: "Open sans";
+  background-color: #AABAff;
+
+  /* width: 48%; */
+
+  padding: 20px;
+  margin: 4px 4px 0px 0px;
+  flex: 1;
+  /* flex */
+}
+
+.team--name {
+  margin: 12px;
+}
+.team--img {
+  width: 240px;
+  /* TODO: Responsive */
+  margin: 16px;
+  filter: drop-shadow(8px 8px 0px #333333);
+  opacity: 0.9;
+  display: flex;
+  justify-content: flex-end;
+}
+
 .board {
   text-align: center;
 }
 
 .board--title {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  /* font-family: "Comic Sans MS", cursive, sans-serif; */
+  font-family: "Open Sans";
   font-size: 50px;
   color: black;
   text-align: center;
@@ -3437,7 +3484,7 @@ strong {
 .board--member {
   font-family: Alegreya Sans SC;
   position: relative;
-  width: 200px;
+  width: 172px;
   display: inline-block;
   margin: 24px;
 }
@@ -3446,8 +3493,8 @@ strong {
 }
 
 .board--img {
-  width: 200px;
-  height: 200px;
+  width: 172px;
+  height: 172px;
   left: 50%;
   top: 50%;
   object-fit: cover;

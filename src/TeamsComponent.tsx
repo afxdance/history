@@ -14,7 +14,7 @@ export class TeamsComponent extends React.Component<any> {
       // console.log("pushing " + teamKey);
       teamComponents.push(<SingleTeamComponent team={AFX.Groups[teamKey]} />);
     }
-    return <div>{teamComponents}</div>;
+    return <div className="teams">{teamComponents}</div>;
   }
 }
 
