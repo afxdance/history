@@ -13,7 +13,7 @@ export class PersonPositionComponent extends React.Component<any> {
         <div className="board--member">
           <img
             className="board--img"
-            src={personPosition.picture[0].url}
+            src={personPosition.picture[0].thumbnails.large.url}
             width="200px"
             height="200px"
           />
