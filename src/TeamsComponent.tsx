@@ -1,8 +1,7 @@
 import * as React from "react";
-
-import AFX from "./data";
+import * as Data from "src/data/data";
+import { DisplayUtility } from "./DisplayUtility";
 import { SingleTeamComponent } from "./SingleTeamComponent";
-import { DisplayUtility } from './DisplayUtility';
 
 //
 export class TeamsComponent extends React.Component<any> {
@@ -12,13 +11,13 @@ export class TeamsComponent extends React.Component<any> {
     let teamComponents: any = [];
     for (let team in teamIds) {
       let teamKey: string = teamIds[team];
-      teamComponents.push(<SingleTeamComponent team={AFX.Groups[teamKey]} />);
+      teamComponents.push(<SingleTeamComponent team={Data.Groups[teamKey]} />);
     }
 
     // Provide a date to label this group if teams for this semester
     let dateStr: string = "";
     if (teamIds.length > 0) {
-      dateStr = DisplayUtility.getSemesterString(AFX.Groups[teamIds[0]]);
+      dateStr = DisplayUtility.getSemesterString(Data.Groups[teamIds[0]]);
     }
     return (
       <div>

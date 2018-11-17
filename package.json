@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "airtable": "^0.5.7",
+    "gh-pages": "^2.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts-ts": "3.1.0"
@@ -12,6 +13,8 @@
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {

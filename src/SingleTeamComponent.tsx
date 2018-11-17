@@ -1,6 +1,6 @@
 import * as React from "react";
-
-import AFX from "./data";
+import * as Data from "src/data/data";
+import { Group, Person } from "src/data/types";
 
 /*
 TODO:
@@ -15,25 +15,25 @@ TODO:
 */
 
 export class SingleTeamComponent extends React.Component<any> {
-  private isSummerTeam(team: AFX.Group) {
+  private isSummerTeam(team: Group) {
     if (team.teamSemesterId) {
       let semesterKey: string = team.teamSemesterId[0];
-      let semesterStr: string = AFX.Semesters[semesterKey].codename;
-      return semesterStr[semesterStr.length - 1] == "b";
+      let semesterStr: string = Data.Semesters[semesterKey].codename;
+      return semesterStr[semesterStr.length - 1] === "b";
     } else {
       return false;
     }
   }
   public render() {
-    let team: AFX.Group = this.props.team;
+    let team: Group = this.props.team;
     let directorsStr: string = "";
 
     // Make teams string
     if (team.positionIds) {
       for (let directorIdx in team.positionIds) {
         let directorKey = team.positionIds[directorIdx];
-        let dirPersonKey: string = AFX.PersonPositions[directorKey].person[0];
-        let directorPerson: AFX.Person = AFX.People[dirPersonKey];
+        let dirPersonKey: string = Data.PersonPositions[directorKey].person[0];
+        let directorPerson: Person = Data.People[dirPersonKey];
         console.dir("position " + directorPerson.name);
         directorsStr += directorPerson.name;
         if (parseInt(directorIdx) < team.positionIds.length - 1) {
@@ -55,9 +55,9 @@ export class SingleTeamComponent extends React.Component<any> {
           <img
             className="team--img"
             src={team.teamPicture[0].url}
-          // width="200px"
-          // height="200px"
-          // color="#24ae24"
+            // width="200px"
+            // height="200px"
+            // color="#24ae24"
           />
 
           <div className="team--directors">{directorsStr}</div>
