@@ -4,7 +4,8 @@ import AFX from "./data";
 
 /*
 TODO:
-- implement director titles
++ implement director titles
+
 - decide where the program should note the difference between summer and fall teams
 - figure out how to organize the information within each box
 - how many boxes on each line
@@ -54,9 +55,9 @@ export class SingleTeamComponent extends React.Component<any> {
           <img
             className="team--img"
             src={team.teamPicture[0].url}
-            // width="200px"
-            // height="200px"
-            // color="#24ae24"
+          // width="200px"
+          // height="200px"
+          // color="#24ae24"
           />
 
           <div className="team--directors">{directorsStr}</div>

@@ -3454,11 +3454,21 @@ strong {
   width: 240px;
   /* TODO: Responsive */
   margin: 16px;
-  /* filter: drop-shadow(8px 8px 0px #333333); */
+  filter: drop-shadow(8px 8px 0px #333333);
   opacity: 0.9;
   /* display: flex;
   justify-content: flex-end; */
 }
+.semester--title{
+  font-family: "Open Sans";
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin-top: 80px;
+}
+
+
+
 
 .board {
   text-align: center;

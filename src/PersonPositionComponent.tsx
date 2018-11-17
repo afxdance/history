@@ -17,11 +17,16 @@ export class PersonPositionComponent extends React.Component<any> {
             width="200px"
             height="200px"
           />
-          <div className="overlay">
+          {/* <div className="overlay">
             <div className="member-info">
               {personComp}
               <p className="title">{personPosition.positionTitle}</p>
             </div>
+          </div> */}
+
+          <div className="member-info">
+            {personComp}
+            <p className="title">{personPosition.positionTitle}</p>
           </div>
         </div>
       );
