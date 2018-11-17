@@ -1,6 +1,9 @@
+// How to run this file:
+// env AIRTABLE_API_KEY=YOUR_KEY_HERE node src/data/fetch-data.js > src/data/data.tsx
+// See the README in this folder for more info!
 let Airtable = require("airtable");
 
-let airtableAccount = new Airtable({ apiKey: "keyhVt6vNdkp7msYH" });
+let airtableAccount = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY });
 let base = airtableAccount.base("app5gc254OPlaTFG2");
 
 async function main() {
@@ -18,8 +21,8 @@ async function main() {
 
           // Flatten JSON -- fields don't need to be in their own object.
           let record = {
-            id: json.id,
             createdTime: json.createdTime,
+            id: json.id,
             ...json.fields,
           };
           recordsById[record.id] = record;
@@ -33,7 +36,8 @@ async function main() {
 
     // console.log(3);
     let theObjectAsAString = JSON.stringify(recordsById, undefined, 2);
-    console.log(`${table} = ${theObjectAsAString}`);
+    // eslint-disable-next-line
+    console.log(`export let ${table} = ${theObjectAsAString}\n`);
   }
 }
 

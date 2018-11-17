@@ -2,7 +2,6 @@
   "name": "history",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
   "dependencies": {
     "airtable": "^0.5.7",
     "gh-pages": "^2.0.1",

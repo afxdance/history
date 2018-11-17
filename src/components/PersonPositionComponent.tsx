@@ -1,12 +1,12 @@
 import * as React from "react";
-import AFX from "./data";
-import { PersonComponent } from "./PersonComponent";
-import { HoverWrapperComponent } from "./HoverWrapperComponent";
+import { PersonComponent } from "src/components/PersonComponent";
+import * as AFX from "src/data/data";
+import { PersonPosition } from "src/data/types";
 
 export class PersonPositionComponent extends React.Component<any> {
   public render() {
-    let personPosition: AFX.PersonPosition = this.props.personPosition;
-    let personComp = (
+    const personPosition: PersonPosition = this.props.personPosition;
+    const personComp = (
       <PersonComponent person={AFX.People[personPosition.person[0]]} />
     );
 
@@ -53,13 +53,12 @@ export class PersonPositionComponent extends React.Component<any> {
             src={"https://i.imgur.com/4qcFzdm.png"}
             width="200px"
             height="200px"
-          
           />
           <div className="overlay">
             <div className="member-info">
               {personComp}
               <p className="title">{personPosition.positionTitle}</p>
-            </div>  
+            </div>
           </div>
         </div>
         /*

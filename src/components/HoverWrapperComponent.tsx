@@ -1,13 +1,12 @@
 import * as React from "react";
-import AFX from "./data";
-import { PersonPositionComponent } from "./PersonPositionComponent";
-import { PersonComponent } from "./PersonComponent";
+import * as AFX from "src/data/data";
+import { PersonPosition } from "src/data/types";
 
 interface HoverWrapperComponentProp {
-  pp: AFX.PersonPosition;
+  pp: PersonPosition;
 }
 
-//prop = personposition
+// prop = personposition
 export class HoverWrapperComponent extends React.Component<
   HoverWrapperComponentProp
 > {
@@ -23,37 +22,37 @@ export class HoverWrapperComponent extends React.Component<
     //   <PersonComponent person={AFX.People[personPosition.person[0]]} />
     // );
 
-    let ret = [];
+    const ret = [];
     // let id = "recZFzCcA5n9Tuyij";
     // let stooph = AFX.PersonPositions[id];
-    let pp: AFX.PersonPosition = this.props.pp;
+    const pp: PersonPosition = this.props.pp;
     // if (this.props.pp == null) {
     //   console.log("NEED NULL CHECK");
     // }
-    let personID = pp.person[0];
+    const personID = pp.person[0];
 
-    let person = AFX.People[personID];
+    const person = AFX.People[personID];
 
-    let len = person.positionIds.length;
+    const len = person.positionIds.length;
 
     for (let i = len - 1; i >= 0; i--) {
-      //Get each personPosition from the person's position IDs
-      let posID = person.positionIds[i];
-      let personPos = AFX.PersonPositions[posID];
+      // Get each personPosition from the person's position IDs
+      const posID = person.positionIds[i];
+      const personPos = AFX.PersonPositions[posID];
 
-      //picture
+      // picture
       let pic_url = "afx2.png";
       if (personPos.picture) {
         pic_url = personPos.picture[0].url;
       }
 
-      //group name
-      let groupID = personPos.group[0];
-      let group_name = AFX.Groups[groupID].name;
+      // group name
+      const groupID = personPos.group[0];
+      const group_name = AFX.Groups[groupID].name;
 
       let semester = "TEMP";
 
-      //string slicing
+      // string slicing
       if (group_name.includes("AFX Board")) {
         semester = group_name.slice(10, group_name.length);
       } else if (group_name.includes("AFX Tech")) {
@@ -62,8 +61,8 @@ export class HoverWrapperComponent extends React.Component<
         semester = group_name.slice(13, group_name.length);
       }
 
-      //position titles
-      let pos_title = personPos.positionTitle;
+      // position titles
+      const pos_title = personPos.positionTitle;
 
       ret.push(
         <div className="rowOfHover">
