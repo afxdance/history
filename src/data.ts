@@ -11213,14 +11213,14 @@ export namespace AFX {
     }
   }
   Semesters = {
-    "rec1E4dkGYXVTL2nr": {
-      "id": "rec1E4dkGYXVTL2nr",
-      "createdTime": "2018-11-03T19:20:13.000Z",
-      "codename": "2018t",
-      "boardGroupId": [
-        "recAlXOGF37p5Qrtk"
-      ]
-    },
+    // "rec1E4dkGYXVTL2nr": {
+    //   "id": "rec1E4dkGYXVTL2nr",
+    //   "createdTime": "2018-11-03T19:20:13.000Z",
+    //   "codename": "2018t",
+    //   "boardGroupId": [
+    //     "recAlXOGF37p5Qrtk"
+    //   ]
+    // },
     "recJ4hDACtEzrRW8f": {
       "id": "recJ4hDACtEzrRW8f",
       "createdTime": "2018-11-03T19:19:26.000Z",
