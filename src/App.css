@@ -3363,14 +3363,15 @@ a {
 }
 
 .about--text {
-  font-family: Lato;
+  font-family: Lato,sans-serif;
   width: 60%;
-  color: white;
-  line-height: 28px;
-  font-size: 20px;
+  color: #000;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 100;
+  color: #ffffff;
   margin: auto;
 }
-
 strong {
   font-size: 24px;
   font-weight: 400;
@@ -3460,11 +3461,12 @@ strong {
   justify-content: flex-end; */
 }
 .semester--title{
-  font-family: "Open Sans";
-  font-size: 50px;
+  font-family: Lato, sans-serif;
+  font-size: 52px;
+  font-weight: 600;
   color: black;
   text-align: center;
-  margin-top: 80px;
+  /* margin-top: 80px; */
 }
 
 
@@ -3474,13 +3476,13 @@ strong {
   text-align: center;
 }
 
-.board--title {
+.board-team--title {
   /* font-family: "Comic Sans MS", cursive, sans-serif; */
-  font-family: "Open Sans";
-  font-size: 50px;
-  color: black;
+  font-family: Lato, sans-serif;
+  font-size: 42px;
+  color: #333333;
   text-align: center;
-  margin-top: 80px;
+  /* margin-top: 80px; */
 }
 
 .board--subtitle {
