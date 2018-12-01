@@ -3,12 +3,16 @@ import { PersonComponent } from "src/components/PersonComponent";
 import * as AFX from "src/data/data";
 import { PersonPosition } from "src/data/types";
 
+// Displays a single member of board, including their picture, and a PersonComponent
 export class PersonPositionComponent extends React.Component<any> {
   public render() {
     let personPosition: PersonPosition = this.props.personPosition;
     let personComp = (
       <PersonComponent person={AFX.People[personPosition.person[0]]} />
     );
+
+    // TODO: convert to ternary ? operators :
+
     if (personPosition.picture) {
       return (
         <div className="board--member">
@@ -18,12 +22,6 @@ export class PersonPositionComponent extends React.Component<any> {
             width="200px"
             height="200px"
           />
-          {/* <div className="overlay">
-            <div className="member-info">
-              {personComp}
-              <p className="title">{personPosition.positionTitle}</p>
-            </div>
-          </div> */}
 
           <div className="member-info">
             {personComp}

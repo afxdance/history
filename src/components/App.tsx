@@ -1,8 +1,8 @@
 import * as React from "react";
 import { GroupsComponent } from "src/components/GroupsComponent";
 import * as AFX from "src/data/data";
-import { Semester } from 'src/data/types';
-import { TeamsComponent } from 'src/TeamsComponent';
+import { Semester } from "src/data/types";
+import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
 
 export class App extends React.Component {

@@ -4,8 +4,7 @@ import { Group } from "src/data/types";
 export class DisplayUtility {
   // Given an AFX Group (team, board), return a string corresponding to that group's semester of activity
   public static getSemesterString(group: Group) {
-    console.log("yah yah yeet");
-    console.log(group);
+    // Interpet board and team strings differently
     if (group.boardSemesterId) {
       let semKey: string = group.boardSemesterId[0];
       let semStr: string = Data.Semesters[semKey].codename;
@@ -24,6 +23,8 @@ export class DisplayUtility {
       let sumSemStr: string = Data.Semesters[sumSemKey].codename;
       let sumYearStr: string = sumSemStr.substring(0, 4);
       let sumLastChar: string = sumSemStr[sumSemStr.length - 1];
+
+      // We only need the seemester label if these are summer teams
       if (sumLastChar === "b") {
         return "Summer " + sumYearStr;
       } else {

@@ -7,7 +7,6 @@ How to start the app
 1. `npm start`
 2. Go to <http://localhost:3000/> in your web browser, if it doesn't take you there automatically.
 
-
 ## Deploying
 
 How to deploy to <https://afx.dance/>.

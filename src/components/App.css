@@ -3340,7 +3340,8 @@ body {
   margin: 0;
 }
 
-a, a:link {
+a,
+a:link {
   text-decoration: none;
 }
 
@@ -3428,7 +3429,9 @@ strong {
   flex-wrap: wrap;
   justify-content: space-evenly;
   background-color: #000000;
-  /* padding-bottom: 20px; */
+
+  padding-bottom: 6px;
+  margin-bottom: 48px;
 }
 
 .team--single {
@@ -3436,66 +3439,53 @@ strong {
   background-color: #333333;
   color: #ffffff;
 
-  /* width: 44%; */
-
   padding: 20px;
-  margin: 4px 4px 0px 0px;
-  flex: 1;
-  /* flex */
-}
-
-.team--single--summer {
-  font-family: "Open Sans";
-  /* background-color: #aabaff; */
-  background-color: #333333;
-  color: #ffffff;
-
-  /* width: 48%; */
-
-  padding: 20px;
-  margin: 4px 4px 0px 0px;
+  margin: 5px 5px 0px 0px;
   flex: 1;
   /* flex */
 }
 
 .team--name {
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  text-align: center;
+
   margin: 12px;
 }
 
 .team--directors {
   margin: 12px;
+  font-size: 11px;
+  color: #dddddd;
 }
 
 .team--img {
   width: 240px;
-  /* TODO: Responsive */
   margin: 16px;
-  filter: drop-shadow(8px 8px 0px #111111);
+  filter: drop-shadow(4px 4px 0px #111111);
   opacity: 0.9;
   /* display: flex;
   justify-content: flex-end; */
 }
-.semester--title{
+
+.semester--title {
   font-family: Lato, sans-serif;
   font-size: 42px;
   font-weight: 600;
   color: black;
   text-align: center;
-  margin-top: 48px;
 }
-
-
-
 
 .border {
   width: 300px;
-  border: .5px solid gray;
+  border: 0.5px solid gray;
   margin: auto;
 }
 
 .board {
   text-align: center;
-  margin-bottom: 60px;
+  /* margin-bottom: 60px; */
 }
 
 .board-team--title {
@@ -3504,7 +3494,9 @@ strong {
   font-size: 32px;
   color: #333333;
   text-align: center;
-  /* margin-top: 80px; */
+
+  margin-top: 16px;
+  margin-bottom: 16px;
 }
 
 .board--subtitle {
@@ -3549,7 +3541,7 @@ strong {
   font-family: Lato, sans-serif;
   font-size: 8px;
   color: black;
-  text-align: left;
+  text-align: center;
   margin-top: 8px;
   margin-left: 12px;
 }
