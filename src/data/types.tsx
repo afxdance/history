@@ -25,8 +25,13 @@ export interface Group {
   createdTime: string;
 
   // Custom columns
+  type: string;
   name: string;
-  positionIds: string[];
+  positionIds?: string[]; // only for board
+  teamPicture?: Attachment[]; // only for teams
+  videoUrl?: string; // only for teams
+  boardSemesterId?: string[]; // todo: should not be array?
+  teamSemesterId?: string[]; // todo: should not be array?
 }
 // export let Groups: { [x: string]: Group };
 
@@ -43,3 +48,11 @@ export interface PersonPosition {
   [x: string]: any;
 }
 // export let PersonPositions: { [x: string]: PersonPosition };
+
+export interface Semester {
+  id: string;
+  createdTime: string;
+  codename: string;
+  boardGroupId?: string[]; // todo: should not be array?
+  teamGroupIds?: string[];
+}

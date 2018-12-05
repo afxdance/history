@@ -3,12 +3,15 @@ import { PersonComponent } from "src/components/PersonComponent";
 import * as AFX from "src/data/data";
 import { PersonPosition } from "src/data/types";
 
+// Displays a single member of board, including their picture, and a PersonComponent
 export class PersonPositionComponent extends React.Component<any> {
   public render() {
-    const personPosition: PersonPosition = this.props.personPosition;
-    const personComp = (
+    let personPosition: PersonPosition = this.props.personPosition;
+    let personComp = (
       <PersonComponent person={AFX.People[personPosition.person[0]]} />
     );
+
+    // TODO: convert to ternary ? operators :
 
     if (personPosition.picture) {
       return (
@@ -19,31 +22,12 @@ export class PersonPositionComponent extends React.Component<any> {
             width="200px"
             height="200px"
           />
-          <div className="overlay">
-            <div className="member-info">
-              {personComp}
-              <p className="title">{personPosition.positionTitle}</p>
-            </div>
+
+          <div className="member-info">
+            {personComp}
+            <p className="title">{personPosition.positionTitle}</p>
           </div>
         </div>
-        /*
-        <HoverWrapperComponent pp={personPosition}>
-          <div className="board--member">
-            <img
-              className="board--img"
-              src={personPosition.picture[0].url}
-              width="200px"
-              height="200px"
-            />
-            <div className="overlay">
-              <div className="member-info">
-                {personComp}
-                <p className="title">{personPosition.positionTitle}</p>
-              </div>
-            </div>
-          </div>
-        </HoverWrapperComponent>
-        */
       );
     } else {
       return (
@@ -61,24 +45,6 @@ export class PersonPositionComponent extends React.Component<any> {
             </div>
           </div>
         </div>
-        /*
-        <HoverWrapperComponent pp={personPosition}>
-          <div className="board--member">
-            <img
-              className="board--img"
-              src={"https://i.imgur.com/4qcFzdm.png"}
-              width="200px"
-              height="200px"
-            />
-            <div className="overlay">
-              <div className="member-info">
-                {personComp}
-                <p className="title">{personPosition.positionTitle}</p>
-              </div>
-            </div>
-          </div>
-        </HoverWrapperComponent>
-        */
       );
     }
   }
