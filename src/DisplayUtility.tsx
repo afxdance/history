@@ -3,6 +3,7 @@ import { Group } from "src/data/types";
 
 export class DisplayUtility {
   // Given an AFX Group (team, board), return a string corresponding to that group's semester of activity
+  // eg. "2014a" --> Spring 2014
   public static getSemesterString(group: Group) {
     // Interpet board and team strings differently
     if (group.boardSemesterId) {

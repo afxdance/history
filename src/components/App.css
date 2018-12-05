@@ -3430,7 +3430,7 @@ strong {
   justify-content: space-evenly;
   background-color: #000000;
 
-  padding-bottom: 6px;
+  padding-bottom: 32px;
   margin-bottom: 48px;
 }
 
@@ -3442,7 +3442,6 @@ strong {
   padding: 20px;
   margin: 5px 5px 0px 0px;
   flex: 1;
-  /* flex */
 }
 
 .team--name {
@@ -3467,6 +3466,16 @@ strong {
   opacity: 0.9;
   /* display: flex;
   justify-content: flex-end; */
+}
+
+#team--triangle {
+  width: 0;
+  height: 0;
+  border-bottom: 100px solid red;
+  border-left: 100px solid transparent;
+  position: relative;
+  bottom: 0px;
+  right: 0px;
 }
 
 .semester--title {

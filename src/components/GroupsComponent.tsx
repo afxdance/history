@@ -9,7 +9,6 @@ export class GroupsComponent extends React.Component<any> {
   public render() {
     let group: Group = this.props.group;
     let ppComps: any = [];
-    // if (group.type === "board") {
     if (group.positionIds) {
       for (let idx in group.positionIds) {
         let id: string = group.positionIds[idx];
@@ -29,6 +28,5 @@ export class GroupsComponent extends React.Component<any> {
         <div className="board--row">{ppComps}</div>
       </div>
     );
-    // }
   }
 }
