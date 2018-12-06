@@ -3431,8 +3431,6 @@ strong {
 
   padding-bottom: 16px;
   margin-bottom: 48px;
-
-
 }
 
 .team--single {
@@ -3443,13 +3441,13 @@ strong {
   margin: 5px 5px 0px 0px;
   flex: 1;
 
-  clip-path: polygon(0% 0%, 0% 100%, 85% 100%, 100% 94%, 100% 0%);
+  /* clip-path: polygon(0% 0%, 0% 100%, 85% 100%, 100% 94%, 100% 0%); */
 
   border-color: #3b5998;
   border-style: solid;
   border-bottom-width: 0px;
   border-top-width: 0px;
-  border-right-width: 6px;
+  border-right-width: 2px;
   border-left-width: 0px;
 }
 
