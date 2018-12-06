@@ -1,3 +1,4 @@
+import { HoverWrapperComponent } from "src/components/HoverWrapperComponent";
 import * as React from "react";
 import { PersonComponent } from "src/components/PersonComponent";
 import * as AFX from "src/data/data";
@@ -15,36 +16,40 @@ export class PersonPositionComponent extends React.Component<any> {
 
     if (personPosition.picture) {
       return (
-        <div className="board--member">
-          <img
-            className="board--img"
-            src={personPosition.picture[0].thumbnails.large.url}
-            width="200px"
-            height="200px"
-          />
+        <HoverWrapperComponent pp={personPosition}>
+          <div className="board--member">
+            <img
+              className="board--img"
+              src={personPosition.picture[0].thumbnails.large.url}
+              width="200px"
+              height="200px"
+            />
 
-          <div className="member-info">
-            {personComp}
-            <p className="title">{personPosition.positionTitle}</p>
-          </div>
-        </div>
-      );
-    } else {
-      return (
-        <div className="board--member">
-          <img
-            className="board--img"
-            src={"https://i.imgur.com/4qcFzdm.png"}
-            width="200px"
-            height="200px"
-          />
-          <div className="overlay">
             <div className="member-info">
               {personComp}
               <p className="title">{personPosition.positionTitle}</p>
             </div>
           </div>
-        </div>
+        </HoverWrapperComponent>
+      );
+    } else {
+      return (
+        <HoverWrapperComponent pp={personPosition}>
+          <div className="board--member">
+            <img
+              className="board--img"
+              src={"https://i.imgur.com/4qcFzdm.png"}
+              width="200px"
+              height="200px"
+            />
+            <div className="overlay">
+              <div className="member-info">
+                {personComp}
+                <p className="title">{personPosition.positionTitle}</p>
+              </div>
+            </div>
+          </div>
+        </HoverWrapperComponent>
       );
     }
   }
