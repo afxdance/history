@@ -6,10 +6,40 @@ interface HoverWrapperComponentProp {
   pp: PersonPosition;
 }
 
+interface HoverWrapperComponentState {
+  newAdjustedLeft: number | undefined;
+}
+
 // prop = personposition
 export class HoverWrapperComponent extends React.Component<
-  HoverWrapperComponentProp
+  HoverWrapperComponentProp,
+  HoverWrapperComponentState
 > {
+  state = {
+    newAdjustedLeft: undefined,
+  };
+
+  public readjust = () => {
+    console.log("readjust");
+
+    var elem = this.refs.HoverRef as Element;
+    if (!elem) return;
+
+    this.setState(
+      {
+        newAdjustedLeft: undefined,
+      },
+      () => {
+        var position = elem.getBoundingClientRect();
+        if (position.right > window.innerWidth) {
+          this.setState({
+            newAdjustedLeft: window.innerWidth - position.right,
+          });
+        }
+      }
+    );
+  };
+
   public render() {
     // Takes in person position component
     // <div hover over thing>
@@ -39,45 +69,43 @@ export class HoverWrapperComponent extends React.Component<
       const personPos = AFX.PersonPositions[posID];
 
       // picture
-      let pic_url = "afx2.png";
+      let picUrl = "afx2.png";
       if (personPos.picture) {
-        pic_url = personPos.picture[0].url;
+        picUrl = personPos.picture[0].url;
       }
 
       // group name
       const groupID = personPos.group[0];
-      const group_name = AFX.Groups[groupID].name;
+      const groupName = AFX.Groups[groupID].name;
 
       let semester = "TEMP";
 
       // string slicing
-      if (group_name.includes("AFX Board")) {
-        semester = group_name.slice(10, group_name.length);
-      } else if (group_name.includes("AFX Tech")) {
-        semester = group_name.slice(9, group_name.length);
-      } else {
-        semester = group_name.slice(13, group_name.length);
-      }
+      semester = groupName.replace("AFX Board ", "").replace("AFX Tech ", "");
 
       // position titles
-      const pos_title = personPos.positionTitle;
+      const posTitle = personPos.positionTitle;
 
       ret.push(
         <div className="rowOfHover">
           <div className="pictureHover">
-            <img className="infoPicHover" src={pic_url} />
+            <img className="infoPicHover" src={picUrl} />
           </div>
           <div className="infoHover">{semester}</div>
-          <div className="infoHover">{pos_title}</div>
+          <div className="infoHover">{posTitle}</div>
         </div>
       );
     }
 
     return (
-      <span className="HoverWrapper">
+      <span className="HoverWrapper" onMouseEnter={this.readjust}>
         <span className="HoverWrapper-inline">{this.props.children}</span>
-        <span className="HoverWrapper-content">
-          <h1>{person.name}</h1>
+        <span
+          className="HoverWrapper-content"
+          ref="HoverRef"
+          style={{ left: this.state.newAdjustedLeft }}
+        >
+          <h3>{person.name}</h3>
           {ret}
         </span>
       </span>

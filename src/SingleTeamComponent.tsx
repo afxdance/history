@@ -29,7 +29,10 @@ export class SingleTeamComponent extends React.Component<any> {
         <div className="team--name">{team.name}</div>
 
         {team.teamPicture ? (
-          <img className="team--img" src={team.teamPicture[0].url} />
+          <img
+            className="team--img"
+            src={team.teamPicture[0].thumbnails.large.url}
+          />
         ) : (
           undefined
         )}
