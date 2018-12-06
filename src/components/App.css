@@ -3330,7 +3330,7 @@ body.logged_out #login a {
 
 /* line 35, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_base.scss */
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Lato, sans-serif;
   line-height: 1.5;
   font-size: 72%;
   background: #fff;
@@ -3373,7 +3373,6 @@ a:link {
 }
 
 .about--text {
-  font-family: "Lato", sans-serif;
   width: 60%;
   color: black;
   line-height: 25px;
@@ -3435,7 +3434,6 @@ strong {
 }
 
 .team--single {
-  font-family: "Open sans";
   background-color: #333333;
   color: #ffffff;
 
@@ -3446,7 +3444,6 @@ strong {
 }
 
 .team--name {
-  font-family: Lato, sans-serif;
   font-size: 16px;
   color: #ffffff;
   text-align: center;
@@ -3470,7 +3467,6 @@ strong {
 }
 
 .semester--title {
-  font-family: Lato, sans-serif;
   font-size: 42px;
   font-weight: 600;
   color: black;
@@ -3490,7 +3486,6 @@ strong {
 
 .board-team--title {
   /* font-family: "Comic Sans MS", cursive, sans-serif; */
-  font-family: Lato, sans-serif;
   font-size: 32px;
   color: #333333;
   text-align: center;
@@ -3500,7 +3495,6 @@ strong {
 }
 
 .board--subtitle {
-  font-family: Alegreya Sans SC;
   font-size: 18px;
   color: black;
   text-align: center;
@@ -3513,7 +3507,6 @@ strong {
 }
 
 .board--member {
-  font-family: Alegreya Sans SC;
   position: relative;
   width: 172px;
   display: inline-block;
@@ -3538,7 +3531,6 @@ strong {
 }
 
 .member-info {
-  font-family: Lato, sans-serif;
   font-size: 8px;
   color: black;
   text-align: center;
@@ -3553,7 +3545,6 @@ strong {
 }
 
 .title {
-  font-family: "Lato", sans-serif;
   font-size: 13px;
   font-weight: 300;
   margin-top: 0px;
