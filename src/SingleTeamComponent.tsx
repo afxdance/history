@@ -1,24 +1,30 @@
 import * as React from "react";
 import * as Data from "src/data/data";
 import { Group, Person } from "src/data/types";
+import { HoverWrapperComponent } from "src/components/HoverWrapperComponent";
 
 // One box in the grid of teams, containing team names, directors, team picture and performance link
 export class SingleTeamComponent extends React.Component<any> {
   public render() {
     let team: Group = this.props.team;
-    let directorsStr: string = "Directors: ";
+    let directorsList: React.ReactNode[] = ["Directors: "];
 
     // Generate a string of all of the directors
     if (team.positionIds) {
       for (let directorIdx in team.positionIds) {
         let directorKey = team.positionIds[directorIdx];
+        let pp = Data.PersonPositions[directorKey];
         let dirPersonKey: string = Data.PersonPositions[directorKey].person[0];
         let directorPerson: Person = Data.People[dirPersonKey];
-        directorsStr += directorPerson.name;
+        directorsList.push(
+          <HoverWrapperComponent pp={pp}>
+            {directorPerson.name}
+          </HoverWrapperComponent>
+        );
 
         // for the last director, don't add the comma
         if (parseInt(directorIdx) < team.positionIds.length - 1) {
-          directorsStr += ", ";
+          directorsList.push(", ");
         }
       }
     }
@@ -36,7 +42,7 @@ export class SingleTeamComponent extends React.Component<any> {
         ) : (
           undefined
         )}
-        <div className="team--directors">{directorsStr}</div>
+        <div className="team--directors">{directorsList}</div>
 
         {team.videoUrl ? (
           <div>
