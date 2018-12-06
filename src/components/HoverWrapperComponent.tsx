@@ -81,13 +81,7 @@ export class HoverWrapperComponent extends React.Component<
       let semester = "TEMP";
 
       // string slicing
-      if (groupName.includes("AFX Board")) {
-        semester = groupName.slice(10, groupName.length);
-      } else if (groupName.includes("AFX Tech")) {
-        semester = groupName.slice(9, groupName.length);
-      } else {
-        semester = groupName.slice(13, groupName.length);
-      }
+      semester = groupName.replace("AFX Board ", "").replace("AFX Tech ", "");
 
       // position titles
       const posTitle = personPos.positionTitle;
