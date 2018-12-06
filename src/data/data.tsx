@@ -7964,26 +7964,26 @@ export let PersonPositions = {
     "positionTitle": "PR Marketing",
     "picture": [
       {
-        "id": "att9lqCDjwdZjrMDm",
-        "url": "https://dl.airtable.com/YJENNgFtRxCMSDhhSUMP_James%20Chen%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
-        "filename": "James Chen, Board - Marketing, Fall 2017.jpg",
-        "size": 279053,
+        "id": "attDO62jv2j3iyIXc",
+        "url": "https://dl.airtable.com/5xZuaXjXSWWsngOh3QpT_BigBrother-James%20(1).jpg",
+        "filename": "James Chen - Board, PR Marketing, Fall 2017",
+        "size": 87379,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/1Xa4kQjSv2KgyvvV0A9D_small_James%20Chen%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
-            "width": 24,
+            "url": "https://dl.airtable.com/9TkG4E1eSkuyHXPitJ4p_small_BigBrother-James%20(1).jpg",
+            "width": 35,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/86zVFJKWTJCS56TReP7o_large_James%20Chen%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
+            "url": "https://dl.airtable.com/6aSLbteZTRmVSEKMW2a4_large_BigBrother-James%20(1).jpg",
             "width": 512,
-            "height": 768
+            "height": 522
           },
           "full": {
-            "url": "https://dl.airtable.com/7hBCni3ETpqOmXQfZtwZ_full_James%20Chen%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
-            "width": 1365,
-            "height": 2048
+            "url": "https://dl.airtable.com/OwwNCrcQKeo0Z7ZX6Apb_full_BigBrother-James%20(1).jpg",
+            "width": 640,
+            "height": 653
           }
         }
       }
@@ -8420,26 +8420,26 @@ export let PersonPositions = {
     "positionTitle": "PR Marketing",
     "picture": [
       {
-        "id": "attMYkM40DOSDh4mk",
-        "url": "https://dl.airtable.com/yE7VC27TtWYcxJUzEsmk_James%20Chen%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-        "filename": "James Chen, Board - Marketing, Spring 2018.jpg",
-        "size": 279053,
+        "id": "attTVdF3dfYkaxviE",
+        "url": "https://dl.airtable.com/S7pvL40FTWGm6bE9UopD_CW-James%20(1).jpg",
+        "filename": "James Chen, Board - Marketing, Spring 2018",
+        "size": 60782,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/P7SDsbrrR1OtIf0MNOvP_small_James%20Chen%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-            "width": 24,
+            "url": "https://dl.airtable.com/MBeHf3DqTO2rkrROkZJv_small_CW-James%20(1).jpg",
+            "width": 35,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/DCt1jL6R7Cox3nwQbBwx_large_James%20Chen%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/suJGDnEjTFKDzRfayb47_large_CW-James%20(1).jpg",
             "width": 512,
-            "height": 768
+            "height": 527
           },
           "full": {
-            "url": "https://dl.airtable.com/VUh66ZhPQ9WJBL8Ird4x_full_James%20Chen%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-            "width": 1365,
-            "height": 2048
+            "url": "https://dl.airtable.com/GV8BsECKTZCymk3z0cty_full_CW-James%20(1).jpg",
+            "width": 570,
+            "height": 587
           }
         }
       }
@@ -9066,25 +9066,25 @@ export let PersonPositions = {
     "positionTitle": "Vice Executive",
     "picture": [
       {
-        "id": "attsh2CeQw0vRYzhS",
-        "url": "https://dl.airtable.com/Pt06rxT5QQS4DsXU7Zrt_F54A1544%20-%20James%20Chen.jpg",
-        "filename": "F54A1544 - James Chen.jpg",
-        "size": 1869056,
+        "id": "attyGAgu0mAsHhmH2",
+        "url": "https://dl.airtable.com/FoaVxyTSWWKIcL4S4OEA_YAS-01068%20(1).jpg",
+        "filename": "YAS-01068 (1).jpg",
+        "size": 2250998,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/5agd123iSieYDQ9lkYY7_small_F54A1544%20-%20James%20Chen.jpg",
-            "width": 24,
+            "url": "https://dl.airtable.com/zFiWvUlIRRSnkEfQW4Wv_small_YAS-01068%20(1).jpg",
+            "width": 29,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/GtHz8iYUSHefvj9YBeIW_large_F54A1544%20-%20James%20Chen.jpg",
+            "url": "https://dl.airtable.com/50lGgpYoSoCTSwVSrTUL_large_YAS-01068%20(1).jpg",
             "width": 512,
-            "height": 768
+            "height": 633
           },
           "full": {
-            "url": "https://dl.airtable.com/q4u8YrkSOWpAVXiPli9A_full_F54A1544%20-%20James%20Chen.jpg",
-            "width": 2000,
+            "url": "https://dl.airtable.com/Z3G0BEsqRtSDqWSzudFw_full_YAS-01068%20(1).jpg",
+            "width": 2425,
             "height": 3000
           }
         }
