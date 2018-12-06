@@ -55,6 +55,7 @@ export class SingleTeamComponent extends React.Component<any> {
         ) : (
           undefined
         )}
+        <div id="team--triangle" />
       </div>
     );
   }
