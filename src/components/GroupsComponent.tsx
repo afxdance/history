@@ -2,23 +2,33 @@ import * as React from "react";
 import { PersonPositionComponent } from "src/components/PersonPositionComponent";
 import * as Data from "src/data/data";
 import { Group } from "src/data/types";
+import { DisplayUtility } from "src/DisplayUtility";
 
+// Used for displaying a single set of board members for a semester
 export class GroupsComponent extends React.Component<any> {
   public render() {
-    const group: Group = this.props.group;
-
-    const ppComps = [];
-    for (const idx in group.positionIds) {
-      const id: string = group.positionIds[idx];
-      ppComps.push(
-        <PersonPositionComponent personPosition={Data.PersonPositions[id]} />
-      );
+    let group: Group = this.props.group;
+    let ppComps: any = [];
+    // if (group.type === "board") {
+    if (group.positionIds) {
+      for (let idx in group.positionIds) {
+        let id: string = group.positionIds[idx];
+        ppComps.push(
+          <PersonPositionComponent personPosition={Data.PersonPositions[id]} />
+        );
+      }
     }
+    // No longer displays group.name -- instead we display the semesters, and then the board and team labels
     return (
       <div className="board">
-        <div className="board--title">{group.name}</div>
+        <div className="semester--title">
+          {DisplayUtility.getSemesterString(group)}
+        </div>
+        {/* <h2 className="board--title">{group.name}</h2> */}
+        <div className="board-team--title">Board Members</div>
         <div className="board--row">{ppComps}</div>
       </div>
     );
+    // }
   }
 }

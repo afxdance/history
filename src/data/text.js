@@ -1881,7 +1881,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=t9j945zZfb0",
+    "videoUrl": "https://www.youtube.com/watch?v=t9j945zZfb0",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ]
@@ -1921,7 +1921,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -1962,7 +1962,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -2002,7 +2002,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -2041,7 +2041,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -2080,7 +2080,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=aQ8xPAXTYD0",
+    "videoUrl": "https://www.youtube.com/watch?v=aQ8xPAXTYD0",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ]

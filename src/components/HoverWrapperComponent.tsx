@@ -41,8 +41,6 @@ export class HoverWrapperComponent extends React.Component<
   };
 
   public render() {
-    // "recZFzCcA5n9Tuyij"
-
     // Takes in person position component
     // <div hover over thing>
     // dipslay person position
