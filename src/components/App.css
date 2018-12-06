@@ -3442,7 +3442,9 @@ strong {
   padding: 20px;
   margin: 5px 5px 0px 0px;
   flex: 1;
-  /* flex */
+
+  clip-path: polygon(0% 0%, 0% 100%,  85% 100%, 100% 94%, 100% 0%);
+
 }
 
 .team--name {
@@ -3468,6 +3470,14 @@ strong {
   /* display: flex;
   justify-content: flex-end; */
 }
+
+/* .team--triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 0 200px 200px;
+  border-color: transparent transparent #ffffff transparent;
+} */
 
 .semester--title {
   font-family: Lato, sans-serif;
@@ -3495,8 +3505,8 @@ strong {
   color: #333333;
   text-align: center;
 
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin-top: 24px;
+  margin-bottom: 24px;
 }
 
 .board--subtitle {
