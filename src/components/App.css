@@ -3555,9 +3555,10 @@ strong {
   left: 0%;
   top: 100%;
   background-color: rgba(0, 0, 0, 0.8);
+  max-width: 100vw;
 }
 
-.HoverWrapper-content h1 {
+.HoverWrapper-content h3 {
   color: white;
 }
 
@@ -3574,7 +3575,6 @@ strong {
   position: relative;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
   align-items: center;
 }
 
