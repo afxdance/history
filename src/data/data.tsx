@@ -13,7 +13,8 @@ export let People = {
     "name": "AC Dela Paz",
     "positionIds": [
       "recQ7VUlKsTaz1PA9",
-      "recOJEHgsz20gcZgQ"
+      "recOJEHgsz20gcZgQ",
+      "recUEokKatoDRFpsz"
     ]
   },
   "rec54iAVFwg1HwrW1": {
@@ -50,7 +51,8 @@ export let People = {
       "recgHxVPeQJD7UKwT",
       "rectPeFl8L3r1BHn3",
       "recfp4C8UIra4GMBQ",
-      "recKefbsymSU2XoQQ"
+      "recKefbsymSU2XoQQ",
+      "recFHUd9aYKQpHLxs"
     ]
   },
   "rec1f93ALW5SsVGI9": {
@@ -81,7 +83,7 @@ export let People = {
   "recPocv0xCXtbE2zX": {
     "createdTime": "2018-10-18T00:31:36.000Z",
     "id": "recPocv0xCXtbE2zX",
-    "name": "Alina Li",
+    "name": "Alina Lee",
     "positionIds": [
       "recQJrl4Ir3zMeFhy",
       "reculGDwitMiaaY6N"
@@ -225,7 +227,8 @@ export let People = {
     "name": "Cari Gan",
     "positionIds": [
       "recQafxPMYHX8f1ON",
-      "recQjFIWuzTruoDx8"
+      "recQjFIWuzTruoDx8",
+      "recyheH136WhJJv72"
     ]
   },
   "rec0osRffYVXkinft": {
@@ -331,7 +334,8 @@ export let People = {
     "id": "recJu9Hcotxvp8rOT",
     "name": "Christine Ho",
     "positionIds": [
-      "recgAAXh8WKL1kcO0"
+      "recgAAXh8WKL1kcO0",
+      "recYzJCII8mJFlE4x"
     ]
   },
   "recsIrG39H7oCENrA": {
@@ -636,7 +640,8 @@ export let People = {
     "id": "recZ4bppVkukHelyx",
     "name": "Joseph Koo",
     "positionIds": [
-      "recWHyWMs5CQgy6L2"
+      "recWHyWMs5CQgy6L2",
+      "recQBBV0sNPYKoCxC"
     ]
   },
   "rec9jN75kKwlEUKlP": {
@@ -662,7 +667,8 @@ export let People = {
     "name": "Karen Ding",
     "positionIds": [
       "recpDL3KDWfgRHxc4",
-      "recIjhqWDW2hFdXNs"
+      "recIjhqWDW2hFdXNs",
+      "recBcvQ75mGgJJezA"
     ]
   },
   "reczY2iMsgy8o68WH": {
@@ -702,7 +708,8 @@ export let People = {
     "id": "recXg1KTKckQDUF8R",
     "name": "Keita Yada",
     "positionIds": [
-      "recu64G90wcXnucXb"
+      "recu64G90wcXnucXb",
+      "recv5f5qOib52MxmG"
     ]
   },
   "recXJr3fTDXjPWZd6": {
@@ -746,7 +753,8 @@ export let People = {
     "id": "rec4UfhaS3ZcsKOfU",
     "name": "Kirk La",
     "positionIds": [
-      "recIZvsIUY7Lf3WCZ"
+      "recIZvsIUY7Lf3WCZ",
+      "recXL7dzcT7j5sFXI"
     ]
   },
   "recsYm4ArvX4IvB3p": {
@@ -763,7 +771,8 @@ export let People = {
     "name": "Lenny Dong",
     "positionIds": [
       "rec8ELbYUBDN8u2M9",
-      "recD8ZQSM8cA7PbBW"
+      "recD8ZQSM8cA7PbBW",
+      "recBcgMIqL5c2ymfY"
     ]
   },
   "rect0ED131TruiBcq": {
@@ -815,7 +824,8 @@ export let People = {
     "id": "recCQaNAzI6bTDsQo",
     "name": "Mengyan Li",
     "positionIds": [
-      "recklML4eO8FNCc0Y"
+      "recklML4eO8FNCc0Y",
+      "recIMXzS9m8dZ1zjF"
     ]
   },
   "recvmimrks8m7hMNB": {
@@ -824,7 +834,8 @@ export let People = {
     "name": "Michael Chen",
     "positionIds": [
       "recWGoUj92415MYGK",
-      "recQam7kgl8ewGaTj"
+      "recQam7kgl8ewGaTj",
+      "recP4u0zKITznz1cW"
     ]
   },
   "reclpX3jvpv0V44dl": {
@@ -1006,7 +1017,8 @@ export let People = {
     "id": "recxAxAFK4ULZWdyr",
     "name": "Sean Zhu",
     "positionIds": [
-      "recc9EiCmYyLyzfT0"
+      "recc9EiCmYyLyzfT0",
+      "reciObpc8gPiKo1In"
     ]
   },
   "recl0MAVB8URRERpr": {
@@ -1048,7 +1060,8 @@ export let People = {
     "name": "Shirley Li",
     "positionIds": [
       "recbAqu4Hf1mDgAwf",
-      "rec9JZQjQwYloJops"
+      "rec9JZQjQwYloJops",
+      "recZiOgSU5BtubSPr"
     ]
   },
   "reccl1uy2ajMiq1O2": {
@@ -1121,7 +1134,8 @@ export let People = {
     "positionIds": [
       "recxowEgkbgyTq4w4",
       "recwvKkgeHb2SAKOZ",
-      "rechord0CVTrFiwm9"
+      "rechord0CVTrFiwm9",
+      "rec2Awc9Y8XrYeQ7j"
     ]
   },
   "recULtLwOyASphrEA": {
@@ -1165,7 +1179,8 @@ export let People = {
     "id": "recb1hKgi5bRfTlH9",
     "name": "Wenhao Liao",
     "positionIds": [
-      "recaKAVUiPS4axGXZ"
+      "recaKAVUiPS4axGXZ",
+      "recomZlm6yeXnlo6G"
     ]
   },
   "recjMN8Zx4KlJGDUL": {
@@ -1183,7 +1198,8 @@ export let People = {
     "positionIds": [
       "recWEZvMv7ktz9kHI",
       "reccYYrL6cPXyeh6H",
-      "recF4UufceUmsaz3Y"
+      "recF4UufceUmsaz3Y",
+      "rec4SUea9e15uK7OW"
     ]
   },
   "recrEeHaWMhxv56jE": {
@@ -1383,7 +1399,8 @@ export let People = {
     "id": "recoXhzEe3CSWpV2b",
     "name": "Louisa Zhang",
     "positionIds": [
-      "reclbI9sDDawSq1d2"
+      "reclbI9sDDawSq1d2",
+      "recJeowLVzxkEnUWP"
     ]
   },
   "recWXNq71YJeR9DzG": {
@@ -1437,7 +1454,7 @@ export let People = {
   "recyrDnDQgBygPkQK": {
     "createdTime": "2018-12-01T18:57:09.000Z",
     "id": "recyrDnDQgBygPkQK",
-    "name": "Andy QV",
+    "name": "Andy Vendrell",
     "positionIds": [
       "recxVlUWJsoUL1c72"
     ]
@@ -1448,6 +1465,172 @@ export let People = {
     "name": "Viet Truong",
     "positionIds": [
       "recN6aEQCOobedfTj"
+    ]
+  },
+  "rece0DANFC7ouQRn4": {
+    "createdTime": "2018-12-12T09:23:02.000Z",
+    "id": "rece0DANFC7ouQRn4",
+    "name": "Ashley Song",
+    "positionIds": [
+      "rec6TDEsRxOdpUDDB",
+      "recsGq7TKmJ1ie15w"
+    ]
+  },
+  "recijMCIqUe2QR7Ez": {
+    "createdTime": "2018-12-12T09:50:22.000Z",
+    "id": "recijMCIqUe2QR7Ez",
+    "name": "Max Wang",
+    "positionIds": [
+      "recrhqq26IXzcwk22",
+      "recv0StHKySgIjd2X"
+    ]
+  },
+  "recy7KgvvPeMKOaTI": {
+    "createdTime": "2018-12-12T09:57:54.000Z",
+    "id": "recy7KgvvPeMKOaTI",
+    "name": "Sophia Morgan",
+    "positionIds": [
+      "recp7OFx2ofzhUvpO"
+    ]
+  },
+  "recqlH5BSDJwdW67r": {
+    "createdTime": "2018-12-12T10:06:24.000Z",
+    "id": "recqlH5BSDJwdW67r",
+    "name": "Julia Ting",
+    "positionIds": [
+      "recwsF8F7AZazJcpK"
+    ]
+  },
+  "recl8n4nA3VSuwVhG": {
+    "createdTime": "2018-12-12T10:08:42.000Z",
+    "id": "recl8n4nA3VSuwVhG",
+    "name": "Joshua Fitch",
+    "positionIds": [
+      "recuJmSSiRcm4CM4o",
+      "rec729ICzYrnaniKz"
+    ]
+  },
+  "recuKXXmoyxpZQscF": {
+    "createdTime": "2018-12-12T10:12:57.000Z",
+    "id": "recuKXXmoyxpZQscF",
+    "name": "Max Yeo",
+    "positionIds": [
+      "recG7YEQJad7XCRdn"
+    ]
+  },
+  "recDpgNj1OCRCsflf": {
+    "createdTime": "2018-12-12T10:13:04.000Z",
+    "id": "recDpgNj1OCRCsflf",
+    "name": "Suhaas Garre",
+    "positionIds": [
+      "rec9bpqYYLuK3xFb6"
+    ]
+  },
+  "recDSwdrsXFswCDay": {
+    "createdTime": "2018-12-12T10:42:15.000Z",
+    "id": "recDSwdrsXFswCDay",
+    "name": "Whitney Li",
+    "positionIds": [
+      "recnQ9X5cMaRnFV53"
+    ]
+  },
+  "rec8KeceBsdwsLKzT": {
+    "createdTime": "2018-12-12T10:43:18.000Z",
+    "id": "rec8KeceBsdwsLKzT",
+    "name": "Daniel Ra",
+    "positionIds": [
+      "recD42sX1oii6b3so",
+      "recjRbgiHRG5uxASL",
+      "recc8j1XXNzreVtbf"
+    ]
+  },
+  "recuFxKKWTjsUX6Qj": {
+    "createdTime": "2018-12-12T10:51:37.000Z",
+    "id": "recuFxKKWTjsUX6Qj",
+    "name": "Jenny Huang",
+    "positionIds": [
+      "rec5AT2Js0I76BIay",
+      "recVoZppQ8ADyeXMM"
+    ]
+  },
+  "recWC7yK5Re53KiVd": {
+    "createdTime": "2018-12-12T23:21:35.000Z",
+    "id": "recWC7yK5Re53KiVd",
+    "name": "Wilfred Salacup",
+    "positionIds": [
+      "rec9D9NphXY0xYUI1"
+    ]
+  },
+  "rec5dF2uKIbQKg9mW": {
+    "createdTime": "2018-12-13T08:45:54.000Z",
+    "id": "rec5dF2uKIbQKg9mW",
+    "name": "Paul Baik",
+    "positionIds": [
+      "recnq4kDRyJz9Be2u"
+    ]
+  },
+  "recSVi5Qmw4oMyi8u": {
+    "createdTime": "2018-12-13T08:51:18.000Z",
+    "id": "recSVi5Qmw4oMyi8u",
+    "name": "Katie Poa",
+    "positionIds": [
+      "recWnw4lEjFRENfyB"
+    ]
+  },
+  "rec0LPC8lZkJZSnkE": {
+    "createdTime": "2018-12-13T09:09:55.000Z",
+    "id": "rec0LPC8lZkJZSnkE",
+    "name": "Anthony Nguyen",
+    "positionIds": [
+      "recROI9NnR3gpwjS7"
+    ]
+  },
+  "rec6IpW9b974hS7Dx": {
+    "createdTime": "2018-12-13T09:13:37.000Z",
+    "id": "rec6IpW9b974hS7Dx",
+    "name": "Darius Sparks",
+    "positionIds": [
+      "rechsNxHsvYb4ipgn"
+    ]
+  },
+  "recb95w3N49Pkc93b": {
+    "createdTime": "2018-12-13T09:13:44.000Z",
+    "id": "recb95w3N49Pkc93b",
+    "name": "Jason Bouatavanh",
+    "positionIds": [
+      "rec6h4qSGHuC5wUWx"
+    ]
+  },
+  "rec1nPfEeEIubXT0C": {
+    "createdTime": "2018-12-13T09:17:58.000Z",
+    "id": "rec1nPfEeEIubXT0C",
+    "name": "Naria Quazi",
+    "positionIds": [
+      "rec4QdNMnRr5f8Ewe"
+    ]
+  },
+  "rec1SKHcbRCJkp0cO": {
+    "createdTime": "2018-12-13T09:23:20.000Z",
+    "id": "rec1SKHcbRCJkp0cO",
+    "name": "Leo Zhang",
+    "positionIds": [
+      "recJnf4qYoOoE6qSR"
+    ]
+  },
+  "recq3sdvy3JjKPWR5": {
+    "createdTime": "2018-12-13T09:23:22.000Z",
+    "id": "recq3sdvy3JjKPWR5",
+    "name": "Aimee Pepper",
+    "positionIds": [
+      "recAViFCI7lrDQ6Ww"
+    ]
+  },
+  "recc44dWSzgZKA2RW": {
+    "createdTime": "2018-12-13T09:33:43.000Z",
+    "id": "recc44dWSzgZKA2RW",
+    "name": "Lenell Ordanza",
+    "positionIds": [
+      "recNuN2WJyVmC7Na7"
     ]
   }
 }
@@ -1848,7 +2031,7 @@ export let Groups = {
   "recJGCk5JPfHJ5nI5": {
     "createdTime": "2018-11-03T19:26:47.000Z",
     "id": "recJGCk5JPfHJ5nI5",
-    "name": "AFX Smol Chunks",
+    "name": "AFXsi Smol Chunks",
     "positionIds": [
       "recUMDlSdJPSLOorB",
       "reccuIpsZHfgfMdHZ",
@@ -1881,7 +2064,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=t9j945zZfb0",
+    "videoUrl": "https://www.youtube.com/watch?v=t9j945zZfb0",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ]
@@ -1897,31 +2080,31 @@ export let Groups = {
     "type": "team",
     "teamPicture": [
       {
-        "id": "attS9KyafPauEygSv",
-        "url": "https://dl.airtable.com/i7rrs2ESRoi9147SOCTM__%252F3.JPG",
-        "filename": "team.jpg",
-        "size": 1840501,
+        "id": "attQhNxKTfztLcJQo",
+        "url": "https://dl.airtable.com/RgtZTzz2S82Viahbol3C_AFX%20Less%20than%20slash%203.jpg",
+        "filename": "AFX Less than slash 3.jpg",
+        "size": 5787532,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/ZacnVRy7TISkogCc5yxW_small__%252F3.JPG",
-            "width": 48,
+            "url": "https://dl.airtable.com/TCRNQamT2yEHXRUc4Wsw_small_AFX%20Less%20than%20slash%203.jpg",
+            "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/1nUidwaVQVuKIKn4uESY_large__%252F3.JPG",
-            "width": 683,
+            "url": "https://dl.airtable.com/pKTCW3lERbasc2t7HBlf_large_AFX%20Less%20than%20slash%203.jpg",
+            "width": 768,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/2PUdcEdFTDmXW1xSUYo3_full__%252F3.JPG",
+            "url": "https://dl.airtable.com/Z6xd0MxnQ9Wx23Y9uUj1_full_AFX%20Less%20than%20slash%203.jpg",
             "width": 3000,
-            "height": 2250
+            "height": 2000
           }
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -1962,7 +2145,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -2002,7 +2185,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -2041,7 +2224,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
+    "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ]
@@ -2049,7 +2232,7 @@ export let Groups = {
   "recn6LlGtFykr0SZo": {
     "createdTime": "2018-11-03T19:33:26.000Z",
     "id": "recn6LlGtFykr0SZo",
-    "name": "AFX Slumber Party",
+    "name": "AFXsi Slumber Party",
     "positionIds": [
       "recKefbsymSU2XoQQ"
     ],
@@ -2080,7 +2263,7 @@ export let Groups = {
         }
       }
     ],
-    // "videoUrl": "https://www.youtube.com/watch?v=aQ8xPAXTYD0",
+    "videoUrl": "https://www.youtube.com/watch?v=aQ8xPAXTYD0",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ]
@@ -2293,26 +2476,26 @@ export let Groups = {
     "type": "team",
     "teamPicture": [
       {
-        "id": "attLDr2zta637DXbA",
-        "url": "https://dl.airtable.com/6n7PMHb8SYCkhdBmES44_AFX%20Nut.jpg",
+        "id": "attfcmph1F9eiR9TX",
+        "url": "https://dl.airtable.com/pWISyf7aQzetuZEOgEWK_AFX%20Nut.jpg",
         "filename": "AFX Nut.jpg",
-        "size": 690355,
+        "size": 1186244,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/30Wq3EKNQwmTrG9VHI0L_small_AFX%20Nut.jpg",
-            "width": 48,
+            "url": "https://dl.airtable.com/FNDWhv5BSXGSjYLzEbNB_small_AFX%20Nut.jpg",
+            "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/UEjOWGGQSK6RKQtG9c4N_large_AFX%20Nut.jpg",
-            "width": 683,
+            "url": "https://dl.airtable.com/zSM5fFqRZeXGqHI7iTfk_large_AFX%20Nut.jpg",
+            "width": 768,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/ErVKi1QxQ4ez5rYmRoFZ_full_AFX%20Nut.jpg",
+            "url": "https://dl.airtable.com/CyYvlD3DS8G8Uz3yy1uw_full_AFX%20Nut.jpg",
             "width": 3000,
-            "height": 2250
+            "height": 2000
           }
         }
       }
@@ -2443,6 +2626,694 @@ export let Groups = {
   "recAaxuKNJh444UtV": {
     "createdTime": "2018-12-01T18:46:05.000Z",
     "id": "recAaxuKNJh444UtV"
+  },
+  "recpQI3J6HKu6NObe": {
+    "createdTime": "2018-12-12T09:45:24.000Z",
+    "id": "recpQI3J6HKu6NObe",
+    "name": "AFXsi N/A",
+    "positionIds": [
+      "rec6TDEsRxOdpUDDB",
+      "recrhqq26IXzcwk22"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "att3a7sY2rcZTp4dL",
+        "url": "https://dl.airtable.com/qfgOgtSjTd2IVTJU1W9V_AFXSI%20NA.jpg",
+        "filename": "AFXSI NA.jpg",
+        "size": 639639,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/JwJrwZI1SP28zmVXZV6C_small_AFXSI%20NA.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/rNt2FwnyR8Cx1X3ewhDK_large_AFXSI%20NA.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/jM1mKi4SuWiS8n15v6po_full_AFXSI%20NA.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=b30MsEs2niE",
+    "teamSemesterId": [
+      "recQyG9LRNGj3oJL9"
+    ]
+  },
+  "rec8RsWuzGriceaKU": {
+    "createdTime": "2018-12-12T09:56:20.000Z",
+    "id": "rec8RsWuzGriceaKU",
+    "name": "AFXsi 4PLAY",
+    "positionIds": [
+      "recFHUd9aYKQpHLxs"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "att8YnQLJfmReUsb1",
+        "url": "https://dl.airtable.com/jBcW6FmxRxq4IcaxW3jx_AFXSI%204PLAY.jpg",
+        "filename": "AFXSI 4PLAY.jpg",
+        "size": 373797,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ypdPAHbHRCSdUSgwdu2U_small_AFXSI%204PLAY.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/d1bxqy3BRtOUf4wkz4Wm_large_AFXSI%204PLAY.jpg",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/XbGTalZSkjiuamYxoKUw_full_AFXSI%204PLAY.jpg",
+            "width": 2048,
+            "height": 1152
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_a-zBxi7gpQ",
+    "teamSemesterId": [
+      "recQyG9LRNGj3oJL9"
+    ]
+  },
+  "recokuRWqWHMaWmuE": {
+    "createdTime": "2018-12-12T10:03:45.000Z",
+    "id": "recokuRWqWHMaWmuE",
+    "name": "AFX Riddikulus",
+    "positionIds": [
+      "recp7OFx2ofzhUvpO",
+      "recwsF8F7AZazJcpK",
+      "recuJmSSiRcm4CM4o"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attJtnchCfDqk3sxF",
+        "url": "https://dl.airtable.com/IqDEwrthRhSXLrpX5yjd_AFX%20Riddikulus.jpg",
+        "filename": "AFX Riddikulus.jpg",
+        "size": 687872,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/YKx7rZjSAh6uzEcr3VhA_small_AFX%20Riddikulus.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/c8ExNTigSMC54chbLEnD_large_AFX%20Riddikulus.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/fKTVTU3aTISOEzbHgWWl_full_AFX%20Riddikulus.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=u7MdScGMtDQ",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "rec6O0XYNXZk0TUSH": {
+    "createdTime": "2018-12-12T10:09:59.000Z",
+    "id": "rec6O0XYNXZk0TUSH",
+    "name": "AFXsi (N)SFW",
+    "positionIds": [
+      "rec729ICzYrnaniKz",
+      "recv0StHKySgIjd2X",
+      "recsGq7TKmJ1ie15w"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attO3NaES9jP3t1rU",
+        "url": "https://dl.airtable.com/JEpxAbY9Te683j5dvgNc_AFXSI%20NSFW.jpg",
+        "filename": "AFXSI NSFW.jpg",
+        "size": 191631,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/JOCHhy1SUuLKy9xtRRww_small_AFXSI%20NSFW.jpg",
+            "width": 40,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/OHButLdRzWDoShBC3DkX_large_AFXSI%20NSFW.jpg",
+            "width": 576,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/QmCJXjUSPu0nIKKM8dE8_full_AFXSI%20NSFW.jpg",
+            "width": 960,
+            "height": 854
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=FYufD2RH1LU",
+    "teamSemesterId": [
+      "recd2QXLEA5yJeKlX"
+    ]
+  },
+  "recooewIvmz1cLLO8": {
+    "createdTime": "2018-12-12T10:13:12.000Z",
+    "id": "recooewIvmz1cLLO8",
+    "name": "AFX 101",
+    "positionIds": [
+      "recG7YEQJad7XCRdn",
+      "recXL7dzcT7j5sFXI",
+      "rec9bpqYYLuK3xFb6"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "atttZZ43pDohseiqQ",
+        "url": "https://dl.airtable.com/qt6qPZtlTYaxluS0T7EQ_AFX%20101.jpg",
+        "filename": "AFX 101.jpg",
+        "size": 225520,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/2TOP2NJaQBeaO3CA2mzH_small_AFX%20101.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/vLdxFE1LT2aaG5C5qY4a_large_AFX%20101.jpg",
+            "width": 913,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/UUQv5J03QOstATwh7YBP_full_AFX%20101.jpg",
+            "width": 2048,
+            "height": 1149
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=7jVmUST98vg",
+    "teamSemesterId": [
+      "recNgq1uYEeYnepMi"
+    ]
+  },
+  "recgGEOokEasFJJkn": {
+    "createdTime": "2018-12-12T10:25:00.000Z",
+    "id": "recgGEOokEasFJJkn",
+    "name": "AFX CW",
+    "positionIds": [
+      "recyheH136WhJJv72",
+      "recomZlm6yeXnlo6G"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attehFwL6DeEN77sE",
+        "url": "https://dl.airtable.com/1AOp97K0SUKyH48bebsd_8.%20CW.jpg",
+        "filename": "8. CW.jpg",
+        "size": 3457802,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/6jNF1OcIS8yIVhOa9slL_small_8.%20CW.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hV0Wzj56QC2FyGUIMs9A_large_8.%20CW.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/F3v2Z96DQsurLP4s5WTO_full_8.%20CW.jpg",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=D3XmEXhLA9g",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recFJhX3DlVrqJRRn": {
+    "createdTime": "2018-12-12T10:39:49.000Z",
+    "id": "recFJhX3DlVrqJRRn",
+    "name": "AFXsi WaSteD",
+    "positionIds": [
+      "reciObpc8gPiKo1In",
+      "recnQ9X5cMaRnFV53",
+      "recD42sX1oii6b3so"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attKo5x3kb6A2hs8E",
+        "url": "https://dl.airtable.com/fD6O8nXQC6n8EilgOgzw_AFXsi%20WASTED.jpg",
+        "filename": "AFXsi WASTED.jpg",
+        "size": 86669,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/rj7k0xc7Tx6PsoxudD6V_small_AFXsi%20WASTED.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jaZXpN9zSda1JtvBdgLR_large_AFXsi%20WASTED.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/TCSqLl1yQ6A3edi8hTdp_full_AFXsi%20WASTED.jpg",
+            "width": 960,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=qOvoJuxW5QA",
+    "teamSemesterId": [
+      "recQyG9LRNGj3oJL9"
+    ]
+  },
+  "recGRSa5DVs30Mink": {
+    "createdTime": "2018-12-12T10:45:24.000Z",
+    "id": "recGRSa5DVs30Mink",
+    "name": "AFX RE:Start",
+    "positionIds": [
+      "recjRbgiHRG5uxASL",
+      "recZiOgSU5BtubSPr",
+      "rec5AT2Js0I76BIay"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "att7amQOYt0hTBSDo",
+        "url": "https://dl.airtable.com/UqbOLwi2RgSwuVBeXrFt_restart-73.jpg",
+        "filename": "restart-73.jpg",
+        "size": 3840480,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/hOtj45XkSyuFGT5L9wmO_small_restart-73.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/MeULlgtTx6ooaisJm816_large_restart-73.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6ocpBFH6TCmctBpseQzX_full_restart-73.jpg",
+            "width": 3000,
+            "height": 2003
+          }
+        }
+      }
+    ],
+    "teamSemesterId": [
+      "recNgq1uYEeYnepMi"
+    ]
+  },
+  "recWshCGg4xYnnBfP": {
+    "createdTime": "2018-12-12T10:54:43.000Z",
+    "id": "recWshCGg4xYnnBfP",
+    "name": "AFX YaRang?",
+    "positionIds": [
+      "recv5f5qOib52MxmG",
+      "recc8j1XXNzreVtbf",
+      "recVoZppQ8ADyeXMM"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "atteBqkem3ogK2YiO",
+        "url": "https://dl.airtable.com/RWoGcS90RC6YegXA4Mlo_3.%20YaRang_.jpg",
+        "filename": "3. YaRang_.jpg",
+        "size": 2422397,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/HarnDl74S2S4dutQe3Sz_small_3.%20YaRang_.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/j8pEmfSbQD2HoiDAYkH2_large_3.%20YaRang_.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/vukRKVqkR1ajmNI8aaVk_full_3.%20YaRang_.jpg",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=nT4vF0g6XRQ",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recDV8rL7zVa2J6l5": {
+    "createdTime": "2018-12-12T23:16:16.000Z",
+    "id": "recDV8rL7zVa2J6l5",
+    "name": "AFX MAWfia",
+    "positionIds": [
+      "recUEokKatoDRFpsz",
+      "recP4u0zKITznz1cW",
+      "rec9D9NphXY0xYUI1"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attak07P9fIYyPmWX",
+        "url": "https://dl.airtable.com/Oyp6AQHKRzDqq4UgwZRA_4.%20MaWFia.JPG",
+        "filename": "4. MaWFia.JPG",
+        "size": 1968103,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fMIlIQVJQxumvuXAG4Cg_small_4.%20MaWFia.JPG",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/T4S0hzSdRVuIFOTo9AgK_large_4.%20MaWFia.JPG",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/PIldEuqGRQKyNJuFacdf_full_4.%20MaWFia.JPG",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=MtGd7kRMnR4",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recw7gz6Y12j41aTG": {
+    "createdTime": "2018-12-13T08:42:18.000Z",
+    "id": "recw7gz6Y12j41aTG",
+    "name": "AFX PB&J",
+    "positionIds": [
+      "recQBBV0sNPYKoCxC",
+      "recnq4kDRyJz9Be2u"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "atttSaj3CpjXbTwOn",
+        "url": "https://dl.airtable.com/BrkPcLS4a1OvJEP08JAg_11.%20PB%26J.jpg",
+        "filename": "11. PB&J.jpg",
+        "size": 4785016,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Iawy5n81QsibhlvH4Vxb_small_11.%20PB%26J.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XqA2kcm1QPKXreEJWH0v_large_11.%20PB%26J.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/z1oEAfRRRrOAoA3W7gSY_full_11.%20PB%26J.jpg",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=MtHGnCZ2I0s",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "rec6cFEd8SzUBNo9o": {
+    "createdTime": "2018-12-13T08:50:35.000Z",
+    "id": "rec6cFEd8SzUBNo9o",
+    "name": "AFX LoWKey",
+    "positionIds": [
+      "recWnw4lEjFRENfyB",
+      "recJeowLVzxkEnUWP",
+      "rec4SUea9e15uK7OW"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attgZnpyBV1I4HUIj",
+        "url": "https://dl.airtable.com/5IHXXMU8Q32mErejfaI7_2.%20LoWKey.jpg",
+        "filename": "2. LoWKey.jpg",
+        "size": 1867332,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/LnL5YSz3QtNBBpqCOfFJ_small_2.%20LoWKey.jpg",
+            "width": 68,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/EWhtlqFhSfy9Tly8al32_large_2.%20LoWKey.jpg",
+            "width": 972,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/8g3mCdptSOMQv0ebEE9w_full_2.%20LoWKey.jpg",
+            "width": 3000,
+            "height": 1581
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=MImnl5zvt78",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recXjuWcIV7jHFKTN": {
+    "createdTime": "2018-12-13T09:01:52.000Z",
+    "id": "recXjuWcIV7jHFKTN",
+    "name": "AFX Ding Dong",
+    "positionIds": [
+      "recBcvQ75mGgJJezA",
+      "recBcgMIqL5c2ymfY"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attoyniZ7JvlP6jZD",
+        "url": "https://dl.airtable.com/TWg2J9yQGqPwAevwL2ou_12.%20Ding%20Dong.jpg",
+        "filename": "12. Ding Dong.jpg",
+        "size": 3920372,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/nig02yRoRhubSqd58e2v_small_12.%20Ding%20Dong.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/0ynuTxPYQnqp5LpWYTgX_large_12.%20Ding%20Dong.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/4VC9lm14RrONxn4SMpcw_full_12.%20Ding%20Dong.jpg",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=OTQ67acrz2c",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recgSC5ZaU8HBQbmS": {
+    "createdTime": "2018-12-13T09:05:04.000Z",
+    "id": "recgSC5ZaU8HBQbmS",
+    "name": "AFX META",
+    "positionIds": [
+      "rec2Awc9Y8XrYeQ7j",
+      "recIMXzS9m8dZ1zjF",
+      "recROI9NnR3gpwjS7"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attvsgGwcFKpv1GmA",
+        "url": "https://dl.airtable.com/cgtmGQVxTSWX2Xl8Hj1U_13.%20META.jpg",
+        "filename": "13. META.jpg",
+        "size": 2176702,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/9o1QQEeRjmtsV0c9V2o2_small_13.%20META.jpg",
+            "width": 53,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/aBAcQe4KTIihWbgoOrnN_large_13.%20META.jpg",
+            "width": 751,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/db8MXJyOT36qrt1VXwqd_full_13.%20META.jpg",
+            "width": 3000,
+            "height": 2045
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=tACRaPm0MEk",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "reclgPwPymHTre39f": {
+    "createdTime": "2018-12-13T09:12:25.000Z",
+    "id": "reclgPwPymHTre39f",
+    "name": "AFX DJ",
+    "positionIds": [
+      "rechsNxHsvYb4ipgn",
+      "rec6h4qSGHuC5wUWx"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attFcF2f43g72ogzr",
+        "url": "https://dl.airtable.com/tzWpg3R7RlGWvatqVIc4_6.%20DJ.jpg",
+        "filename": "6. DJ.jpg",
+        "size": 2983738,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ifsWAjhdTCiB5FcAaq1o_small_6.%20DJ.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/pmVm9EOFThGjSarjprzA_large_6.%20DJ.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/F629RxDAR7mRWOeYf9It_full_6.%20DJ.jpg",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=sPuyILzF2lo",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recCuEIVaZ2TETp48": {
+    "createdTime": "2018-12-13T09:22:52.000Z",
+    "id": "recCuEIVaZ2TETp48",
+    "name": "AFX NaLA",
+    "positionIds": [
+      "rec4QdNMnRr5f8Ewe",
+      "recJnf4qYoOoE6qSR",
+      "recAViFCI7lrDQ6Ww"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attJ3xJ62OWamy0hG",
+        "url": "https://dl.airtable.com/UFxKKeZ2QzCJ4Z2TGX2r_5.%20NaLa.jpg",
+        "filename": "5. NaLa.jpg",
+        "size": 2806842,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ay832eGSJ9JBdbmm68QM_small_5.%20NaLa.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/40bNocZoQEOVTFlZVLld_large_5.%20NaLa.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/QKLwZqLRHOIraXCaDjsv_full_5.%20NaLa.jpg",
+            "width": 3000,
+            "height": 2002
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=oeo92sLypIg",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recakv34dAgvMZqyk": {
+    "createdTime": "2018-12-13T09:30:40.000Z",
+    "id": "recakv34dAgvMZqyk",
+    "name": "AFX OH",
+    "positionIds": [
+      "recYzJCII8mJFlE4x",
+      "recNuN2WJyVmC7Na7"
+    ],
+    "type": "team",
+    "teamPicture": [
+      {
+        "id": "attSBWtZ7DW3QLtvB",
+        "url": "https://dl.airtable.com/kgFsqBtJSImB4YmN9B2B_9.%20Office%20Hours.jpg",
+        "filename": "9. Office Hours.jpg",
+        "size": 8072493,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KXuECD9KTv2n7Gm0nogO_small_9.%20Office%20Hours.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/loZx5cVGQ5iTXGEhzWKP_large_9.%20Office%20Hours.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/fJEIOqQiiqVXnHt55Lwd_full_9.%20Office%20Hours.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=pHGbZ6Ayd2A",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ]
   }
 }
 
@@ -2872,6 +3743,32 @@ export let PersonPositions = {
       "recAlXOGF37p5Qrtk"
     ],
     "positionTitle": "Project Lead",
+    "picture": [
+      {
+        "id": "attknr8vuv9XPKOM1",
+        "url": "https://dl.airtable.com/U3f3r4hQPGCDvgCpW6yQ_RICHARD%20WU.jpg",
+        "filename": "RICHARD WU.jpg",
+        "size": 363222,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/uRLIe9mYQGS3oZVDjB5e_small_RICHARD%20WU.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/wyPWVRl4RMmHTXKHKNQ2_large_RICHARD%20WU.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/awCmqyRhTQiG1YOn1rz4_full_RICHARD%20WU.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
     "person": [
       "rec8Bd60VEzSli6cO"
     ],
@@ -2884,6 +3781,32 @@ export let PersonPositions = {
       "recAlXOGF37p5Qrtk"
     ],
     "positionTitle": "Project Lead",
+    "picture": [
+      {
+        "id": "att7Pp3tIGNdRUkyE",
+        "url": "https://dl.airtable.com/lLCC4bDESkeEhuNNbQq2_CLARA%20PARK.jpg",
+        "filename": "CLARA PARK.jpg",
+        "size": 226473,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RkDMP3oxRcOFpdfvQ589_small_CLARA%20PARK.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/GCYyPi8XR0ecabcNgdt8_large_CLARA%20PARK.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/sIHN9zWrTkCS727DcY9f_full_CLARA%20PARK.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
     "person": [
       "recsIrG39H7oCENrA"
     ],
@@ -7926,26 +8849,26 @@ export let PersonPositions = {
     "positionTitle": "PR Marketing",
     "picture": [
       {
-        "id": "attR09OInSR4QD5aR",
-        "url": "https://dl.airtable.com/wKtW2AtoQxGcbser4VCe_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
-        "filename": "Anna Liang, Board - Marketing, Fall 2017.jpg",
-        "size": 436042,
+        "id": "attdqfSIRlIaEaQ1u",
+        "url": "https://dl.airtable.com/v10PkIEJSXe9S811IKrp_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017%20(1).jpg",
+        "filename": "Anna Liang, Board - Marketing, Fall 2017 (1).jpg",
+        "size": 251850,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/RkRL1BTkQdSLO5WpBUcz_small_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
-            "width": 24,
+            "url": "https://dl.airtable.com/VEW7WXBRKWkF6vCUkZ3Q_small_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017%20(1).jpg",
+            "width": 37,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/prZMapjPRJOXiNReioi6_large_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 768
+            "url": "https://dl.airtable.com/ycRvhWOgQt68vCrsxrsA_large_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017%20(1).jpg",
+            "width": 532,
+            "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/jvmZAVaSVnyz8A2riLdg_full_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017.jpg",
+            "url": "https://dl.airtable.com/7LU2KSYQB2L3xVrqjgBr_full_Anna%20Liang%2C%20Board%20-%20Marketing%2C%20Fall%202017%20(1).jpg",
             "width": 1365,
-            "height": 2048
+            "height": 1314
           }
         }
       }
@@ -9826,26 +10749,26 @@ export let PersonPositions = {
     "positionTitle": "Comp Captain",
     "picture": [
       {
-        "id": "attqtGOB63lp7TeVP",
-        "url": "https://dl.airtable.com/ePoc3pQjSHexLbDCzRGe_14890476_10210834193436695_8713618960553001811_o.jpg",
-        "filename": "14890476_10210834193436695_8713618960553001811_o.jpg",
-        "size": 314168,
+        "id": "attW3vfv8Hh5RWfbT",
+        "url": "https://dl.airtable.com/FcipjfjRTXqGJsrkC5YA_Chris%20Lee.jpg",
+        "filename": "Chris Lee.jpg",
+        "size": 137832,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/NVPg4igkQuG6w0fInFEs_small_14890476_10210834193436695_8713618960553001811_o.jpg",
-            "width": 24,
+            "url": "https://dl.airtable.com/Wpvf9c1FQnCi3hSz7YTb_small_Chris%20Lee.jpg",
+            "width": 27,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/J1R49qFmThufRevuIngS_large_14890476_10210834193436695_8713618960553001811_o.jpg",
+            "url": "https://dl.airtable.com/q40HtyZeSikeHkZt3iOw_large_Chris%20Lee.jpg",
             "width": 512,
-            "height": 768
+            "height": 683
           },
           "full": {
-            "url": "https://dl.airtable.com/4jTjL0iaSgSg1SmMtQr8_full_14890476_10210834193436695_8713618960553001811_o.jpg",
-            "width": 1365,
-            "height": 2048
+            "url": "https://dl.airtable.com/ulJKZV0ATNyFwM8x2z23_full_Chris%20Lee.jpg",
+            "width": 720,
+            "height": 960
           }
         }
       }
@@ -10309,7 +11232,7 @@ export let PersonPositions = {
     "person": [
       "recPocv0xCXtbE2zX"
     ],
-    "(You can't directly edit this column)": "Alina Li - Comp Captain"
+    "(You can't directly edit this column)": "Alina Lee - Comp Captain"
   },
   "reccimMJ4z1CZxCEn": {
     "createdTime": "2018-10-18T00:31:53.000Z",
@@ -10461,7 +11384,7 @@ export let PersonPositions = {
     "person": [
       "recPocv0xCXtbE2zX"
     ],
-    "(You can't directly edit this column)": "Alina Li - Comp Captain"
+    "(You can't directly edit this column)": "Alina Lee - Comp Captain"
   },
   "rec71FUZBo7jrpSqJ": {
     "createdTime": "2018-10-18T00:33:44.000Z",
@@ -11534,6 +12457,32 @@ export let PersonPositions = {
       "recJGCk5JPfHJ5nI5"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbfT328oFXJlSj5",
+        "url": "https://dl.airtable.com/2l8YaHaUTM2SI0D4wVZz_EMILY%20ZHANG.jpg",
+        "filename": "EMILY ZHANG.jpg",
+        "size": 82000,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ywheAXaMT0avzcIJ7XfF_small_EMILY%20ZHANG.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Bff0V98aQnmxtisF2Fty_large_EMILY%20ZHANG.jpg",
+            "width": 512,
+            "height": 674
+          },
+          "full": {
+            "url": "https://dl.airtable.com/5D6We3TSYyaIJ3xHrzSw_full_EMILY%20ZHANG.jpg",
+            "width": 729,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "rect8pr6b0mWltnRl"
     ],
@@ -11546,6 +12495,32 @@ export let PersonPositions = {
       "recJGCk5JPfHJ5nI5"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attjofcr6CsQfFI1J",
+        "url": "https://dl.airtable.com/zNzvmatQZy87OJYn8hvc_JENNIFER%20ZHANG.jpg",
+        "filename": "JENNIFER ZHANG.jpg",
+        "size": 73254,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Eo2PBfF1R9Kwpbjp7X7m_small_JENNIFER%20ZHANG.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/DjT91KmWSMq5yOXHljPZ_large_JENNIFER%20ZHANG.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WbMxRrrkT1amAH1u8RjW_full_JENNIFER%20ZHANG.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "recm7CbBymkkW63kg"
     ],
@@ -11558,6 +12533,32 @@ export let PersonPositions = {
       "recJGCk5JPfHJ5nI5"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attxYOpxT7rXnWGqb",
+        "url": "https://dl.airtable.com/dzfJMxOCTvOLaOI3fZPW_JOSEPH%20JIANG.jpg",
+        "filename": "JOSEPH JIANG.jpg",
+        "size": 107256,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wjCfBP0AS2a2iJmipHnj_small_JOSEPH%20JIANG.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/WmXiKPr2RYSexffkhOVn_large_JOSEPH%20JIANG.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/HDqg8QBkQuuGdm7v7koK_full_JOSEPH%20JIANG.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "recNZcauY6F7F5QL9"
     ],
@@ -11570,6 +12571,32 @@ export let PersonPositions = {
       "recjSiKn95KAHbj4A"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attNNEiiEpmpFvurN",
+        "url": "https://dl.airtable.com/Vk5iG1DRtmD47ZqR52IA_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+        "filename": "Copy of ANGELICA NGUYEN.JPG",
+        "size": 202181,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/oGpr3ZpJTx2ZXePuXzyJ_small_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/YeVH6hMXQvK4Ywwz37KP_large_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/AoNV8gnFSRmfr6PSNlKV_full_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+            "width": 890,
+            "height": 1334
+          }
+        }
+      }
+    ],
     "person": [
       "recZKJLk6t9beZRcA"
     ],
@@ -11582,6 +12609,32 @@ export let PersonPositions = {
       "recA5CvMHkDs0G0M2"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attIdw9pOaqyePLyx",
+        "url": "https://dl.airtable.com/hcoraLPRLZEA6BMf0yyQ_Copy%20of%20SHENELLE%20PERERA.jpg",
+        "filename": "Copy of SHENELLE PERERA.jpg",
+        "size": 814936,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/juO7IZKQtKWuKUevcQnZ_small_Copy%20of%20SHENELLE%20PERERA.jpg",
+            "width": 55,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QAAgWfpYQqWi4bNcfxFL_large_Copy%20of%20SHENELLE%20PERERA.jpg",
+            "width": 783,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/V9YPoJ4DSoS6apBAlo0K_full_Copy%20of%20SHENELLE%20PERERA.jpg",
+            "width": 3000,
+            "height": 1962
+          }
+        }
+      }
+    ],
     "person": [
       "rect9x4ZqQWezoKQK"
     ],
@@ -11594,6 +12647,32 @@ export let PersonPositions = {
       "recA5CvMHkDs0G0M2"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attCZDflG6S8JMwPM",
+        "url": "https://dl.airtable.com/AzFvmqY6StKO1RH7vGrG_Copy%20of%20JONATHAN%20HUANG%20(1).JPG",
+        "filename": "Copy of JONATHAN HUANG (1).JPG",
+        "size": 288862,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/CSCsL2pUQWewAcQD8uwL_small_Copy%20of%20JONATHAN%20HUANG%20(1).JPG",
+            "width": 40,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/TsxagGJ1QJesTrC6pLnS_large_Copy%20of%20JONATHAN%20HUANG%20(1).JPG",
+            "width": 571,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/8AQprLvMS5yweWMnd9qP_full_Copy%20of%20JONATHAN%20HUANG%20(1).JPG",
+            "width": 3000,
+            "height": 2691
+          }
+        }
+      }
+    ],
     "person": [
       "recSHMwX0RknR4WdM"
     ],
@@ -11606,6 +12685,32 @@ export let PersonPositions = {
       "recjSiKn95KAHbj4A"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attVAD5S5WTonP4hF",
+        "url": "https://dl.airtable.com/LGVgroXqT0eR5wCSUd34_BRIAN%20NGUYEN.jpg",
+        "filename": "BRIAN NGUYEN.jpg",
+        "size": 193305,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ckL3FKBxRjaj19QYbdgI_small_BRIAN%20NGUYEN.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/3vC6fIFjQ6CF1h0JQCop_large_BRIAN%20NGUYEN.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9FM2e8rQTPyKm8LRxkcU_full_BRIAN%20NGUYEN.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
     "person": [
       "rec0Ban1Wo4hXmuY5"
     ],
@@ -11618,6 +12723,32 @@ export let PersonPositions = {
       "recjSiKn95KAHbj4A"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attprjbhRziyqQNSP",
+        "url": "https://dl.airtable.com/ZtYvphPFQYWNkXKXNdWA_Copy%20of%20PRINCETON%20LIU%20(1).jpg",
+        "filename": "Copy of PRINCETON LIU (1).jpg",
+        "size": 56185,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/lHmkV7wyQZukv4qL003A_small_Copy%20of%20PRINCETON%20LIU%20(1).jpg",
+            "width": 57,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Fk8JtTwIR1GABMtVdR7q_large_Copy%20of%20PRINCETON%20LIU%20(1).jpg",
+            "width": 815,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/jFJTZB4RVOuIjojV0XpQ_full_Copy%20of%20PRINCETON%20LIU%20(1).jpg",
+            "width": 960,
+            "height": 603
+          }
+        }
+      }
+    ],
     "person": [
       "rec4njl6dqr2zVeaj"
     ],
@@ -11630,6 +12761,32 @@ export let PersonPositions = {
       "recXo2Wr1dwrRK7x7"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attRkLyKLSEqAyBzc",
+        "url": "https://dl.airtable.com/vmGsSPzBSVS94TbsUIWZ_Copy%20of%20ANN%20DENG%20(1).jpg",
+        "filename": "Copy of ANN DENG (1).jpg",
+        "size": 376242,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/go2tvBaqTEaoUzg538rI_small_Copy%20of%20ANN%20DENG%20(1).jpg",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/o0DvNQKzSVm33pX5znT7_large_Copy%20of%20ANN%20DENG%20(1).jpg",
+            "width": 598,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/X64xwrAiTA7s6VYH90uR_full_Copy%20of%20ANN%20DENG%20(1).jpg",
+            "width": 2113,
+            "height": 1810
+          }
+        }
+      }
+    ],
     "person": [
       "recrhMG6f41h7ppYu"
     ],
@@ -11642,6 +12799,32 @@ export let PersonPositions = {
       "recXo2Wr1dwrRK7x7"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attDSBY64Sw9rASQD",
+        "url": "https://dl.airtable.com/9thChAkIQC2GPpSMLdE9_Copy%20of%20ETHAN%20CHUNG.jpg",
+        "filename": "Copy of ETHAN CHUNG.jpg",
+        "size": 1798207,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1v1943jsTa22pxRRHjIg_small_Copy%20of%20ETHAN%20CHUNG.jpg",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zUzJNGn3QnG4yY81vQ4F_large_Copy%20of%20ETHAN%20CHUNG.jpg",
+            "width": 524,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/EDmKM1PEQK0AGpVayP8C_full_Copy%20of%20ETHAN%20CHUNG.jpg",
+            "width": 2680,
+            "height": 2620
+          }
+        }
+      }
+    ],
     "person": [
       "recdFjZHoucW4IFIv"
     ],
@@ -11654,6 +12837,32 @@ export let PersonPositions = {
       "recgRpBKR0PGtPoaf"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attCmhSlHvpKOxRYJ",
+        "url": "https://dl.airtable.com/gjt9FKhQZireHCSPQ7js_ALEX%20NGUYEN_softcore.jpg",
+        "filename": "ALEX NGUYEN_softcore.jpg",
+        "size": 46715,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/DslvHUXYQ1qlIKRvrCaX_small_ALEX%20NGUYEN_softcore.jpg",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jFXp1biQvTHcFVsi8g8A_large_ALEX%20NGUYEN_softcore.jpg",
+            "width": 547,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/SDVJaTHeQbXvt63Mwupg_full_ALEX%20NGUYEN_softcore.jpg",
+            "width": 640,
+            "height": 599
+          }
+        }
+      }
+    ],
     "person": [
       "recVwOcszdvg6tMe0"
     ],
@@ -11669,7 +12878,33 @@ export let PersonPositions = {
     "person": [
       "recVwOcszdvg6tMe0"
     ],
-    "(You can't directly edit this column)": "Alex Nguyen - Director"
+    "(You can't directly edit this column)": "Alex Nguyen - Director",
+    "picture": [
+      {
+        "id": "attMjQlgtWX3Ewfl8",
+        "url": "https://dl.airtable.com/yXoRFYZRUChSyLzUCtbw_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+        "filename": "Screen Shot 2018-12-14 at 8.02.35 PM.png",
+        "size": 1521838,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/DWVq47huSigGpUPYIPSf_small_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/BIYQ3CEDSS2WIngnzms6_large_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+            "width": 528,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/QWPxyaPTECm4827dAl9w_full_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+            "width": 1166,
+            "height": 1130
+          }
+        }
+      }
+    ]
   },
   "recYTPiAo81l9sr4m": {
     "createdTime": "2018-12-01T18:48:30.000Z",
@@ -11683,6 +12918,32 @@ export let PersonPositions = {
       "recjkO7GVv8lcW4bh"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attESHfKc08BlMcbl",
+        "url": "https://dl.airtable.com/6Hh7tgZ2Sbmt1pbGLABs_Copy%20of%20AARON%20LEE.jpg",
+        "filename": "Copy of AARON LEE.jpg",
+        "size": 832115,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/qMXQUD9rTiqNAoSy877Q_small_Copy%20of%20AARON%20LEE.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/WEvqec1ySIAt6EdMuG8n_large_Copy%20of%20AARON%20LEE.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ZWhl8Y41RJGD7OyVFiIK_full_Copy%20of%20AARON%20LEE.jpg",
+            "width": 2000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "person": [
       "recDRIaIy2jNt16sT"
     ],
@@ -11695,6 +12956,32 @@ export let PersonPositions = {
       "recjkO7GVv8lcW4bh"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attEECp1KBCfPEKUQ",
+        "url": "https://dl.airtable.com/EeaNwsSBCrVrkuOImdEw_Copy%20of%20DAVID%20LUO.jpg",
+        "filename": "Copy of DAVID LUO.jpg",
+        "size": 202960,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/proqzPjQq6YnxxA8GjU6_small_Copy%20of%20DAVID%20LUO.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/FEaq6gETnX8xO0bCU1wC_large_Copy%20of%20DAVID%20LUO.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9duVT79uS9mhphy4H6iS_full_Copy%20of%20DAVID%20LUO.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
     "person": [
       "recTv6mS8KtePL6DL"
     ],
@@ -11707,6 +12994,32 @@ export let PersonPositions = {
       "recjkO7GVv8lcW4bh"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attvRyr4ram20VYy2",
+        "url": "https://dl.airtable.com/C1m1Xb3DQL6OtkftS4Pc_Copy%20of%20MATTHEW%20TRAN.JPG",
+        "filename": "Copy of MATTHEW TRAN.JPG",
+        "size": 2367925,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/86IkDaBGQYic3e7KfBCN_small_Copy%20of%20MATTHEW%20TRAN.JPG",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZFFLH1BpQWCvtKbAyzIB_large_Copy%20of%20MATTHEW%20TRAN.JPG",
+            "width": 773,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ngz5gDurQfm9e1dNj0iM_full_Copy%20of%20MATTHEW%20TRAN.JPG",
+            "width": 3000,
+            "height": 1987
+          }
+        }
+      }
+    ],
     "person": [
       "recSFNnBSOUul5AUA"
     ],
@@ -11719,6 +13032,32 @@ export let PersonPositions = {
       "recrBH3L0t7ODa1pJ"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attFewmKvu0nAnkuV",
+        "url": "https://dl.airtable.com/cdfAz6RS62QA64pZHcLg_RAYMOND%20TAN.jpg",
+        "filename": "RAYMOND TAN.jpg",
+        "size": 78259,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/y1jbzb8OQ1CcbTC35hc8_small_RAYMOND%20TAN.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/AeEVBveoS1yrATc4nQzg_large_RAYMOND%20TAN.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/poaVkt4qQdD1UCEzK0Zw_full_RAYMOND%20TAN.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "recTKI5NT6ZcmBJ5o"
     ],
@@ -11731,6 +13070,32 @@ export let PersonPositions = {
       "recrBH3L0t7ODa1pJ"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attHt1ZAIxgTdTNNs",
+        "url": "https://dl.airtable.com/ZMEuQvF8RNG6797OK6yg_charlie%20lu.jpg",
+        "filename": "charlie lu.jpg",
+        "size": 56538,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/kDLwPZ2yToihxQ8FjpJK_small_charlie%20lu.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/AOxj1InsQvKNs6wYDKBc_large_charlie%20lu.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/kwMwExKLTVSLzVQtSBD9_full_charlie%20lu.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "rec1IyA5qPvd7Meqs"
     ],
@@ -11743,6 +13108,32 @@ export let PersonPositions = {
       "recs4Sdt4z1y0s5eC"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attlXgSYA4fAk4o8h",
+        "url": "https://dl.airtable.com/XmEe3W2xR7q8tHae2jE3_Copy%20of%20KIM%20AMBROCIO%20(1).jpg",
+        "filename": "Copy of KIM AMBROCIO (1).jpg",
+        "size": 382265,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/0NSv4VBTJeaUJIoLBSmg_small_Copy%20of%20KIM%20AMBROCIO%20(1).jpg",
+            "width": 39,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/tr3oBOQlQ7WligCjzVbw_large_Copy%20of%20KIM%20AMBROCIO%20(1).jpg",
+            "width": 555,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9qkbYOm5QCEktzEEg82Q_full_Copy%20of%20KIM%20AMBROCIO%20(1).jpg",
+            "width": 3000,
+            "height": 2768
+          }
+        }
+      }
+    ],
     "person": [
       "recewlyjxE33ebDly"
     ],
@@ -11755,6 +13146,32 @@ export let PersonPositions = {
       "recs4Sdt4z1y0s5eC"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attekJLMWiqDa77MO",
+        "url": "https://dl.airtable.com/tlexfEzS6gWPwHKS5gjQ_Copy%20of%20GILLY%20NORTON.JPG",
+        "filename": "Copy of GILLY NORTON.JPG",
+        "size": 2385930,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/QzTFvoVUSPLWmkrBbWtP_small_Copy%20of%20GILLY%20NORTON.JPG",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/bEgSAEnJTWyKue36T7al_large_Copy%20of%20GILLY%20NORTON.JPG",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/RVJEMJgdTQKjdInMoSvP_full_Copy%20of%20GILLY%20NORTON.JPG",
+            "width": 2002,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "person": [
       "recjROCBji73jyweF"
     ],
@@ -11767,6 +13184,32 @@ export let PersonPositions = {
       "rec7bcuYPZkO20JSj"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbUTnwreHYVpf3B",
+        "url": "https://dl.airtable.com/nDU9Wyp7R2DnhQYINpqP_DSC_1200.jpg",
+        "filename": "DSC_1200.jpg",
+        "size": 1532763,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/49nFAuZYSUuqiSXukmQA_small_DSC_1200.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sZUu0EEySe6DDfCoE3En_large_DSC_1200.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/4LoXZg5eS5W72YpOdPzH_full_DSC_1200.jpg",
+            "width": 2000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "person": [
       "recFEcamXUNR9EndJ"
     ],
@@ -11779,6 +13222,32 @@ export let PersonPositions = {
       "rec7bcuYPZkO20JSj"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbwsIJ4J7RsqxIH",
+        "url": "https://dl.airtable.com/5QneWSTySt6EndSv1HY4_DSC_0082.jpg",
+        "filename": "DSC_0082.jpg",
+        "size": 1437482,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/tRouftUQlGJjJik6bAEM_small_DSC_0082.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/0Txi4HJzRsu7jvH3EBrG_large_DSC_0082.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qYKAC7nJQIqO6BlIuVyD_full_DSC_0082.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
     "person": [
       "recsE4lwZeEnpsefV"
     ],
@@ -11791,6 +13260,32 @@ export let PersonPositions = {
       "rec7bcuYPZkO20JSj"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attqQDtGl2etHyjXa",
+        "url": "https://dl.airtable.com/nrke3eLPQf26imJCpJo0_DSC_0207%20(1).jpg",
+        "filename": "DSC_0207 (1).jpg",
+        "size": 126842,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/928RQl0zSgmdR5sJQLrb_small_DSC_0207%20(1).jpg",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/dQMvCKv4Q5CPlEKTxWCw_large_DSC_0207%20(1).jpg",
+            "width": 512,
+            "height": 1097
+          },
+          "full": {
+            "url": "https://dl.airtable.com/f1Kfn9P1Rqm1kwgzIOJd_full_DSC_0207%20(1).jpg",
+            "width": 1097,
+            "height": 2350
+          }
+        }
+      }
+    ],
     "person": [
       "rec6WvmQSMI1O6Y4Q"
     ],
@@ -11803,6 +13298,32 @@ export let PersonPositions = {
       "rec4US2ZzOygzmLka"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attOHL0vqzVXtiKWN",
+        "url": "https://dl.airtable.com/oWurLuMNQYqwBrqXOtZX_Copy%20of%20ANGIE%20LIAO.jpg",
+        "filename": "Copy of ANGIE LIAO.jpg",
+        "size": 464035,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/rZ1Kj8eEQdKzHhfjsez3_small_Copy%20of%20ANGIE%20LIAO.jpg",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jMqQ7XgnSvK7XHMFL0rR_large_Copy%20of%20ANGIE%20LIAO.jpg",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WNr8qLuQVKTS8YzoAlwJ_full_Copy%20of%20ANGIE%20LIAO.jpg",
+            "width": 2400,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "person": [
       "recGX7657yT6j0Wby"
     ],
@@ -11815,6 +13336,32 @@ export let PersonPositions = {
       "rec4US2ZzOygzmLka"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attBoqhCjteuioP4Z",
+        "url": "https://dl.airtable.com/VBPQbdmQSEKakUSkRz5o_Copy%20of%20CHRISTY%20TAK%20(1).jpg",
+        "filename": "Copy of CHRISTY TAK (1).jpg",
+        "size": 43176,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Oc2FT79WQZWfSz2t3COW_small_Copy%20of%20CHRISTY%20TAK%20(1).jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/t2PuiKZRQ16mOmuUV3A4_large_Copy%20of%20CHRISTY%20TAK%20(1).jpg",
+            "width": 512,
+            "height": 760
+          },
+          "full": {
+            "url": "https://dl.airtable.com/XPfclHsSRJ2CHZgwHcvC_full_Copy%20of%20CHRISTY%20TAK%20(1).jpg",
+            "width": 552,
+            "height": 819
+          }
+        }
+      }
+    ],
     "person": [
       "recZNnd0MQdVLA86O"
     ],
@@ -11827,6 +13374,32 @@ export let PersonPositions = {
       "rec4US2ZzOygzmLka"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attoo73pzotaGnEF8",
+        "url": "https://dl.airtable.com/U8JmXhp3RLeyMo5SUSSX_Copy%20of%20LOUISA%20ZHANG.jpg",
+        "filename": "Copy of LOUISA ZHANG.jpg",
+        "size": 181970,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/qMrJYMwbTyeLUaTZVnwS_small_Copy%20of%20LOUISA%20ZHANG.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/WewXjP1mTIOb4zdYuOCq_large_Copy%20of%20LOUISA%20ZHANG.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9UIKhAwLQzeaPcOk8tVt_full_Copy%20of%20LOUISA%20ZHANG.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
     "person": [
       "recoXhzEe3CSWpV2b"
     ],
@@ -11839,10 +13412,36 @@ export let PersonPositions = {
       "recTQ0iPlkF4HQMsV"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att2DJvwB4uBe7DUo",
+        "url": "https://dl.airtable.com/bzsBLYapSnuIOodSaAiR_ANDY%20VENDRELL%20(1).jpg",
+        "filename": "ANDY VENDRELL (1).jpg",
+        "size": 53232,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/BlnKq22LSaSfKkNFXPqJ_small_ANDY%20VENDRELL%20(1).jpg",
+            "width": 32,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/gZp3yBJbRZCWtiefk0Mj_large_ANDY%20VENDRELL%20(1).jpg",
+            "width": 512,
+            "height": 582
+          },
+          "full": {
+            "url": "https://dl.airtable.com/TkBWQ3ATEyhnLmiHTsmA_full_ANDY%20VENDRELL%20(1).jpg",
+            "width": 640,
+            "height": 728
+          }
+        }
+      }
+    ],
     "person": [
       "recyrDnDQgBygPkQK"
     ],
-    "(You can't directly edit this column)": "Andy QV - Director"
+    "(You can't directly edit this column)": "Andy Vendrell - Director"
   },
   "recZA3W3bUfL9Plni": {
     "createdTime": "2018-12-01T19:02:10.000Z",
@@ -11851,6 +13450,32 @@ export let PersonPositions = {
       "recD5q4uJAEPnXQ8x"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att9lxTPDJy9TUogU",
+        "url": "https://dl.airtable.com/6bn0Dx6ZQm6c3eKfjlnJ_CINA%20SHAHABI.JPG",
+        "filename": "CINA SHAHABI.JPG",
+        "size": 277698,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/IB834Ph2QF6rJN8pJgcG_small_CINA%20SHAHABI.JPG",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/lhpPUKhTe5UgvSRodeTg_large_CINA%20SHAHABI.JPG",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/OhAsd4QKS913hBAGK3tQ_full_CINA%20SHAHABI.JPG",
+            "width": 890,
+            "height": 1334
+          }
+        }
+      }
+    ],
     "person": [
       "recoGBSQHEEWuL1LU"
     ],
@@ -11863,6 +13488,32 @@ export let PersonPositions = {
       "recD5q4uJAEPnXQ8x"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attMyk4UirEKhu1XT",
+        "url": "https://dl.airtable.com/G1s5Nyd7SIWidxMXrtX6_AIDAN%20KAHNG.png",
+        "filename": "AIDAN KAHNG.png",
+        "size": 1550323,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/kPDquN9SvKnqCnpp4jlf_small_AIDAN%20KAHNG.png",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Gs1ttn1oQ1uqKqJaxEGH_large_AIDAN%20KAHNG.png",
+            "width": 512,
+            "height": 546
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Rh24fnFkSKjpPWty3y15_full_AIDAN%20KAHNG.png",
+            "width": 1674,
+            "height": 1785
+          }
+        }
+      }
+    ],
     "person": [
       "recrVIrwkcLpyN0l7"
     ],
@@ -11875,6 +13526,32 @@ export let PersonPositions = {
       "recD5q4uJAEPnXQ8x"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att3LhVyuwqRH7gmY",
+        "url": "https://dl.airtable.com/rwubuhmPTfSpbPrtoDGY_Copy%20of%20ERIC%20WENG.jpg",
+        "filename": "Copy of ERIC WENG.jpg",
+        "size": 140333,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/XpuetcWkQoCOefx0PSN0_small_Copy%20of%20ERIC%20WENG.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/pETgHl0QaWaMU0pLoWAQ_large_Copy%20of%20ERIC%20WENG.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WYOtNkRSc2VMqY8HmX7A_full_Copy%20of%20ERIC%20WENG.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "recUyNdz4AOu637Xx"
     ],
@@ -11887,6 +13564,32 @@ export let PersonPositions = {
       "recvYtPBSrT8l3Oel"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attaicv7IFKtFX3ML",
+        "url": "https://dl.airtable.com/5lMlQk96RpO4ClETwlBg_Copy%20of%20JULIE%20LIU.jpg",
+        "filename": "Copy of JULIE LIU.jpg",
+        "size": 187109,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Q4CuOsAhTa2bmOOR32H1_small_Copy%20of%20JULIE%20LIU.jpg",
+            "width": 46,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/VWpqA7hoRYqTfgkabIM2_large_Copy%20of%20JULIE%20LIU.jpg",
+            "width": 660,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/OcJBUJBzRVWlfmnCEnHP_full_Copy%20of%20JULIE%20LIU.jpg",
+            "width": 1237,
+            "height": 960
+          }
+        }
+      }
+    ],
     "person": [
       "recWXNq71YJeR9DzG"
     ],
@@ -11899,6 +13602,32 @@ export let PersonPositions = {
       "recvYtPBSrT8l3Oel"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att9fgWfFTFNpiOPL",
+        "url": "https://dl.airtable.com/EEzreGlJTIWySEYD3nh8_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+        "filename": "Copy of KATHERINE BIGELOW (1).jpg",
+        "size": 60885,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fSghR8JFQCUyaY7HlwRC_small_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/5fcfs91eRySXJ9sDHT9Z_large_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+            "width": 516,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qKJmnK7TaKKWuBXQJB1j_full_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+            "width": 640,
+            "height": 635
+          }
+        }
+      }
+    ],
     "person": [
       "recSfTGr4IXt0DH41"
     ],
@@ -11911,6 +13640,32 @@ export let PersonPositions = {
       "recvYtPBSrT8l3Oel"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attLuwnxfQyfeTIXc",
+        "url": "https://dl.airtable.com/1uENnGCITIKDsiX8zLjQ_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+        "filename": "Copy of BRANDON PARK COY.jpg",
+        "size": 107229,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1I6xPuTQQ7aGfIgHsBNj_small_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QtJoRIfTYKvyVdq242Qy_large_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+            "width": 623,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/zMtzeTLSR6iNCkRBKPzc_full_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+            "width": 1041,
+            "height": 856
+          }
+        }
+      }
+    ],
     "person": [
       "recYmFqa9v3or2Cp3"
     ],
@@ -11923,6 +13678,32 @@ export let PersonPositions = {
       "recbo1kdUheKuzZyA"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attkFzWklIwpqWzBB",
+        "url": "https://dl.airtable.com/bD8utUo1RnOe6s8bsFMb_TRISHA%20GIRON%20(1).jpg",
+        "filename": "TRISHA GIRON (1).jpg",
+        "size": 28730,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/hJBv40jMSB6uLRFwvpGU_small_TRISHA%20GIRON%20(1).jpg",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/av7up4xNQmCKTBWIXRr6_large_TRISHA%20GIRON%20(1).jpg",
+            "width": 545,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/nMxG0ZgXQIqreohI0I5C_full_TRISHA%20GIRON%20(1).jpg",
+            "width": 619,
+            "height": 581
+          }
+        }
+      }
+    ],
     "person": [
       "recNxGjKy27HT3XML"
     ],
@@ -11935,10 +13716,1644 @@ export let PersonPositions = {
       "recbo1kdUheKuzZyA"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attnG9yDVuWmN2xWd",
+        "url": "https://dl.airtable.com/0TMxx7KtTgyXAzQJ8Pev_VIET%20TRUONG.jpg",
+        "filename": "VIET TRUONG.jpg",
+        "size": 48912,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Wn9LXzxMSqwfuLN4VI2Q_small_VIET%20TRUONG.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/FcG5y3rSeyx1sv4XOWS9_large_VIET%20TRUONG.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/dQIuLdwVSGqk3sxOfQVn_full_VIET%20TRUONG.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
     "person": [
       "rechTc6alNI294bLQ"
     ],
     "(You can't directly edit this column)": "Viet Truong - Director"
+  },
+  "rec6TDEsRxOdpUDDB": {
+    "createdTime": "2018-12-12T09:47:03.000Z",
+    "id": "rec6TDEsRxOdpUDDB",
+    "group": [
+      "recpQI3J6HKu6NObe"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attiJpo6Um0DexhKq",
+        "url": "https://dl.airtable.com/9vXYpr8Ro6pGmrT0D7cn_ASHLEY%20SONG.jpg",
+        "filename": "ASHLEY SONG.jpg",
+        "size": 71540,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/9wfawVIFTWu9rl9LAPb0_small_ASHLEY%20SONG.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/opkxaOx0Rz6ku0BMWsR9_large_ASHLEY%20SONG.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/y5LDMpLDQBW6hPFPf4IX_full_ASHLEY%20SONG.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rece0DANFC7ouQRn4"
+    ],
+    "(You can't directly edit this column)": "Ashley Song - Director"
+  },
+  "recrhqq26IXzcwk22": {
+    "createdTime": "2018-12-12T09:52:34.000Z",
+    "id": "recrhqq26IXzcwk22",
+    "group": [
+      "recpQI3J6HKu6NObe"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attq8mFABVCU4a3Ya",
+        "url": "https://dl.airtable.com/xatQj1NZT9St2dG21ETy_MAX%20WANG%20(1).jpg",
+        "filename": "MAX WANG (1).jpg",
+        "size": 101265,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/P2Bd9VmhQGW4FF0Qg9EX_small_MAX%20WANG%20(1).jpg",
+            "width": 72,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/AKjsVSnKQDmokdTQd1sK_large_MAX%20WANG%20(1).jpg",
+            "width": 905,
+            "height": 453
+          },
+          "full": {
+            "url": "https://dl.airtable.com/dZ9MjuRCRmezrJ7YybKz_full_MAX%20WANG%20(1).jpg",
+            "width": 905,
+            "height": 453
+          }
+        }
+      }
+    ],
+    "person": [
+      "recijMCIqUe2QR7Ez"
+    ],
+    "(You can't directly edit this column)": "Max Wang - Director"
+  },
+  "recFHUd9aYKQpHLxs": {
+    "createdTime": "2018-12-12T09:57:15.000Z",
+    "id": "recFHUd9aYKQpHLxs",
+    "group": [
+      "rec8RsWuzGriceaKU"
+    ],
+    "positionTitle": "Director",
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "(You can't directly edit this column)": "Alex Nguyen - Director",
+    "picture": [
+      {
+        "id": "attT5HPvITYleSQpP",
+        "url": "https://dl.airtable.com/LYc8H1c0SyGJNFNZ0J8s_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+        "filename": "Screen Shot 2018-12-14 at 7.58.23 PM.png",
+        "size": 1437277,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/oZAF5apsSlKVhdXmUMgB_small_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/JdcPC3KTR12XzcblVLHT_large_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+            "width": 537,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/sY9YiHTkS7aBxLG7rmIa_full_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+            "width": 1174,
+            "height": 1120
+          }
+        }
+      }
+    ]
+  },
+  "recp7OFx2ofzhUvpO": {
+    "createdTime": "2018-12-12T10:04:50.000Z",
+    "id": "recp7OFx2ofzhUvpO",
+    "group": [
+      "recokuRWqWHMaWmuE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attWkxLQLHvFxEYpf",
+        "url": "https://dl.airtable.com/d4IyIIfQQp6NuiXxCFhj_sophia%20morgan.jpg",
+        "filename": "sophia morgan.jpg",
+        "size": 56033,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/sZq0oS2gSLN6LRuOegJQ_small_sophia%20morgan.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/CxjktqHqQNCa3h1Y8SS0_large_sophia%20morgan.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/rdnY6HEDQNKI0cL8wEMM_full_sophia%20morgan.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recy7KgvvPeMKOaTI"
+    ],
+    "(You can't directly edit this column)": "Sophia Morgan - Director"
+  },
+  "recwsF8F7AZazJcpK": {
+    "createdTime": "2018-12-12T10:06:32.000Z",
+    "id": "recwsF8F7AZazJcpK",
+    "group": [
+      "recokuRWqWHMaWmuE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attxC6iUNJs8vtt2M",
+        "url": "https://dl.airtable.com/XDy4EHeZT5SKrGxiuZ2c_julia%20ting%20(1).jpg",
+        "filename": "julia ting (1).jpg",
+        "size": 51205,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/QXWNQQwsSFSxV8V9NweW_small_julia%20ting%20(1).jpg",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QxF686gQ4GzPDw74oD8y_large_julia%20ting%20(1).jpg",
+            "width": 512,
+            "height": 651
+          },
+          "full": {
+            "url": "https://dl.airtable.com/YBNGOTbpR76LAeB8Z5TM_full_julia%20ting%20(1).jpg",
+            "width": 588,
+            "height": 748
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqlH5BSDJwdW67r"
+    ],
+    "(You can't directly edit this column)": "Julia Ting - Director"
+  },
+  "recuJmSSiRcm4CM4o": {
+    "createdTime": "2018-12-12T10:08:49.000Z",
+    "id": "recuJmSSiRcm4CM4o",
+    "group": [
+      "recokuRWqWHMaWmuE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attwAIgccI1eIPkAv",
+        "url": "https://dl.airtable.com/yNSTzi5BRpOR6GyOHIhL_JOSH%20FITCH.jpg",
+        "filename": "JOSH FITCH.jpg",
+        "size": 68092,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KUoF2qaLRmmXSlkAZiM3_small_JOSH%20FITCH.jpg",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/s0X0YZCtRquOEeRnreya_large_JOSH%20FITCH.jpg",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://dl.airtable.com/50l0o2VETzGyMQWIVgWm_full_JOSH%20FITCH.jpg",
+            "width": 750,
+            "height": 937
+          }
+        }
+      }
+    ],
+    "person": [
+      "recl8n4nA3VSuwVhG"
+    ],
+    "(You can't directly edit this column)": "Joshua Fitch - Director"
+  },
+  "recG7YEQJad7XCRdn": {
+    "createdTime": "2018-12-12T10:13:25.000Z",
+    "id": "recG7YEQJad7XCRdn",
+    "group": [
+      "recooewIvmz1cLLO8"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attSzB7JtLW6vgqbv",
+        "url": "https://dl.airtable.com/ht8mGcjQYO4BMKpeXmmw_MAX%20YEO.jpg",
+        "filename": "MAX YEO.jpg",
+        "size": 47244,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wC6W4zmnTbyfDdhd4RxD_small_MAX%20YEO.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/os7IrwxoTAamiraaOmtH_large_MAX%20YEO.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9KaopF0PRC0vE0WlVmsD_full_MAX%20YEO.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuKXXmoyxpZQscF"
+    ],
+    "(You can't directly edit this column)": "Max Yeo - Director"
+  },
+  "rec729ICzYrnaniKz": {
+    "createdTime": "2018-12-12T10:16:31.000Z",
+    "id": "rec729ICzYrnaniKz",
+    "group": [
+      "rec6O0XYNXZk0TUSH"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attYh7B630dvajeav",
+        "url": "https://dl.airtable.com/7M5qufRCqnDKEQf1k9cw_JOSH%20FITCH.jpg",
+        "filename": "JOSH FITCH.jpg",
+        "size": 68092,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/TCZQopncTa2tTAaw80I2_small_JOSH%20FITCH.jpg",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/x2fk80UVTwWWu2eGrIl8_large_JOSH%20FITCH.jpg",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6kFbXmwbQ8O5w7f6UfxO_full_JOSH%20FITCH.jpg",
+            "width": 750,
+            "height": 937
+          }
+        }
+      }
+    ],
+    "person": [
+      "recl8n4nA3VSuwVhG"
+    ],
+    "(You can't directly edit this column)": "Joshua Fitch - Director"
+  },
+  "recv0StHKySgIjd2X": {
+    "createdTime": "2018-12-12T10:17:25.000Z",
+    "id": "recv0StHKySgIjd2X",
+    "group": [
+      "rec6O0XYNXZk0TUSH"
+    ],
+    "positionTitle": "Director",
+    "person": [
+      "recijMCIqUe2QR7Ez"
+    ],
+    "(You can't directly edit this column)": "Max Wang - Director"
+  },
+  "recsGq7TKmJ1ie15w": {
+    "createdTime": "2018-12-12T10:17:58.000Z",
+    "id": "recsGq7TKmJ1ie15w",
+    "group": [
+      "rec6O0XYNXZk0TUSH"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "atttn6W2iMJxPK9gy",
+        "url": "https://dl.airtable.com/oWJrr9PrTVihiAdhbArh_ASHLEY%20SONG.jpg",
+        "filename": "ASHLEY SONG.jpg",
+        "size": 71540,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/At7CSYvRmuPSfYmt6m8E_small_ASHLEY%20SONG.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/gDpYCuiKSy4sBnRBmKqn_large_ASHLEY%20SONG.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Lxq7wR8ZRe7xjmwkH9uU_full_ASHLEY%20SONG.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rece0DANFC7ouQRn4"
+    ],
+    "(You can't directly edit this column)": "Ashley Song - Director"
+  },
+  "recXL7dzcT7j5sFXI": {
+    "createdTime": "2018-12-12T10:19:03.000Z",
+    "id": "recXL7dzcT7j5sFXI",
+    "group": [
+      "recooewIvmz1cLLO8"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attiIfebDA1g1RON6",
+        "url": "https://dl.airtable.com/zrvwWH1LQ9O9TOyl7cRQ_KIRK%20LA%20(1).jpg",
+        "filename": "KIRK LA (1).jpg",
+        "size": 109527,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/AKOQpq68RiaPIKIjuCVr_small_KIRK%20LA%20(1).jpg",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/aaEnB3TOQE6b6gci9NJ7_large_KIRK%20LA%20(1).jpg",
+            "width": 619,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WvLl5k6yTw68j4bDHgyn_full_KIRK%20LA%20(1).jpg",
+            "width": 1403,
+            "height": 1161
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4UfhaS3ZcsKOfU"
+    ],
+    "(You can't directly edit this column)": "Kirk La - Director"
+  },
+  "rec9bpqYYLuK3xFb6": {
+    "createdTime": "2018-12-12T10:21:05.000Z",
+    "id": "rec9bpqYYLuK3xFb6",
+    "group": [
+      "recooewIvmz1cLLO8"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attd7wrgQ4gTIQOMl",
+        "url": "https://dl.airtable.com/Ss9vg3GRGHWSCUvtLqRw_SUHAAS%20GARRE.jpg",
+        "filename": "SUHAAS GARRE.jpg",
+        "size": 188663,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/M62Fa7rROWGYriYUuJFN_small_SUHAAS%20GARRE.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/oygOxyrXRfquIWs8qDEu_large_SUHAAS%20GARRE.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/UHWivrVVTKy3Rd24SSSN_full_SUHAAS%20GARRE.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "person": [
+      "recDpgNj1OCRCsflf"
+    ],
+    "(You can't directly edit this column)": "Suhaas Garre - Director"
+  },
+  "recyheH136WhJJv72": {
+    "createdTime": "2018-12-12T10:25:17.000Z",
+    "id": "recyheH136WhJJv72",
+    "group": [
+      "recgGEOokEasFJJkn"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbsOEuC4V0jv2Kg",
+        "url": "https://dl.airtable.com/PjJumsFgSFeZi4jgFYjC_CARI%20GAN.jpg",
+        "filename": "CARI GAN.jpg",
+        "size": 152714,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/YmNbhXjQH6NAq6hPCzg8_small_CARI%20GAN.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/f6UWJNc8SkWqzsv93SiU_large_CARI%20GAN.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Y8cGcdJ1R8ef4ple65Z5_full_CARI%20GAN.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "person": [
+      "recxwGyHwoJImSoPP"
+    ],
+    "(You can't directly edit this column)": "Cari Gan - Director"
+  },
+  "recomZlm6yeXnlo6G": {
+    "createdTime": "2018-12-12T10:27:58.000Z",
+    "id": "recomZlm6yeXnlo6G",
+    "group": [
+      "recgGEOokEasFJJkn"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attJOIg5m5VREtcER",
+        "url": "https://dl.airtable.com/hXplfueRWWWZBSTh1NPA_800_1995Edit.jpg",
+        "filename": "800_1995Edit.jpg",
+        "size": 3085512,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/lTuR4f4SvO8LncC8AHXw_small_800_1995Edit.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QoUT2uZQGOtAlpY6OO2k_large_800_1995Edit.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/cxc2Jf5QgebhN55QzwLq_full_800_1995Edit.jpg",
+            "width": 2002,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recb1hKgi5bRfTlH9"
+    ],
+    "(You can't directly edit this column)": "Wenhao Liao - Director"
+  },
+  "reciObpc8gPiKo1In": {
+    "createdTime": "2018-12-12T10:40:26.000Z",
+    "id": "reciObpc8gPiKo1In",
+    "group": [
+      "recFJhX3DlVrqJRRn"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attJbSaIoLKCHk31Q",
+        "url": "https://dl.airtable.com/Def7NxgQ16e6AxK3kYog_sean%20zhu%20(1).jpg",
+        "filename": "sean zhu (1).jpg",
+        "size": 30543,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/NJxJgHY7QTypfd2EAPGk_small_sean%20zhu%20(1).jpg",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/avJ1Th4RQQqr5iRCIWue_large_sean%20zhu%20(1).jpg",
+            "width": 634,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/uvEQwCNTMGs3Y40XpAbk_full_sean%20zhu%20(1).jpg",
+            "width": 640,
+            "height": 517
+          }
+        }
+      }
+    ],
+    "person": [
+      "recxAxAFK4ULZWdyr"
+    ],
+    "(You can't directly edit this column)": "Sean Zhu - Director"
+  },
+  "recnQ9X5cMaRnFV53": {
+    "createdTime": "2018-12-12T10:42:23.000Z",
+    "id": "recnQ9X5cMaRnFV53",
+    "group": [
+      "recFJhX3DlVrqJRRn"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attK6XjqECe32jJmo",
+        "url": "https://dl.airtable.com/tYDpLQmWTbOUE9QFc336_WHITNEY%20LI.jpg",
+        "filename": "WHITNEY LI.jpg",
+        "size": 91715,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wk9s8HPtSjyAjuJdOaqx_small_WHITNEY%20LI.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/JRpTZmYESJybMaQUeAud_large_WHITNEY%20LI.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/wUlWntBSlSW1vmn1rMAA_full_WHITNEY%20LI.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recDSwdrsXFswCDay"
+    ],
+    "(You can't directly edit this column)": "Whitney Li - Director"
+  },
+  "recD42sX1oii6b3so": {
+    "createdTime": "2018-12-12T10:43:34.000Z",
+    "id": "recD42sX1oii6b3so",
+    "group": [
+      "recFJhX3DlVrqJRRn"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att5N3S6w3Z65CKaC",
+        "url": "https://dl.airtable.com/aWmesPGBTom7L8PmvuXH_DANIEL%20RA.jpg",
+        "filename": "DANIEL RA.jpg",
+        "size": 106498,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/IoOODmTdyfZ02JPujQmw_small_DANIEL%20RA.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/NEBCwWsfR1yuHKUwS27O_large_DANIEL%20RA.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BOxelBoBRoiUnvD3BhaK_full_DANIEL%20RA.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec8KeceBsdwsLKzT"
+    ],
+    "(You can't directly edit this column)": "Daniel Ra - Director"
+  },
+  "recjRbgiHRG5uxASL": {
+    "createdTime": "2018-12-12T10:49:15.000Z",
+    "id": "recjRbgiHRG5uxASL",
+    "group": [
+      "recGRSa5DVs30Mink"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attMEfBM8N6oiNvHy",
+        "url": "https://dl.airtable.com/qrhvfZW2SSGqPItIB18Q_DANIEL%20RA.jpg",
+        "filename": "DANIEL RA.jpg",
+        "size": 106498,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1KevpXs7R9aTpyPYsriu_small_DANIEL%20RA.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hvvo3OjkRq28thx519Bv_large_DANIEL%20RA.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WO4kcFciSdW3gjBwC96Y_full_DANIEL%20RA.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec8KeceBsdwsLKzT"
+    ],
+    "(You can't directly edit this column)": "Daniel Ra - Director"
+  },
+  "recZiOgSU5BtubSPr": {
+    "createdTime": "2018-12-12T10:49:55.000Z",
+    "id": "recZiOgSU5BtubSPr",
+    "group": [
+      "recGRSa5DVs30Mink"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att3LwJj58pVKpvrs",
+        "url": "https://dl.airtable.com/zpwVLghmSNqQ4YJK4qvg_shirley%20li%20(1).jpg",
+        "filename": "shirley li (1).jpg",
+        "size": 37891,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/IDZMINxCSHOXWgGBVU0c_small_shirley%20li%20(1).jpg",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/1UukqicNQruBf8ZwZEex_large_shirley%20li%20(1).jpg",
+            "width": 603,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/MUVig2EcTpu9JSazjMBv_full_shirley%20li%20(1).jpg",
+            "width": 640,
+            "height": 543
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLibXAEVugrELPu"
+    ],
+    "(You can't directly edit this column)": "Shirley Li - Director"
+  },
+  "rec5AT2Js0I76BIay": {
+    "createdTime": "2018-12-12T10:51:53.000Z",
+    "id": "rec5AT2Js0I76BIay",
+    "group": [
+      "recGRSa5DVs30Mink"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attQOzgkVARpOwAOj",
+        "url": "https://dl.airtable.com/MaiS8V49RuqIis3F7jkA_jenny%20huang%20(1).jpg",
+        "filename": "jenny huang (1).jpg",
+        "size": 47516,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/cWqXCDHTUCQy2En8GimC_small_jenny%20huang%20(1).jpg",
+            "width": 33,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/EbFvGc1tQRecHWfAZzB9_large_jenny%20huang%20(1).jpg",
+            "width": 512,
+            "height": 556
+          },
+          "full": {
+            "url": "https://dl.airtable.com/06BJiRhTb6wb4CjhHTrw_full_jenny%20huang%20(1).jpg",
+            "width": 640,
+            "height": 695
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuFxKKWTjsUX6Qj"
+    ],
+    "(You can't directly edit this column)": "Jenny Huang - Director"
+  },
+  "recv5f5qOib52MxmG": {
+    "createdTime": "2018-12-12T10:53:53.000Z",
+    "id": "recv5f5qOib52MxmG",
+    "group": [
+      "recWshCGg4xYnnBfP"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att46mdniS7mnbk57",
+        "url": "https://dl.airtable.com/sQ25Y6ppR1iNN5RjsHtW_KEITA%20YADA.jpg",
+        "filename": "KEITA YADA.jpg",
+        "size": 93013,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Ck13uPVTMWDgRzItCs1D_small_KEITA%20YADA.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ztQzaYhQRPehkhQwUai8_large_KEITA%20YADA.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/JuhuTBkIR8mIH2Y4mIRb_full_KEITA%20YADA.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recXg1KTKckQDUF8R"
+    ],
+    "(You can't directly edit this column)": "Keita Yada - Director"
+  },
+  "recc8j1XXNzreVtbf": {
+    "createdTime": "2018-12-12T10:56:36.000Z",
+    "id": "recc8j1XXNzreVtbf",
+    "group": [
+      "recWshCGg4xYnnBfP"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attA0xfPBBmTjccV4",
+        "url": "https://dl.airtable.com/s8FIfBAQxyI4uK0njf3D_DANIEL%20RA.jpg",
+        "filename": "DANIEL RA.jpg",
+        "size": 106498,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/asjRbaKLTkWqAS17XDm8_small_DANIEL%20RA.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/7D7dpb1TQTqrnj4JWEiz_large_DANIEL%20RA.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Vj77n4YgSTuYcB1OVztC_full_DANIEL%20RA.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec8KeceBsdwsLKzT"
+    ],
+    "(You can't directly edit this column)": "Daniel Ra - Director"
+  },
+  "recVoZppQ8ADyeXMM": {
+    "createdTime": "2018-12-12T10:57:03.000Z",
+    "id": "recVoZppQ8ADyeXMM",
+    "group": [
+      "recWshCGg4xYnnBfP"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attOlH53DacReme19",
+        "url": "https://dl.airtable.com/h1en1rGtS2uB0CpIv90x_jenny%20huang%20(1).jpg",
+        "filename": "jenny huang (1).jpg",
+        "size": 47516,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KY1JmNKbTj67Y7n7pbEG_small_jenny%20huang%20(1).jpg",
+            "width": 33,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/kIDdOFowTqiq25KhMzSm_large_jenny%20huang%20(1).jpg",
+            "width": 512,
+            "height": 556
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Bf5XZuNTiSD5CjZI4WUM_full_jenny%20huang%20(1).jpg",
+            "width": 640,
+            "height": 695
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuFxKKWTjsUX6Qj"
+    ],
+    "(You can't directly edit this column)": "Jenny Huang - Director"
+  },
+  "recUEokKatoDRFpsz": {
+    "createdTime": "2018-12-12T23:17:43.000Z",
+    "id": "recUEokKatoDRFpsz",
+    "group": [
+      "recDV8rL7zVa2J6l5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attdb74vIgrcLxff8",
+        "url": "https://dl.airtable.com/1U6Ft7bzSBGai2kx8zA4_AC%20DELA%20PAZ%20(1).jpg",
+        "filename": "AC DELA PAZ (1).jpg",
+        "size": 42612,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/0eFQIxHtR4GBS6irey8b_small_AC%20DELA%20PAZ%20(1).jpg",
+            "width": 57,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/HHZ5T9F4QHiYmOkNVLoe_large_AC%20DELA%20PAZ%20(1).jpg",
+            "width": 812,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/LXT1l52mRzK08vZVAHkD_full_AC%20DELA%20PAZ%20(1).jpg",
+            "width": 871,
+            "height": 549
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec2nvAlUafPaALoo"
+    ],
+    "(You can't directly edit this column)": "AC Dela Paz - Director"
+  },
+  "recP4u0zKITznz1cW": {
+    "createdTime": "2018-12-12T23:19:41.000Z",
+    "id": "recP4u0zKITznz1cW",
+    "group": [
+      "recDV8rL7zVa2J6l5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbmb0qXWL92F1vV",
+        "url": "https://dl.airtable.com/YP4AU0PoQ2u0KFddsbZi_MICHAEL%20CHEN.jpg",
+        "filename": "MICHAEL CHEN.jpg",
+        "size": 98855,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/qPz7tuNARO6l7P5tQ6Nm_small_MICHAEL%20CHEN.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/5ysdYVwbTiSxaqcW2BvH_large_MICHAEL%20CHEN.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Ecu5VD3vRNGL66SQOmC6_full_MICHAEL%20CHEN.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recvmimrks8m7hMNB"
+    ],
+    "(You can't directly edit this column)": "Michael Chen - Director"
+  },
+  "rec9D9NphXY0xYUI1": {
+    "createdTime": "2018-12-12T23:21:47.000Z",
+    "id": "rec9D9NphXY0xYUI1",
+    "group": [
+      "recDV8rL7zVa2J6l5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attICBTbvkcuOUbgY",
+        "url": "https://dl.airtable.com/ouQ4F4OQ2wrtmZtVETgS_WILFRED%20SALACUP.jpg",
+        "filename": "WILFRED SALACUP.jpg",
+        "size": 55211,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/2ZEmRtLkTsmI434zu4tp_small_WILFRED%20SALACUP.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/qgFG0jIoQUKTkW5UUAOs_large_WILFRED%20SALACUP.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BMS7AkX5SyW0KazER80O_full_WILFRED%20SALACUP.jpg",
+            "width": 737,
+            "height": 737
+          }
+        }
+      }
+    ],
+    "person": [
+      "recWC7yK5Re53KiVd"
+    ],
+    "(You can't directly edit this column)": "Wilfred Salacup - Director"
+  },
+  "recQBBV0sNPYKoCxC": {
+    "createdTime": "2018-12-13T08:41:41.000Z",
+    "id": "recQBBV0sNPYKoCxC",
+    "group": [
+      "recw7gz6Y12j41aTG"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att8JJgRsZzATVUIX",
+        "url": "https://dl.airtable.com/lfozf8yhQZK3KRqX0ZmJ_JOSEPH%20KOO.PNG",
+        "filename": "JOSEPH KOO.PNG",
+        "size": 1062977,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/huRqOmlKR6H0s7GJA7AN_small_JOSEPH%20KOO.PNG",
+            "width": 49,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/BPGnTPn9SRqKaVJFCeDY_large_JOSEPH%20KOO.PNG",
+            "width": 695,
+            "height": 507
+          },
+          "full": {
+            "url": "https://dl.airtable.com/xMP8BgEQHuuJxHI5Ytpw_full_JOSEPH%20KOO.PNG",
+            "width": 695,
+            "height": 507
+          }
+        }
+      }
+    ],
+    "person": [
+      "recZ4bppVkukHelyx"
+    ],
+    "(You can't directly edit this column)": "Joseph Koo - Director"
+  },
+  "recnq4kDRyJz9Be2u": {
+    "createdTime": "2018-12-13T08:46:01.000Z",
+    "id": "recnq4kDRyJz9Be2u",
+    "group": [
+      "recw7gz6Y12j41aTG"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attDemVnNkqD85evZ",
+        "url": "https://dl.airtable.com/L8Nb2dMbTU2DbQroaEeI_PAUL%20BAIK.PNG",
+        "filename": "PAUL BAIK.PNG",
+        "size": 359631,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/xM9DAHavSwWlmVLSVWLq_small_PAUL%20BAIK.PNG",
+            "width": 32,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/T1iM55JQaOGC2zvVU5aQ_large_PAUL%20BAIK.PNG",
+            "width": 357,
+            "height": 404
+          },
+          "full": {
+            "url": "https://dl.airtable.com/JTBPZkinRTKW1k6YBsVh_full_PAUL%20BAIK.PNG",
+            "width": 357,
+            "height": 404
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec5dF2uKIbQKg9mW"
+    ],
+    "(You can't directly edit this column)": "Paul Baik - Director"
+  },
+  "recWnw4lEjFRENfyB": {
+    "createdTime": "2018-12-13T08:52:14.000Z",
+    "id": "recWnw4lEjFRENfyB",
+    "group": [
+      "rec6cFEd8SzUBNo9o"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att4XED99Mpzl6QRt",
+        "url": "https://dl.airtable.com/2xak5pnMShO47xP7fsKT_KATIE%20POA.PNG",
+        "filename": "KATIE POA.PNG",
+        "size": 725363,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/jN0fJ2NlRkePWciFfO0Y_small_KATIE%20POA.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/y7e5mrqAT4yxuZ0BxdQQ_large_KATIE%20POA.PNG",
+            "width": 479,
+            "height": 504
+          },
+          "full": {
+            "url": "https://dl.airtable.com/LhHbxDFQSonJJcbZGivr_full_KATIE%20POA.PNG",
+            "width": 479,
+            "height": 504
+          }
+        }
+      }
+    ],
+    "person": [
+      "recSVi5Qmw4oMyi8u"
+    ],
+    "(You can't directly edit this column)": "Katie Poa - Director"
+  },
+  "recJeowLVzxkEnUWP": {
+    "createdTime": "2018-12-13T08:53:41.000Z",
+    "id": "recJeowLVzxkEnUWP",
+    "group": [
+      "rec6cFEd8SzUBNo9o"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att0Wi058al9EqJAJ",
+        "url": "https://dl.airtable.com/iRIeGlPtSbIxunrDrVNd_LOUISA%20ZHANG.PNG",
+        "filename": "LOUISA ZHANG.PNG",
+        "size": 312569,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/aUkwJj0xTVy8Q05vnbzl_small_LOUISA%20ZHANG.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sSl1wNp6SPmQbGkwsGCQ_large_LOUISA%20ZHANG.PNG",
+            "width": 469,
+            "height": 497
+          },
+          "full": {
+            "url": "https://dl.airtable.com/IhfQK6fSq2F7tWdjUUNA_full_LOUISA%20ZHANG.PNG",
+            "width": 469,
+            "height": 497
+          }
+        }
+      }
+    ],
+    "person": [
+      "recoXhzEe3CSWpV2b"
+    ],
+    "(You can't directly edit this column)": "Louisa Zhang - Director"
+  },
+  "rec4SUea9e15uK7OW": {
+    "createdTime": "2018-12-13T08:58:00.000Z",
+    "id": "rec4SUea9e15uK7OW",
+    "group": [
+      "rec6cFEd8SzUBNo9o"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att6i5ytKIVQad2S7",
+        "url": "https://dl.airtable.com/2KVSANi6QkanPjjDDZuJ_WINN%20CUI.PNG",
+        "filename": "WINN CUI.PNG",
+        "size": 560218,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/m0NowSpTcihYGDGYUSKA_small_WINN%20CUI.PNG",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/mDvihiHMQr2WDC8mNP7x_large_WINN%20CUI.PNG",
+            "width": 512,
+            "height": 531
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Gv9EtxS0Rsy8ToDZnwq7_full_WINN%20CUI.PNG",
+            "width": 572,
+            "height": 593
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccusci4MPy2I4i4"
+    ],
+    "(You can't directly edit this column)": "Winn Cui - Director"
+  },
+  "recBcvQ75mGgJJezA": {
+    "createdTime": "2018-12-13T09:02:53.000Z",
+    "id": "recBcvQ75mGgJJezA",
+    "group": [
+      "recXjuWcIV7jHFKTN"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attHUBRiPEz1d6vNH",
+        "url": "https://dl.airtable.com/tQT37ogcR16zRaLL7vqU_KAREN%20DING.PNG",
+        "filename": "KAREN DING.PNG",
+        "size": 951176,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/C58VS2iDRW6I14b2xdKs_small_KAREN%20DING.PNG",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/u5XD2yOnQjqbJ4iesNXD_large_KAREN%20DING.PNG",
+            "width": 512,
+            "height": 514
+          },
+          "full": {
+            "url": "https://dl.airtable.com/0DyiKTfjQyeDBvsOSofh_full_KAREN%20DING.PNG",
+            "width": 596,
+            "height": 598
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFHoYhUBiV5URhr"
+    ],
+    "(You can't directly edit this column)": "Karen Ding - Director"
+  },
+  "recBcgMIqL5c2ymfY": {
+    "createdTime": "2018-12-13T09:04:04.000Z",
+    "id": "recBcgMIqL5c2ymfY",
+    "group": [
+      "recXjuWcIV7jHFKTN"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attyXxcNxtk0xrxby",
+        "url": "https://dl.airtable.com/UUdIxXkIS6uC83ichFSP_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
+        "size": 239226,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/z1oxYPqcRYeqz219a7yq_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/MCLW1QxYR5SlI5Dy078V_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6D5i36BPSsSPAr9iHRKf_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnIIrPMXGlfHFb9"
+    ],
+    "(You can't directly edit this column)": "Lenny Dong - Director"
+  },
+  "rec2Awc9Y8XrYeQ7j": {
+    "createdTime": "2018-12-13T09:06:29.000Z",
+    "id": "rec2Awc9Y8XrYeQ7j",
+    "group": [
+      "recgSC5ZaU8HBQbmS"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attrOsvEFlOS9JEQF",
+        "url": "https://dl.airtable.com/jKMjd742RX2apQHZLtZB_TIFFANIE%20ABACAN.PNG",
+        "filename": "TIFFANIE ABACAN.PNG",
+        "size": 1301642,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WFPnUDkQ8ejRuAxtYnmw_small_TIFFANIE%20ABACAN.PNG",
+            "width": 40,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/uPNa85XfS2KKsiMlCN3K_large_TIFFANIE%20ABACAN.PNG",
+            "width": 571,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Mb6Uj6lSLmxC1Zgrr2wR_full_TIFFANIE%20ABACAN.PNG",
+            "width": 806,
+            "height": 723
+          }
+        }
+      }
+    ],
+    "person": [
+      "recRcjNWpPIB6MhSE"
+    ],
+    "(You can't directly edit this column)": "Tiffanie Abacan - Director"
+  },
+  "recIMXzS9m8dZ1zjF": {
+    "createdTime": "2018-12-13T09:08:20.000Z",
+    "id": "recIMXzS9m8dZ1zjF",
+    "group": [
+      "recgSC5ZaU8HBQbmS"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attSNvQuWYtEJvfjZ",
+        "url": "https://dl.airtable.com/ygtrZKp7RF6n3vYCQTx1_MENGYAN%20LI.PNG",
+        "filename": "MENGYAN LI.PNG",
+        "size": 588295,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/3QIuoviSNm3H5omX1pyD_small_MENGYAN%20LI.PNG",
+            "width": 51,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZxLwbhRRvK0Uckugfem7_large_MENGYAN%20LI.PNG",
+            "width": 597,
+            "height": 422
+          },
+          "full": {
+            "url": "https://dl.airtable.com/HxVy7i2mTlmOZXYqpPUA_full_MENGYAN%20LI.PNG",
+            "width": 597,
+            "height": 422
+          }
+        }
+      }
+    ],
+    "person": [
+      "recCQaNAzI6bTDsQo"
+    ],
+    "(You can't directly edit this column)": "Mengyan Li - Director"
+  },
+  "recROI9NnR3gpwjS7": {
+    "createdTime": "2018-12-13T09:10:02.000Z",
+    "id": "recROI9NnR3gpwjS7",
+    "group": [
+      "recgSC5ZaU8HBQbmS"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attVuYx9cxMToTRBo",
+        "url": "https://dl.airtable.com/uJttDmQuQTq1Q3LNJXwb_ANTHONY%20NGUYEN.PNG",
+        "filename": "ANTHONY NGUYEN.PNG",
+        "size": 639124,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WPSwWijESzCd9HxLlb96_small_ANTHONY%20NGUYEN.PNG",
+            "width": 30,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/J2YOkUV3SZGi0TVWApJP_large_ANTHONY%20NGUYEN.PNG",
+            "width": 488,
+            "height": 592
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ixGmzM2QnaqYgOLausLQ_full_ANTHONY%20NGUYEN.PNG",
+            "width": 488,
+            "height": 592
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec0LPC8lZkJZSnkE"
+    ],
+    "(You can't directly edit this column)": "Anthony Nguyen - Director"
+  },
+  "rechsNxHsvYb4ipgn": {
+    "createdTime": "2018-12-13T09:13:47.000Z",
+    "id": "rechsNxHsvYb4ipgn",
+    "group": [
+      "reclgPwPymHTre39f"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attiovuMMtRDOZuvj",
+        "url": "https://dl.airtable.com/Qmj63CywTI2oABKTvukh_DARIUS%20SPARKS.jpg",
+        "filename": "DARIUS SPARKS.jpg",
+        "size": 146245,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/FL0ZL5tQdeODw0rKvyyU_small_DARIUS%20SPARKS.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zcXCeufdS4SYYXpH6UgV_large_DARIUS%20SPARKS.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/b4sdETYRcapMPNgPExnv_full_DARIUS%20SPARKS.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec6IpW9b974hS7Dx"
+    ],
+    "(You can't directly edit this column)": "Darius Sparks - Director"
+  },
+  "rec6h4qSGHuC5wUWx": {
+    "createdTime": "2018-12-13T09:15:22.000Z",
+    "id": "rec6h4qSGHuC5wUWx",
+    "group": [
+      "reclgPwPymHTre39f"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attvGPsqTwh5bFQrA",
+        "url": "https://dl.airtable.com/xDMrw1pFThKrw6YBrdtu_JASON%20BOUATAVANH.PNG",
+        "filename": "JASON BOUATAVANH.PNG",
+        "size": 313299,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Lz7D6mTTywRJMtZOkTAR_small_JASON%20BOUATAVANH.PNG",
+            "width": 30,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/7SxtZSPQJ6qbOqf54gjr_large_JASON%20BOUATAVANH.PNG",
+            "width": 512,
+            "height": 607
+          },
+          "full": {
+            "url": "https://dl.airtable.com/7ng6Mxl4R0qOWbDWxqe1_full_JASON%20BOUATAVANH.PNG",
+            "width": 550,
+            "height": 652
+          }
+        }
+      }
+    ],
+    "person": [
+      "recb95w3N49Pkc93b"
+    ],
+    "(You can't directly edit this column)": "Jason Bouatavanh - Director"
+  },
+  "rec4QdNMnRr5f8Ewe": {
+    "createdTime": "2018-12-13T09:23:30.000Z",
+    "id": "rec4QdNMnRr5f8Ewe",
+    "group": [
+      "recCuEIVaZ2TETp48"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attQub1n6duo2pzJk",
+        "url": "https://dl.airtable.com/H1MKmk8JQGLX6PLJyRxg_NARIA%20QUAZI.PNG",
+        "filename": "NARIA QUAZI.PNG",
+        "size": 839199,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Uzv1hduTzO5psVktTaxl_small_NARIA%20QUAZI.PNG",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Xto7DfyoTP23XFsl3lvj_large_NARIA%20QUAZI.PNG",
+            "width": 539,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/aJzo70VTqjTcxZBsEPew_full_NARIA%20QUAZI.PNG",
+            "width": 629,
+            "height": 597
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1nPfEeEIubXT0C"
+    ],
+    "(You can't directly edit this column)": "Naria Quazi - Director"
+  },
+  "recJnf4qYoOoE6qSR": {
+    "createdTime": "2018-12-13T09:28:09.000Z",
+    "id": "recJnf4qYoOoE6qSR",
+    "group": [
+      "recCuEIVaZ2TETp48"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attqs1Mk0GY2Esf3P",
+        "url": "https://dl.airtable.com/N9V4i4a7Rtmpza2Kn4DW_LEO%20ZHANG.PNG",
+        "filename": "LEO ZHANG.PNG",
+        "size": 569879,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/R7a6eUshTmuZ4czYUmH6_small_LEO%20ZHANG.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/cDzvryk3SAaFVGFCvsxc_large_LEO%20ZHANG.PNG",
+            "width": 512,
+            "height": 539
+          },
+          "full": {
+            "url": "https://dl.airtable.com/2CTjvshMTeiJaAZXoTjj_full_LEO%20ZHANG.PNG",
+            "width": 525,
+            "height": 553
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1SKHcbRCJkp0cO"
+    ],
+    "(You can't directly edit this column)": "Leo Zhang - Director"
+  },
+  "recAViFCI7lrDQ6Ww": {
+    "createdTime": "2018-12-13T09:29:06.000Z",
+    "id": "recAViFCI7lrDQ6Ww",
+    "group": [
+      "recCuEIVaZ2TETp48"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attG1qWMnDSZ5N92v",
+        "url": "https://dl.airtable.com/Exv4VnQnSecnwtvI2MAu_AIMEE%20PEPPER.PNG",
+        "filename": "AIMEE PEPPER.PNG",
+        "size": 1053546,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/baRrfQMORay253gw7NLf_small_AIMEE%20PEPPER.PNG",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XdnBrd7PSCiSf33JPiyf_large_AIMEE%20PEPPER.PNG",
+            "width": 514,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qjobhb7XTbasWR6W6ar4_full_AIMEE%20PEPPER.PNG",
+            "width": 695,
+            "height": 692
+          }
+        }
+      }
+    ],
+    "person": [
+      "recq3sdvy3JjKPWR5"
+    ],
+    "(You can't directly edit this column)": "Aimee Pepper - Director"
+  },
+  "recYzJCII8mJFlE4x": {
+    "createdTime": "2018-12-13T09:32:37.000Z",
+    "id": "recYzJCII8mJFlE4x",
+    "group": [
+      "recakv34dAgvMZqyk"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attfvNLp834kD6dIO",
+        "url": "https://dl.airtable.com/b3noChSS1yuDfiyG9f01_CHRISTINE%20HO.PNG",
+        "filename": "CHRISTINE HO.PNG",
+        "size": 750831,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/8Q7UVfNaQJaYnw3iEsDU_small_CHRISTINE%20HO.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/R04onzagQYq0w9fQegAa_large_CHRISTINE%20HO.PNG",
+            "width": 512,
+            "height": 549
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Oc22agPSJ2GyJHJfkLMb_full_CHRISTINE%20HO.PNG",
+            "width": 644,
+            "height": 690
+          }
+        }
+      }
+    ],
+    "person": [
+      "recJu9Hcotxvp8rOT"
+    ],
+    "(You can't directly edit this column)": "Christine Ho - Director"
+  },
+  "recNuN2WJyVmC7Na7": {
+    "createdTime": "2018-12-13T09:33:49.000Z",
+    "id": "recNuN2WJyVmC7Na7",
+    "group": [
+      "recakv34dAgvMZqyk"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att0ciHJjP6L57SDS",
+        "url": "https://dl.airtable.com/48Ap4RAoQ5OUU9USlvab_LENELL%20ORDANZA.PNG",
+        "filename": "LENELL ORDANZA.PNG",
+        "size": 401780,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/UJYlpsFyShef18vkQAGr_small_LENELL%20ORDANZA.PNG",
+            "width": 32,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/9AhvmWbLRqqPma5fJmr7_large_LENELL%20ORDANZA.PNG",
+            "width": 477,
+            "height": 540
+          },
+          "full": {
+            "url": "https://dl.airtable.com/tCZ3poJRgKNSQDBmaXQQ_full_LENELL%20ORDANZA.PNG",
+            "width": 477,
+            "height": 540
+          }
+        }
+      }
+    ],
+    "person": [
+      "recc44dWSzgZKA2RW"
+    ],
+    "(You can't directly edit this column)": "Lenell Ordanza - Director"
   }
 }
 
@@ -11971,7 +15386,10 @@ export let Semesters = {
     "id": "recQyG9LRNGj3oJL9",
     "codename": "2018b",
     "teamGroupIds": [
-      "recJGCk5JPfHJ5nI5"
+      "recJGCk5JPfHJ5nI5",
+      "recpQI3J6HKu6NObe",
+      "rec8RsWuzGriceaKU",
+      "recFJhX3DlVrqJRRn"
     ]
   },
   "recmdSIsenKNx7Sgq": {
@@ -11980,6 +15398,19 @@ export let Semesters = {
     "codename": "2018a",
     "boardGroupId": [
       "recPWlKgpGEXDmwBI"
+    ],
+    "teamGroupIds": [
+      "recokuRWqWHMaWmuE",
+      "recgGEOokEasFJJkn",
+      "recWshCGg4xYnnBfP",
+      "recDV8rL7zVa2J6l5",
+      "recw7gz6Y12j41aTG",
+      "rec6cFEd8SzUBNo9o",
+      "recXjuWcIV7jHFKTN",
+      "recgSC5ZaU8HBQbmS",
+      "reclgPwPymHTre39f",
+      "recCuEIVaZ2TETp48",
+      "recakv34dAgvMZqyk"
     ]
   },
   "recNgq1uYEeYnepMi": {
@@ -11988,6 +15419,10 @@ export let Semesters = {
     "codename": "2017c",
     "boardGroupId": [
       "recV60tDu2ac60oV5"
+    ],
+    "teamGroupIds": [
+      "recooewIvmz1cLLO8",
+      "recGRSa5DVs30Mink"
     ]
   },
   "recd2QXLEA5yJeKlX": {
@@ -11995,7 +15430,8 @@ export let Semesters = {
     "id": "recd2QXLEA5yJeKlX",
     "codename": "2017b",
     "teamGroupIds": [
-      "recn6LlGtFykr0SZo"
+      "recn6LlGtFykr0SZo",
+      "rec6O0XYNXZk0TUSH"
     ]
   },
   "recZUIegVvDgUQVqN": {

@@ -47,7 +47,7 @@ export class SingleTeamComponent extends React.Component<any> {
         {team.videoUrl ? (
           <div>
             {
-              <a className="video--link" href={team.videoUrl}>
+              <a className="video--link" href={team.videoUrl} target="_blank">
                 Watch {team.name} on YouTube
               </a>
             }
