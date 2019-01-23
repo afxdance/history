@@ -13,7 +13,7 @@ async function main() {
     // console.log(1);
     await base(table)
       .select({
-        view: "Grid view",
+        view: "Default View",
       })
       .eachPage((records, fetchNextPage) => {
         // console.log(2);
@@ -32,7 +32,8 @@ async function main() {
         // To fetch the next page of records, call `fetchNextPage`.
         // If there are more records, `page` will get called again.
         // If there are no more records, eachPage will emit a promised value.
-        fetchNextPage();
+        process.stderr.write("page\n");
+        setTimeout(fetchNextPage, 50);
       });
 
     // console.log(3);

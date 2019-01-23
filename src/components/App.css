@@ -3440,6 +3440,8 @@ strong {
   padding: 20px;
   margin: 5px 5px 0px 0px;
   flex: 1;
+  min-width: 314px;
+  min-height: 250px;
 
   /* clip-path: polygon(0% 0%, 0% 100%, 85% 100%, 100% 94%, 100% 0%); */
 
