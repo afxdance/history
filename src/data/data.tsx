@@ -18151,7 +18151,7 @@ export let PersonPositions = {
   "recbx2A3DbTzdZuHV": {
     "createdTime": "2019-01-23T09:39:50.000Z",
     "id": "recbx2A3DbTzdZuHV",
-    "(You can't directly edit this column)": "Angela Hou, AFX Allies ",
+    "(You can't directly edit this column)": "Angela Hou, AFX Allies Director",
     "group": [
       "rec6qXkPYRtQRgQts"
     ],
@@ -18160,12 +18160,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recIN5s4uBwQ6dOxF": {
     "createdTime": "2019-01-23T09:40:07.000Z",
     "id": "recIN5s4uBwQ6dOxF",
-    "(You can't directly edit this column)": "Julie Han, AFX Allies ",
+    "(You can't directly edit this column)": "Julie Han, AFX Allies Director",
     "person": [
       "recfATGKemUjdLR40"
     ],
@@ -18174,12 +18175,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recBTDrdwNmiS1zzF": {
     "createdTime": "2019-01-23T09:40:32.000Z",
     "id": "recBTDrdwNmiS1zzF",
-    "(You can't directly edit this column)": "Raymond Ly, AFX Allies ",
+    "(You can't directly edit this column)": "Raymond Ly, AFX Allies Director",
     "person": [
       "recIYQtBmhphqbdin"
     ],
@@ -18188,12 +18190,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec5NUxm8X43YPPGF": {
     "createdTime": "2019-01-23T09:40:45.000Z",
     "id": "rec5NUxm8X43YPPGF",
-    "(You can't directly edit this column)": "Aimee Pepper, AFX Allies ",
+    "(You can't directly edit this column)": "Aimee Pepper, AFX Allies Director",
     "person": [
       "recq3sdvy3JjKPWR5"
     ],
@@ -18202,7 +18205,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recEN7TAyHb6fQpmW": {
     "createdTime": "2019-01-23T07:26:55.000Z",
@@ -18357,7 +18361,7 @@ export let PersonPositions = {
   "recady1hl0WeVTArd": {
     "createdTime": "2019-01-23T09:41:00.000Z",
     "id": "recady1hl0WeVTArd",
-    "(You can't directly edit this column)": "Timothy Corpuz, AFX ATP ",
+    "(You can't directly edit this column)": "Timothy Corpuz, AFX ATP Director",
     "person": [
       "recdPZJ6n8RJnb4Q3"
     ],
@@ -18366,7 +18370,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reco4qEdiSgJa57Iq": {
     "createdTime": "2019-01-23T08:45:20.000Z",
@@ -18401,7 +18406,7 @@ export let PersonPositions = {
   "recbPeoVw9V8yiawh": {
     "createdTime": "2019-01-23T09:41:51.000Z",
     "id": "recbPeoVw9V8yiawh",
-    "(You can't directly edit this column)": "Christopher Lau, AFX BigBrother ",
+    "(You can't directly edit this column)": "Christopher Lau, AFX BigBrother Director",
     "group": [
       "recaZjoItED6gXEdr"
     ],
@@ -18410,12 +18415,13 @@ export let PersonPositions = {
     ],
     "person": [
       "recFnSfjcdECqcAGQ"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec8oiFxUXIYcl1ZV": {
     "createdTime": "2019-01-23T09:42:34.000Z",
     "id": "rec8oiFxUXIYcl1ZV",
-    "(You can't directly edit this column)": "Bryan Lov, AFX BigBrother ",
+    "(You can't directly edit this column)": "Bryan Lov, AFX BigBrother Director",
     "person": [
       "recoKBUH3YF9e3iBQ"
     ],
@@ -18424,12 +18430,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec8FjekR65k5yXkL": {
     "createdTime": "2019-01-23T09:42:38.000Z",
     "id": "rec8FjekR65k5yXkL",
-    "(You can't directly edit this column)": "Gilbert Lin, AFX BigBrother ",
+    "(You can't directly edit this column)": "Gilbert Lin, AFX BigBrother Director",
     "person": [
       "reczPIesm1yNS5tFx"
     ],
@@ -18438,7 +18445,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec66ocK4tWPfNtDW": {
     "createdTime": "2019-01-23T08:50:11.000Z",
@@ -18776,7 +18784,7 @@ export let PersonPositions = {
   "recl9R7y99PMhmHDW": {
     "createdTime": "2019-01-23T09:39:34.000Z",
     "id": "recl9R7y99PMhmHDW",
-    "(You can't directly edit this column)": "Chris Kim, AFX Christoria ",
+    "(You can't directly edit this column)": "Chris Kim, AFX Christoria Director",
     "group": [
       "rechL3W2Vi7wov83L"
     ],
@@ -18785,12 +18793,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recV0D4c9roitEuFm": {
     "createdTime": "2019-01-23T09:39:41.000Z",
     "id": "recV0D4c9roitEuFm",
-    "(You can't directly edit this column)": "Victoria Du, AFX Christoria ",
+    "(You can't directly edit this column)": "Victoria Du, AFX Christoria Director",
     "person": [
       "recwFJemNLcX2Xhhp"
     ],
@@ -18799,7 +18808,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec1HZHoLGdQLhZqj": {
     "createdTime": "2019-01-23T08:45:43.000Z",
@@ -19234,7 +19244,7 @@ export let PersonPositions = {
   "recHnwA6CcDq0B93X": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "recHnwA6CcDq0B93X",
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Desert Thirst ",
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Desert Thirst Director",
     "group": [
       "recH77oO4ipgKWSO7"
     ],
@@ -19243,12 +19253,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recET3Ze0kERobis7": {
     "createdTime": "2019-01-23T09:43:07.000Z",
     "id": "recET3Ze0kERobis7",
-    "(You can't directly edit this column)": "Anna Dai Feng, AFX Desert Thirst ",
+    "(You can't directly edit this column)": "Anna Dai Feng, AFX Desert Thirst Director",
     "person": [
       "recxNAoG50eOCH61C"
     ],
@@ -19257,12 +19268,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recCQZoaBvk8TLQ9G": {
     "createdTime": "2019-01-23T09:43:19.000Z",
     "id": "recCQZoaBvk8TLQ9G",
-    "(You can't directly edit this column)": "Jonathan Ting, AFX Desert Thirst ",
+    "(You can't directly edit this column)": "Jonathan Ting, AFX Desert Thirst Director",
     "person": [
       "recjsSvAoZikr9uL8"
     ],
@@ -19271,7 +19283,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recBcvQ75mGgJJezA": {
     "createdTime": "2018-12-13T09:02:53.000Z",
@@ -19642,7 +19655,7 @@ export let PersonPositions = {
   "recUJ72D7F53TYKxw": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "recUJ72D7F53TYKxw",
-    "(You can't directly edit this column)": "Andy Vendrell, AFX Eyecandy ",
+    "(You can't directly edit this column)": "Andy Vendrell, AFX Eyecandy Director",
     "group": [
       "recYKZTGxchrDzELp"
     ],
@@ -19651,7 +19664,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recelflqRNSPaMDIO": {
     "createdTime": "2019-01-23T07:09:34.000Z",
@@ -20075,7 +20089,7 @@ export let PersonPositions = {
   "recGxHeywW4g1tysW": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "recGxHeywW4g1tysW",
-    "(You can't directly edit this column)": "Joseph Jiang, AFX JEM ",
+    "(You can't directly edit this column)": "Joseph Jiang, AFX JEM Director",
     "group": [
       "rec7OSPyLVxDKm2sV"
     ],
@@ -20084,12 +20098,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recjj5eE0qZevBtKz": {
     "createdTime": "2019-01-23T09:43:46.000Z",
     "id": "recjj5eE0qZevBtKz",
-    "(You can't directly edit this column)": "Emily Duan, AFX JEM ",
+    "(You can't directly edit this column)": "Emily Duan, AFX JEM Director",
     "person": [
       "recewxgeWZNfLIGqF"
     ],
@@ -20098,12 +20113,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recl8L4sBNPKZAtbQ": {
     "createdTime": "2019-01-23T09:43:51.000Z",
     "id": "recl8L4sBNPKZAtbQ",
-    "(You can't directly edit this column)": "Michael Chu, AFX JEM ",
+    "(You can't directly edit this column)": "Michael Chu, AFX JEM Director",
     "person": [
       "reclpX3jvpv0V44dl"
     ],
@@ -20112,7 +20128,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec0xKgz6Wer2qKtX": {
     "createdTime": "2019-01-23T08:48:22.000Z",
@@ -22131,7 +22148,7 @@ export let PersonPositions = {
   "reck5ZeOVual7zqh3": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "reck5ZeOVual7zqh3",
-    "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 ",
+    "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 Director",
     "group": [
       "recRWachvE4BArxyb"
     ],
@@ -22140,12 +22157,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recSgN3IK2uBmT6bC": {
     "createdTime": "2019-01-23T09:44:08.000Z",
     "id": "recSgN3IK2uBmT6bC",
-    "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 ",
+    "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 Director",
     "person": [
       "recDPvXZ08hFkxLMT"
     ],
@@ -22154,12 +22172,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recMgA1tjWR6Ow0gV": {
     "createdTime": "2019-01-23T09:44:19.000Z",
     "id": "recMgA1tjWR6Ow0gV",
-    "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 ",
+    "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 Director",
     "person": [
       "rec4fP4DTUKs50r8Q"
     ],
@@ -22168,7 +22187,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recivtfQKQEnduwoo": {
     "createdTime": "2019-01-23T08:58:31.000Z",
@@ -22454,7 +22474,7 @@ export let PersonPositions = {
   "recDbdHsHwEQ963t5": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "recDbdHsHwEQ963t5",
-    "(You can't directly edit this column)": "Peggy Shih, AFX Technicality ",
+    "(You can't directly edit this column)": "Peggy Shih, AFX Technicality Director",
     "group": [
       "recV24mdNgq8HICTK"
     ],
@@ -22463,12 +22483,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recMxD6S3cVd6WWEN": {
     "createdTime": "2019-01-23T09:44:30.000Z",
     "id": "recMxD6S3cVd6WWEN",
-    "(You can't directly edit this column)": "Allan Chin, AFX Technicality ",
+    "(You can't directly edit this column)": "Allan Chin, AFX Technicality Director",
     "person": [
       "reczNCgWr62mxFmPe"
     ],
@@ -22477,12 +22498,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recaw2QlP9MfjwOEA": {
     "createdTime": "2019-01-23T09:44:37.000Z",
     "id": "recaw2QlP9MfjwOEA",
-    "(You can't directly edit this column)": "Angela Gao, AFX Technicality ",
+    "(You can't directly edit this column)": "Angela Gao, AFX Technicality Director",
     "person": [
       "rec8ftmATdmGYdNy9"
     ],
@@ -22491,7 +22513,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recmtP7sfQi7Ziuqj": {
     "createdTime": "2019-01-23T08:55:49.000Z",
@@ -23307,7 +23330,7 @@ export let PersonPositions = {
   "recsYg7ewwRhtLunv": {
     "createdTime": "2019-01-23T09:24:17.000Z",
     "id": "recsYg7ewwRhtLunv",
-    "(You can't directly edit this column)": "Andrea Deng, AFXsi Andrenaline ",
+    "(You can't directly edit this column)": "Andrea Deng, AFXsi Andrenaline Director",
     "group": [
       "recuSIOZ5KP5kQXs6"
     ],
@@ -23316,12 +23339,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recu6gj33eIwXoDkw": {
     "createdTime": "2019-01-23T09:24:46.000Z",
     "id": "recu6gj33eIwXoDkw",
-    "(You can't directly edit this column)": "Eilan Zeng, AFXsi Andrenaline ",
+    "(You can't directly edit this column)": "Eilan Zeng, AFXsi Andrenaline Director",
     "person": [
       "recFkYLuczzKZVLYe"
     ],
@@ -23330,12 +23354,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reccefpOUbqMOSxGy": {
     "createdTime": "2019-01-23T09:24:46.000Z",
     "id": "reccefpOUbqMOSxGy",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi Andrenaline ",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi Andrenaline Director",
     "person": [
       "rec3RLZl3eC9SXHwJ"
     ],
@@ -23344,12 +23369,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reccIIXYxE0pEnruu": {
     "createdTime": "2019-01-23T09:24:54.000Z",
     "id": "reccIIXYxE0pEnruu",
-    "(You can't directly edit this column)": "Angela Peng, AFXsi Anthm ",
+    "(You can't directly edit this column)": "Angela Peng, AFXsi Anthm Director",
     "group": [
       "recfICFVB55oWC78y"
     ],
@@ -23358,12 +23384,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recJw0ISpmIl6IYkZ": {
     "createdTime": "2019-01-23T09:25:04.000Z",
     "id": "recJw0ISpmIl6IYkZ",
-    "(You can't directly edit this column)": "Michael Chen, AFXsi Anthm ",
+    "(You can't directly edit this column)": "Michael Chen, AFXsi Anthm Director",
     "person": [
       "rec133LBDsx7IXwNn"
     ],
@@ -23372,12 +23399,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recjmKYNx9QoSXbYM": {
     "createdTime": "2019-01-23T09:25:09.000Z",
     "id": "recjmKYNx9QoSXbYM",
-    "(You can't directly edit this column)": "Nathan Lee, AFXsi Anthm ",
+    "(You can't directly edit this column)": "Nathan Lee, AFXsi Anthm Director",
     "person": [
       "recQJky3Rrh2rfMVY"
     ],
@@ -23386,12 +23414,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "receSQ28JRsvS6hBp": {
     "createdTime": "2019-01-23T09:25:54.000Z",
     "id": "receSQ28JRsvS6hBp",
-    "(You can't directly edit this column)": "Michelle Li, AFXsi Bae ",
+    "(You can't directly edit this column)": "Michelle Li, AFXsi Bae Director",
     "group": [
       "recOVpFFYp4LMgN3I"
     ],
@@ -23400,12 +23429,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rece1yf7dk1UvnN4j": {
     "createdTime": "2019-01-23T09:26:00.000Z",
     "id": "rece1yf7dk1UvnN4j",
-    "(You can't directly edit this column)": "Christian Cayton, AFXsi Bae ",
+    "(You can't directly edit this column)": "Christian Cayton, AFXsi Bae Director",
     "person": [
       "recMwcvipXM9qiwJJ"
     ],
@@ -23414,12 +23444,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recfKAOT9quS6rgqN": {
     "createdTime": "2019-01-23T09:26:07.000Z",
     "id": "recfKAOT9quS6rgqN",
-    "(You can't directly edit this column)": "Brian Lam, AFXsi Banging ",
+    "(You can't directly edit this column)": "Brian Lam, AFXsi Banging Director",
     "person": [
       "rec3psATzLriQhitj"
     ],
@@ -23428,12 +23459,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recRi0DzgFo7stxIf": {
     "createdTime": "2019-01-23T09:26:23.000Z",
     "id": "recRi0DzgFo7stxIf",
-    "(You can't directly edit this column)": "Yangzi He, AFXsi Banging ",
+    "(You can't directly edit this column)": "Yangzi He, AFXsi Banging Director",
     "person": [
       "recDNBAQC3NwFP4s0"
     ],
@@ -23442,12 +23474,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recFYnNSNlVjMWSFJ": {
     "createdTime": "2019-01-23T09:26:27.000Z",
     "id": "recFYnNSNlVjMWSFJ",
-    "(You can't directly edit this column)": "Qing Wong, AFXsi Banging ",
+    "(You can't directly edit this column)": "Qing Wong, AFXsi Banging Director",
     "person": [
       "recUSz6c3xwIid6LW"
     ],
@@ -23456,12 +23489,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recom0BVDGyT0facY": {
     "createdTime": "2019-01-23T09:26:43.000Z",
     "id": "recom0BVDGyT0facY",
-    "(You can't directly edit this column)": "Alex Xiao, AFXsi Chaos ",
+    "(You can't directly edit this column)": "Alex Xiao, AFXsi Chaos Director",
     "group": [
       "recuImUmgqu8u1Hlp"
     ],
@@ -23470,12 +23504,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recTaBR89Kp603Ukv": {
     "createdTime": "2019-01-23T09:26:51.000Z",
     "id": "recTaBR89Kp603Ukv",
-    "(You can't directly edit this column)": "Anne Choi, AFXsi Chaos ",
+    "(You can't directly edit this column)": "Anne Choi, AFXsi Chaos Director",
     "person": [
       "recawBRRyZ3KZjmTM"
     ],
@@ -23484,12 +23519,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recYFIbHXLptq2xSC": {
     "createdTime": "2019-01-23T09:30:20.000Z",
     "id": "recYFIbHXLptq2xSC",
-    "(You can't directly edit this column)": "Richard Xu, AFXsi drxp ",
+    "(You can't directly edit this column)": "Richard Xu, AFXsi drxp Director",
     "person": [
       "recKBDLL5lmSDiNTY"
     ],
@@ -23498,12 +23534,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recWwPEXQ3EdQOElG": {
     "createdTime": "2019-01-23T09:30:57.000Z",
     "id": "recWwPEXQ3EdQOElG",
-    "(You can't directly edit this column)": "Peggy Shih, AFXsi drxp ",
+    "(You can't directly edit this column)": "Peggy Shih, AFXsi drxp Director",
     "person": [
       "recZWKQK0rewWfxJn"
     ],
@@ -23512,12 +23549,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recBtSAYDxf0P2gTU": {
     "createdTime": "2019-01-23T09:31:03.000Z",
     "id": "recBtSAYDxf0P2gTU",
-    "(You can't directly edit this column)": "Darius Sparks, AFXsi drxp ",
+    "(You can't directly edit this column)": "Darius Sparks, AFXsi drxp Director",
     "person": [
       "rec6IpW9b974hS7Dx"
     ],
@@ -23526,12 +23564,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recsemJBUer80vghF": {
     "createdTime": "2019-01-23T09:36:06.000Z",
     "id": "recsemJBUer80vghF",
-    "(You can't directly edit this column)": "Angela Hou, AFXsi Echo ",
+    "(You can't directly edit this column)": "Angela Hou, AFXsi Echo Director",
     "group": [
       "recCbo4tDZZKyEim7"
     ],
@@ -23540,12 +23579,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec202dM2ysnkSl1L": {
     "createdTime": "2019-01-23T09:36:24.000Z",
     "id": "rec202dM2ysnkSl1L",
-    "(You can't directly edit this column)": "Elle Cheung, AFXsi Echo ",
+    "(You can't directly edit this column)": "Elle Cheung, AFXsi Echo Director",
     "person": [
       "recPVD1R5MWNRtPXh"
     ],
@@ -23554,12 +23594,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recZ7IdaqBWgI6VDE": {
     "createdTime": "2019-01-23T09:26:55.000Z",
     "id": "recZ7IdaqBWgI6VDE",
-    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON ",
+    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON Director",
     "group": [
       "recw3tPXhSfrR5Tyu"
     ],
@@ -23568,12 +23609,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reccSr1Z8IOGdvJ6y": {
     "createdTime": "2019-01-23T09:27:15.000Z",
     "id": "reccSr1Z8IOGdvJ6y",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON ",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON Director",
     "person": [
       "recyuGtimgWQu1z1r"
     ],
@@ -23582,12 +23624,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recNgRwpxQLGWyLHK": {
     "createdTime": "2019-01-23T09:27:15.000Z",
     "id": "recNgRwpxQLGWyLHK",
-    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON ",
+    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON Director",
     "person": [
       "recS7tOOGL4jKxWES"
     ],
@@ -23596,12 +23639,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recEvwsBLGah9oA6h": {
     "createdTime": "2019-01-23T09:31:11.000Z",
     "id": "recEvwsBLGah9oA6h",
-    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON ",
+    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON Director",
     "group": [
       "recY8xWazB8UYou9m"
     ],
@@ -23610,12 +23654,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recpy3gH8l2nh2IXJ": {
     "createdTime": "2019-01-23T09:31:30.000Z",
     "id": "recpy3gH8l2nh2IXJ",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON ",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON Director",
     "person": [
       "recyuGtimgWQu1z1r"
     ],
@@ -23624,12 +23669,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recE84Pg7acHw9jUM": {
     "createdTime": "2019-01-23T09:31:30.000Z",
     "id": "recE84Pg7acHw9jUM",
-    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON ",
+    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON Director",
     "person": [
       "recS7tOOGL4jKxWES"
     ],
@@ -23638,12 +23684,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recWyIS4z2kntvCxB": {
     "createdTime": "2019-01-23T09:25:15.000Z",
     "id": "recWyIS4z2kntvCxB",
-    "(You can't directly edit this column)": "Joseph Beltran, AFXsi JAM ",
+    "(You can't directly edit this column)": "Joseph Beltran, AFXsi JAM Director",
     "group": [
       "recE55poWqurXd97D"
     ],
@@ -23652,12 +23699,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recYtt6bur1ajYJaP": {
     "createdTime": "2019-01-23T09:25:27.000Z",
     "id": "recYtt6bur1ajYJaP",
-    "(You can't directly edit this column)": "AC Dela Paz, AFXsi JAM ",
+    "(You can't directly edit this column)": "AC Dela Paz, AFXsi JAM Director",
     "person": [
       "rec2nvAlUafPaALoo"
     ],
@@ -23666,12 +23714,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec48BuRv3Je16I2b": {
     "createdTime": "2019-01-23T09:25:31.000Z",
     "id": "rec48BuRv3Je16I2b",
-    "(You can't directly edit this column)": "Mahek Modi, AFXsi JAM ",
+    "(You can't directly edit this column)": "Mahek Modi, AFXsi JAM Director",
     "person": [
       "recUL5dvQoC8RBPud"
     ],
@@ -23680,12 +23729,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recPyCFOniZIOUHBr": {
     "createdTime": "2019-01-23T09:21:29.000Z",
     "id": "recPyCFOniZIOUHBr",
-    "(You can't directly edit this column)": "Joseph Koo, AFXsi Jokayne ",
+    "(You can't directly edit this column)": "Joseph Koo, AFXsi Jokayne Director",
     "group": [
       "recVFwKwKUXRf3UVn"
     ],
@@ -23694,12 +23744,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recadRqDVmqS8fAXb": {
     "createdTime": "2019-01-23T09:23:40.000Z",
     "id": "recadRqDVmqS8fAXb",
-    "(You can't directly edit this column)": "Kyle Feng, AFXsi Jokayne ",
+    "(You can't directly edit this column)": "Kyle Feng, AFXsi Jokayne Director",
     "person": [
       "recxDe7YiXOYFR2ZB"
     ],
@@ -23708,12 +23759,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recPizxfeNVrfh56F": {
     "createdTime": "2019-01-23T09:23:40.000Z",
     "id": "recPizxfeNVrfh56F",
-    "(You can't directly edit this column)": "Wayne Zhong, AFXsi Jokayne ",
+    "(You can't directly edit this column)": "Wayne Zhong, AFXsi Jokayne Director",
     "person": [
       "recE3qCxpiAekTzGM"
     ],
@@ -23722,12 +23774,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recVlMNq8V5m869sT": {
     "createdTime": "2019-01-23T09:36:52.000Z",
     "id": "recVlMNq8V5m869sT",
-    "(You can't directly edit this column)": "Richard Qian, AFXsi JuiceBox ",
+    "(You can't directly edit this column)": "Richard Qian, AFXsi JuiceBox Director",
     "group": [
       "recQLC0SGq1JalhZy"
     ],
@@ -23736,12 +23789,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec9Y1MFmVi8QfIQd": {
     "createdTime": "2019-01-23T09:37:01.000Z",
     "id": "rec9Y1MFmVi8QfIQd",
-    "(You can't directly edit this column)": "Winn Cui, AFXsi JuiceBox ",
+    "(You can't directly edit this column)": "Winn Cui, AFXsi JuiceBox Director",
     "person": [
       "reccusci4MPy2I4i4"
     ],
@@ -23750,12 +23804,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec2n8WBZpYmVBj0r": {
     "createdTime": "2019-01-23T09:37:04.000Z",
     "id": "rec2n8WBZpYmVBj0r",
-    "(You can't directly edit this column)": "Jones Ou, AFXsi JuiceBox ",
+    "(You can't directly edit this column)": "Jones Ou, AFXsi JuiceBox Director",
     "person": [
       "recwHkKZx2S6Ys5JU"
     ],
@@ -23764,12 +23819,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recYZrRek0Rre0fF6": {
     "createdTime": "2019-01-23T09:28:21.000Z",
     "id": "recYZrRek0Rre0fF6",
-    "(You can't directly edit this column)": "Emily Tsai, AFXsi KeKeKe ",
+    "(You can't directly edit this column)": "Emily Tsai, AFXsi KeKeKe Director",
     "group": [
       "recPKxHOdAfnBkagq"
     ],
@@ -23778,12 +23834,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recGzgezDFxUmGjL7": {
     "createdTime": "2019-01-23T09:29:00.000Z",
     "id": "recGzgezDFxUmGjL7",
-    "(You can't directly edit this column)": "Kathie Tian, AFXsi KeKeKe ",
+    "(You can't directly edit this column)": "Kathie Tian, AFXsi KeKeKe Director",
     "person": [
       "rec8WQB0KC7QXPy7z"
     ],
@@ -23792,12 +23849,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reccWuJYTqYQwvHug": {
     "createdTime": "2019-01-23T09:29:04.000Z",
     "id": "reccWuJYTqYQwvHug",
-    "(You can't directly edit this column)": "Chris Kim, AFXsi KoJa ",
+    "(You can't directly edit this column)": "Chris Kim, AFXsi KoJa Director",
     "group": [
       "recoXVe23XTKANF21"
     ],
@@ -23806,12 +23864,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recKioPJo4yzrzPFA": {
     "createdTime": "2019-01-23T09:29:12.000Z",
     "id": "recKioPJo4yzrzPFA",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi KoJa ",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi KoJa Director",
     "person": [
       "rec3RLZl3eC9SXHwJ"
     ],
@@ -23820,12 +23879,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec0ZpHrzoBFlIZQC": {
     "createdTime": "2019-01-23T09:25:38.000Z",
     "id": "rec0ZpHrzoBFlIZQC",
-    "(You can't directly edit this column)": "Kristen Shimoda, AFXsi Kryan ",
+    "(You can't directly edit this column)": "Kristen Shimoda, AFXsi Kryan Director",
     "group": [
       "recllo5BKMuqHWrRj"
     ],
@@ -23834,12 +23894,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recAHXHouINxmzbcY": {
     "createdTime": "2019-01-23T09:25:44.000Z",
     "id": "recAHXHouINxmzbcY",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFXsi Kryan ",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFXsi Kryan Director",
     "person": [
       "rectcm65MFSWkghJQ"
     ],
@@ -23848,12 +23909,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recnr7Nkz4t1x0ycE": {
     "createdTime": "2019-01-23T09:23:43.000Z",
     "id": "recnr7Nkz4t1x0ycE",
-    "(You can't directly edit this column)": "Natalie Ma, AFXsi Majiang ",
+    "(You can't directly edit this column)": "Natalie Ma, AFXsi Majiang Director",
     "group": [
       "recOsz2yPhsrLgtpo"
     ],
@@ -23862,12 +23924,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recGG94oULenVEgaJ": {
     "createdTime": "2019-01-23T09:23:51.000Z",
     "id": "recGG94oULenVEgaJ",
-    "(You can't directly edit this column)": "Teresa Jiang, AFXsi Majiang ",
+    "(You can't directly edit this column)": "Teresa Jiang, AFXsi Majiang Director",
     "person": [
       "recNiTzcOCP8N4x8y"
     ],
@@ -23876,12 +23939,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recNZgfUdJGx6tqqT": {
     "createdTime": "2019-01-23T09:32:33.000Z",
     "id": "recNZgfUdJGx6tqqT",
-    "(You can't directly edit this column)": "Marisa Liang, AFXsi Micky D's ",
+    "(You can't directly edit this column)": "Marisa Liang, AFXsi Micky D's Director",
     "group": [
       "rec3I7LD5AxwLkwcl"
     ],
@@ -23890,12 +23954,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recEAEA8wvCkP2tRl": {
     "createdTime": "2019-01-23T09:32:47.000Z",
     "id": "recEAEA8wvCkP2tRl",
-    "(You can't directly edit this column)": "Kenny Lu, AFXsi Micky D's ",
+    "(You can't directly edit this column)": "Kenny Lu, AFXsi Micky D's Director",
     "person": [
       "recGolwqfNnS2hDP5"
     ],
@@ -23904,12 +23969,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reckYjJz1ayV2HMVq": {
     "createdTime": "2019-01-23T09:32:50.000Z",
     "id": "reckYjJz1ayV2HMVq",
-    "(You can't directly edit this column)": "David Lee, AFXsi Micky D's ",
+    "(You can't directly edit this column)": "David Lee, AFXsi Micky D's Director",
     "person": [
       "recTqXX6xdgjStuYA"
     ],
@@ -23918,12 +23984,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recXv7wbfOzg6Kmq4": {
     "createdTime": "2019-01-23T09:33:37.000Z",
     "id": "recXv7wbfOzg6Kmq4",
-    "(You can't directly edit this column)": "Kirk La, AFXsi Milk ",
+    "(You can't directly edit this column)": "Kirk La, AFXsi Milk Director",
     "group": [
       "recjmrarPLS2cLFP6"
     ],
@@ -23932,12 +23999,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recjgzzSANuAhx6pG": {
     "createdTime": "2019-01-23T09:33:41.000Z",
     "id": "recjgzzSANuAhx6pG",
-    "(You can't directly edit this column)": "Mark Reed, AFXsi Milk ",
+    "(You can't directly edit this column)": "Mark Reed, AFXsi Milk Director",
     "person": [
       "recOaZV3dVyIjCQX5"
     ],
@@ -23946,12 +24014,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recsWTKyw1x4jx4zt": {
     "createdTime": "2019-01-23T09:33:50.000Z",
     "id": "recsWTKyw1x4jx4zt",
-    "(You can't directly edit this column)": "Wilfred Salacup, AFXsi Milk ",
+    "(You can't directly edit this column)": "Wilfred Salacup, AFXsi Milk Director",
     "person": [
       "recWC7yK5Re53KiVd"
     ],
@@ -23960,7 +24029,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "rec6TDEsRxOdpUDDB": {
     "createdTime": "2018-12-12T09:47:03.000Z",
@@ -24047,7 +24117,7 @@ export let PersonPositions = {
   "recodQtvOvN2su3LM": {
     "createdTime": "2019-01-23T09:36:33.000Z",
     "id": "recodQtvOvN2su3LM",
-    "(You can't directly edit this column)": "Jinnie Rhee, AFXsi RheeL ",
+    "(You can't directly edit this column)": "Jinnie Rhee, AFXsi RheeL Director",
     "group": [
       "recKIT6nxJFIUwaCF"
     ],
@@ -24056,12 +24126,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recYVKe6hNuwttVk4": {
     "createdTime": "2019-01-23T09:36:43.000Z",
     "id": "recYVKe6hNuwttVk4",
-    "(You can't directly edit this column)": "Wendy Lin, AFXsi RheeL ",
+    "(You can't directly edit this column)": "Wendy Lin, AFXsi RheeL Director",
     "person": [
       "rec63KrMM3KqD5glq"
     ],
@@ -24070,12 +24141,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recarIRB5fVvYK0Bd": {
     "createdTime": "2019-01-23T09:24:03.000Z",
     "id": "recarIRB5fVvYK0Bd",
-    "(You can't directly edit this column)": "Anita Chan, AFXsi SAN ",
+    "(You can't directly edit this column)": "Anita Chan, AFXsi SAN Director",
     "group": [
       "recUrnBvsEJATCt1Q"
     ],
@@ -24084,12 +24156,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recNsn8aA6zrs8o3D": {
     "createdTime": "2019-01-23T09:24:14.000Z",
     "id": "recNsn8aA6zrs8o3D",
-    "(You can't directly edit this column)": "Sierra Feasel, AFXsi SAN ",
+    "(You can't directly edit this column)": "Sierra Feasel, AFXsi SAN Director",
     "person": [
       "recL6ukxI9XWv5RQx"
     ],
@@ -24098,12 +24171,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recPUJmKHlBy18YKn": {
     "createdTime": "2019-01-23T09:34:05.000Z",
     "id": "recPUJmKHlBy18YKn",
-    "(You can't directly edit this column)": "Lilian Chen, AFXsi Slumber Party ",
+    "(You can't directly edit this column)": "Lilian Chen, AFXsi Slumber Party Director",
     "group": [
       "recn6LlGtFykr0SZo"
     ],
@@ -24112,7 +24186,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recKefbsymSU2XoQQ": {
     "createdTime": "2018-11-10T18:42:36.000Z",
@@ -24449,7 +24524,7 @@ export let PersonPositions = {
   "recoKxV2bk6pdT1Pk": {
     "createdTime": "2019-01-23T09:29:14.000Z",
     "id": "recoKxV2bk6pdT1Pk",
-    "(You can't directly edit this column)": "Aloysius Makalinao, AFXTRM ",
+    "(You can't directly edit this column)": "Aloysius Makalinao, AFXTRM Director",
     "person": [
       "recKhL3n61NCyDpK3"
     ],
@@ -24458,12 +24533,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recbTh9069guX5GSd": {
     "createdTime": "2019-01-23T09:30:03.000Z",
     "id": "recbTh9069guX5GSd",
-    "(You can't directly edit this column)": "Miguel Francisco, AFXTRM ",
+    "(You can't directly edit this column)": "Miguel Francisco, AFXTRM Director",
     "person": [
       "rec3nLDI7cIWqW4WX"
     ],
@@ -24472,12 +24548,13 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "recWSUiRJu5R8tjas": {
     "createdTime": "2019-01-23T09:30:09.000Z",
     "id": "recWSUiRJu5R8tjas",
-    "(You can't directly edit this column)": "Vienna Harvey, AFXTRM ",
+    "(You can't directly edit this column)": "Vienna Harvey, AFXTRM Director",
     "person": [
       "recKEtpg4RpNSO3kN"
     ],
@@ -24486,7 +24563,8 @@ export let PersonPositions = {
     ],
     "groupType": [
       "team"
-    ]
+    ],
+    "positionTitle": "Director"
   },
   "reciTQZrpjz6GPY0E": {
     "createdTime": "2018-12-01T19:02:43.000Z",
