@@ -16,5 +16,8 @@
     "no-namespace": false,
     "object-literal-sort-keys": false,
     "prefer-const": false
+  },
+  "jsRules": {
+    "object-literal-sort-keys": false
   }
 }
