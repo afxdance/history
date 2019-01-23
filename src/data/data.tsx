@@ -6513,6 +6513,8713 @@ export let Groups = {
 }
 
 export let PersonPositions = {
+  "rec1KRcNkLaFDWaly": {
+    "createdTime": "2018-10-17T22:14:28.000Z",
+    "id": "rec1KRcNkLaFDWaly",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attKWjntOeJ6IkuAn",
+        "url": "https://dl.airtable.com/2edpSkoLStieck08qSyT_13707611_10153301118629649_6258158905072127817_n.jpg",
+        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
+        "size": 44295,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/vLhcGR4QYezwUs4WQaD8_small_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/IkUssmXwTCuYCzEKWr1W_large_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/7IdRw2viSSur3tcumnDN_full_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recGYjEvMRqWuQabn"
+    ],
+    "(You can't directly edit this column)": "Ping Quach, AFX Board Spring 2013 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec3kK4A9qdmQXQdH": {
+    "createdTime": "2018-10-17T22:14:31.000Z",
+    "id": "rec3kK4A9qdmQXQdH",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attiK5hc31HSOFFPv",
+        "url": "https://dl.airtable.com/KJlJcQY2NGQWO0N8WMQa_13051780_10153967787361508_3966323251194751461_n.jpg",
+        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
+        "size": 180846,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1er9SGXSsKTLqhvvOyFg_small_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/HRYxA6sRSSBRSWCgc26b_large_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 514,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9eZG6wVBQFqNxwSuPelf_full_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 960,
+            "height": 957
+          }
+        }
+      }
+    ],
+    "person": [
+      "recI4tz7ioKyk9TK0"
+    ],
+    "(You can't directly edit this column)": "Geoffrey Chen, AFX Board Spring 2013 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recBg9E1RVPt9HKfe": {
+    "createdTime": "2018-10-17T22:14:35.000Z",
+    "id": "recBg9E1RVPt9HKfe",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Public Relations",
+    "picture": [
+      {
+        "id": "attZvAoKueVv3L6Ik",
+        "url": "https://dl.airtable.com/1VuQJq4DSUuA4VkIF8bX_11703292_10152817179557924_8152791156677549647_n.jpg",
+        "filename": "11703292_10152817179557924_8152791156677549647_n.jpg",
+        "size": 42107,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/xAug1A1IQLKtcnnX06MR_small_11703292_10152817179557924_8152791156677549647_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/4ua5Nz4vRO7sgoK1TGHT_large_11703292_10152817179557924_8152791156677549647_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WaSvtbEtSwqAYSQwC2Gy_full_11703292_10152817179557924_8152791156677549647_n.jpg",
+            "width": 720,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec0osRffYVXkinft"
+    ],
+    "(You can't directly edit this column)": "Carol Yu, AFX Board Spring 2013 Public Relations",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recnOfQihz89RL3zI": {
+    "createdTime": "2018-10-17T22:25:04.000Z",
+    "id": "recnOfQihz89RL3zI",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Public Relations",
+    "picture": [
+      {
+        "id": "attguUyaBfMFIqTT2",
+        "url": "https://dl.airtable.com/F56JujQT9uRIWYhyY8Qg_11885009_10207394596813288_3614778451375522020_o.jpg",
+        "filename": "11885009_10207394596813288_3614778451375522020_o.jpg",
+        "size": 536106,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/JPhJKyDQRP2FiUH6PDXP_small_11885009_10207394596813288_3614778451375522020_o.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/CWaYVsN3Q4Zrloq8jmmR_large_11885009_10207394596813288_3614778451375522020_o.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/U3tbDVdwQFGdaXSyD6zj_full_11885009_10207394596813288_3614778451375522020_o.jpg",
+            "width": 2006,
+            "height": 2006
+          }
+        }
+      }
+    ],
+    "person": [
+      "recrROhFCZ4KFxjAW"
+    ],
+    "(You can't directly edit this column)": "Cathy Yang, AFX Board Spring 2013 Public Relations",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWqs23aXzwyEOyh": {
+    "createdTime": "2018-10-17T22:14:33.000Z",
+    "id": "recWqs23aXzwyEOyh",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Communications",
+    "picture": [
+      {
+        "id": "attLcoDHitK8eLPFQ",
+        "url": "https://dl.airtable.com/SU9nAj0LQFC1HkCd4qdd_18922463_10210522522152194_4209326782606585402_o.jpg",
+        "filename": "18922463_10210522522152194_4209326782606585402_o.jpg",
+        "size": 75016,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/hdP2Gp8DQVialHlu2o0m_small_18922463_10210522522152194_4209326782606585402_o.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/gn031mb4RmWwuzUDg2GQ_large_18922463_10210522522152194_4209326782606585402_o.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/0VRKOiMwTLKQuzsQqWXJ_full_18922463_10210522522152194_4209326782606585402_o.jpg",
+            "width": 1440,
+            "height": 1440
+          }
+        }
+      }
+    ],
+    "person": [
+      "recSpdnuAOuF5svEh"
+    ],
+    "(You can't directly edit this column)": "Gordon Lai, AFX Board Spring 2013 Communications",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recTAdsbclNgXbvey": {
+    "createdTime": "2018-10-17T22:14:28.000Z",
+    "id": "recTAdsbclNgXbvey",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "att8FBsoblneJq7lp",
+        "url": "https://dl.airtable.com/r1ypwcdNQ4u4gVvaoltU_13707611_10153301118629649_6258158905072127817_n.jpg",
+        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
+        "size": 44295,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/0BOmASbRd6V1xDoZNvIA_small_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/eWEkO9ZqSgmK4j4DcaZv_large_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/07DatUwRYCTO8y6K8Rcb_full_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recGYjEvMRqWuQabn"
+    ],
+    "(You can't directly edit this column)": "Ping Quach, AFX Board Spring 2013 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recU54lLZqUz4LmbK": {
+    "createdTime": "2018-10-17T22:14:33.000Z",
+    "id": "recU54lLZqUz4LmbK",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attvH1BR1lf6yAwdu",
+        "url": "https://dl.airtable.com/faFzctCQRYW1eeyPzabR_13051780_10153967787361508_3966323251194751461_n.jpg",
+        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
+        "size": 180846,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/zBBkOZwAScu715YlOrUo_small_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Wavr8VsbRNGGN6LfEaO3_large_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 514,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/mctZ6HvYQ5AlVNiBB4gB_full_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 960,
+            "height": 957
+          }
+        }
+      }
+    ],
+    "person": [
+      "recI4tz7ioKyk9TK0"
+    ],
+    "(You can't directly edit this column)": "Geoffrey Chen, AFX Board Spring 2013 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec5EJMij7f7KaN2X": {
+    "createdTime": "2018-10-17T22:07:32.000Z",
+    "id": "rec5EJMij7f7KaN2X",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attORwiKJCQxf2yf0",
+        "url": "https://dl.airtable.com/OUNWGhSvaFXuYqwPloOQ_22049906_10155361653778113_6833126577707796435_n.jpg",
+        "filename": "22049906_10155361653778113_6833126577707796435_n.jpg",
+        "size": 16789,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/qFWyDcXTh6IGe8Sl3CCQ_small_22049906_10155361653778113_6833126577707796435_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/yTvKyvBhSXuF0Y1yFa5g_large_22049906_10155361653778113_6833126577707796435_n.jpg",
+            "width": 420,
+            "height": 420
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Lawh0nqKSMKVcArxwhyM_full_22049906_10155361653778113_6833126577707796435_n.jpg",
+            "width": 420,
+            "height": 420
+          }
+        }
+      }
+    ],
+    "(You can't directly edit this column)": "Shawn Han, AFX Board Spring 2013 Comp Captain",
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "reciBJu4qsJ1a1S0u"
+    ]
+  },
+  "recitXxPLG94ld8ct": {
+    "createdTime": "2018-10-17T22:13:39.000Z",
+    "id": "recitXxPLG94ld8ct",
+    "group": [
+      "reclDFFQA8U6TkNNU"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "atts8JJu3tPk7CDv3",
+        "url": "https://dl.airtable.com/se8zOiorRKW73O6GFIW9_36750437_2060075507338507_5789646413570768896_o.jpg",
+        "filename": "36750437_2060075507338507_5789646413570768896_o.jpg",
+        "size": 135206,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/kusAtRaaRiaKQYS9ecPh_small_36750437_2060075507338507_5789646413570768896_o.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sOgLbFtQxu3pYjBpk7UT_large_36750437_2060075507338507_5789646413570768896_o.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/udKOiNzRQ1a90LfmfzfJ_full_36750437_2060075507338507_5789646413570768896_o.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4wvItkd0rSu1w8"
+    ],
+    "(You can't directly edit this column)": "James Arias, AFX Board Spring 2013 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recyOfaGap9N8vUfi": {
+    "createdTime": "2018-10-17T22:33:26.000Z",
+    "id": "recyOfaGap9N8vUfi",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attR7DgGDY08oOw9z",
+        "url": "https://dl.airtable.com/LFy1PmBwRFKdGj57zblP_Andrew%20Lee%20-%20Exec.jpg",
+        "filename": "Andrew Lee - Exec.jpg",
+        "size": 43485,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/uaocFWPVRtKSgDzyRms5_small_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/GzcxaNyJQ9KZXWuPFuHR_large_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/XdCsUds8R1eUeD3TREQr_full_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "recBPtE9xYnXjdgb4"
+    ],
+    "(You can't directly edit this column)": "Andrew Lee, AFX Board Spring 2014 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recpsLx44CYFgFzqe": {
+    "createdTime": "2018-10-17T22:36:16.000Z",
+    "id": "recpsLx44CYFgFzqe",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attlXcE4xnYfe8a53",
+        "url": "https://dl.airtable.com/021QYdnuS5SqD5HiX9AU_10336787_10203173734938313_2658813470424420589_n.jpg",
+        "filename": "10336787_10203173734938313_2658813470424420589_n.jpg",
+        "size": 24422,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Ur9iKLAGQmqGuYZlqk5C_small_10336787_10203173734938313_2658813470424420589_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zU2S70vRTgKWi2muHnRw_large_10336787_10203173734938313_2658813470424420589_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/hjXesBOQkaNctA0ZHYKZ_full_10336787_10203173734938313_2658813470424420589_n.jpg",
+            "width": 565,
+            "height": 565
+          }
+        }
+      }
+    ],
+    "person": [
+      "recvmgzYF7heGgA9k"
+    ],
+    "(You can't directly edit this column)": "Aurora Marie, AFX Board Spring 2014 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec7CxNBh9H35Vj0A": {
+    "createdTime": "2018-10-17T22:38:51.000Z",
+    "id": "rec7CxNBh9H35Vj0A",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attgpacuZQ56UW6Yw",
+        "url": "https://dl.airtable.com/XVoVMDDQQ6CJttvbJ8J5_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+        "filename": "Screen Shot 2018-10-17 at 6.24.09 PM.png",
+        "size": 1958721,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/AfgC4kxdSdGWRykr9nnw_small_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/KTSVadXRDG5d7velHFnP_large_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+            "width": 517,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Rh5TbuFuSfGTkyXiyfGk_full_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+            "width": 1128,
+            "height": 1118
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4rqgME4ja2gNp7"
+    ],
+    "(You can't directly edit this column)": "Jaemin Kim, AFX Board Spring 2014 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recxsfg4zOPLAqf9R": {
+    "createdTime": "2018-10-17T22:41:28.000Z",
+    "id": "recxsfg4zOPLAqf9R",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attwcvFYTg5MyLt4K",
+        "url": "https://dl.airtable.com/ty9M83C4TGSQiewPZVhA_Jenny%20Li%20-%20Events.jpg",
+        "filename": "Jenny Li - Events.jpg",
+        "size": 41654,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/e5qWO1OTYOBWhCCZv1Fi_small_Jenny%20Li%20-%20Events.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/UhLNEJe1QAmRlVVd1wPu_large_Jenny%20Li%20-%20Events.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WcTThE34TgiARCKldR50_full_Jenny%20Li%20-%20Events.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "reclzXp3jh79lnbB0"
+    ],
+    "(You can't directly edit this column)": "Jenny Li, AFX Board Spring 2014 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recqBbjzibVHDFjwq": {
+    "createdTime": "2018-10-17T22:44:38.000Z",
+    "id": "recqBbjzibVHDFjwq",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att4RI5BVXDIsb1IX",
+        "url": "https://dl.airtable.com/ImP8qMjS6KiYebT48m7k_23755098_10156228244853115_7067970468443493890_n.jpg",
+        "filename": "23755098_10156228244853115_7067970468443493890_n.jpg",
+        "size": 34476,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/roFt6A0cSaSJzlvO2QbT_small_23755098_10156228244853115_7067970468443493890_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Rw5Kj7fDSgaby2Rwp1kf_large_23755098_10156228244853115_7067970468443493890_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/OHyFvjXvR4KSpheScH5H_full_23755098_10156228244853115_7067970468443493890_n.jpg",
+            "width": 720,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "person": [
+      "reciuIga5VEVPI5sb"
+    ],
+    "(You can't directly edit this column)": "Edwina Yuan, AFX Board Spring 2014 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reci5J6MOS8tphZcF": {
+    "createdTime": "2018-10-17T22:41:25.000Z",
+    "id": "reci5J6MOS8tphZcF",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attPnPMC1q5x02eVV",
+        "url": "https://dl.airtable.com/c5mljkjjTCiZjbein4GF_11060901_10152847604664103_5588632650466657168_n.jpg",
+        "filename": "11060901_10152847604664103_5588632650466657168_n.jpg",
+        "size": 107776,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WMMKZ8rhTWq2OjKMaBcH_small_11060901_10152847604664103_5588632650466657168_n.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hkGXekQyS8qdy7Iu3snm_large_11060901_10152847604664103_5588632650466657168_n.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/fttkVepTUisdebctomqE_full_11060901_10152847604664103_5588632650466657168_n.jpg",
+            "width": 960,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec64C1WdF2Amk1VV"
+    ],
+    "(You can't directly edit this column)": "Natalie Ma, AFX Board Spring 2014 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec6ZCBxkhHM9WUFj": {
+    "createdTime": "2018-10-17T22:44:42.000Z",
+    "id": "rec6ZCBxkhHM9WUFj",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attvqIQ1UJ9coisuY",
+        "url": "https://dl.airtable.com/dcIVliRYTdWxFE28i4hb_Simon%20Chen%20-%20Historian.jpg",
+        "filename": "Simon Chen - Historian.jpg",
+        "size": 157737,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wWLhs4xxQUSuHWSsoomw_small_Simon%20Chen%20-%20Historian.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/mIt8C5ipTDOJSSZuHXTT_large_Simon%20Chen%20-%20Historian.jpg",
+            "width": 398,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Pn7yNPfSqqq5F7DGZE7K_full_Simon%20Chen%20-%20Historian.jpg",
+            "width": 398,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccl1uy2ajMiq1O2"
+    ],
+    "(You can't directly edit this column)": "Simon Chen, AFX Board Spring 2014 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recHPFEfJg3chEyPc": {
+    "createdTime": "2018-10-17T22:41:19.000Z",
+    "id": "recHPFEfJg3chEyPc",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "PR Marketing",
+    "person": [
+      "rec1f93ALW5SsVGI9"
+    ],
+    "(You can't directly edit this column)": "Alex Tang, AFX Board Spring 2014 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recwHz7FQK4hCm7i7": {
+    "createdTime": "2018-10-17T22:41:23.000Z",
+    "id": "recwHz7FQK4hCm7i7",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attMQpZM8SltuBMSS",
+        "url": "https://dl.airtable.com/tFJsD0tITgOaGR29oUmo_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+        "filename": "Alyssa Alvarez - PR Design.jpg",
+        "size": 56398,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/MPQeCumhTfaKLvcAPPzq_small_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Jab73bK1RoqqOCdqxSn4_large_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/50D4RdgdRWK25ELt1CMh_full_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "recVe7qtpA0igWgdl"
+    ],
+    "(You can't directly edit this column)": "Alyssa Alvarez, AFX Board Spring 2014 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recCV8UTZJWjUgyYE": {
+    "createdTime": "2018-10-17T22:44:44.000Z",
+    "id": "recCV8UTZJWjUgyYE",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attyKK7edcqAtzOzT",
+        "url": "https://dl.airtable.com/zNhTtQT1mLLkhA0o02CQ_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+        "filename": "Jasmine Chau - Vice Exec + Outreach Chair.jpg",
+        "size": 169881,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/gbzdL24ZSvGuvIQklgDi_small_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/UjB56YV5QISQEuVvI1dS_large_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 401,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ACftU8j6QPKu02upVdqp_full_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 401,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Spring 2014 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recZRkwOqdub8rIb4": {
+    "createdTime": "2018-10-17T22:37:23.000Z",
+    "id": "recZRkwOqdub8rIb4",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attClzHsTOkGTSDKS",
+        "url": "https://dl.airtable.com/RT0mNtFVQxqcEp7oHyR0_12819195_10209240517958911_7108238715465571965_o.jpg",
+        "filename": "12819195_10209240517958911_7108238715465571965_o.jpg",
+        "size": 225594,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/XnV84lU0QPe1ygkfDYim_small_12819195_10209240517958911_7108238715465571965_o.jpg",
+            "width": 26,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ez8ouSfpT9ClqYRgogL1_large_12819195_10209240517958911_7108238715465571965_o.jpg",
+            "width": 512,
+            "height": 709
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3H8kIsGWQqWVwuPcl2Qu_full_12819195_10209240517958911_7108238715465571965_o.jpg",
+            "width": 1479,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recp0NmQKxjcdlu8w"
+    ],
+    "(You can't directly edit this column)": "Eric Kim, AFX Board Spring 2014 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec4z6wz1bId6q4v3": {
+    "createdTime": "2018-10-17T22:38:44.000Z",
+    "id": "rec4z6wz1bId6q4v3",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attxwyhPGAF9Ovfcr",
+        "url": "https://dl.airtable.com/BtzR7e2pSoG7wAguFFqK_25626881_10213204123351989_6096239528565524427_o.jpg",
+        "filename": "25626881_10213204123351989_6096239528565524427_o.jpg",
+        "size": 351453,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KJxXuWSaKXuS63RXhxBA_small_25626881_10213204123351989_6096239528565524427_o.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jxxyBY4oQFSM3TblbkzA_large_25626881_10213204123351989_6096239528565524427_o.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/5Sd4RRV2QDGee4juR5ZM_full_25626881_10213204123351989_6096239528565524427_o.jpg",
+            "width": 1365,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "person": [
+      "recOWrlg8MLtI8Py2"
+    ],
+    "(You can't directly edit this column)": "Felix Li, AFX Board Spring 2014 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvXhAMyqnKWxeqy": {
+    "createdTime": "2018-10-17T22:38:47.000Z",
+    "id": "recvXhAMyqnKWxeqy",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "att8lPttm83KDpEzW",
+        "url": "https://dl.airtable.com/krAFtssMQleIBW2xbpAX_13707611_10153301118629649_6258158905072127817_n.jpg",
+        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
+        "size": 44295,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/GPbbNZPBRgeqAWHZeeth_small_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/SG8tmXNiSC2qRSi0Id7G_large_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/SBAiu2VJRiqSQfRRY9pN_full_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recGYjEvMRqWuQabn"
+    ],
+    "(You can't directly edit this column)": "Ping Quach, AFX Board Spring 2014 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec95Nr6rB535jmwh": {
+    "createdTime": "2018-10-17T22:38:49.000Z",
+    "id": "rec95Nr6rB535jmwh",
+    "group": [
+      "recefYCYkTSsb9UBW"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attJa1vboXMa8t2jE",
+        "url": "https://dl.airtable.com/vj6PmI3mRV6FwnPBahmq_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1DMw6eQySF60AtBxKMPD_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/wsfdsFGbTdCr6TpZT8sV_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/pkL3kyqS6mGDv3qqYlVQ_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Spring 2014 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recL2c46u3NFrncta": {
+    "createdTime": "2018-10-17T22:25:33.000Z",
+    "id": "recL2c46u3NFrncta",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "att33rqawjytqhqOh",
+        "url": "https://dl.airtable.com/ifohpCU8Rzq9stnWoMw4_Jasmine%20Chau%20-%20Exec.jpg",
+        "filename": "Jasmine Chau - Exec.jpg",
+        "size": 581494,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/kcFcM8rMQDmiOpc6MnPh_small_Jasmine%20Chau%20-%20Exec.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/O2GISGm7TUGBWtaD1G5O_large_Jasmine%20Chau%20-%20Exec.jpg",
+            "width": 684,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/btOx4rCwQ2imgpqay3SG_full_Jasmine%20Chau%20-%20Exec.jpg",
+            "width": 800,
+            "height": 599
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Spring 2015 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recyux8jbE3ZvF4X6": {
+    "createdTime": "2018-10-17T22:22:06.000Z",
+    "id": "recyux8jbE3ZvF4X6",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attfL6xYwXKuq9Ywj",
+        "url": "https://dl.airtable.com/jLqHhJXNR2ikLwRDqjxk_Ada%20Ng%20-%20Events.jpg",
+        "filename": "Ada Ng - Events.jpg",
+        "size": 772077,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/4UiVSKoQ6Y6Sn0gdX4pA_small_Ada%20Ng%20-%20Events.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/tDqntP0XTku2ACc6j5hr_large_Ada%20Ng%20-%20Events.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ghyljSgKRgqdbmLJoldJ_full_Ada%20Ng%20-%20Events.jpg",
+            "width": 1067,
+            "height": 800
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec54iAVFwg1HwrW1"
+    ],
+    "(You can't directly edit this column)": "Ada Ng, AFX Board Spring 2015 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvod600x05DuouE": {
+    "createdTime": "2018-10-17T22:26:33.000Z",
+    "id": "recvod600x05DuouE",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attzjOxpIerXQ24qQ",
+        "url": "https://dl.airtable.com/M3NM9tsnSIuTyDxkx1KG_Kevin%20Hayakawa%20-%20Events.jpg",
+        "filename": "Kevin Hayakawa - Events.jpg",
+        "size": 836589,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ozIS5GUyRYuSpan4iS6O_small_Kevin%20Hayakawa%20-%20Events.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/dhaSSzxuT8qtlK4xSGyB_large_Kevin%20Hayakawa%20-%20Events.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/upaQRa35Sqe3m5VNu6JS_full_Kevin%20Hayakawa%20-%20Events.jpg",
+            "width": 1200,
+            "height": 900
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec3RLZl3eC9SXHwJ"
+    ],
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFX Board Spring 2015 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recVF1tjI67BNcwu0": {
+    "createdTime": "2018-10-17T22:22:07.000Z",
+    "id": "recVF1tjI67BNcwu0",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attdpoFQ28wYes9Z3",
+        "url": "https://dl.airtable.com/kDA3wbcFRE2NUz3ycRwV_Arthur%20Liou%20-%20Finance.jpg",
+        "filename": "Arthur Liou - Finance.jpg",
+        "size": 93964,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/BIVp3Gn5QBa9dNU97sO2_small_Arthur%20Liou%20-%20Finance.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/LZLg2DIQEqeuKXLGY5wj_large_Arthur%20Liou%20-%20Finance.jpg",
+            "width": 639,
+            "height": 480
+          },
+          "full": {
+            "url": "https://dl.airtable.com/lHLAbhRS4ydcmQdMyZvh_full_Arthur%20Liou%20-%20Finance.jpg",
+            "width": 639,
+            "height": 480
+          }
+        }
+      }
+    ],
+    "person": [
+      "recbcCfd2aMzjtrro"
+    ],
+    "(You can't directly edit this column)": "Arthur Liou, AFX Board Spring 2015 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recsvU27ydWdr0eSV": {
+    "createdTime": "2018-10-17T22:27:01.000Z",
+    "id": "recsvU27ydWdr0eSV",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attv8uCVbe6Gyh9aS",
+        "url": "https://dl.airtable.com/rtLT4VjQF6CAuVfXyxgl_Xinyue%20Wang%20-%20Finance.jpg",
+        "filename": "Xinyue Wang - Finance.jpg",
+        "size": 240281,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VglGlsZDRLakyuERQwv0_small_Xinyue%20Wang%20-%20Finance.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/7PJFqyJ4SuuncTqy239a_large_Xinyue%20Wang%20-%20Finance.jpg",
+            "width": 515,
+            "height": 386
+          },
+          "full": {
+            "url": "https://dl.airtable.com/v93gem1lS9yiQG3R7Dw6_full_Xinyue%20Wang%20-%20Finance.jpg",
+            "width": 515,
+            "height": 386
+          }
+        }
+      }
+    ],
+    "person": [
+      "reczF9UfpTvqHGWjE"
+    ],
+    "(You can't directly edit this column)": "Xinyue Wang, AFX Board Spring 2015 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recsaxUF87czITRBf": {
+    "createdTime": "2018-10-17T22:22:07.000Z",
+    "id": "recsaxUF87czITRBf",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attFZ7Q450WmifDqP",
+        "url": "https://dl.airtable.com/pOh6y3elTf24G1EGA4dX_Chris%20Him%20-%20Historian.jpg",
+        "filename": "Chris Him - Historian.jpg",
+        "size": 135267,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/z08VU5U6QqaGhkR55uN0_small_Chris%20Him%20-%20Historian.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/kjtAYqowQ7SAgr7k3iTZ_large_Chris%20Him%20-%20Historian.jpg",
+            "width": 511,
+            "height": 383
+          },
+          "full": {
+            "url": "https://dl.airtable.com/42m1ycQRB6OsfTKfBxxU_full_Chris%20Him%20-%20Historian.jpg",
+            "width": 511,
+            "height": 383
+          }
+        }
+      }
+    ],
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "(You can't directly edit this column)": "Chris Kim, AFX Board Spring 2015 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recOTsrW10YbgxArn": {
+    "createdTime": "2018-10-17T22:22:08.000Z",
+    "id": "recOTsrW10YbgxArn",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attIvSxOMH96JILQ1",
+        "url": "https://dl.airtable.com/BBU6u4h1Riyvg1NHYhYO_Christina%20Ong%20-%20Historian.jpg",
+        "filename": "Christina Ong - Historian.jpg",
+        "size": 635705,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/24tR8q3xQ8qqelg7rDME_small_Christina%20Ong%20-%20Historian.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/glvhuXKURLi6tFv3oOTI_large_Christina%20Ong%20-%20Historian.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/COLZwlxQ9K9t6Afnzmvg_full_Christina%20Ong%20-%20Historian.jpg",
+            "width": 900,
+            "height": 675
+          }
+        }
+      }
+    ],
+    "person": [
+      "rech7Tn0Mt2LITmpc"
+    ],
+    "(You can't directly edit this column)": "Christina Ong, AFX Board Spring 2015 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recRYxRcI1EBvHWWr": {
+    "createdTime": "2018-10-17T22:25:00.000Z",
+    "id": "recRYxRcI1EBvHWWr",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "att0kHGLfsnOFDEve",
+        "url": "https://dl.airtable.com/7hrkhheqTDGrZsNHxPnf_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+        "filename": "Emily Tsai - PR Marketing.jpg",
+        "size": 205585,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/xHABk8y2Q2i62zyHIsO3_small_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/vppaEiZTzWbvg5AtnVvi_large_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+            "width": 588,
+            "height": 441
+          },
+          "full": {
+            "url": "https://dl.airtable.com/jx5Wli9ZSv6HMP8MGgrZ_full_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+            "width": 588,
+            "height": 441
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLxGorRTNI9I0QS"
+    ],
+    "(You can't directly edit this column)": "Emily Tsai, AFX Board Spring 2015 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recVXN0oNRF3K1oY8": {
+    "createdTime": "2018-10-17T22:27:42.000Z",
+    "id": "recVXN0oNRF3K1oY8",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attlJGaGb7YgaypSK",
+        "url": "https://dl.airtable.com/EDnLdSJCSz68Psnv5VQS_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
+        "filename": "Zoey Kenny - PR Marketing.jpg",
+        "size": 216274,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/P1JUVicQWeKebsxTyjwG_small_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/O0PAcaDdTLK6U6FZNTk5_large_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "full": {
+            "url": "https://dl.airtable.com/rSARH9fCTnmzNPvb0swr_full_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
+            "width": 640,
+            "height": 480
+          }
+        }
+      }
+    ],
+    "person": [
+      "recXSiCVLPXdDO5g8"
+    ],
+    "(You can't directly edit this column)": "Zoey Kenny, AFX Board Spring 2015 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recBGlHz815nSSdWi": {
+    "createdTime": "2018-10-17T22:22:09.000Z",
+    "id": "recBGlHz815nSSdWi",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attAtMs7UuOirBgcS",
+        "url": "https://dl.airtable.com/G5Tq6m16RCKc3JpcPhzg_Davinci%20Lam%20-%20PR%20Design.jpg",
+        "filename": "Davinci Lam - PR Design.jpg",
+        "size": 262602,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/syRtjKQbQEGfGWv7ER13_small_Davinci%20Lam%20-%20PR%20Design.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/LE2uhSxIQ0C5UQR7SF6D_large_Davinci%20Lam%20-%20PR%20Design.jpg",
+            "width": 621,
+            "height": 466
+          },
+          "full": {
+            "url": "https://dl.airtable.com/KbSRp28QNm2MjfnYqKNa_full_Davinci%20Lam%20-%20PR%20Design.jpg",
+            "width": 621,
+            "height": 466
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec7BBK1UpjDQQiJF"
+    ],
+    "(You can't directly edit this column)": "Davinci Lam, AFX Board Spring 2015 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recYDrXQ1G6b6s9oj": {
+    "createdTime": "2018-10-17T22:26:02.000Z",
+    "id": "recYDrXQ1G6b6s9oj",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attudOrwe3vXWo9Ga",
+        "url": "https://dl.airtable.com/Hkmb0IP4ToyDRDjSZhcX_Josh%20Park%20-%20Outreach.jpg",
+        "filename": "Josh Park - Outreach.jpg",
+        "size": 270234,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ATGZ0oPgTEqLkMc9gkEK_small_Josh%20Park%20-%20Outreach.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zNhbdTwRUeK2dsdgcuI2_large_Josh%20Park%20-%20Outreach.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/lzUvFoGvTiCI6T1Sdhrb_full_Josh%20Park%20-%20Outreach.jpg",
+            "width": 720,
+            "height": 540
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec9jN75kKwlEUKlP"
+    ],
+    "(You can't directly edit this column)": "Josh Park, AFX Board Spring 2015 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recftaxOirG0FO2uP": {
+    "createdTime": "2018-10-18T00:25:17.000Z",
+    "id": "recftaxOirG0FO2uP",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attlzTOJ3JdUbjApJ",
+        "url": "https://dl.airtable.com/nkspRPpSeeNL6xb8GL90_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/QYMnZUzATyJmIU4auw9Z_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/TQrnPNwoRJA7TTi0Q241_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/0JCzyUlrS1axEF7mM2h3_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Spring 2015 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reclSqlKcWOPSBmnt": {
+    "createdTime": "2018-10-18T00:25:53.000Z",
+    "id": "reclSqlKcWOPSBmnt",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attAlV3Npqm4kh8kf",
+        "url": "https://dl.airtable.com/hL0elBQvTGSaByY1wxSW_Andrew%20Lee%20-%20Exec.jpg",
+        "filename": "Andrew Lee - Exec.jpg",
+        "size": 43485,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/zdPKQW0BS9WG3JUFiS1T_small_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/0wzqhjRUT1aZqRyrl3xS_large_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/bkaCjTpQ1KMJMeNxXk9V_full_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "recBPtE9xYnXjdgb4"
+    ],
+    "(You can't directly edit this column)": "Andrew Lee, AFX Board Spring 2015 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recsREBChFaltwzAo": {
+    "createdTime": "2018-10-18T00:26:41.000Z",
+    "id": "recsREBChFaltwzAo",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attXhFiggWHy8IT0u",
+        "url": "https://dl.airtable.com/YBt5D1HrSf6anrgeA8PF_41677504_1972020742818719_5250966448460791808_o.jpg",
+        "filename": "41677504_1972020742818719_5250966448460791808_o.jpg",
+        "size": 158266,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/E7E6vVQVQuSaCxCdHZ70_small_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/38Rx8ldHRu2JHuzXEo7O_large_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/2PhxJPibS8mIdEFp87uQ_full_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recMwcvipXM9qiwJJ"
+    ],
+    "(You can't directly edit this column)": "Christian Cayton, AFX Board Spring 2015 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recqlraIAykE9FI3S": {
+    "createdTime": "2018-10-18T00:27:12.000Z",
+    "id": "recqlraIAykE9FI3S",
+    "group": [
+      "rec5wYZUm8pLKCX3T"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "attMOJXP9ZjfJekbZ",
+        "url": "https://dl.airtable.com/5kMtPPp9R7ycAXwvWW44_30743668_1771855149503344_7681325623351967744_n.jpg",
+        "filename": "30743668_1771855149503344_7681325623351967744_n.jpg",
+        "size": 89775,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/2VBKYjKTQDeggjJ0H5aa_small_30743668_1771855149503344_7681325623351967744_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/FIwisUUnQPyj4EwIS7gZ_large_30743668_1771855149503344_7681325623351967744_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/gvE2ojp9S4imvNEwkjSI_full_30743668_1771855149503344_7681325623351967744_n.jpg",
+            "width": 740,
+            "height": 740
+          }
+        }
+      }
+    ],
+    "person": [
+      "recWzPqCuU8d0RdCK"
+    ],
+    "(You can't directly edit this column)": "Alice Lee, AFX Board Spring 2015 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recq43Z718PFa7rNz": {
+    "createdTime": "2018-10-17T22:41:37.000Z",
+    "id": "recq43Z718PFa7rNz",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attQKgUMBF18DVJGO",
+        "url": "https://dl.airtable.com/HzT0LQTMQPC2PKWJ4jlm_Ryan%20Barroga%20-%20Exec.jpg",
+        "filename": "Ryan Barroga - Exec.jpg",
+        "size": 131403,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/y4tgBLAZRKKpMeS1I1jQ_small_Ryan%20Barroga%20-%20Exec.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/we0OnMnlTECfbmc5PKCc_large_Ryan%20Barroga%20-%20Exec.jpg",
+            "width": 512,
+            "height": 762
+          },
+          "full": {
+            "url": "https://dl.airtable.com/93OVDYqtSNyw9AqttnAX_full_Ryan%20Barroga%20-%20Exec.jpg",
+            "width": 605,
+            "height": 900
+          }
+        }
+      }
+    ],
+    "person": [
+      "reczfMxHZL2l3qHUm"
+    ],
+    "(You can't directly edit this column)": "Ryan Barroga, AFX Board Spring 2016 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recboh27pftuiP1MF": {
+    "createdTime": "2018-10-17T22:38:11.000Z",
+    "id": "recboh27pftuiP1MF",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "att7L9EFI8SrDPQX5",
+        "url": "https://dl.airtable.com/aCjOsnbRa2noZvY4EKKD_Chris%20Kim%20-%20Vice%20Exec.jpg",
+        "filename": "Chris Kim - Vice Exec.jpg",
+        "size": 132222,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/tzGz7lTTQ2SLaV8qxJcg_small_Chris%20Kim%20-%20Vice%20Exec.jpg",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/pBZlQU0VTyuxiaCvY60G_large_Chris%20Kim%20-%20Vice%20Exec.jpg",
+            "width": 512,
+            "height": 661
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6mpu5pSFSgyf0uEqg0hN_full_Chris%20Kim%20-%20Vice%20Exec.jpg",
+            "width": 650,
+            "height": 839
+          }
+        }
+      }
+    ],
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "(You can't directly edit this column)": "Chris Kim, AFX Board Spring 2016 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recIjhqWDW2hFdXNs": {
+    "createdTime": "2018-10-17T22:40:31.000Z",
+    "id": "recIjhqWDW2hFdXNs",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "atta7f86EyNKZL2Q1",
+        "url": "https://dl.airtable.com/IWc95lG9QvKuAg6CGYy1_Karen%20Ding%20-%20Vice%20Exec.jpg",
+        "filename": "Karen Ding - Vice Exec.jpg",
+        "size": 100322,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/g6CwmGpRTLupIMIelK7p_small_Karen%20Ding%20-%20Vice%20Exec.jpg",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Ro6EpbyiRjmPfqLD1fqM_large_Karen%20Ding%20-%20Vice%20Exec.jpg",
+            "width": 512,
+            "height": 661
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Wdqg99wGSv2aZV581yAo_full_Karen%20Ding%20-%20Vice%20Exec.jpg",
+            "width": 620,
+            "height": 800
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFHoYhUBiV5URhr"
+    ],
+    "(You can't directly edit this column)": "Karen Ding, AFX Board Spring 2016 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recZpYxJZgts0bfGu": {
+    "createdTime": "2018-10-17T22:40:53.000Z",
+    "id": "recZpYxJZgts0bfGu",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attTHKFOMor4h6KUs",
+        "url": "https://dl.airtable.com/YvSnIvNhSGqDYPSMVpzR_Kevin%20Pham%20-%20Events.jpg",
+        "filename": "Kevin Pham - Events.jpg",
+        "size": 94451,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/4YhxcYEQUKTDEhOO3qwc_small_Kevin%20Pham%20-%20Events.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/11IRiVbRh2d69yECPqKJ_large_Kevin%20Pham%20-%20Events.jpg",
+            "width": 512,
+            "height": 676
+          },
+          "full": {
+            "url": "https://dl.airtable.com/64DCCLt3Ri6NAlA6WYZ8_full_Kevin%20Pham%20-%20Events.jpg",
+            "width": 600,
+            "height": 792
+          }
+        }
+      }
+    ],
+    "person": [
+      "recTyIipOm1vPBdpw"
+    ],
+    "(You can't directly edit this column)": "Kevin Pham, AFX Board Spring 2016 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec58m0QuSsWYPy3i": {
+    "createdTime": "2018-10-17T22:42:01.000Z",
+    "id": "rec58m0QuSsWYPy3i",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att7Yywvv9pyPfMud",
+        "url": "https://dl.airtable.com/A95vsiFYRDW5ZN1LM5nZ_Ryan%20Ta%20-%20Events.jpg",
+        "filename": "Ryan Ta - Events.jpg",
+        "size": 75996,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wZeXtJulTAe0ziYiZlAE_small_Ryan%20Ta%20-%20Events.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XIOTykF6QJiDRWpNwAvf_large_Ryan%20Ta%20-%20Events.jpg",
+            "width": 512,
+            "height": 675
+          },
+          "full": {
+            "url": "https://dl.airtable.com/V3NczUFQKmqOqidnK07D_full_Ryan%20Ta%20-%20Events.jpg",
+            "width": 546,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLla3pij2rxqiUK"
+    ],
+    "(You can't directly edit this column)": "Ryan Ta, AFX Board Spring 2016 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recMZaerYaUo8bIa2": {
+    "createdTime": "2018-10-17T22:35:42.000Z",
+    "id": "recMZaerYaUo8bIa2",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attMu5h0VjVikvKTI",
+        "url": "https://dl.airtable.com/gdDsI1k4S7WQc6PsUhHz_Ashmitha%20Thinagar%20-%20Finance.jpg",
+        "filename": "Ashmitha Thinagar - Finance.jpg",
+        "size": 78840,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/gByTJmeLTuG4Cr8RHrwq_small_Ashmitha%20Thinagar%20-%20Finance.jpg",
+            "width": 49,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/rNCsstXkQkqHqLHKdUvk_large_Ashmitha%20Thinagar%20-%20Finance.jpg",
+            "width": 697,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/iZLcMk0CQ1iwX5egLMb9_full_Ashmitha%20Thinagar%20-%20Finance.jpg",
+            "width": 700,
+            "height": 514
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1NK9KoDeRi9Pq9"
+    ],
+    "(You can't directly edit this column)": "Ashmitha Thinagar, AFX Board Spring 2016 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec0xXxNqIKyo0acv": {
+    "createdTime": "2018-10-17T22:38:34.000Z",
+    "id": "rec0xXxNqIKyo0acv",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attlFEvvgsNWzgKh2",
+        "url": "https://dl.airtable.com/8CIrIYVqRXuraXArAJ3y_Danielle%20Ip%20-%20Finance.jpg",
+        "filename": "Danielle Ip - Finance.jpg",
+        "size": 118481,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/yi5jDcaREOlOjvLeZjgo_small_Danielle%20Ip%20-%20Finance.jpg",
+            "width": 49,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ikSwpsAYT0S1tZNRNe5k_large_Danielle%20Ip%20-%20Finance.jpg",
+            "width": 698,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/MOXp8TEaRICZW9fsfcu1_full_Danielle%20Ip%20-%20Finance.jpg",
+            "width": 954,
+            "height": 700
+          }
+        }
+      }
+    ],
+    "person": [
+      "recoKdC5z3vmLbrhF"
+    ],
+    "(You can't directly edit this column)": "Danielle Ip, AFX Board Spring 2016 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recRn726PeTJUTlp1": {
+    "createdTime": "2018-10-17T22:40:10.000Z",
+    "id": "recRn726PeTJUTlp1",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attuJY9ZFKz2dhgqu",
+        "url": "https://dl.airtable.com/bSKRcxFBRIiAW4VckVqu_Julie%20Yu%20-%20Finance.jpg",
+        "filename": "Julie Yu - Finance.jpg",
+        "size": 83773,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/vt3zfsz4Qyu6zW5sMy8c_small_Julie%20Yu%20-%20Finance.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/lTmpoUCqSeOeVnXQ5Ffs_large_Julie%20Yu%20-%20Finance.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/4L0BzvMZQbegS94ukbif_full_Julie%20Yu%20-%20Finance.jpg",
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    ],
+    "person": [
+      "recDBy6u6VlMpeiMt"
+    ],
+    "(You can't directly edit this column)": "Julie Yu, AFX Board Spring 2016 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recuvB9shc9cyE0Sw": {
+    "createdTime": "2018-10-17T22:41:14.000Z",
+    "id": "recuvB9shc9cyE0Sw",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attxLmTEHc7xziTML",
+        "url": "https://dl.airtable.com/HYAz6TDReimO5EMnBoqU_Queena%20Xu%20-%20Historian.jpg",
+        "filename": "Queena Xu - Historian.jpg",
+        "size": 88268,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wyiAwT9IQTuVsQkSLC4I_small_Queena%20Xu%20-%20Historian.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/gVCA65RGKJAMmKX876jA_large_Queena%20Xu%20-%20Historian.jpg",
+            "width": 680,
+            "height": 510
+          },
+          "full": {
+            "url": "https://dl.airtable.com/nmxd4AgST1CCP2j9mJ11_full_Queena%20Xu%20-%20Historian.jpg",
+            "width": 680,
+            "height": 510
+          }
+        }
+      }
+    ],
+    "person": [
+      "recm9GGNQwNn3Y0uG"
+    ],
+    "(You can't directly edit this column)": "Queena Xu, AFX Board Spring 2016 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recwvKkgeHb2SAKOZ": {
+    "createdTime": "2018-10-17T22:42:42.000Z",
+    "id": "recwvKkgeHb2SAKOZ",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attojzzyvP7RoJ3ZQ",
+        "url": "https://dl.airtable.com/VDJkBGpkS9GK7r4PqAMY_Tiffanie%20Abacan%20-%20Historian.jpg",
+        "filename": "Tiffanie Abacan - Historian.jpg",
+        "size": 301013,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/PJ5EAfmKR9KixGxNLTFP_small_Tiffanie%20Abacan%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/qAQf4KwUS7GsBmbjRwEH_large_Tiffanie%20Abacan%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/2uxfSq0fQH64cPjZZ6iZ_full_Tiffanie%20Abacan%20-%20Historian.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "recRcjNWpPIB6MhSE"
+    ],
+    "(You can't directly edit this column)": "Tiffanie Abacan, AFX Board Spring 2016 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recsR3dCQFQBuj3Qs": {
+    "createdTime": "2018-10-17T22:43:02.000Z",
+    "id": "recsR3dCQFQBuj3Qs",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attVyydvxHkzyOyvK",
+        "url": "https://dl.airtable.com/gUy2ocGLQUqBr7qQP61F_William%20Zheng%20-%20Historian.jpg",
+        "filename": "William Zheng - Historian.jpg",
+        "size": 86535,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/4xqiZ7SHRGqysqZWMT75_small_William%20Zheng%20-%20Historian.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/T27pCVSbTW2zwdlH8e9f_large_William%20Zheng%20-%20Historian.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/QOZ41shpTa9zgaXrEO1A_full_William%20Zheng%20-%20Historian.jpg",
+            "width": 762,
+            "height": 571
+          }
+        }
+      }
+    ],
+    "person": [
+      "recjMN8Zx4KlJGDUL"
+    ],
+    "(You can't directly edit this column)": "William Zheng, AFX Board Spring 2016 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recD9K0ch5nqXUBlx": {
+    "createdTime": "2018-10-17T22:37:41.000Z",
+    "id": "recD9K0ch5nqXUBlx",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attuJ7mcbQjliKWgd",
+        "url": "https://dl.airtable.com/3grEj86wT9KzP4jy8isH_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+        "filename": "Chelsea Zhang - PR Marketing.jpg",
+        "size": 109452,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/SPCps3JsSj2c5sH7Mauc_small_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/NlYGuZWbTvClNBzjDnFz_large_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/B58Zfn1CQ5y9JdVBHTuL_full_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+            "width": 800,
+            "height": 533
+          }
+        }
+      }
+    ],
+    "person": [
+      "recrAtRib7HBEcJB9"
+    ],
+    "(You can't directly edit this column)": "Chelsea Zhang, AFX Board Spring 2016 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec1eoD5Alq8iuRRR": {
+    "createdTime": "2018-10-17T22:38:58.000Z",
+    "id": "rec1eoD5Alq8iuRRR",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attdOKHlt9oA0hF7I",
+        "url": "https://dl.airtable.com/9tXs3BOkRzuZQgQxOp48_Emily%20Liang%20-%20PR%20Marketing.jpg",
+        "filename": "Emily Liang - PR Marketing.jpg",
+        "size": 76056,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/c7EW78Z9RJe6ipYAlnaG_small_Emily%20Liang%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ABR7b0bQOON0ToDauFLU_large_Emily%20Liang%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/c8RLUmDaTNybzj717MEo_full_Emily%20Liang%20-%20PR%20Marketing.jpg",
+            "width": 606,
+            "height": 606
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4DL1eippoez0bh"
+    ],
+    "(You can't directly edit this column)": "Emily Liang, AFX Board Spring 2016 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recCUymelnvLksVOH": {
+    "createdTime": "2018-10-17T22:39:46.000Z",
+    "id": "recCUymelnvLksVOH",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "att2NgAKJUrodkSpW",
+        "url": "https://dl.airtable.com/DJKcpgG5T5WutwtnPZBQ_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
+        "filename": "Jinnie Rhee - PR Marketing.jpg",
+        "size": 67809,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RunoehRTQ6KGc3m6mMrX_small_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/leMKCnBqRD2tPO5hG4EC_large_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/1hqhx1NjTaajfa6JrkM7_full_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
+            "width": 800,
+            "height": 533
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnnv2dbvHIZ2dGJ"
+    ],
+    "(You can't directly edit this column)": "Jinnie Rhee, AFX Board Spring 2016 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recbAqu4Hf1mDgAwf": {
+    "createdTime": "2018-10-17T22:42:22.000Z",
+    "id": "recbAqu4Hf1mDgAwf",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attBLZxsMVsIoETXM",
+        "url": "https://dl.airtable.com/x34KDATtev3Y07yuO1Iw_Shirley%20Li%20-%20PR%20Design.jpg",
+        "filename": "Shirley Li - PR Design.jpg",
+        "size": 52536,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/D5lgEYbpTMmhINbMYxB2_small_Shirley%20Li%20-%20PR%20Design.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/IQR5ckQkRQukvpW6JUlm_large_Shirley%20Li%20-%20PR%20Design.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/SjMm4S5XTtOnXHB8wygX_full_Shirley%20Li%20-%20PR%20Design.jpg",
+            "width": 720,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLibXAEVugrELPu"
+    ],
+    "(You can't directly edit this column)": "Shirley Li, AFX Board Spring 2016 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvkizTwIECyfD8A": {
+    "createdTime": "2018-10-17T22:39:24.000Z",
+    "id": "recvkizTwIECyfD8A",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attZutfNeefHWZKne",
+        "url": "https://dl.airtable.com/KquUYroS1eGkR1AoSE4d_Jasmine%20Tatah%20-%20Outreach.jpg",
+        "filename": "Jasmine Tatah - Outreach.jpg",
+        "size": 78766,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/0x8YmCV4QrOkKTEudbnU_small_Jasmine%20Tatah%20-%20Outreach.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jpQdv0OMSMqbq3GC6OgD_large_Jasmine%20Tatah%20-%20Outreach.jpg",
+            "width": 773,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/eASkxVdwT6arrNiXuuKf_full_Jasmine%20Tatah%20-%20Outreach.jpg",
+            "width": 773,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "person": [
+      "recRTWAYnQmB1tE5v"
+    ],
+    "(You can't directly edit this column)": "Jasmine Tatah, AFX Board Spring 2016 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWEZvMv7ktz9kHI": {
+    "createdTime": "2018-10-17T22:43:42.000Z",
+    "id": "recWEZvMv7ktz9kHI",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "att3gFZ1njvSxFvlF",
+        "url": "https://dl.airtable.com/Z5A5rcUySgiDpzg6phPq_Winn%20Cui%20-%20Outreach.jpg",
+        "filename": "Winn Cui - Outreach.jpg",
+        "size": 88693,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/bN41hsA6SWWDriujDhRB_small_Winn%20Cui%20-%20Outreach.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ybZ2j5DfRpWlNl8v47t7_large_Winn%20Cui%20-%20Outreach.jpg",
+            "width": 771,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/DTbcCnUcTuCIQdQsSthQ_full_Winn%20Cui%20-%20Outreach.jpg",
+            "width": 800,
+            "height": 531
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccusci4MPy2I4i4"
+    ],
+    "(You can't directly edit this column)": "Winn Cui, AFX Board Spring 2016 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec3AKMveOXLNezy2": {
+    "createdTime": "2018-10-18T00:30:55.000Z",
+    "id": "rec3AKMveOXLNezy2",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attBqznVY0rBuLGOM",
+        "url": "https://dl.airtable.com/IFI6YKLfSQyr16KEoTBH_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/0GS7hdbETxOms15icQvd_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/MbckZdfBRYidfEkUD8TI_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/wjAxcS5rTsWW0GLplWWe_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Spring 2016 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recQJrl4Ir3zMeFhy": {
+    "createdTime": "2018-10-18T00:31:32.000Z",
+    "id": "recQJrl4Ir3zMeFhy",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attiflkBlyisnYR19",
+        "url": "https://dl.airtable.com/jtECAULnTo2RN7bvGK7g_39750210_2014411958610140_8256809060142153728_o.jpg",
+        "filename": "39750210_2014411958610140_8256809060142153728_o.jpg",
+        "size": 170196,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/UETOz9iHRvGVCBOppFNQ_small_39750210_2014411958610140_8256809060142153728_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/SO6328uTM6N0OHfXSxOE_large_39750210_2014411958610140_8256809060142153728_o.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/bAYnsy3SiK0MYpjk5HDq_full_39750210_2014411958610140_8256809060142153728_o.jpg",
+            "width": 890,
+            "height": 1334
+          }
+        }
+      }
+    ],
+    "person": [
+      "recPocv0xCXtbE2zX"
+    ],
+    "(You can't directly edit this column)": "Alina Lee, AFX Board Spring 2016 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reccimMJ4z1CZxCEn": {
+    "createdTime": "2018-10-18T00:31:53.000Z",
+    "id": "reccimMJ4z1CZxCEn",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attNhbT0ikCshgyGg",
+        "url": "https://dl.airtable.com/WIUClriR2SzOnfFPwyAi_10355612_10205028674057448_8623846652097804396_o.jpg",
+        "filename": "10355612_10205028674057448_8623846652097804396_o.jpg",
+        "size": 209213,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fk3gopYJRBaaEogLBe0z_small_10355612_10205028674057448_8623846652097804396_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/7qXfB5ByRpy3Zl9OSMNG_large_10355612_10205028674057448_8623846652097804396_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/kr9wWOARSHSnZmwO8DQ8_full_10355612_10205028674057448_8623846652097804396_o.jpg",
+            "width": 1366,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec9ycYnjZ88dsU32"
+    ],
+    "(You can't directly edit this column)": "Albert Weng, AFX Board Spring 2016 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reczOglPA7H4rKZD3": {
+    "createdTime": "2018-10-18T00:32:19.000Z",
+    "id": "reczOglPA7H4rKZD3",
+    "group": [
+      "recWYlWdGZIv2Cu5Y"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "attLkot2Vg1p34z7t",
+        "url": "https://dl.airtable.com/158GXjHSxOzZRCVYSqng_14889742_10209513298642715_3823053715729303370_o.jpg",
+        "filename": "14889742_10209513298642715_3823053715729303370_o.jpg",
+        "size": 319782,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/dz91gwF7QIGogvVwbo2l_small_14889742_10209513298642715_3823053715729303370_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XfhmNzrQ4qOh7wspI29N_large_14889742_10209513298642715_3823053715729303370_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/PsUAnfaQEaG5OvfiXYDN_full_14889742_10209513298642715_3823053715729303370_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recl0MAVB8URRERpr"
+    ],
+    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Board Spring 2016 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recPPz4kBRV4YoVeU": {
+    "createdTime": "2018-10-17T22:58:50.000Z",
+    "id": "recPPz4kBRV4YoVeU",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attidgFkeMkLStNzU",
+        "url": "https://dl.airtable.com/v8cf7bTtTL6xXT2D4Osx_Ryan%20Ta%20-%20Exec.jpg",
+        "filename": "Ryan Ta - Exec.jpg",
+        "size": 164663,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/V6ZaRr3gQKGVSwmda6fk_small_Ryan%20Ta%20-%20Exec.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/JEg5GmT4OxB6S3X8Pdzw_large_Ryan%20Ta%20-%20Exec.jpg",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/eCj3SCUNTRWtgw2djpeA_full_Ryan%20Ta%20-%20Exec.jpg",
+            "width": 1334,
+            "height": 891
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLla3pij2rxqiUK"
+    ],
+    "(You can't directly edit this column)": "Ryan Ta, AFX Board Spring 2017 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recF4UufceUmsaz3Y": {
+    "createdTime": "2018-10-17T22:59:47.000Z",
+    "id": "recF4UufceUmsaz3Y",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attGsKwG3dAi3OxCR",
+        "url": "https://dl.airtable.com/3RExN89mQMG5Q1VR3b36_Winn%20Cui%20-%20Exec.jpg",
+        "filename": "Winn Cui - Exec.jpg",
+        "size": 117169,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fUcXCBK6Tx66W2z66zTk_small_Winn%20Cui%20-%20Exec.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/b6yaSo8RQeW2w9I1mnF8_large_Winn%20Cui%20-%20Exec.jpg",
+            "width": 770,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/29h9OEKhSaycY44JPyUx_full_Winn%20Cui%20-%20Exec.jpg",
+            "width": 1000,
+            "height": 665
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccusci4MPy2I4i4"
+    ],
+    "(You can't directly edit this column)": "Winn Cui, AFX Board Spring 2017 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec2eY3R0ExDIo5rY": {
+    "createdTime": "2018-10-17T22:54:53.000Z",
+    "id": "rec2eY3R0ExDIo5rY",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attZxu8uTURpsrxeZ",
+        "url": "https://dl.airtable.com/Y0KBK4uZQ8Kylt0h4bbD_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
+        "filename": "Jeffrey Wang - Vice Exec.jpg",
+        "size": 763306,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/SYMiXoPORTqDgejvJhoH_small_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/fjt6EFHTUWoHHOYDf27C_large_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/EO0aHpTSqmND07REapIf_full_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
+            "width": 2000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recO6btsvRqZeuJjP"
+    ],
+    "(You can't directly edit this column)": "Jeffrey Wang, AFX Board Spring 2017 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recRhyhlWtKnOo3f8": {
+    "createdTime": "2018-10-17T22:56:16.000Z",
+    "id": "recRhyhlWtKnOo3f8",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attKOh9aAvb7o2QU7",
+        "url": "https://dl.airtable.com/VYMhI3wRsyvcNUXjLO1Q_Mei%20Mei%20-%20Vice%20Exec.jpg",
+        "filename": "Mei Mei - Vice Exec.jpg",
+        "size": 223286,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Y5aoNIntSSuW8OUpcYWq_small_Mei%20Mei%20-%20Vice%20Exec.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/oNvbUSBQuyVh4qfomP7T_large_Mei%20Mei%20-%20Vice%20Exec.jpg",
+            "width": 512,
+            "height": 770
+          },
+          "full": {
+            "url": "https://dl.airtable.com/DXo9sLMnRbGaFX90nvO1_full_Mei%20Mei%20-%20Vice%20Exec.jpg",
+            "width": 1361,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "reci7k75SMLdI0Wjh"
+    ],
+    "(You can't directly edit this column)": "Mei Mei, AFX Board Spring 2017 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWGoUj92415MYGK": {
+    "createdTime": "2018-10-17T22:56:34.000Z",
+    "id": "recWGoUj92415MYGK",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attDw67DXnslwWUre",
+        "url": "https://dl.airtable.com/AYxxrLC3T3qDpjg1rvVO_Michael%20Chan%20-%20Events.jpg",
+        "filename": "Michael Chan - Events.jpg",
+        "size": 315747,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/DuRt1rT5SHGwtmXJQCoJ_small_Michael%20Chan%20-%20Events.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/4BbOXtDKTaCWX311hzD6_large_Michael%20Chan%20-%20Events.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/R8orsNnTGyelTC4yL4zw_full_Michael%20Chan%20-%20Events.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recvmimrks8m7hMNB"
+    ],
+    "(You can't directly edit this column)": "Michael Chen, AFX Board Spring 2017 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recbGFrP03BLwiDTs": {
+    "createdTime": "2018-10-17T22:58:33.000Z",
+    "id": "recbGFrP03BLwiDTs",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attI0Nmmj0MNH9KJx",
+        "url": "https://dl.airtable.com/9GJxB7Y2Qy6YFidbExM4_Robert%20Yu%20-%20Events.jpg",
+        "filename": "Robert Yu - Events.jpg",
+        "size": 86750,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/SgZMrh6RS3aQ79hnnzY9_small_Robert%20Yu%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/qSgtDsgAQiWP8uGUeca9_large_Robert%20Yu%20-%20Events.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/1UHZcar2SzuYpy16sTfK_full_Robert%20Yu%20-%20Events.jpg",
+            "width": 1288,
+            "height": 1288
+          }
+        }
+      }
+    ],
+    "person": [
+      "recCmof4I4TUVFaZ3"
+    ],
+    "(You can't directly edit this column)": "Robert Yu, AFX Board Spring 2017 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recZFzCcA5n9Tuyij": {
+    "createdTime": "2018-10-17T22:59:30.000Z",
+    "id": "recZFzCcA5n9Tuyij",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att9T596ALpv1F0SD",
+        "url": "https://dl.airtable.com/Nt87ZcrWQPeDY7ZXumPj_Stephanie%20Kim%20-%20Events.jpg",
+        "filename": "Stephanie Kim - Events.jpg",
+        "size": 56039,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/kjK8I0YTXCrKrFp1qkjQ_small_Stephanie%20Kim%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/8hWaKUgQ3edpX7KnhHII_large_Stephanie%20Kim%20-%20Events.jpg",
+            "width": 518,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6HPYxsefTzqlxyABnfO0_full_Stephanie%20Kim%20-%20Events.jpg",
+            "width": 750,
+            "height": 742
+          }
+        }
+      }
+    ],
+    "person": [
+      "recdfUETv4veF8fUU"
+    ],
+    "(You can't directly edit this column)": "Stephanie Kim, AFX Board Spring 2017 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recZAsgx9Pww9moqU": {
+    "createdTime": "2018-10-17T22:52:12.000Z",
+    "id": "recZAsgx9Pww9moqU",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attjqzK90ABZA47jc",
+        "url": "https://dl.airtable.com/RJGWADxeQ26wfot9JyAJ_Aileen%20Gui%20-%20Finance.jpg",
+        "filename": "Aileen Gui - Finance.jpg",
+        "size": 59099,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/bg6cu5s6Q1qFl7i7P7LC_small_Aileen%20Gui%20-%20Finance.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/HcAovGEKSJGwynEaR2KQ_large_Aileen%20Gui%20-%20Finance.jpg",
+            "width": 512,
+            "height": 773
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qlm3SBPURgaQiFF39ldc_full_Aileen%20Gui%20-%20Finance.jpg",
+            "width": 636,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recaIBY8nq01IWPqM"
+    ],
+    "(You can't directly edit this column)": "Aileen Gui, AFX Board Spring 2017 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recA5AtEHnQjODYey": {
+    "createdTime": "2018-10-17T22:57:19.000Z",
+    "id": "recA5AtEHnQjODYey",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attuAi4fFt6mcT4bn",
+        "url": "https://dl.airtable.com/PpQp4MhQ5ixrVaV4Ze0Y_Nolan%20Pokpongkiat%20-%20Finance.jpg",
+        "filename": "Nolan Pokpongkiat - Finance.jpg",
+        "size": 70468,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/SGMATceHSHypMEsGSqBK_small_Nolan%20Pokpongkiat%20-%20Finance.jpg",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/pGinV1dWRjCgUnzCdCk6_large_Nolan%20Pokpongkiat%20-%20Finance.jpg",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://dl.airtable.com/JClIqSPJQBSVvZDBAbd6_full_Nolan%20Pokpongkiat%20-%20Finance.jpg",
+            "width": 768,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recPgjUGxFwXXOPoQ"
+    ],
+    "(You can't directly edit this column)": "Nolan Pokpongkiat, AFX Board Spring 2017 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rectPeFl8L3r1BHn3": {
+    "createdTime": "2018-10-17T22:52:50.000Z",
+    "id": "rectPeFl8L3r1BHn3",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attmiDm1sJd8yEPXc",
+        "url": "https://dl.airtable.com/KOQvMu9uRwKarYBrFwaa_Alex%20Nguyen%20-%20Historian.jpg",
+        "filename": "Alex Nguyen - Historian.jpg",
+        "size": 1080175,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RW0lqXMbQxmFvKb6jzLy_small_Alex%20Nguyen%20-%20Historian.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/vS0Pr6SSCP39K1QFMVAg_large_Alex%20Nguyen%20-%20Historian.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/v0YLEToKR1SWYxVGWcZu_full_Alex%20Nguyen%20-%20Historian.jpg",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Board Spring 2017 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recqnIywOC0Vr3Rlc": {
+    "createdTime": "2018-10-17T22:53:48.000Z",
+    "id": "recqnIywOC0Vr3Rlc",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "att1qKyffCSnM7BJt",
+        "url": "https://dl.airtable.com/i3oHpFj8RQG0wyoPhLSZ_Charmaine%20Lai%20-%20Historian.jpg",
+        "filename": "Charmaine Lai - Historian.jpg",
+        "size": 1024101,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Ds1bJJuVRuyrVutsuaTT_small_Charmaine%20Lai%20-%20Historian.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Dzqh3oNqT0mrH1s5Rq8F_large_Charmaine%20Lai%20-%20Historian.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/RIovMvYeTuWwCSxSGm1S_full_Charmaine%20Lai%20-%20Historian.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnJ1jNx4hdHcs8S"
+    ],
+    "(You can't directly edit this column)": "Charmaine Lai, AFX Board Spring 2017 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvdEHm4j3CBAHaL": {
+    "createdTime": "2018-10-17T22:55:12.000Z",
+    "id": "recvdEHm4j3CBAHaL",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attKfiN8QNECcKsak",
+        "url": "https://dl.airtable.com/IPU9ujtMQxZxYg6f8ObV_Kim%20Ambrocio%20-%20Historian.jpg",
+        "filename": "Kim Ambrocio - Historian.jpg",
+        "size": 39166,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/afoqI4ePSaqcQB917jhM_small_Kim%20Ambrocio%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Or1ktx4hQSSbon1chSeL_large_Kim%20Ambrocio%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3UwlSgOdReuzWxqBXOBU_full_Kim%20Ambrocio%20-%20Historian.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recewlyjxE33ebDly"
+    ],
+    "(You can't directly edit this column)": "Kim Ambrocio, AFX Board Spring 2017 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec0CTTAqpcyachz4": {
+    "createdTime": "2018-10-17T22:58:13.000Z",
+    "id": "rec0CTTAqpcyachz4",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attGoBOvWUNWYSTlb",
+        "url": "https://dl.airtable.com/QDBo2ZKTTmWvCAdG61Jn_Richard%20Xu%20-%20Historian.jpg",
+        "filename": "Richard Xu - Historian.jpg",
+        "size": 60322,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/PdBHc7wkTquBbW0bIM6K_small_Richard%20Xu%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hDpD0ZTBmUdRazOSb92w_large_Richard%20Xu%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/iX2rAYUZQWGzD7OOUkhk_full_Richard%20Xu%20-%20Historian.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recKBDLL5lmSDiNTY"
+    ],
+    "(You can't directly edit this column)": "Richard Xu, AFX Board Spring 2017 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recwtb0YqUyFUnBKp": {
+    "createdTime": "2018-10-17T22:53:29.000Z",
+    "id": "recwtb0YqUyFUnBKp",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attwtiuzAh0GwwUhF",
+        "url": "https://dl.airtable.com/A4C8GwkSSt68SuDgcZ71_Anna%20Liang%20-%20PR%20Marketing.jpg",
+        "filename": "Anna Liang - PR Marketing.jpg",
+        "size": 90188,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ZDWKWYNBRlSnFkbNErvt_small_Anna%20Liang%20-%20PR%20Marketing.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/KmzRpaPZSBmAslRN8jNq_large_Anna%20Liang%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/UYKKLjccSQET72TZbygJ_full_Anna%20Liang%20-%20PR%20Marketing.jpg",
+            "width": 720,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recaFAdgok66RkVsR"
+    ],
+    "(You can't directly edit this column)": "Anna Liang, AFX Board Spring 2017 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recUoDEMVQwdj8pdF": {
+    "createdTime": "2018-10-17T22:54:33.000Z",
+    "id": "recUoDEMVQwdj8pdF",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attJO0bspNmjPNUYN",
+        "url": "https://dl.airtable.com/qp8eRLDQ7yeDhOYuaK8g_Emily%20Hill%20-%20PR%20Marketing.jpg",
+        "filename": "Emily Hill - PR Marketing.jpg",
+        "size": 95765,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/PmhAaDhRxuGGNJ9NDhFL_small_Emily%20Hill%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/AIkwRblGTdOmvJ0v0zth_large_Emily%20Hill%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/US53ueWaRsanWnb1T3Ja_full_Emily%20Hill%20-%20PR%20Marketing.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recD2MQzODBpKusXm"
+    ],
+    "(You can't directly edit this column)": "Emily Hill, AFX Board Spring 2017 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recOzSRjNX9vREosk": {
+    "createdTime": "2018-10-17T22:54:07.000Z",
+    "id": "recOzSRjNX9vREosk",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attuQfkVaQcvg7alb",
+        "url": "https://dl.airtable.com/6GO2EuwTbmeMph4PX2jX_Danielle%20Li%20-%20PR%20Design.jpg",
+        "filename": "Danielle Li - PR Design.jpg",
+        "size": 166085,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/XdzlRAe5R4WcsNzlzE5A_small_Danielle%20Li%20-%20PR%20Design.jpg",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/wl1wZP3aTXOvqiw5jvpA_large_Danielle%20Li%20-%20PR%20Design.jpg",
+            "width": 512,
+            "height": 601
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ie1K8n8OSz2qY9xfjFHE_full_Danielle%20Li%20-%20PR%20Design.jpg",
+            "width": 711,
+            "height": 835
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4xqb3LIKHRZjFp"
+    ],
+    "(You can't directly edit this column)": "Danielle Li, AFX Board Spring 2017 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reciu5395LaD08ooO": {
+    "createdTime": "2018-10-17T22:57:00.000Z",
+    "id": "reciu5395LaD08ooO",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attKp9vT3YIrpFUL2",
+        "url": "https://dl.airtable.com/M6h280esT1WBKRDyxm6S_Nicole%20Shim%20-%20PR%20Design.jpg",
+        "filename": "Nicole Shim - PR Design.jpg",
+        "size": 51700,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/PQPnzw6rTKWwis3JfSEh_small_Nicole%20Shim%20-%20PR%20Design.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/SMq1cVPNReGZvM7VEAZd_large_Nicole%20Shim%20-%20PR%20Design.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ftgLc5hTluBkdIHHlVec_full_Nicole%20Shim%20-%20PR%20Design.jpg",
+            "width": 1136,
+            "height": 851
+          }
+        }
+      }
+    ],
+    "person": [
+      "recmLTV2BFh495bJC"
+    ],
+    "(You can't directly edit this column)": "Nicole Shim, AFX Board Spring 2017 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec2UtXTU4cm9hpjF": {
+    "createdTime": "2018-10-17T22:59:10.000Z",
+    "id": "rec2UtXTU4cm9hpjF",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attf7NVOLCZifR6TO",
+        "url": "https://dl.airtable.com/.attachments/ebe47c4d9bd8729f0726358a314ca42f/42ba21af/SheldonChen_SP17.PNG",
+        "filename": "Sheldon Chen_SP17.PNG",
+        "size": 1074227,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/666128f4e6b23dc1b450a6720191b3b2/e52dc4b9",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/acd09e5c7d9bd2220a0f37b921098aba/974bddd3",
+            "width": 636,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c52869b141483ec3f64c5544b9b47cf/95ea9d17",
+            "width": 815,
+            "height": 656
+          }
+        }
+      }
+    ],
+    "(You can't directly edit this column)": "Sheldon Chen, AFX Board Spring 2017 PR Design",
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recLFDbA5iq2o2spW"
+    ]
+  },
+  "recRnQm10089GTbld": {
+    "createdTime": "2018-10-17T22:53:10.000Z",
+    "id": "recRnQm10089GTbld",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attxdbLL9gtKPxnBU",
+        "url": "https://dl.airtable.com/YZhdSElRrOIcWzOAh0c2_Angie%20Liao%20-%20Outreach.jpg",
+        "filename": "Angie Liao - Outreach.jpg",
+        "size": 74912,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/MVByze5mSomBWkhh58a1_small_Angie%20Liao%20-%20Outreach.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/uO4gCJxASQy7rXQLn3yb_large_Angie%20Liao%20-%20Outreach.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BmIAcDUcS16FjGSPGFFf_full_Angie%20Liao%20-%20Outreach.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2017 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recs15zKfmfMsjBgE": {
+    "createdTime": "2018-10-17T22:55:29.000Z",
+    "id": "recs15zKfmfMsjBgE",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "atttMva8KO2ocHPV0",
+        "url": "https://dl.airtable.com/e6105NuZTfaoFd6nquC7_Mark%20Refe%20-%20Outreach.jpg",
+        "filename": "Mark Refe - Outreach.jpg",
+        "size": 103086,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fWpTnUh1RFa19NiWj8QV_small_Mark%20Refe%20-%20Outreach.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZBOOMuxSm6gLa3ee7G9I_large_Mark%20Refe%20-%20Outreach.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/7QgWf1ohQc2yjb8FU1Nk_full_Mark%20Refe%20-%20Outreach.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recQEUQvGhpt2Sydx"
+    ],
+    "(You can't directly edit this column)": "Mark Refe, AFX Board Spring 2017 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWvtIchtUL1bcn7": {
+    "createdTime": "2018-10-18T00:36:13.000Z",
+    "id": "recWvtIchtUL1bcn7",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attiH9HSekCIKhrJW",
+        "url": "https://dl.airtable.com/TMzstBLRxu0SL0Ve1Vd6_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+        "filename": "Trisha Giron, Comp Board - Artistic Director, Fall 2017.jpg",
+        "size": 282908,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/vC7U7sDSgucvAhOfDrGK_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/dfWyfrMoSiewZgNGFsvj_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/8N58XgwUT768J9QGJXji_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 1367,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recNxGjKy27HT3XML"
+    ],
+    "(You can't directly edit this column)": "Trisha Giron, AFX Board Spring 2017 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recEdqoEkjRTml6xZ": {
+    "createdTime": "2018-10-18T00:36:40.000Z",
+    "id": "recEdqoEkjRTml6xZ",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attRdJT9avOnW2SVy",
+        "url": "https://dl.airtable.com/vwIzvmgjSgmvbKbdabl4_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+        "filename": "Emilio Cuartero, Comp Board - Artistic Director, Fall 2017.jpg",
+        "size": 283296,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ugsclt2tQKuwH7kA3ZIw_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/5JSnlca8S06H9tbDtNeu_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/UyMaeSZkRicDDgW0foBh_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recn9QkB6vln1iqIG"
+    ],
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Spring 2017 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recQ7VUlKsTaz1PA9": {
+    "createdTime": "2018-10-18T00:37:00.000Z",
+    "id": "recQ7VUlKsTaz1PA9",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "att6DtrduX1tYkdRd",
+        "url": "https://dl.airtable.com/3XO8HayaQSmNBjqz5C7P_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+        "filename": "AC Dela Paz, Comp Board - Captain, Fall 2017.jpg",
+        "size": 172569,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/zRWxKSg2TGKPnamkXQv6_small_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/oL2eaaXQS3ynn4a5eZro_large_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/e7TPAwUTo2fa9GDH94wl_full_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec2nvAlUafPaALoo"
+    ],
+    "(You can't directly edit this column)": "AC Dela Paz, AFX Board Spring 2017 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec8ELbYUBDN8u2M9": {
+    "createdTime": "2018-10-18T00:37:29.000Z",
+    "id": "rec8ELbYUBDN8u2M9",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attrSBsA9o9KzBLhG",
+        "url": "https://dl.airtable.com/QLnu7RWYTC21WCl4GFdM_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
+        "size": 239226,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/4pnQwNFMTImNNpqgxtaD_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/8BjODTLSuVV8HmBYiQYQ_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/G7xHOYgsRg4AzCO2gKL2_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnIIrPMXGlfHFb9"
+    ],
+    "(You can't directly edit this column)": "Lenny Dong, AFX Board Spring 2017 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recQjFIWuzTruoDx8": {
+    "createdTime": "2018-10-18T00:38:49.000Z",
+    "id": "recQjFIWuzTruoDx8",
+    "group": [
+      "recSb1AY0752pOYe6"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "attg9xJew3JhZEUoW",
+        "url": "https://dl.airtable.com/BD4cpLXhQAmwc3rrPGXN_14047340_10210380135730693_3095454426301111570_o.jpg",
+        "filename": "14047340_10210380135730693_3095454426301111570_o.jpg",
+        "size": 272262,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/jhNELOikRLKhiMKa9IIG_small_14047340_10210380135730693_3095454426301111570_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/PH9nA7BoRzmuUvz1Zoc4_large_14047340_10210380135730693_3095454426301111570_o.jpg",
+            "width": 512,
+            "height": 770
+          },
+          "full": {
+            "url": "https://dl.airtable.com/r6Gjy3hURRmUIDdVWl2m_full_14047340_10210380135730693_3095454426301111570_o.jpg",
+            "width": 1362,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recxwGyHwoJImSoPP"
+    ],
+    "(You can't directly edit this column)": "Cari Gan, AFX Board Spring 2017 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reckBSsIr0Y8teuIl": {
+    "createdTime": "2018-10-17T23:43:16.000Z",
+    "id": "reckBSsIr0Y8teuIl",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attG9SYt3bK042yff",
+        "url": "https://dl.airtable.com/O2kPzPPsT4qfbm7ynYvY_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+        "filename": "Jeffrey Wang, Board - Exec, Spring 2018.jpg",
+        "size": 218148,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/UAyjHAZKQ5GQTFsNr82p_small_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/00PDeItPTyOb09BmKk3H_large_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/hJdTcjNRSaUVyOytxm61_full_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "recO6btsvRqZeuJjP"
+    ],
+    "(You can't directly edit this column)": "Jeffrey Wang, AFX Board Spring 2018 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec1vQvWschmPVm61": {
+    "createdTime": "2018-10-17T23:44:26.000Z",
+    "id": "rec1vQvWschmPVm61",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attKF35DiPEAKSDLE",
+        "url": "https://dl.airtable.com/UXXSaJwgTjqU5JjajPIt_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+        "filename": "Stephanie Kim, Board - Exec, Spring 2018.jpg",
+        "size": 138463,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/n1tYvvgT0eUoFNWKqLLg_small_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/s4pGX8VIS0SqDWjnlj3h_large_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/rjpbfaWtTxOKaEk6uZb9_full_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recdfUETv4veF8fUU"
+    ],
+    "(You can't directly edit this column)": "Stephanie Kim, AFX Board Spring 2018 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recOm0w7AwBFrZEh3": {
+    "createdTime": "2018-10-17T23:45:20.000Z",
+    "id": "recOm0w7AwBFrZEh3",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "atthmi3mtezlDSR40",
+        "url": "https://dl.airtable.com/ssxEeThSj2zu4qG0Clsu_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+        "filename": "Angie Liao, Board - Vice Exec, Spring 2018.jpg",
+        "size": 432053,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/mP4nlDTBTVytxrN9Gnf7_small_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QvWiSlVFSvGnK6IQn0aF_large_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ZWvExuWgSfSySwvSwpGZ_full_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recTX06RHpFGNzK9T": {
+    "createdTime": "2018-10-17T23:46:48.000Z",
+    "id": "recTX06RHpFGNzK9T",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attNSmykUEEgGaJ7r",
+        "url": "https://dl.airtable.com/zPKqME2QRD66bvFrTi6w_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+        "filename": "Danielle Li, Board - Vice Exec, Spring 2018.jpg",
+        "size": 172698,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/oEfrNdQbQCaBFNuGIFS1_small_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/0bVrVtyySjKnjobZt88b_large_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/fMGk7E0ZRTCApOnZOuaQ_full_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "width": 1367,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4xqb3LIKHRZjFp"
+    ],
+    "(You can't directly edit this column)": "Danielle Li, AFX Board Spring 2018 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recKH6lInnnP3rq5v": {
+    "createdTime": "2018-10-17T23:53:28.000Z",
+    "id": "recKH6lInnnP3rq5v",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attaOKQTZJXaKscRr",
+        "url": "https://dl.airtable.com/ByhwaPlSEG001jtwE2nS_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+        "filename": "Chloe Ding, Board - Events, Spring 2018.jpg",
+        "size": 349185,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VoLwTtOlRqflCnggQ2Pf_small_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/F8VkkR6HQ4qsK48rkpUq_large_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/DAYrbPtVTl2nnq3KHyLQ_full_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 1366,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "reclQY37yXdhBjDGH"
+    ],
+    "(You can't directly edit this column)": "Chloe Ding, AFX Board Spring 2018 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recySsvbLKyHk9sfh": {
+    "createdTime": "2018-10-17T23:54:06.000Z",
+    "id": "recySsvbLKyHk9sfh",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att9a2N2s2LzMV50q",
+        "url": "https://dl.airtable.com/e7aOGdX0TtKkiyE9CejN_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+        "filename": "Karina Hull, Board - Events, Spring 2018.jpg",
+        "size": 72528,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/midXl1iUSfCUKVrRAG8E_small_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Bl3RD6YIRGmTifgRFYbV_large_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 513,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/iubQpdwiR32HZWm2e2pI_full_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 890,
+            "height": 888
+          }
+        }
+      }
+    ],
+    "person": [
+      "reczY2iMsgy8o68WH"
+    ],
+    "(You can't directly edit this column)": "Karina Hull, AFX Board Spring 2018 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reciqnqcItxwiB9ZR": {
+    "createdTime": "2018-10-17T23:54:57.000Z",
+    "id": "reciqnqcItxwiB9ZR",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att0WRUaMFNpUDSXh",
+        "url": "https://dl.airtable.com/AKiM9SMUQoaZgyC1AHLA_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+        "filename": "Vivian Tieu, Board - Events, Spring 2018.jpg",
+        "size": 68614,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/CJYP26kSrKy0FGXCkWdW_small_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/nfLBZfQOT7O7XD0trEpN_large_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/inoIbMlSnWBbFYuBZAaf_full_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
+            "width": 823,
+            "height": 824
+          }
+        }
+      }
+    ],
+    "person": [
+      "reczKuh2qJJf55cf0"
+    ],
+    "(You can't directly edit this column)": "Vivian Tieu, AFX Board Spring 2018 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recf2TJ7oiYZ3ENj7": {
+    "createdTime": "2018-10-17T23:51:59.000Z",
+    "id": "recf2TJ7oiYZ3ENj7",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attv5Z7uu7oaeWqa1",
+        "url": "https://dl.airtable.com/FPEgUDOIQpGANESAGgxp_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+        "filename": "Charmaine Lai, Board - Finance, Spring 2018.jpg",
+        "size": 173238,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/uZae0krNR7e8hFCRXC1M_small_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/59rjHKXRNOrlyYW8s3dA_large_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/mo6DwPmzThDiuMDO0RcH_full_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 1366,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnJ1jNx4hdHcs8S"
+    ],
+    "(You can't directly edit this column)": "Charmaine Lai, AFX Board Spring 2018 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recNbD8Ax95wnPUXH": {
+    "createdTime": "2018-10-17T23:52:43.000Z",
+    "id": "recNbD8Ax95wnPUXH",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attMhatDQ1NRLojQm",
+        "url": "https://dl.airtable.com/K0qyWvVEQ92Qyt0XcHLu_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+        "filename": "Soo Rim Choi, Board - Finance, Spring 2018.jpg",
+        "size": 15270,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/8jnGnO7lTjauvpWQQB0w_small_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XxJPeXjSRheayoBCy0ac_large_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 423,
+            "height": 423
+          },
+          "full": {
+            "url": "https://dl.airtable.com/DQCaErRXmcY47uL1IOog_full_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 423,
+            "height": 423
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqzbrK1cnXPa5Wd"
+    ],
+    "(You can't directly edit this column)": "Soo Rim Choi, AFX Board Spring 2018 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recfaaat8NOYpX42H": {
+    "createdTime": "2018-10-17T23:55:33.000Z",
+    "id": "recfaaat8NOYpX42H",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attl9M5gDFlXefZoR",
+        "url": "https://dl.airtable.com/o9Nm87UT0O02KWOf4M81_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+        "filename": "Anthony Chen, Board - Historian, Spring 2018.jpg",
+        "size": 291371,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/QLzfjOSSYWj7Lxw5AqFQ_small_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/4urEu89eSTSEEL1SvFuR_large_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/KFws8PuzQhu54X6qt5lL_full_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 1366,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuxPPGm6jYZYg8b"
+    ],
+    "(You can't directly edit this column)": "Anthony Chen, AFX Board Spring 2018 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec7RNbDRBHYxdKqM": {
+    "createdTime": "2018-10-17T23:56:14.000Z",
+    "id": "rec7RNbDRBHYxdKqM",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attLkRY58NaMQ3TTk",
+        "url": "https://dl.airtable.com/iykkUN0qTCCz5VtUi0Rj_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+        "filename": "Alicia Chow, Board - Historian, Spring 2018.jpg",
+        "size": 163589,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/V7Y5sHlBTiNo8EWBdGpF_small_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/s0jjrCXwQ4SK9MQ4aRK0_large_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 517
+          },
+          "full": {
+            "url": "https://dl.airtable.com/sLWG8NykRpuFEAPvh7NI_full_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 1080,
+            "height": 1090
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1LGQN0f3Ylkwo9"
+    ],
+    "(You can't directly edit this column)": "Alicia Chow, AFX Board Spring 2018 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec8fq44tkasMgUFF": {
+    "createdTime": "2018-10-17T23:47:46.000Z",
+    "id": "rec8fq44tkasMgUFF",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attTVdF3dfYkaxviE",
+        "url": "https://dl.airtable.com/S7pvL40FTWGm6bE9UopD_CW-James%20(1).jpg",
+        "filename": "James Chen, Board - Marketing, Spring 2018",
+        "size": 60782,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/MBeHf3DqTO2rkrROkZJv_small_CW-James%20(1).jpg",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/suJGDnEjTFKDzRfayb47_large_CW-James%20(1).jpg",
+            "width": 512,
+            "height": 527
+          },
+          "full": {
+            "url": "https://dl.airtable.com/GV8BsECKTZCymk3z0cty_full_CW-James%20(1).jpg",
+            "width": 570,
+            "height": 587
+          }
+        }
+      }
+    ],
+    "person": [
+      "recIrcS0iqZm0deBi"
+    ],
+    "(You can't directly edit this column)": "James Chen, AFX Board Spring 2018 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recbuA6BMMXIx3eRa": {
+    "createdTime": "2018-10-17T23:48:25.000Z",
+    "id": "recbuA6BMMXIx3eRa",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attdXqN5ICZH2usEo",
+        "url": "https://dl.airtable.com/O7o4TH0SiDCD2mir6Rjw_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+        "filename": "Ryan Wong, Board - Marketing, Spring 2018.jpg",
+        "size": 254053,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/L819vorXQXeU3PvptqUm_small_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/IOFPGWa0SNK0tY80MhVz_large_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/txyEavMURCyGxuQnr7xJ_full_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recBls2iU2PDgwqk5"
+    ],
+    "(You can't directly edit this column)": "Ryan Wong, AFX Board Spring 2018 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recY0wr9dD6XrplEt": {
+    "createdTime": "2018-10-17T23:48:58.000Z",
+    "id": "recY0wr9dD6XrplEt",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attOJXCrv2O9qeXpT",
+        "url": "https://dl.airtable.com/rJPmPosuR4KX7lMExEDk_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+        "filename": "Jeremiah Kim, Board - Marketing, Spring 2018.jpg",
+        "size": 65121,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KY8bBmXnRlq0ozA1HpAJ_small_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/n9lZ3ihDRSKZK6eIHz5x_large_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 766
+          },
+          "full": {
+            "url": "https://dl.airtable.com/YAiTj4iUQkWBEEROkqjU_full_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "width": 668,
+            "height": 1000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFEcamXUNR9EndJ"
+    ],
+    "(You can't directly edit this column)": "Jeremiah Kim, AFX Board Spring 2018 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec1ej6auMgWYirwN": {
+    "createdTime": "2018-10-17T23:49:32.000Z",
+    "id": "rec1ej6auMgWYirwN",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "atto71Riy9ORle08X",
+        "url": "https://dl.airtable.com/FNqcJ9FRSVGm7yl3sdeC_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+        "filename": "Nicole Shim, Board - Design, Spring 2018.jpg",
+        "size": 205632,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1pHmUDTQTeQjqfdPsUDm_small_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/vmmaLEeFSNKfNjPcUjyk_large_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/aOOZRrxTRWJj5Jic9g8g_full_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recmLTV2BFh495bJC"
+    ],
+    "(You can't directly edit this column)": "Nicole Shim, AFX Board Spring 2018 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recgAAXh8WKL1kcO0": {
+    "createdTime": "2018-10-17T23:50:05.000Z",
+    "id": "recgAAXh8WKL1kcO0",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attg9Tk5BYifKeWxR",
+        "url": "https://dl.airtable.com/OVswRO66SJGigZQxEJkx_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+        "filename": "Christine Ho, Board - Design, Spring 2018.jpg",
+        "size": 337240,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ThkZEwwBSoaIyIqxKBtS_small_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/dfXlNYgURlSc9qQnfssg_large_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/efIatjyyTh24g9a4lhv0_full_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 1365,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "person": [
+      "recJu9Hcotxvp8rOT"
+    ],
+    "(You can't directly edit this column)": "Christine Ho, AFX Board Spring 2018 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recssZGhieI9WjLJB": {
+    "createdTime": "2018-10-17T23:50:39.000Z",
+    "id": "recssZGhieI9WjLJB",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "att35LRb7jHmmLKzm",
+        "url": "https://dl.airtable.com/4f8m1jfPQh6nYrNZru5N_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+        "filename": "Monica Li, Board - Design, Spring 2018.jpg",
+        "size": 115809,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/DWBz7mFsTGK4oXtSbDsj_small_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/D6ka6wGDRmuY0KqBUHyE_large_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/loMCTUcSxCaFZW3zFDxu_full_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "width": 1405,
+            "height": 937
+          }
+        }
+      }
+    ],
+    "person": [
+      "recCmFeqHAujsDBhb"
+    ],
+    "(You can't directly edit this column)": "Monica Li, AFX Board Spring 2018 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec0KlBZwxCoTMOFo": {
+    "createdTime": "2018-10-17T23:57:06.000Z",
+    "id": "rec0KlBZwxCoTMOFo",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attzQIagJDnf2NpFd",
+        "url": "https://dl.airtable.com/JhrHGxCSPigw4CJmyXgS_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+        "filename": "Mariana Tagano, Board - Outreach, Spring 2018.jpg",
+        "size": 53329,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/LKWjW9c1QAq33UIspKa3_small_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/IDpELK1nTRuG5dgTOuY5_large_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/5auIp7dMSa0jPzhp7ilM_full_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recA62lDDRZ9YpoBM"
+    ],
+    "(You can't directly edit this column)": "Mariana Tagano, AFX Board Spring 2018 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reclCdruw9w77flnr": {
+    "createdTime": "2018-10-17T23:58:00.000Z",
+    "id": "reclCdruw9w77flnr",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "att087RKZQ9yrnivz",
+        "url": "https://dl.airtable.com/oEkW5LyUTo6H8Zsg8wrH_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+        "filename": "Ansel Deng, Board - Outreach, Spring 2018.jpg",
+        "size": 237337,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/BRHg8oiQSO7H4B1C76D4_small_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/04upx2NR3mO1tx1KHD6g_large_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/L7xIm4dhQr6tTUEPpJlu_full_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec0Xrjy5cO0rNOIE"
+    ],
+    "(You can't directly edit this column)": "Ansel Deng, AFX Board Spring 2018 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec1VNrCd7imnrsrf": {
+    "createdTime": "2018-10-18T01:00:47.000Z",
+    "id": "rec1VNrCd7imnrsrf",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attImNu4deJu3nBmP",
+        "url": "https://dl.airtable.com/oEvlLrO6T7mXIrGhBQGV_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+        "filename": "Trisha Giron, Comp Board - Artistic Director, Spring 2018.jpg",
+        "size": 282908,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/vXNX0bBFQxKQZleh1caz_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zAaejw5QAyOWyBrILlaA_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/y1CXZnp4QmGpgxKN4y0V_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+            "width": 1367,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recNxGjKy27HT3XML"
+    ],
+    "(You can't directly edit this column)": "Trisha Giron, AFX Board Spring 2018 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recC1yAk0chU3BGIV": {
+    "createdTime": "2018-10-18T01:02:03.000Z",
+    "id": "recC1yAk0chU3BGIV",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attJJGNnadTzXQhr2",
+        "url": "https://dl.airtable.com/ywpPYvPHS7OiwJasXCMu_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+        "filename": "Chantal Herrera, Board - Artistic Director, Spring 2018.jpg",
+        "size": 371530,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Jfh7CVs4SXtELViGp7j3_small_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/SEwrGTXZROCAjUAuOoW2_large_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/yy6mRQ7JSJK5EPnrrRxI_full_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
+            "width": 1366,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recDphJDWcMIkCW3k"
+    ],
+    "(You can't directly edit this column)": "Chantal Herrera, AFX Board Spring 2018 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recSEORUAvZKBuKAW": {
+    "createdTime": "2018-10-18T00:48:17.000Z",
+    "id": "recSEORUAvZKBuKAW",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Comp Artistic Advisor",
+    "picture": [
+      {
+        "id": "attFFDYCi0TCbHtjB",
+        "url": "https://dl.airtable.com/iWDtrLxHR4uXYLfxEtxi_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+        "filename": "Emilio Cuartero, Comp Board - Artistic Advisor, Spring 2018.jpg",
+        "size": 283296,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Li7f3bRrR4STjgkCjAsu_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/k7WJdYQRR4WWXcSocr8J_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3mzxhZgS8idlWrV26qo4_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recn9QkB6vln1iqIG"
+    ],
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Spring 2018 Comp Artistic Advisor",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec3pE1flR2WcvqhZ": {
+    "createdTime": "2018-10-18T00:50:22.000Z",
+    "id": "rec3pE1flR2WcvqhZ",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attXsrGc90Ju2QSS1",
+        "url": "https://dl.airtable.com/wqS85llnTiO0lUVrvuZx_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+        "filename": "Max McArthur, Comp Board - Captain, Spring 2018.jpg",
+        "size": 229769,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fKXS5R69T3GskpVmQFUy_small_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/d0qM1bBJQvq0Xv6CRtKl_large_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/tuUHHxlpTmib0g3F8MPR_full_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "rechcalO1WrUFzO5c"
+    ],
+    "(You can't directly edit this column)": "Max McArthur, AFX Board Spring 2018 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recc62zVWNCbaDchq": {
+    "createdTime": "2018-10-18T00:51:10.000Z",
+    "id": "recc62zVWNCbaDchq",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "att5lPGTvTPLx5b0G",
+        "url": "https://dl.airtable.com/Vz5za11T6ivnxP9NmT0v_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+        "filename": "Zoe Marsh, Comp Board - Captain, Spring 2018.jpg",
+        "size": 58396,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/vgjjg7iISqybF5YTJMD4_small_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/VEEA8BqSZ2CJVjx36ByT_large_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/VEetKZRRt2mVSeJj3jD7_full_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
+            "width": 758,
+            "height": 1136
+          }
+        }
+      }
+    ],
+    "person": [
+      "recxzpEID6oEGOEtD"
+    ],
+    "(You can't directly edit this column)": "Zoe Marsh, AFX Board Spring 2018 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recIxLsf6AhkAYZjp": {
+    "createdTime": "2018-10-18T00:49:41.000Z",
+    "id": "recIxLsf6AhkAYZjp",
+    "group": [
+      "recPWlKgpGEXDmwBI"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "attftuD0NUaapF4En",
+        "url": "https://dl.airtable.com/Mn2cT5QzODyMZgxNAzIA_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+        "filename": "Kayla Toy, Comp Board - Finance, Spring 2018.jpg",
+        "size": 243036,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wCDE0COvQiCTYIMIe4HQ_small_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/czveRikoQiGcsqyv2Hgw_large_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/chY3kMqaQ4ieKmZXSosJ_full_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "recbLbxmZ4W2vEr5g"
+    ],
+    "(You can't directly edit this column)": "Kayla Toy, AFX Board Spring 2018 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recViKzBr2OFHDJGm": {
+    "createdTime": "2019-01-23T09:32:39.000Z",
+    "id": "recViKzBr2OFHDJGm",
+    "(You can't directly edit this column)": "James Chen, AFX Board Spring 2019 Executive Director",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attyZi0lMxgMKoIvz",
+        "url": "https://dl.airtable.com/.attachments/74a6dffbc6362989e671093a1bf06b13/8e33bd39/JamesChen_SP19.PNG",
+        "filename": "James Chen_SP19.PNG",
+        "size": 686343,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/711bae1fa07ab71dfa1d9907466f74c5/4f69b258",
+            "width": 39,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/158da71907384d51c0dcf251da6624ed/63c17fc7",
+            "width": 553,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7ecf333133f77a959759d9f577db8aa3/0921883b",
+            "width": 628,
+            "height": 581
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recIrcS0iqZm0deBi"
+    ]
+  },
+  "rec5JRSt82L6ohv75": {
+    "createdTime": "2018-12-18T08:48:51.000Z",
+    "id": "rec5JRSt82L6ohv75",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attRLrFJWm8XFJjGg",
+        "url": "https://dl.airtable.com/eFPnYUHXT228wcx0UQDj_ALICIA%20CHOW%20Spring%202019.jpg",
+        "filename": "ALICIA CHOW Spring 2019.jpg",
+        "size": 176546,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VXFXSaAcQDqKdkGxk7AB_small_ALICIA%20CHOW%20Spring%202019.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZBrFHm5cQOmGAe6j9Qwp_large_ALICIA%20CHOW%20Spring%202019.jpg",
+            "width": 512,
+            "height": 773
+          },
+          "full": {
+            "url": "https://dl.airtable.com/8Ee70EljSJmLjwRYZCW6_full_ALICIA%20CHOW%20Spring%202019.jpg",
+            "width": 1224,
+            "height": 1848
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1LGQN0f3Ylkwo9"
+    ],
+    "(You can't directly edit this column)": "Alicia Chow, AFX Board Spring 2019 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recCvXCSC466FhdUc": {
+    "createdTime": "2018-12-18T08:51:42.000Z",
+    "id": "recCvXCSC466FhdUc",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attbgHaaZOaickv1R",
+        "url": "https://dl.airtable.com/RyAVmvsR1SLlVKOzNCZn_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+        "filename": "Anthony Chen, Board - Historian, Spring 2018.jpg",
+        "size": 291371,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Pa6pQ1DkREKfke4ItBMQ_small_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/r7UrDMvSQOyN3JOtDQ3h_large_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/CMmeFWmqQWykxHksMGig_full_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "width": 1366,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuxPPGm6jYZYg8b"
+    ],
+    "(You can't directly edit this column)": "Anthony Chen, AFX Board Spring 2019 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recc1FX1cEeEiJj2c": {
+    "createdTime": "2019-01-23T09:48:28.000Z",
+    "id": "recc1FX1cEeEiJj2c",
+    "(You can't directly edit this column)": "Soo Rim Choi, AFX Board Spring 2019 Vice Executive",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attWuVdHPVFKwVKYG",
+        "url": "https://dl.airtable.com/.attachments/81abd957c89bf346eefd5d71b7495b77/6c6a0503/soorimchoi.PNG",
+        "filename": "soo rim choi.PNG",
+        "size": 625931,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f027219c95aef51df4941c0503595fe/d05411c4",
+            "width": 43,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3d2544d460243b912d4d534490f8c1f/cce364e8",
+            "width": 575,
+            "height": 484
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cac5f409fecc69d504fd86aa1008c5e4/425e47fa",
+            "width": 575,
+            "height": 484
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recqzbrK1cnXPa5Wd"
+    ]
+  },
+  "rec99vna3ALAxmi5V": {
+    "createdTime": "2019-01-23T09:52:46.000Z",
+    "id": "rec99vna3ALAxmi5V",
+    "(You can't directly edit this column)": "Audrey Ma, AFX Board Spring 2019 External Events",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recf995EWbN2zqqw9"
+    ],
+    "positionTitle": "External Events",
+    "picture": [
+      {
+        "id": "atthOA6YsDqi9hz5j",
+        "url": "https://dl.airtable.com/.attachments/0da15ead531b2b96a8e953cda9b133f0/935c3bf4/AUDREYMA.PNG",
+        "filename": "AUDREY MA.PNG",
+        "size": 622986,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/13a96f2c7db22b28c4a07faf2b065bca/855ef091",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ecc93f8589f790f2385bf77452ec0b28/81bc0eb8",
+            "width": 545,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f0bc9761b39844e08afa06a7b03931f9/1e2f08ae",
+            "width": 600,
+            "height": 564
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recdNje3L0FwwrZ6h": {
+    "createdTime": "2019-01-23T09:55:12.000Z",
+    "id": "recdNje3L0FwwrZ6h",
+    "(You can't directly edit this column)": "Tom Cheah, AFX Board Spring 2019 External Events",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "rectG3gNwTYTDJyMk"
+    ],
+    "positionTitle": "External Events",
+    "picture": [
+      {
+        "id": "attX9olfnxWPd8NnJ",
+        "url": "https://dl.airtable.com/.attachments/ace396cff1b382a6f40d5abef38797b7/00643280/TOMCHEAH.PNG",
+        "filename": "TOM CHEAH.PNG",
+        "size": 322388,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8d72648edf428ab468489a28f98438fe/3c86d747",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/686b0c31d94715bf7146e0ed65ac78eb/7a6242d4",
+            "width": 538,
+            "height": 461
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ba0949a73b620f40ce46e3076c7cacc3/965cc2d9",
+            "width": 538,
+            "height": 461
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recHjgOSa4AAY4uYv": {
+    "createdTime": "2019-01-23T09:56:11.000Z",
+    "id": "recHjgOSa4AAY4uYv",
+    "(You can't directly edit this column)": "Vincent Young, AFX Board Spring 2019 Internal Events",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "rece3KN1RqpPjW1ji"
+    ],
+    "positionTitle": "Internal Events",
+    "picture": [
+      {
+        "id": "att1yEiTMh7bsqIhM",
+        "url": "https://dl.airtable.com/.attachments/1071bf660c242322e9d2e155ca11e5c0/86406091/VINCENTYOUNG.PNG",
+        "filename": "VINCENT YOUNG.PNG",
+        "size": 399183,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95df55a9d39a700ddea076e59b7bbf6f/e4761941",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e31e39ddbd9067c82adec35dfdad543d/d1cfd377",
+            "width": 540,
+            "height": 473
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a50861b2745ca0a93bbbac0c7ce989e5/5d231c20",
+            "width": 540,
+            "height": 473
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recQYq1pCbaDuXJ0X": {
+    "createdTime": "2019-01-23T09:58:25.000Z",
+    "id": "recQYq1pCbaDuXJ0X",
+    "(You can't directly edit this column)": "Jocelyn Li, AFX Board Spring 2019 Internal Events",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recITyMjlJVynPXWE"
+    ],
+    "picture": [
+      {
+        "id": "attvN1XpJtqTjRi7I",
+        "url": "https://dl.airtable.com/.attachments/8a1633e65a7478586ab7a4010bf84b67/9f0f6e3d/JOCELYNLI.PNG",
+        "filename": "JOCELYN LI.PNG",
+        "size": 233742,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d8feb9ae18ef8f263c29ae38dd2de376/d5787b0d",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/762657f8c24234318bd3f3fb43b1f12b/fc06dd55",
+            "width": 438,
+            "height": 430
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b42b98ba0c43aca1ee099f8c4a87fbf8/07b8f805",
+            "width": 438,
+            "height": 430
+          }
+        }
+      }
+    ],
+    "positionTitle": "Internal Events",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recJ3rzKEfYHamndo": {
+    "createdTime": "2019-01-23T09:45:50.000Z",
+    "id": "recJ3rzKEfYHamndo",
+    "(You can't directly edit this column)": "Ianna Zhu, AFX Board Spring 2019 Finance Chair",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recV4m6m6ThdDkwuh"
+    ],
+    "picture": [
+      {
+        "id": "attNG3dzJTdWg7YeD",
+        "url": "https://dl.airtable.com/.attachments/8f57d3cdbcbbaf39b73540a2b2ddc050/23233538/IANNAZHU.PNG",
+        "filename": "IANNA ZHU.PNG",
+        "size": 452337,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/148a883b7a5143050420ebb3c36bba9c/b8100acd",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e38b76d370d04ffbdf94abc80763be1e/5b12cf23",
+            "width": 522,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/15babb190b5641c24d083c1a41a36708/666122bc",
+            "width": 532,
+            "height": 522
+          }
+        }
+      }
+    ],
+    "positionTitle": "Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec6hG8wqoQ9PShxV": {
+    "createdTime": "2019-01-23T09:46:48.000Z",
+    "id": "rec6hG8wqoQ9PShxV",
+    "(You can't directly edit this column)": "Christina Liu, AFX Board Spring 2019 Finance Chair",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recjq9Be1pQNI9wp6"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "atteAxa0V4ZWhbNHl",
+        "url": "https://dl.airtable.com/.attachments/01ac777035ba56848d0b493c8f01528e/0494e2b5/ChristinaLiu.PNG",
+        "filename": "Christina Liu.PNG",
+        "size": 1341901,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3630d7b00932ad00d55b7090ac9eeaac/87985ce1",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8a9db0f4816b67245ed36dbee99f8395/e0241404",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/13316c0ceaaadb6df8687c3c04354a9a/e7c2b8b1",
+            "width": 774,
+            "height": 774
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recsZvnfTMM6gFdUe": {
+    "createdTime": "2019-01-23T10:19:52.000Z",
+    "id": "recsZvnfTMM6gFdUe",
+    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX Board Spring 2019 Historian",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recPDr5UZ2SVyny8z"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attl7c1rTUkivx06K",
+        "url": "https://dl.airtable.com/.attachments/7128c5a600175407354dabe41ee3cc6d/3296618a/LORENZODELACRUZsp19.PNG",
+        "filename": "LORENZO DELA CRUZ sp19.PNG",
+        "size": 463745,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7a3bdeb42a1a5d9faf86e2bca6a58a40/986727a0",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/36f5ae0707cb87940a0c9c792b8c132a/5973fd9b",
+            "width": 538,
+            "height": 458
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/578cd4d3fce1b076efae8ba281ee5083/00595f78",
+            "width": 538,
+            "height": 458
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recYBZzq6mh4bytz6": {
+    "createdTime": "2019-01-23T09:35:35.000Z",
+    "id": "recYBZzq6mh4bytz6",
+    "(You can't directly edit this column)": "Aram Cariaga, AFX Board Spring 2019 PR Marketing",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "rec5PngUNZtGzO6Oj"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attWudNOWo0Ia8dNm",
+        "url": "https://dl.airtable.com/.attachments/f65940d7b42b5c916afd7bb7d14245c5/5f4e0d29/AramCariaga.PNG",
+        "filename": "Aram Cariaga.PNG",
+        "size": 635958,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/39db0a466ec2ffbeeed3f6a2001b0255/b33f1455",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dbbff46ae18247f96baf7ebe63337b56/4f04f5ab",
+            "width": 523,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/adff9586c7b353a96dab46b31ef7a5a2/f81bfeb6",
+            "width": 600,
+            "height": 587
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recRkQLF96YOyEOgU": {
+    "createdTime": "2019-01-23T09:37:11.000Z",
+    "id": "recRkQLF96YOyEOgU",
+    "(You can't directly edit this column)": "Catherine Kim, AFX Board Spring 2019 PR Marketing",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "rectfFRuhhALqkANb"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attJeJRzY23sLJsUq",
+        "url": "https://dl.airtable.com/.attachments/fdc8d819c88a745a92b000448ac88d1a/1c4e9d91/CatherineKim.PNG",
+        "filename": "Catherine Kim.PNG",
+        "size": 575560,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7ff8199e9d8321f38cc355d7aefa6abd/1ec4f351",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f8a213883494fcf17111968f93f2b212/86c0c7fb",
+            "width": 456,
+            "height": 481
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/26d904b66c1c4a278961adf1cde64fb3/748215a0",
+            "width": 456,
+            "height": 481
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recmaUo3R45HoMNid": {
+    "createdTime": "2019-01-23T09:38:51.000Z",
+    "id": "recmaUo3R45HoMNid",
+    "(You can't directly edit this column)": "Avril Lu, AFX Board Spring 2019 PR Marketing",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "rech80bOAS9SLOVlp"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attJcrfCNIMAjdN4v",
+        "url": "https://dl.airtable.com/.attachments/386db0610fc6d35b0de3da975a874aa5/363a049d/AvrilLu.PNG",
+        "filename": "Avril Lu.PNG",
+        "size": 695086,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2b40f2e8ac7917442b65449b506d99cb/28eec350",
+            "width": 39,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e6dfb340ff8739c540fa3c87133ee531/f32a5b0f",
+            "width": 556,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f139c2ed4da1e40c3694be259813551e/18d740d4",
+            "width": 559,
+            "height": 515
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recNgZWyyPOXb5mgl": {
+    "createdTime": "2019-01-23T09:40:59.000Z",
+    "id": "recNgZWyyPOXb5mgl",
+    "(You can't directly edit this column)": "Kristina Kim, AFX Board Spring 2019 PR Design",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "reciwV9t8iRXJBYK5"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attOCWnMAgEBeecrc",
+        "url": "https://dl.airtable.com/.attachments/a0fdd18fa8795d24a6397fb1b89982a3/9a78d8ad/KristinaKim.PNG",
+        "filename": "Kristina Kim.PNG",
+        "size": 650303,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/39bc8e31d57399b11ed28370b42b3002/ed0f0666",
+            "width": 40,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/68bf63387f695e5970d72cc4349eae5e/de1387eb",
+            "width": 550,
+            "height": 501
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fb5d3343708500ec2e618796aa9c8741/e9e83f12",
+            "width": 550,
+            "height": 501
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWUcmDSetpLNBxG": {
+    "createdTime": "2019-01-23T09:42:30.000Z",
+    "id": "recWUcmDSetpLNBxG",
+    "(You can't directly edit this column)": "Daniel Morales, AFX Board Spring 2019 PR Design",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attWemfEe40dXbRXf",
+        "url": "https://dl.airtable.com/.attachments/b58bf23bf2f44fc0f6b1f591085e0aa4/54d0d844/DanielMorales.PNG",
+        "filename": "Daniel Morales.PNG",
+        "size": 449666,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5cb802c97c913dddb599175700b45409/aea5e24b",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4d56d5a00ba36d749754b9856a743642/5fba9282",
+            "width": 628,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/24725ee196a5caf396c5a9a14e50c8f7/9a23703f",
+            "width": 665,
+            "height": 542
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recJNRrxnWZBsrpZD"
+    ]
+  },
+  "recvH5KV3bFsqtcbV": {
+    "createdTime": "2019-01-23T09:44:12.000Z",
+    "id": "recvH5KV3bFsqtcbV",
+    "(You can't directly edit this column)": "Devin Balcorta, AFX Board Spring 2019 PR Design",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recQsJ6PIFgKl7vXv"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attG8AZEpNXjHki5I",
+        "url": "https://dl.airtable.com/.attachments/35a2ab88428c0468df045bd18facc80f/24c44deb/DevinBalcorta.PNG",
+        "filename": "Devin Balcorta.PNG",
+        "size": 531472,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/905d2b011b938303a20e5315057b7e8c/b959cc53",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04533d801e1296bafdc19ea1b41fa864/9fb09a05",
+            "width": 447,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/68ceb0f52b9ce67d4cc77153f4054c34/67d2ac48",
+            "width": 447,
+            "height": 513
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recFRGY1sKa4CGLPl": {
+    "createdTime": "2019-01-23T10:17:03.000Z",
+    "id": "recFRGY1sKa4CGLPl",
+    "(You can't directly edit this column)": "Jacob Ngo, AFX Board Spring 2019 Reach Chair",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Reach Chair",
+    "picture": [
+      {
+        "id": "attRrpugtuMoctNKU",
+        "url": "https://dl.airtable.com/.attachments/80a4e5873362c7b90e64436f0c44c317/63e867fe/JACOBNGOsp19.PNG",
+        "filename": "JACOB NGOsp19.PNG",
+        "size": 352391,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2263b4b8c47594b6789b2d661585b684/7f9cd862",
+            "width": 47,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/88014660402161966e32a4887f0050df/9384aba7",
+            "width": 505,
+            "height": 390
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37294a70eaee7af3ea87ae550dc6fbd3/ed09796e",
+            "width": 505,
+            "height": 390
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recGThjgxlEJ9Xy0B"
+    ]
+  },
+  "recq9doPobhYkSvWs": {
+    "createdTime": "2019-01-23T10:18:14.000Z",
+    "id": "recq9doPobhYkSvWs",
+    "(You can't directly edit this column)": "Aaron Luu, AFX Board Spring 2019 Reach Chair",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recfrPQiNc0YqwgKE"
+    ],
+    "positionTitle": "Reach Chair",
+    "picture": [
+      {
+        "id": "att1SkKU7mBEGCkXH",
+        "url": "https://dl.airtable.com/.attachments/609c9bec29ef4908f33b159ba043a924/4e9880fa/AARONLUUsp19.PNG",
+        "filename": "AARON LUUsp19.PNG",
+        "size": 532101,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bc3f568e63835dc33b167d59d3c7f508/10506889",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eaab465c6667f3885e7a8c3c78271862/cc496b50",
+            "width": 512,
+            "height": 528
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d416e951f3679deec9024f97661ad7d1/6c6903ef",
+            "width": 517,
+            "height": 533
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recinfNDuuPUDUuL9": {
+    "createdTime": "2019-01-23T10:21:35.000Z",
+    "id": "recinfNDuuPUDUuL9",
+    "(You can't directly edit this column)": "Sheldon Chen, AFX Board Spring 2019 Tech Committee Lead",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recLFDbA5iq2o2spW"
+    ],
+    "positionTitle": "Tech Committee Lead",
+    "picture": [
+      {
+        "id": "attVUkjinRcaJC01l",
+        "url": "https://dl.airtable.com/.attachments/93257d93634f52987675c432345b52bd/88bb710a/SHELDONCHEN_sp19.PNG",
+        "filename": "SHELDONCHEN_sp19.PNG",
+        "size": 711754,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fdb57f3dd686ff57ac5ce2430d003033/f9f31165",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5af3c4ace75ad7336b4aab11e4f05dd8/8a439826",
+            "width": 512,
+            "height": 518
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e76d156b64494e7d17e6ce1b2a7fbea5/fe86723a",
+            "width": 512,
+            "height": 518
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recnkQrby76a2c32K": {
+    "createdTime": "2019-01-23T10:22:49.000Z",
+    "id": "recnkQrby76a2c32K",
+    "(You can't directly edit this column)": "Catherine Chi, AFX Board Spring 2019 Tech Committee Lead",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recYuBaHxO4CUhAYJ"
+    ],
+    "positionTitle": "Tech Committee Lead",
+    "picture": [
+      {
+        "id": "attF5ae8er1WaRjnD",
+        "url": "https://dl.airtable.com/.attachments/0f38e0e9006a06d200e74a63e5aa0ba0/7d99a7c6/CATHERINECHIsp19.PNG",
+        "filename": "CATHERINE CHI sp19.PNG",
+        "size": 710801,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7b1be57e2b6f5d7f21abeb7cb3d7d145/9e920a2a",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6194dd8081e2f938019db5b3e540028e/a07783a7",
+            "width": 543,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ebaec4d2bdd1e3abd15a6fbb6ac2b39a/6c676fc6",
+            "width": 660,
+            "height": 622
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recOroH8p46ZXRYlP": {
+    "createdTime": "2019-01-23T10:23:52.000Z",
+    "id": "recOroH8p46ZXRYlP",
+    "(You can't directly edit this column)": "Michelle Fan, AFX Board Spring 2019 Tech Committee Lead",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "rec5tje5u3gnnZkCt"
+    ],
+    "positionTitle": "Tech Committee Lead",
+    "picture": [
+      {
+        "id": "attKgESiVFCZ5OHsn",
+        "url": "https://dl.airtable.com/.attachments/7f0af1477e0616b1e9ad58fa9327b47e/b68e5611/MICHELLEFAN.PNG",
+        "filename": "MICHELLE FAN.PNG",
+        "size": 462044,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37d54ec35c77f59c99ba936798f8485c/088be7d8",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/242a31c611b6d727d304cd822df64ab4/eef67371",
+            "width": 522,
+            "height": 461
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ad7bb0765c124393754c6196c5bcb002/80b11f55",
+            "width": 522,
+            "height": 461
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recyIMjEtC5oVuACA": {
+    "createdTime": "2019-01-23T10:25:09.000Z",
+    "id": "recyIMjEtC5oVuACA",
+    "(You can't directly edit this column)": "Allison Yeh, AFX Board Spring 2019 Tech Committee Lead",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recOsaLxSlFNFMefC"
+    ],
+    "positionTitle": "Tech Committee Lead",
+    "picture": [
+      {
+        "id": "attfzP6fyD0apFIbw",
+        "url": "https://dl.airtable.com/.attachments/3e174c5007c22c70b1de164b10eccd98/2f6a3814/ALLISONYEHsp19.PNG",
+        "filename": "ALLISON YEHsp19.PNG",
+        "size": 903642,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/26b0421a06fde3521726e14a7598eff0/7f9cae3a",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/99783a87f698be3f760c1c320f8f260e/1a24c58f",
+            "width": 578,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04983d1c6f6a5c67a3f276edab52574d/b17ef750",
+            "width": 680,
+            "height": 602
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recxdI2uKwcwth6cq": {
+    "createdTime": "2019-01-23T10:00:06.000Z",
+    "id": "recxdI2uKwcwth6cq",
+    "(You can't directly edit this column)": "Chantal Herrera, AFX Board Spring 2019 Comp Artistics",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Comp Artistics",
+    "picture": [
+      {
+        "id": "attxVVQfhNbGoNYSh",
+        "url": "https://dl.airtable.com/.attachments/58f524cf5c31e3aab5091af0cf99f0b8/e3860dcc/chantalherrera.PNG",
+        "filename": "chantal herrera.PNG",
+        "size": 773092,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f6c7daff2da98da006ef6cc203acd6a6/3436bb27",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/82da75aaa39ec57b0dbc55a1ea24e7ca/39e636bf",
+            "width": 512,
+            "height": 515
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd21d80a60f96cae8c8ef357335c6800/7af6cd08",
+            "width": 580,
+            "height": 583
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recDphJDWcMIkCW3k"
+    ]
+  },
+  "recm74OmPs8Xnmesv": {
+    "createdTime": "2019-01-23T10:03:57.000Z",
+    "id": "recm74OmPs8Xnmesv",
+    "(You can't directly edit this column)": "Jae Lee, AFX Board Spring 2019 Comp Artistics",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recXME9BEEMbuAZ88"
+    ],
+    "positionTitle": "Comp Artistics",
+    "picture": [
+      {
+        "id": "attPTFas98oUkipjI",
+        "url": "https://dl.airtable.com/.attachments/1ee5e175a68776ff720557c90d0a8350/c0958c1c/JAELEE.PNG",
+        "filename": "JAE LEE.PNG",
+        "size": 715751,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bbf94472f1196cada06c7dad37368e5d/316c6de9",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bcdefc51a0968237ec327f41333466ea/521bbe83",
+            "width": 512,
+            "height": 514
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/32272c8898da04001d3b9d9a5dc3349d/f7cdc9b5",
+            "width": 657,
+            "height": 659
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recu49LhYydCexH5V": {
+    "createdTime": "2019-01-23T10:08:44.000Z",
+    "id": "recu49LhYydCexH5V",
+    "(You can't directly edit this column)": "Christopher Lau, AFX Board Spring 2019 Comp Artistic Assistants",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recFnSfjcdECqcAGQ"
+    ],
+    "positionTitle": "Comp Artistic Assistants",
+    "picture": [
+      {
+        "id": "att9L1BF5hfHaVlhC",
+        "url": "https://dl.airtable.com/.attachments/63ee14be58fca8fb8edfdd5caf8016b4/82d0a718/christopherlausp19.PNG",
+        "filename": "christopher lausp19.PNG",
+        "size": 481803,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/88d5ee1e69ad2d6cfabc0cb09c2b5eb2/f5c83eb7",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eecbe877c23864ffe84d94c30b76522a/d3b9e540",
+            "width": 408,
+            "height": 473
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e975988c5e543d895063979b692eb1f7/bfb9cbe3",
+            "width": 408,
+            "height": 473
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recv7yGUjDRbHmfRi": {
+    "createdTime": "2019-01-23T10:10:33.000Z",
+    "id": "recv7yGUjDRbHmfRi",
+    "(You can't directly edit this column)": "Kimisato Wago, AFX Board Spring 2019 Comp Artistic Assistants",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recbLl6SZnCF4EEQM"
+    ],
+    "positionTitle": "Comp Artistic Assistants",
+    "picture": [
+      {
+        "id": "attlMgLvpdPSrPbdE",
+        "url": "https://dl.airtable.com/.attachments/17b0597eecfb21cf260a00436432248d/29aafabf/KIMISATOWAGO.PNG",
+        "filename": "KIMISATO WAGO.PNG",
+        "size": 542295,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5e8bb54f6bfefb309041a1d9d2a5f452/15656e8f",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/882f1b0dd0ec0f186b83f19d8d884bed/e7b2559f",
+            "width": 451,
+            "height": 517
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec60b05ed5121d99e0d9eb8d71816e65/b59895b7",
+            "width": 451,
+            "height": 517
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recUF0m1fnsJjDDbG": {
+    "createdTime": "2019-01-23T10:05:25.000Z",
+    "id": "recUF0m1fnsJjDDbG",
+    "(You can't directly edit this column)": "Keita Yada, AFX Board Spring 2019 Comp Captain",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attAXO9LXZrcEMXam",
+        "url": "https://dl.airtable.com/.attachments/0f5059f27f059179de59586840d92165/40e5b5cb/KEITAYADA.PNG",
+        "filename": "KEITA YADA.PNG",
+        "size": 305421,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/70f6df2d8b853f7d9700d976b798572a/90e744d8",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f6d44e1a5e0bb8d35a629446f6ec8b3/581a2780",
+            "width": 414,
+            "height": 394
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6af0770fdfd5a45a178d5b0177b29a74/bbbe18ee",
+            "width": 414,
+            "height": 394
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recXg1KTKckQDUF8R"
+    ]
+  },
+  "rec5dpFUtiqc2Nxfq": {
+    "createdTime": "2019-01-23T10:07:02.000Z",
+    "id": "rec5dpFUtiqc2Nxfq",
+    "(You can't directly edit this column)": "Cheryl Chen, AFX Board Spring 2019 Comp Captain",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "att7rlHPkZnjj6ZgJ",
+        "url": "https://dl.airtable.com/.attachments/cf6a2a668aa1410194e201c1311c82cf/192d40eb/CHERYLCHENsp19.PNG",
+        "filename": "CHERYL CHENsp19.PNG",
+        "size": 491344,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c2f7bbabb2b2d0b74424ac4e756ebff8/1496524b",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/156dc769caf3cc0e4e9d030d134dae72/c28b5940",
+            "width": 533,
+            "height": 425
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5b7e1bc38b497270c80e1a3718f2a4f3/fdca34a1",
+            "width": 533,
+            "height": 425
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "reczZGBDJP1tLF0A9"
+    ]
+  },
+  "recVHEkdtMhGkktbl": {
+    "createdTime": "2019-01-23T10:12:29.000Z",
+    "id": "recVHEkdtMhGkktbl",
+    "(You can't directly edit this column)": "Gillian Norton, AFX Board Spring 2019 Comp Communications",
+    "group": [
+      "recPf7ywA4liEHRje"
+    ],
+    "person": [
+      "recrCXKgcIxYaIw9t"
+    ],
+    "positionTitle": "Comp Communications",
+    "picture": [
+      {
+        "id": "attRASyYjyjt0a611",
+        "url": "https://dl.airtable.com/.attachments/84d8b300bfdee0d195bc77de490a1117/14e76354/gillynortonsp19.PNG",
+        "filename": "gilly nortonsp19.PNG",
+        "size": 858279,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8ae4dcda487aa4ae6f24c5d7c78788c4/770a0e52",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a888dde37c55efd8cd071e6ccb4aaf6f/eef6e154",
+            "width": 529,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6be4272ee14f3405fe0b2982c31554d0/1e196bff",
+            "width": 711,
+            "height": 688
+          }
+        }
+      }
+    ],
+    "groupType": [
+      "board"
+    ]
+  },
+  "recOZGvfMNPABr1FI": {
+    "createdTime": "2018-10-17T22:25:56.000Z",
+    "id": "recOZGvfMNPABr1FI",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "att0qzb9ELbJcGkvS",
+        "url": "https://dl.airtable.com/0fq4K81nQJ29zijOIvL8_18922463_10210522522152194_4209326782606585402_o.jpg",
+        "filename": "18922463_10210522522152194_4209326782606585402_o.jpg",
+        "size": 75016,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/BqvG86mkRgqMS563fuo6_small_18922463_10210522522152194_4209326782606585402_o.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/GT2LCDnIRWGNu5nL6qLz_large_18922463_10210522522152194_4209326782606585402_o.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/RGDjjtqoQWp6qY2k2bwx_full_18922463_10210522522152194_4209326782606585402_o.jpg",
+            "width": 1440,
+            "height": 1440
+          }
+        }
+      }
+    ],
+    "person": [
+      "recSpdnuAOuF5svEh"
+    ],
+    "(You can't directly edit this column)": "Gordon Lai, AFX Board Summer/Fall 2013 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec61dgtt7fFuPdUc": {
+    "createdTime": "2018-10-17T22:30:41.000Z",
+    "id": "rec61dgtt7fFuPdUc",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Internal Relations",
+    "picture": [
+      {
+        "id": "attEupPK2sMTz0zUm",
+        "url": "https://dl.airtable.com/IxifWZ8PR46OUz5D2lBn_10336787_10203173734938313_2658813470424420589_n.jpg",
+        "filename": "10336787_10203173734938313_2658813470424420589_n.jpg",
+        "size": 24422,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/SXrxd2TNSi683lhwMJp9_small_10336787_10203173734938313_2658813470424420589_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/uSjiZYE1RtGNMmVQWsQ1_large_10336787_10203173734938313_2658813470424420589_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3Iiwy6M7RdOeKEAVP7ES_full_10336787_10203173734938313_2658813470424420589_n.jpg",
+            "width": 565,
+            "height": 565
+          }
+        }
+      }
+    ],
+    "person": [
+      "recvmgzYF7heGgA9k"
+    ],
+    "(You can't directly edit this column)": "Aurora Marie, AFX Board Summer/Fall 2013 Internal Relations",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWHyWMs5CQgy6L2": {
+    "createdTime": "2018-10-17T22:33:17.000Z",
+    "id": "recWHyWMs5CQgy6L2",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attI6DApa7HFGV2yT",
+        "url": "https://dl.airtable.com/Nc9ZSuqaRJu3AQZtQSB2_24173077_10156007339882028_5981613006874063536_o.jpg",
+        "filename": "24173077_10156007339882028_5981613006874063536_o.jpg",
+        "size": 224059,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/80W5M1uSr6F5VrecSbmr_small_24173077_10156007339882028_5981613006874063536_o.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/saJQdsdvTZSyS6lbFPti_large_24173077_10156007339882028_5981613006874063536_o.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/yGS1BDdATDKht8Vx8xwK_full_24173077_10156007339882028_5981613006874063536_o.jpg",
+            "width": 1152,
+            "height": 1152
+          }
+        }
+      }
+    ],
+    "person": [
+      "recZ4bppVkukHelyx"
+    ],
+    "(You can't directly edit this column)": "Joseph Koo, AFX Board Summer/Fall 2013 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recYinURnABbJOFqe": {
+    "createdTime": "2018-10-17T22:33:15.000Z",
+    "id": "recYinURnABbJOFqe",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "att1nSMDZr3uMEd7b",
+        "url": "https://dl.airtable.com/uOtcP4BcTWivr8n3YHqx_14107690_10155306920701164_2842158559044562378_o.jpg",
+        "filename": "14107690_10155306920701164_2842158559044562378_o.jpg",
+        "size": 402098,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/jw99O1ASautKWgsK3lbQ_small_14107690_10155306920701164_2842158559044562378_o.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Jl2ZJtMQwe7swWgJ3Bwj_large_14107690_10155306920701164_2842158559044562378_o.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/sqNTGoirRISnc6JtxnMe_full_14107690_10155306920701164_2842158559044562378_o.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccBSwkwjN6WIsfB"
+    ],
+    "(You can't directly edit this column)": "Jenny Chen, AFX Board Summer/Fall 2013 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recUFrFlIpVABapxl": {
+    "createdTime": "2018-10-17T22:30:43.000Z",
+    "id": "recUFrFlIpVABapxl",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attSednALlVt6B0LV",
+        "url": "https://dl.airtable.com/EYrFyUUIQ1bFsiLAwwKk_43698067_10161048739485154_2777770867487145984_o.jpg",
+        "filename": "43698067_10161048739485154_2777770867487145984_o.jpg",
+        "size": 171972,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/IVWb1vxzSTuvo8mI41Dg_small_43698067_10161048739485154_2777770867487145984_o.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/HhSZ6qniSiz6cKqghwsd_large_43698067_10161048739485154_2777770867487145984_o.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/8fKjBB4TVdrEr7OorOAw_full_43698067_10161048739485154_2777770867487145984_o.jpg",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    ],
+    "person": [
+      "recv47ketfwyrgVAn"
+    ],
+    "(You can't directly edit this column)": "Surmayee Tetarbe, AFX Board Summer/Fall 2013 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recmv9EMTgBKiRcBw": {
+    "createdTime": "2018-10-17T22:30:46.000Z",
+    "id": "recmv9EMTgBKiRcBw",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "att2jtjbA4UVB3gct",
+        "url": "https://dl.airtable.com/yXlMJ0e2Sg2ERPUbIP3O_44255099_473562976476941_739385315860414464_n.jpg",
+        "filename": "44255099_473562976476941_739385315860414464_n.jpg",
+        "size": 54641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/T0eIm26WR7O3ofi4iPOw_small_44255099_473562976476941_739385315860414464_n.jpg",
+            "width": 20,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/si3s4dCTZG7bUQNiHyg8_large_44255099_473562976476941_739385315860414464_n.jpg",
+            "width": 512,
+            "height": 911
+          },
+          "full": {
+            "url": "https://dl.airtable.com/RQ0NVw1IT9KgyF0Q9jYO_full_44255099_473562976476941_739385315860414464_n.jpg",
+            "width": 750,
+            "height": 1334
+          }
+        }
+      }
+    ],
+    "person": [
+      "recxrlu4YBT1PwNh6"
+    ],
+    "(You can't directly edit this column)": "Shawn Mei, AFX Board Summer/Fall 2013 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recxlFvvUfFDj8Hyj": {
+    "createdTime": "2018-10-17T22:27:21.000Z",
+    "id": "recxlFvvUfFDj8Hyj",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attEvyO2Y2ftg2964",
+        "url": "https://dl.airtable.com/PThMqPD4TruXygw4x4js_13707611_10153301118629649_6258158905072127817_n.jpg",
+        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
+        "size": 44295,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/c4LCprZ1RwGuxDAk9Mbb_small_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/qjelma4HSiGe7WhTxaJP_large_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/lSXEbS0PSLHJktNdlmSf_full_13707611_10153301118629649_6258158905072127817_n.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recGYjEvMRqWuQabn"
+    ],
+    "(You can't directly edit this column)": "Ping Quach, AFX Board Summer/Fall 2013 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec2ArD4zfUhlWKwj": {
+    "createdTime": "2018-10-17T22:27:56.000Z",
+    "id": "rec2ArD4zfUhlWKwj",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attQZ5jAHjumN2FLx",
+        "url": "https://dl.airtable.com/ypzQN7GhRRSfOVvW30FC_13051780_10153967787361508_3966323251194751461_n.jpg",
+        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
+        "size": 180846,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/GbpMdr9S6rIxHAzerfSg_small_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Aa1dC2lfRYKV47lLZB7w_large_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 514,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/MHO6yldR5e9F8nzjhgng_full_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 960,
+            "height": 957
+          }
+        }
+      }
+    ],
+    "person": [
+      "recI4tz7ioKyk9TK0"
+    ],
+    "(You can't directly edit this column)": "Geoffrey Chen, AFX Board Summer/Fall 2013 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recH2qy05mNoxqz5l": {
+    "createdTime": "2018-10-17T22:28:39.000Z",
+    "id": "recH2qy05mNoxqz5l",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attXDgspqmiIcu1dn",
+        "url": "https://dl.airtable.com/1ilG38YGQya1kUO2PvbJ_11350615_10153425210498408_4242649587900320037_n.jpg",
+        "filename": "11350615_10153425210498408_4242649587900320037_n.jpg",
+        "size": 70606,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/NwslITLBTeerNyRl4tsg_small_11350615_10153425210498408_4242649587900320037_n.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XW8EuNQTiCfLRdADkQBA_large_11350615_10153425210498408_4242649587900320037_n.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/PvU472oSY6QV5f0P0l9P_full_11350615_10153425210498408_4242649587900320037_n.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLDaDFZxNyhrLYf"
+    ],
+    "(You can't directly edit this column)": "Darae Kim, AFX Board Summer/Fall 2013 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reccuKlOcC6NdTOwO": {
+    "createdTime": "2018-10-17T22:28:43.000Z",
+    "id": "reccuKlOcC6NdTOwO",
+    "group": [
+      "rec7AuUevOSkKy0wb"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attpPaoyTIYQrxz14",
+        "url": "https://dl.airtable.com/0cBCcDq7TWOnXfvywanD_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/AFGKDKUQQ3C5zjYn65KP_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/X7GR8hoT9aoaoBRGsGAg_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/zMDE1vvKQiKNAWc6kZks_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2013 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWyPZFROrnMhz6W": {
+    "createdTime": "2018-10-17T22:12:55.000Z",
+    "id": "recWyPZFROrnMhz6W",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attCBP8u7wajzQG7h",
+        "url": "https://dl.airtable.com/eYVpQWfvTpm1XwjMfVoV_Andrew%20Lee%20-%20Exec.jpg",
+        "filename": "Andrew Lee - Exec.jpg",
+        "size": 43485,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Jv6sMMHmTYWYfGjMlmy1_small_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sRIw113UQtO3StEW3euO_large_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/JsvtER9xQVaBQJSWXy2V_full_Andrew%20Lee%20-%20Exec.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "recBPtE9xYnXjdgb4"
+    ],
+    "(You can't directly edit this column)": "Andrew Lee, AFX Board Summer/Fall 2014 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recTrl8bPc8liK962": {
+    "createdTime": "2018-10-17T22:17:23.000Z",
+    "id": "recTrl8bPc8liK962",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attoU8nXhYHnFwBTZ",
+        "url": "https://dl.airtable.com/pi6c7Uf7T8SiHRYSaJ8Y_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+        "filename": "Jasmine Chau - Vice Exec + Outreach Chair.jpg",
+        "size": 169881,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/uONrmIOsQjiRRYLwBdRw_small_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/3QdG1NvUTQ62aGWukncZ_large_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 401,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BVNV3O2OQ8yvXAE0yUsP_full_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 401,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Summer/Fall 2014 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recsZh1l7cUmPLqPW": {
+    "createdTime": "2018-10-17T22:07:54.000Z",
+    "id": "recsZh1l7cUmPLqPW",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attUxO01058lkkeNK",
+        "url": "https://dl.airtable.com/GbeGDqeLSW6wDLEV3ipO_Ada%20Ng%20-%20Events.jpg",
+        "filename": "Ada Ng - Events.jpg",
+        "size": 260772,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/9IrRatwRge9nADQrD2FA_small_Ada%20Ng%20-%20Events.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/rFB1Q42FQ7iyNi1VwNU6_large_Ada%20Ng%20-%20Events.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WSRXybXOTb6T4L5eeFgr_full_Ada%20Ng%20-%20Events.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec54iAVFwg1HwrW1"
+    ],
+    "(You can't directly edit this column)": "Ada Ng, AFX Board Summer/Fall 2014 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recCYFGpcjEB5aPVa": {
+    "createdTime": "2018-10-17T22:18:25.000Z",
+    "id": "recCYFGpcjEB5aPVa",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att0EYB7MzXmwgRmu",
+        "url": "https://dl.airtable.com/TxDOf0SxSxCbREyZqsMJ_Jenny%20Li%20-%20Events.jpg",
+        "filename": "Jenny Li - Events.jpg",
+        "size": 41654,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/OsoqpxkR76R8IKY64zyQ_small_Jenny%20Li%20-%20Events.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/mZlvs46wT3KjyKRWECRk_large_Jenny%20Li%20-%20Events.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/KqFqg87TSaaD5jNUbbwe_full_Jenny%20Li%20-%20Events.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "reclzXp3jh79lnbB0"
+    ],
+    "(You can't directly edit this column)": "Jenny Li, AFX Board Summer/Fall 2014 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recAKbFuUkG4O5I3F": {
+    "createdTime": "2018-10-17T22:19:57.000Z",
+    "id": "recAKbFuUkG4O5I3F",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attDWxTS1YmGnqcMT",
+        "url": "https://dl.airtable.com/jOPeWGxHTwy7yRxxcsY2_Mikaela%20Klein%20-%20Finance.jpg",
+        "filename": "Mikaela Klein - Finance.jpg",
+        "size": 186203,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/p3NmOi3mQoqAIHyCI3yM_small_Mikaela%20Klein%20-%20Finance.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Q3SyrHsQSVqy1y9LtFwC_large_Mikaela%20Klein%20-%20Finance.jpg",
+            "width": 398,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/TYdpBbXtQ7ekpuGXp4HZ_full_Mikaela%20Klein%20-%20Finance.jpg",
+            "width": 398,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "reclVNKAxBs3D00S5"
+    ],
+    "(You can't directly edit this column)": "Mikaela Klein, AFX Board Summer/Fall 2014 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recFik0UCmCjnsmAX": {
+    "createdTime": "2018-10-17T22:20:23.000Z",
+    "id": "recFik0UCmCjnsmAX",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attCaGtMfuHfXdTvp",
+        "url": "https://dl.airtable.com/DbYQwirYRvW4Hj74RTPB_Natalie%20Ma%20-%20Finance.jpg",
+        "filename": "Natalie Ma - Finance.jpg",
+        "size": 358095,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/nhiE3DGhRjOVBGd7jqkb_small_Natalie%20Ma%20-%20Finance.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/1MnL6gvwTOSUZdXK4ykQ_large_Natalie%20Ma%20-%20Finance.jpg",
+            "width": 773,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/0ztfKmosQli1ynokgTCl_full_Natalie%20Ma%20-%20Finance.jpg",
+            "width": 2048,
+            "height": 1357
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec64C1WdF2Amk1VV"
+    ],
+    "(You can't directly edit this column)": "Natalie Ma, AFX Board Summer/Fall 2014 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recdYsI8CVYMgmLJ4": {
+    "createdTime": "2018-10-17T22:21:28.000Z",
+    "id": "recdYsI8CVYMgmLJ4",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "att54kaKvgRJFz17u",
+        "url": "https://dl.airtable.com/qRn3sl0fQTiA8EVk31Ha_Xinuye%20Wang%20-%20Finance.jpg",
+        "filename": "Xinuye Wang - Finance.jpg",
+        "size": 143368,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/jnztBICHQUumOgjMK6Ba_small_Xinuye%20Wang%20-%20Finance.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/vaZoH1nLREWod1glw20w_large_Xinuye%20Wang%20-%20Finance.jpg",
+            "width": 400,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BCi2xSAjRQmYnXPi91cw_full_Xinuye%20Wang%20-%20Finance.jpg",
+            "width": 400,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "recrEeHaWMhxv56jE"
+    ],
+    "(You can't directly edit this column)": "Xinuye Wang, AFX Board Summer/Fall 2014 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recdcLCumD1Q3KkNn": {
+    "createdTime": "2018-10-17T22:13:32.000Z",
+    "id": "recdcLCumD1Q3KkNn",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attmeDrBCbg0btZpq",
+        "url": "https://dl.airtable.com/F4lR8j0Ty6f7tIP3sHQd_Chris%20Kim%20-%20Historian.jpg",
+        "filename": "Chris Kim - Historian.jpg",
+        "size": 1031392,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/aA3r0YM5Q1mUWdAXN8Eb_small_Chris%20Kim%20-%20Historian.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hExO5US4RmibcXAXF5ME_large_Chris%20Kim%20-%20Historian.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/O4yWDo1RNS0oxcacEB9Q_full_Chris%20Kim%20-%20Historian.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "(You can't directly edit this column)": "Chris Kim, AFX Board Summer/Fall 2014 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recPE6Z2zTr4HPmTD": {
+    "createdTime": "2018-10-17T22:14:36.000Z",
+    "id": "recPE6Z2zTr4HPmTD",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attTOaC0bxhFUTmmz",
+        "url": "https://dl.airtable.com/KJDdZX5QXGhA0ETlf8wZ_Davinci%20Lam%20-%20Historian.jpg",
+        "filename": "Davinci Lam - Historian.jpg",
+        "size": 61791,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/EN14eaJXScGkH4C0RuE5_small_Davinci%20Lam%20-%20Historian.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/1mgu4yNCRMrnE9cES7Ul_large_Davinci%20Lam%20-%20Historian.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/bhe9sVXS2bEkIQ88MtQg_full_Davinci%20Lam%20-%20Historian.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec7BBK1UpjDQQiJF"
+    ],
+    "(You can't directly edit this column)": "Davinci Lam, AFX Board Summer/Fall 2014 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recy3JKUOpqTV1Jxr": {
+    "createdTime": "2018-10-17T22:21:04.000Z",
+    "id": "recy3JKUOpqTV1Jxr",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attz3lVrGAaWLvVNe",
+        "url": "https://dl.airtable.com/Eslu6PLTkqUL1WhjWHr1_Simon%20Chen%20-%20Historian.jpg",
+        "filename": "Simon Chen - Historian.jpg",
+        "size": 157737,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/PoZuAEphTemy2dbzbxf6_small_Simon%20Chen%20-%20Historian.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/fUCCchkGSHmDMXlFs5Z1_large_Simon%20Chen%20-%20Historian.jpg",
+            "width": 398,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/YIPTiVjTJyuFcK34VCKv_full_Simon%20Chen%20-%20Historian.jpg",
+            "width": 398,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccl1uy2ajMiq1O2"
+    ],
+    "(You can't directly edit this column)": "Simon Chen, AFX Board Summer/Fall 2014 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec54wo9l7lwIPoDh": {
+    "createdTime": "2018-10-17T22:16:53.000Z",
+    "id": "rec54wo9l7lwIPoDh",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attRcRmRxp0TWTdSG",
+        "url": "https://dl.airtable.com/PZRulihCRSusCEzFT9ax_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+        "filename": "Emily Tsai - PR Marketing.jpg",
+        "size": 56592,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ekK2bfzRQ3aGAAujvz30_small_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/8RL3fPqFRgGse68u60id_large_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qF1K4QVmTlChBx6mNtEF_full_Emily%20Tsai%20-%20PR%20Marketing.jpg",
+            "width": 960,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLxGorRTNI9I0QS"
+    ],
+    "(You can't directly edit this column)": "Emily Tsai, AFX Board Summer/Fall 2014 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recnVPyrNQBtG10yJ": {
+    "createdTime": "2018-10-17T22:19:00.000Z",
+    "id": "recnVPyrNQBtG10yJ",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attoljWSJtaFZEclH",
+        "url": "https://dl.airtable.com/S5bc0V1JTi2d54fBnXgB_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
+        "filename": "Kevin Hayakawa - PR Marketing.jpg",
+        "size": 129935,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Z7gegAemSPyxK6aTkjIl_small_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/iAj7ghKCRC6e1UAiqC0p_large_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 773
+          },
+          "full": {
+            "url": "https://dl.airtable.com/pwk699GQpBY4dcNIQIpw_full_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
+            "width": 636,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec3RLZl3eC9SXHwJ"
+    ],
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFX Board Summer/Fall 2014 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec9arrsO6ltYsTa9": {
+    "createdTime": "2018-10-17T22:10:24.000Z",
+    "id": "rec9arrsO6ltYsTa9",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attDnpakq41Ylm8Js",
+        "url": "https://dl.airtable.com/7Y8dpwnMRYGzk8gRsXVJ_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+        "filename": "Alyssa Alvarez - PR Design.jpg",
+        "size": 56398,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1Ag8jSEMQsqi6pVqhtxj_small_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/kvIO83kTKSapwwY722Qw_large_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+            "width": 772,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/LwleMSzMQPGEwUSlKKIy_full_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
+            "width": 960,
+            "height": 637
+          }
+        }
+      }
+    ],
+    "person": [
+      "recVe7qtpA0igWgdl"
+    ],
+    "(You can't directly edit this column)": "Alyssa Alvarez, AFX Board Summer/Fall 2014 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recowepyieoCN1uVQ": {
+    "createdTime": "2018-10-17T22:17:57.000Z",
+    "id": "recowepyieoCN1uVQ",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attYDnpEYT42HF8pV",
+        "url": "https://dl.airtable.com/O2KXJi4HRIufrJECrwE2_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+        "filename": "Jasmine Chau - Vice Exec + Outreach Chair.jpg",
+        "size": 169881,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/IL9P6YI4S2OWbhMzytbF_small_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XsTueSbGR8WUZu4tN05N_large_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 401,
+            "height": 600
+          },
+          "full": {
+            "url": "https://dl.airtable.com/iGNcdYMQ52EaVJ5PRt1V_full_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
+            "width": 401,
+            "height": 600
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Summer/Fall 2014 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWBvRimNr5bCWyI": {
+    "createdTime": "2018-10-18T00:24:06.000Z",
+    "id": "recWBvRimNr5bCWyI",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "atte2oq19Acf6ckFf",
+        "url": "https://dl.airtable.com/uNIgkr5Q56tnrH83mp5w_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/bkXu4wZ0Rc63NpGnAMtG_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/nXG18yjlTsOUAwwA1xoK_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/A38ttz1sT4SOIpXZ2bFl_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2014 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec7h2sY81YQeHgiB": {
+    "createdTime": "2018-10-18T00:24:43.000Z",
+    "id": "rec7h2sY81YQeHgiB",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "att5PoN25tfleyMxy",
+        "url": "https://dl.airtable.com/t4y9CZa3S2iAMD4R0uoP_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+        "filename": "Screen Shot 2018-10-17 at 6.24.09 PM.png",
+        "size": 1958721,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/AXs3kLKaTgaaKzaKstMQ_small_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jxHfkqiQ2WWU7UpOJXzj_large_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+            "width": 517,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/wALJxpFRLe8PE0DUIQjg_full_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
+            "width": 1128,
+            "height": 1118
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4rqgME4ja2gNp7"
+    ],
+    "(You can't directly edit this column)": "Jaemin Kim, AFX Board Summer/Fall 2014 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recFneoMUrd7Qitlf": {
+    "createdTime": "2018-10-18T00:23:21.000Z",
+    "id": "recFneoMUrd7Qitlf",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attWbPNaWbr7AxkdI",
+        "url": "https://dl.airtable.com/P10LpsRraho0zAUEsIfA_41677504_1972020742818719_5250966448460791808_o.jpg",
+        "filename": "41677504_1972020742818719_5250966448460791808_o.jpg",
+        "size": 158266,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/F75OCtYQAmcErCfOjQ0N_small_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/BmaHLFQsTgqGcq2C95jE_large_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Mw5kfj0JTOWq1s38yjKp_full_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recMwcvipXM9qiwJJ"
+    ],
+    "(You can't directly edit this column)": "Christian Cayton, AFX Board Summer/Fall 2014 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recpoOliHHmwDIBof": {
+    "createdTime": "2018-10-18T00:23:44.000Z",
+    "id": "recpoOliHHmwDIBof",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attW3vfv8Hh5RWfbT",
+        "url": "https://dl.airtable.com/FcipjfjRTXqGJsrkC5YA_Chris%20Lee.jpg",
+        "filename": "Chris Lee.jpg",
+        "size": 137832,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Wpvf9c1FQnCi3hSz7YTb_small_Chris%20Lee.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/q40HtyZeSikeHkZt3iOw_large_Chris%20Lee.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ulJKZV0ATNyFwM8x2z23_full_Chris%20Lee.jpg",
+            "width": 720,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recNQnSSq1R8SBkoa"
+    ],
+    "(You can't directly edit this column)": "Chris Lee, AFX Board Summer/Fall 2014 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recPgnkPYdTsaXuLW": {
+    "createdTime": "2018-10-18T00:22:42.000Z",
+    "id": "recPgnkPYdTsaXuLW",
+    "group": [
+      "recvLyVuB39eaBWUG"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "attXcZfrOkT2zkveD",
+        "url": "https://dl.airtable.com/uF0fqudtTV22cUlPRavo_23517757_1730434420334284_2978850615855378761_n.jpg",
+        "filename": "23517757_1730434420334284_2978850615855378761_n.jpg",
+        "size": 164776,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/TjW8ZiP9TqSgtjTH7wfy_small_23517757_1730434420334284_2978850615855378761_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/gVKHh1PPS025w4E51hK3_large_23517757_1730434420334284_2978850615855378761_n.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/iuAPhHCZRHqVzTPWt3cx_full_23517757_1730434420334284_2978850615855378761_n.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec186CmW9PWsr87T"
+    ],
+    "(You can't directly edit this column)": "Alison Ong, AFX Board Summer/Fall 2014 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recCTWLDbdrqn2nYJ": {
+    "createdTime": "2018-10-17T22:28:35.000Z",
+    "id": "recCTWLDbdrqn2nYJ",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "att3OcmsLHNk8pfc5",
+        "url": "https://dl.airtable.com/gxKtcScpQOaGVM9g6ITb_Jasmine%20Chau%20-%20Exec.jpg",
+        "filename": "Jasmine Chau - Exec.jpg",
+        "size": 291514,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/st6JCiu6SRW0ZBxRN09T_small_Jasmine%20Chau%20-%20Exec.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/F5Lw4qvfQnmYD4v8fKTe_large_Jasmine%20Chau%20-%20Exec.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3qF3LXodQAqmBIv3KxKw_full_Jasmine%20Chau%20-%20Exec.jpg",
+            "width": 683,
+            "height": 683
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Summer/Fall 2015 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recpDL3KDWfgRHxc4": {
+    "createdTime": "2018-10-17T22:31:33.000Z",
+    "id": "recpDL3KDWfgRHxc4",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attpaJ9du5BuHH7dt",
+        "url": "https://dl.airtable.com/edtgOLNQ7Cu4pXb4FVJO_Karen%20Ding%20-%20Vice%20Exec.jpg",
+        "filename": "Karen Ding - Vice Exec.jpg",
+        "size": 484644,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/UO039KCwS6enfYbCaN6d_small_Karen%20Ding%20-%20Vice%20Exec.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/21yYofEoROiuhPXj0V25_large_Karen%20Ding%20-%20Vice%20Exec.jpg",
+            "width": 513,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/JUxfNMXpQWOMgJbHUY7B_full_Karen%20Ding%20-%20Vice%20Exec.jpg",
+            "width": 1024,
+            "height": 1023
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFHoYhUBiV5URhr"
+    ],
+    "(You can't directly edit this column)": "Karen Ding, AFX Board Summer/Fall 2015 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recKCKwCa2KwUjvDm": {
+    "createdTime": "2018-10-17T22:34:21.000Z",
+    "id": "recKCKwCa2KwUjvDm",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attDN9fhgCwGQs09f",
+        "url": "https://dl.airtable.com/a4uaG1DQfiKZl4JZobXA_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
+        "filename": "Ryan Barroga - Vice Exec.jpg",
+        "size": 302792,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VFnxdL6rTnOrnvWKr9HD_small_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ahNgS3qTSo6gaZ7MEsMf_large_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3NMjuX5CQoaQQfah9MtL_full_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "reczfMxHZL2l3qHUm"
+    ],
+    "(You can't directly edit this column)": "Ryan Barroga, AFX Board Summer/Fall 2015 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recCsdE1LTyQrjMBW": {
+    "createdTime": "2018-10-17T22:32:05.000Z",
+    "id": "recCsdE1LTyQrjMBW",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attIcsqLQYmqCUrYK",
+        "url": "https://dl.airtable.com/dr3HkoqoTlu8xdzP01iN_Kathie%20Tian%20-%20Events.jpg",
+        "filename": "Kathie Tian - Events.jpg",
+        "size": 200381,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/QpZluQeZQpCoMp8FGIJj_small_Kathie%20Tian%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/GbCsb6XIT4ivgny203a7_large_Kathie%20Tian%20-%20Events.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/mm0jsPwbQJO0Ta5fXbK5_full_Kathie%20Tian%20-%20Events.jpg",
+            "width": 750,
+            "height": 750
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec8WQB0KC7QXPy7z"
+    ],
+    "(You can't directly edit this column)": "Kathie Tian, AFX Board Summer/Fall 2015 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recNLqvbB61XluNA8": {
+    "createdTime": "2018-10-17T22:34:45.000Z",
+    "id": "recNLqvbB61XluNA8",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attoJmKIc9gjbFSEG",
+        "url": "https://dl.airtable.com/LRYlrHAvQtmuu5ZIDthY_Susan%20Shen%20-%20Events.jpg",
+        "filename": "Susan Shen - Events.jpg",
+        "size": 441434,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/mXH1jdxHT7mohj8JY0WJ_small_Susan%20Shen%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/kRrQO4zQVudIqxj2N7XS_large_Susan%20Shen%20-%20Events.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/OTom4jH7TqWQUWHcVAKU_full_Susan%20Shen%20-%20Events.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "recgVaA2OjSYAR8oD"
+    ],
+    "(You can't directly edit this column)": "Susan Shen, AFX Board Summer/Fall 2015 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec6POiIFWbnVhXji": {
+    "createdTime": "2018-10-17T22:28:34.000Z",
+    "id": "rec6POiIFWbnVhXji",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "att0P9lZLxAkEAFGk",
+        "url": "https://dl.airtable.com/zjBW5oFSQNqNuJ4TZxkf_Arthur%20Liao%20-%20Finance.jpg",
+        "filename": "Arthur Liao - Finance.jpg",
+        "size": 119325,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/cKgK7DdpS1GypJMNqxVi_small_Arthur%20Liao%20-%20Finance.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/x3NFUPAkRQmL7KvCB0ch_large_Arthur%20Liao%20-%20Finance.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WHPizGtR3OS3AAiS7WsU_full_Arthur%20Liao%20-%20Finance.jpg",
+            "width": 639,
+            "height": 639
+          }
+        }
+      }
+    ],
+    "person": [
+      "recbcCfd2aMzjtrro"
+    ],
+    "(You can't directly edit this column)": "Arthur Liou, AFX Board Summer/Fall 2015 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec8nwJXLJ37OV0rQ": {
+    "createdTime": "2018-10-17T22:32:29.000Z",
+    "id": "rec8nwJXLJ37OV0rQ",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attSGgSwLSoJCStZe",
+        "url": "https://dl.airtable.com/vJocYYMiQbSsqAYHc6mz_Kelly%20Yong%20-%20Finance.jpg",
+        "filename": "Kelly Yong - Finance.jpg",
+        "size": 284491,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/xsmNYgOST2YNcK9izS0c_small_Kelly%20Yong%20-%20Finance.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/LLzZXzqzQZSn7kxrNtHr_large_Kelly%20Yong%20-%20Finance.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/apusaWQ4S8639UlnmpO9_full_Kelly%20Yong%20-%20Finance.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "recXJr3fTDXjPWZd6"
+    ],
+    "(You can't directly edit this column)": "Kelly Yong, AFX Board Summer/Fall 2015 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recwIOfNVdHw2rgi9": {
+    "createdTime": "2018-10-17T22:28:34.000Z",
+    "id": "recwIOfNVdHw2rgi9",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attC8Kl75m9aersFN",
+        "url": "https://dl.airtable.com/Y6QH33ttSOa3H1I8dBZW_Christina%20Ong%20-%20Historian.jpg",
+        "filename": "Christina Ong - Historian.jpg",
+        "size": 279031,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/gkHYs00SgylkzwT72Ndx_small_Christina%20Ong%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/TzcnqGdYSJKf9d2WUHbO_large_Christina%20Ong%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Gy3kayEShSZgOPkCu7kO_full_Christina%20Ong%20-%20Historian.jpg",
+            "width": 551,
+            "height": 551
+          }
+        }
+      }
+    ],
+    "person": [
+      "rech7Tn0Mt2LITmpc"
+    ],
+    "(You can't directly edit this column)": "Christina Ong, AFX Board Summer/Fall 2015 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recKgeJ2ciU7ic8Kr": {
+    "createdTime": "2018-10-17T22:33:27.000Z",
+    "id": "recKgeJ2ciU7ic8Kr",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attq1VwsXD8RhyJlL",
+        "url": "https://dl.airtable.com/ExzMyAqS261Syl5hB4K0_Queena%20Xu%20-%20Historian.jpg",
+        "filename": "Queena Xu - Historian.jpg",
+        "size": 374814,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RXlnTe9jQGung7oktqtL_small_Queena%20Xu%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/WuU9hDi1TVuWgFCkqbpI_large_Queena%20Xu%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/x0Sf4tHiQZAwfhJI3Z85_full_Queena%20Xu%20-%20Historian.jpg",
+            "width": 1024,
+            "height": 1024
+          }
+        }
+      }
+    ],
+    "person": [
+      "recm9GGNQwNn3Y0uG"
+    ],
+    "(You can't directly edit this column)": "Queena Xu, AFX Board Summer/Fall 2015 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recxowEgkbgyTq4w4": {
+    "createdTime": "2018-10-17T22:35:30.000Z",
+    "id": "recxowEgkbgyTq4w4",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attMjJ7rs3wmuYwNF",
+        "url": "https://dl.airtable.com/VcYq2XgxRiCNcOjjQgKt_Tiffanie%20Abacan%20-%20Historian.jpg",
+        "filename": "Tiffanie Abacan - Historian.jpg",
+        "size": 301013,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/k65EaM6QR9GowNcB2fi8_small_Tiffanie%20Abacan%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/HeXdJuEIR1t0D46FxBcw_large_Tiffanie%20Abacan%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BN9GfmHxTrqTQcoABsj0_full_Tiffanie%20Abacan%20-%20Historian.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "recRcjNWpPIB6MhSE"
+    ],
+    "(You can't directly edit this column)": "Tiffanie Abacan, AFX Board Summer/Fall 2015 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recBfzJCrlmmV2q5q": {
+    "createdTime": "2018-10-17T22:32:53.000Z",
+    "id": "recBfzJCrlmmV2q5q",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "atti51MCq2QROj5KW",
+        "url": "https://dl.airtable.com/HlRR9SOqQmuLlbUBwX3W_Michael%20Chu%20-%20PR%20Marketing.jpg",
+        "filename": "Michael Chu - PR Marketing.jpg",
+        "size": 400579,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/2St3YTx1TZWLqudg6cM9_small_Michael%20Chu%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/dFVHUCXUTAubEnBZKSvg_large_Michael%20Chu%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/z73LKrP7RyucMk81ZloH_full_Michael%20Chu%20-%20PR%20Marketing.jpg",
+            "width": 908,
+            "height": 908
+          }
+        }
+      }
+    ],
+    "person": [
+      "reclpX3jvpv0V44dl"
+    ],
+    "(You can't directly edit this column)": "Michael Chu, AFX Board Summer/Fall 2015 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec59rkeuQcbbDZ7V": {
+    "createdTime": "2018-10-17T22:33:54.000Z",
+    "id": "rec59rkeuQcbbDZ7V",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attqEVohbPiPm5Mgw",
+        "url": "https://dl.airtable.com/KmRc97LfSH2B9Bm5aosk_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
+        "filename": "Ruiling Wen - PR Marketing.jpg",
+        "size": 563578,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WfNYxPryRTm8rf0FTtLf_small_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Fj9giroTxCIJ52GjDRbc_large_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/jNSLvFORSjyfNPk9p1h9_full_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recH0VHagnAyTBeKG"
+    ],
+    "(You can't directly edit this column)": "Ruiling Wen, AFX Board Summer/Fall 2015 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rectJjLvB0uQXlcFA": {
+    "createdTime": "2018-10-17T22:35:06.000Z",
+    "id": "rectJjLvB0uQXlcFA",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attRriHaJzoebhkYv",
+        "url": "https://dl.airtable.com/dMhqoEzhSiWQ002agTG0_Swan%20Kim%20-%20PR%20Marketing.jpeg",
+        "filename": "Swan Kim - PR Marketing.jpeg",
+        "size": 370862,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/SlNkIdgESbxuUe5AJYi9_small_Swan%20Kim%20-%20PR%20Marketing.jpeg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Qow2uQ83RfG3SIoNXP3m_large_Swan%20Kim%20-%20PR%20Marketing.jpeg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/oYim96TMTzWgxCPFUpEP_full_Swan%20Kim%20-%20PR%20Marketing.jpeg",
+            "width": 815,
+            "height": 815
+          }
+        }
+      }
+    ],
+    "person": [
+      "recoqVLPTKw2gNmA1"
+    ],
+    "(You can't directly edit this column)": "Swan Kim, AFX Board Summer/Fall 2015 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reclH2WaVrHdkjc1p": {
+    "createdTime": "2018-10-17T22:28:35.000Z",
+    "id": "reclH2WaVrHdkjc1p",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "att6UuxpymvgoDF8B",
+        "url": "https://dl.airtable.com/PGUoSNZpTBmQyXc39S4w_Emilio%20Cuartero%20-%20PR%20Design.jpg",
+        "filename": "Emilio Cuartero - PR Design.jpg",
+        "size": 87673,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/rlmLtPVWQwByIoSvR9xS_small_Emilio%20Cuartero%20-%20PR%20Design.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ecZImO2pQqetZXuiEagO_large_Emilio%20Cuartero%20-%20PR%20Design.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BEXDqxm6TAOi7GlGb7XQ_full_Emilio%20Cuartero%20-%20PR%20Design.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recn9QkB6vln1iqIG"
+    ],
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2015 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvQimuy5LNCjCSH": {
+    "createdTime": "2018-10-17T22:28:39.000Z",
+    "id": "recvQimuy5LNCjCSH",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attwKRt1xQLcKxoG5",
+        "url": "https://dl.airtable.com/AXhjVMxgSmy5qPnoB7Fo_Josh%20Park%20-%20Outreach.jpg",
+        "filename": "Josh Park - Outreach.jpg",
+        "size": 294848,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/nkQqQyJ0REgsW4UsJbyA_small_Josh%20Park%20-%20Outreach.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ceSe41bmS6COnuHfSaUx_large_Josh%20Park%20-%20Outreach.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/TpyqJnJVTgITKqm2l9tA_full_Josh%20Park%20-%20Outreach.jpg",
+            "width": 611,
+            "height": 611
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec9jN75kKwlEUKlP"
+    ],
+    "(You can't directly edit this column)": "Josh Park, AFX Board Summer/Fall 2015 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recVhmcmenPkMyFWt": {
+    "createdTime": "2018-10-18T00:30:10.000Z",
+    "id": "recVhmcmenPkMyFWt",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attlXn3YhUV33tAbn",
+        "url": "https://dl.airtable.com/4EaWimMDRNikcULEj2Ve_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/uq20IRxsQlOPrYdMKVmS_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/OI7B4f50RGqc8WHNpc4L_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Jm6BDORUQlS1L4Hft8EQ_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2015 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recnJSRWIQMhZbQEs": {
+    "createdTime": "2018-10-18T00:27:34.000Z",
+    "id": "recnJSRWIQMhZbQEs",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attRml35A9fBVUlKN",
+        "url": "https://dl.airtable.com/ZtVXInoUTTOMdY53DcAO_18077195_2337094809848387_5913850620716608256_o.jpg",
+        "filename": "18077195_2337094809848387_5913850620716608256_o.jpg",
+        "size": 265638,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/hD9rkOuXRLKJQiHijUdY_small_18077195_2337094809848387_5913850620716608256_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/uTL6nHi7SXmLH6GH7GiX_large_18077195_2337094809848387_5913850620716608256_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/zsF18MPRUekENnrnizmI_full_18077195_2337094809848387_5913850620716608256_o.jpg",
+            "width": 1366,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFHTImw5G3ebb3P"
+    ],
+    "(You can't directly edit this column)": "Dan Ricciardelli, AFX Board Summer/Fall 2015 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recLJGgsdMILy5XOd": {
+    "createdTime": "2018-10-18T00:29:51.000Z",
+    "id": "recLJGgsdMILy5XOd",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attrqg97c7PbUIhHj",
+        "url": "https://dl.airtable.com/XZt6rrSNW5a7CPH2FSbg_13958198_1415176458497780_4655581795915536553_o.jpg",
+        "filename": "13958198_1415176458497780_4655581795915536553_o.jpg",
+        "size": 321302,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/IqfqxvydSDixiVRxhi9k_small_13958198_1415176458497780_4655581795915536553_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sV7yClSRgtnhMKyuefUw_large_13958198_1415176458497780_4655581795915536553_o.jpg",
+            "width": 512,
+            "height": 770
+          },
+          "full": {
+            "url": "https://dl.airtable.com/L2AP4dc6S8q6lPtjC99A_full_13958198_1415176458497780_4655581795915536553_o.jpg",
+            "width": 1362,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuE0zgh4gmxJVEO"
+    ],
+    "(You can't directly edit this column)": "Brandon Toy, AFX Board Summer/Fall 2015 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recXaCCAUDQHqukTy": {
+    "createdTime": "2018-10-18T00:30:31.000Z",
+    "id": "recXaCCAUDQHqukTy",
+    "group": [
+      "recBUiPZV1HCyrITE"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "attD30Wq00y71YR2o",
+        "url": "https://dl.airtable.com/vblSv9VARiuPvVVO65ar_14889742_10209513298642715_3823053715729303370_o.jpg",
+        "filename": "14889742_10209513298642715_3823053715729303370_o.jpg",
+        "size": 319782,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/MPCoZk1mSjaPf8E6cTfX_small_14889742_10209513298642715_3823053715729303370_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/xYDSlCnRSUqCLSD2ySry_large_14889742_10209513298642715_3823053715729303370_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/YMxJihWcSnKVviXO0QpG_full_14889742_10209513298642715_3823053715729303370_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recl0MAVB8URRERpr"
+    ],
+    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Board Summer/Fall 2015 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recpJ858d4kQB4EPr": {
+    "createdTime": "2018-10-17T22:49:15.000Z",
+    "id": "recpJ858d4kQB4EPr",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attduAfqhZ54PCiNU",
+        "url": "https://dl.airtable.com/dqqeE6e7SlS1KRHyy1WN_Ryan%20Ta%20-%20Exec.jpg",
+        "filename": "Ryan Ta - Exec.jpg",
+        "size": 404803,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/40WFAT9wRiq1BPqN4v9L_small_Ryan%20Ta%20-%20Exec.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Ju7gn1ftSUqYTvVCt9tu_large_Ryan%20Ta%20-%20Exec.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/bLPVpld5RLW1Z9YJCJzG_full_Ryan%20Ta%20-%20Exec.jpg",
+            "width": 681,
+            "height": 908
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLla3pij2rxqiUK"
+    ],
+    "(You can't directly edit this column)": "Ryan Ta, AFX Board Summer/Fall 2016 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recaKAVUiPS4axGXZ": {
+    "createdTime": "2018-10-17T22:50:57.000Z",
+    "id": "recaKAVUiPS4axGXZ",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Executive Director",
+    "picture": [
+      {
+        "id": "attb48eM2AjrfRhU3",
+        "url": "https://dl.airtable.com/ULZuYxL4RA2N1GRkDa6n_Wenhao%20Liao%20-%20Exec.jpg",
+        "filename": "Wenhao Liao - Exec.jpg",
+        "size": 294511,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1Y0AtsMHQmGI8M95B9Fg_small_Wenhao%20Liao%20-%20Exec.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/e12Q6ecUQHGOzTCzIT8s_large_Wenhao%20Liao%20-%20Exec.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/V9j7zBkRHarZ30gCwd5m_full_Wenhao%20Liao%20-%20Exec.jpg",
+            "width": 683,
+            "height": 683
+          }
+        }
+      }
+    ],
+    "person": [
+      "recb1hKgi5bRfTlH9"
+    ],
+    "(You can't directly edit this column)": "Wenhao Liao, AFX Board Summer/Fall 2016 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recSmcBMOj1lx3jUF": {
+    "createdTime": "2018-10-17T22:50:21.000Z",
+    "id": "recSmcBMOj1lx3jUF",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attuDRCrPbvXDPiwO",
+        "url": "https://dl.airtable.com/aH7mzpJcRHikgKW5xRCs_Susan%20Shen%20-%20Vice%20Exec.jpg",
+        "filename": "Susan Shen - Vice Exec.jpg",
+        "size": 428846,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Iev2o8j8QReMQRvKEL0C_small_Susan%20Shen%20-%20Vice%20Exec.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/qCVJxrGYSGqdgywI3Fib_large_Susan%20Shen%20-%20Vice%20Exec.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/bmPNwE2DRImchZN15Ee9_full_Susan%20Shen%20-%20Vice%20Exec.jpg",
+            "width": 1024,
+            "height": 768
+          }
+        }
+      }
+    ],
+    "person": [
+      "recgVaA2OjSYAR8oD"
+    ],
+    "(You can't directly edit this column)": "Susan Shen, AFX Board Summer/Fall 2016 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reccYYrL6cPXyeh6H": {
+    "createdTime": "2018-10-17T22:51:22.000Z",
+    "id": "reccYYrL6cPXyeh6H",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attkv47sEYeVFQcQa",
+        "url": "https://dl.airtable.com/vA7UHuMjTBiVUlhkS1kU_Winn%20Cui%20-%20Vice%20Exec.jpg",
+        "filename": "Winn Cui - Vice Exec.jpg",
+        "size": 164341,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/lpejwaGSjmA20gWtqzfA_small_Winn%20Cui%20-%20Vice%20Exec.jpg",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Zvmiz5TEQCCW9eG9qbM5_large_Winn%20Cui%20-%20Vice%20Exec.jpg",
+            "width": 640,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/NZ2p8HaVTS6Eh3vEnwzk_full_Winn%20Cui%20-%20Vice%20Exec.jpg",
+            "width": 854,
+            "height": 683
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccusci4MPy2I4i4"
+    ],
+    "(You can't directly edit this column)": "Winn Cui, AFX Board Summer/Fall 2016 Vice Executive",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rechneZNwlBVrMuBv": {
+    "createdTime": "2018-10-17T22:44:52.000Z",
+    "id": "rechneZNwlBVrMuBv",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att9aGhMxnHce7YUq",
+        "url": "https://dl.airtable.com/i0UyPBqSThaNWoQPGv5g_Kevin%20Pham%20-%20Evets.jpg",
+        "filename": "Kevin Pham - Evets.jpg",
+        "size": 407608,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/dnHoy0cRYq1lAwl2J6qA_small_Kevin%20Pham%20-%20Evets.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/p9fzWluNSS6oACzeRmx2_large_Kevin%20Pham%20-%20Evets.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/DoiPLlB5RVeJZAyWGTgJ_full_Kevin%20Pham%20-%20Evets.jpg",
+            "width": 750,
+            "height": 750
+          }
+        }
+      }
+    ],
+    "person": [
+      "recTyIipOm1vPBdpw"
+    ],
+    "(You can't directly edit this column)": "Kevin Pham, AFX Board Summer/Fall 2016 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recGkQe9WXhmJPUn2": {
+    "createdTime": "2018-10-17T22:44:52.000Z",
+    "id": "recGkQe9WXhmJPUn2",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attSSqjhVQlPWt2e2",
+        "url": "https://dl.airtable.com/jZHC9XTM2XM9JJ5ZPZlQ_Mei%20Mei%20-%20Events.jpg",
+        "filename": "Mei Mei - Events.jpg",
+        "size": 178174,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VRvYM5cQWKZbF3PWDXZQ_small_Mei%20Mei%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/pHDAqEpVR12fKyrvGXoS_large_Mei%20Mei%20-%20Events.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Yt6kAvcuRSu9p2wX2py1_full_Mei%20Mei%20-%20Events.jpg",
+            "width": 1341,
+            "height": 1340
+          }
+        }
+      }
+    ],
+    "person": [
+      "reci7k75SMLdI0Wjh"
+    ],
+    "(You can't directly edit this column)": "Mei Mei, AFX Board Summer/Fall 2016 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec16ckDJqJqxrZPg": {
+    "createdTime": "2018-10-17T22:48:55.000Z",
+    "id": "rec16ckDJqJqxrZPg",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "att3FMNdhioh8yINh",
+        "url": "https://dl.airtable.com/x5NcoOgYRcuxPkanKaXS_Patrick%20Lin%20-%20Events.jpg",
+        "filename": "Patrick Lin - Events.jpg",
+        "size": 250623,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/nkzND5bRBKEdqm0HEHRs_small_Patrick%20Lin%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/TREcKwGGQDu4xdPu2Llg_large_Patrick%20Lin%20-%20Events.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/RM0KnpRTXekTqYktiQD0_full_Patrick%20Lin%20-%20Events.jpg",
+            "width": 681,
+            "height": 681
+          }
+        }
+      }
+    ],
+    "person": [
+      "recen1WngPBkT2o36"
+    ],
+    "(You can't directly edit this column)": "Patrick Lin, AFX Board Summer/Fall 2016 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recNGBiCiOwgqKOtw": {
+    "createdTime": "2018-10-17T22:44:50.000Z",
+    "id": "recNGBiCiOwgqKOtw",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "att6ITWybIBBWhNDz",
+        "url": "https://dl.airtable.com/w1xQxOtTYOvEyorIEwRH_Ashmitha%20Thinagar%20-%20Finance.jpg",
+        "filename": "Ashmitha Thinagar - Finance.jpg",
+        "size": 125438,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RioftdZiQ0mGIiBHvF5M_small_Ashmitha%20Thinagar%20-%20Finance.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/fts0CzeZRxEz2UIGAUH0_large_Ashmitha%20Thinagar%20-%20Finance.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/BbHVg2PPQQC02GAhz94A_full_Ashmitha%20Thinagar%20-%20Finance.jpg",
+            "width": 1356,
+            "height": 1356
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1NK9KoDeRi9Pq9"
+    ],
+    "(You can't directly edit this column)": "Ashmitha Thinagar, AFX Board Summer/Fall 2016 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recWSwGnmjnUW7jWa": {
+    "createdTime": "2018-10-17T22:44:51.000Z",
+    "id": "recWSwGnmjnUW7jWa",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attUImKdmgvJaKf9J",
+        "url": "https://dl.airtable.com/1z8u5YFKSVqYnUECMxp1_George%20Wu%20-%20Finance.jpg",
+        "filename": "George Wu - Finance.jpg",
+        "size": 377583,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/R9ZhcupCTpWxVhwySp9P_small_George%20Wu%20-%20Finance.jpg",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/gnKih7ISTRmLec5oJyFm_large_George%20Wu%20-%20Finance.jpg",
+            "width": 640,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/TMYcIXHSqW7UQIYUCP7g_full_George%20Wu%20-%20Finance.jpg",
+            "width": 854,
+            "height": 683
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec14xvdLuoluctCH"
+    ],
+    "(You can't directly edit this column)": "George Wu, AFX Board Summer/Fall 2016 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec8aO9PIE26GJjlU": {
+    "createdTime": "2018-10-17T22:44:51.000Z",
+    "id": "rec8aO9PIE26GJjlU",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attdlt3L19ICU7wNd",
+        "url": "https://dl.airtable.com/TdSsCobBRfUwwb8V2iMt_Emily%20Liang%20-%20Finance.jpg",
+        "filename": "Emily Liang - Finance.jpg",
+        "size": 424306,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WfPxWwWCQBr7zU6qwa7B_small_Emily%20Liang%20-%20Finance.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/PaDpPsMZQmqblbiKqCbk_large_Emily%20Liang%20-%20Finance.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/03mUcHSHyXSK7AVFGwBQ_full_Emily%20Liang%20-%20Finance.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4DL1eippoez0bh"
+    ],
+    "(You can't directly edit this column)": "Emily Liang, AFX Board Summer/Fall 2016 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recgHxVPeQJD7UKwT": {
+    "createdTime": "2018-10-17T22:44:49.000Z",
+    "id": "recgHxVPeQJD7UKwT",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attwSFypOzE240DJ9",
+        "url": "https://dl.airtable.com/3SGVGd8ARIShQrE1ffrV_Alex%20Nguyen%20-%20Historian.jpg",
+        "filename": "Alex Nguyen - Historian.jpg",
+        "size": 5504490,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/nZS7RF1qTKmjRLQWX4h9_small_Alex%20Nguyen%20-%20Historian.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZutMyKTQaiQYWDC8ascY_large_Alex%20Nguyen%20-%20Historian.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/iriFcUiS0u9QuM6slWPW_full_Alex%20Nguyen%20-%20Historian.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      }
+    ],
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Board Summer/Fall 2016 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvYMH4qGUQzU6fU": {
+    "createdTime": "2018-10-17T22:44:52.000Z",
+    "id": "recvYMH4qGUQzU6fU",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attiOLXo6XmdgSYPc",
+        "url": "https://dl.airtable.com/2eRf6s6qSFu4nWbANo3y_Kim%20Ambrocio%20-%20Historian.jpg",
+        "filename": "Kim Ambrocio - Historian.jpg",
+        "size": 114946,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Tt55q9XS0yqNHdq3w6ZI_small_Kim%20Ambrocio%20-%20Historian.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/uOdIjb2QjuCE3JBXD2yn_large_Kim%20Ambrocio%20-%20Historian.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/22JiBlxSnijxgAAOhciY_full_Kim%20Ambrocio%20-%20Historian.jpg",
+            "width": 683,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "person": [
+      "recewlyjxE33ebDly"
+    ],
+    "(You can't directly edit this column)": "Kim Ambrocio, AFX Board Summer/Fall 2016 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recBWKJ7nZnK49IUI": {
+    "createdTime": "2018-10-17T22:50:40.000Z",
+    "id": "recBWKJ7nZnK49IUI",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "att1lzxi4tsU1O4Dq",
+        "url": "https://dl.airtable.com/QXw7j6blSpeShhcvGIyl_Tan%20Vu%20-%20Historian.jpg",
+        "filename": "Tan Vu - Historian.jpg",
+        "size": 69202,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/DZjhMiKmSE2aFxDA1o7Q_small_Tan%20Vu%20-%20Historian.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/KQKq03pER26p9z3A142o_large_Tan%20Vu%20-%20Historian.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/PB3Mm5HSAWAQO7995Wdk_full_Tan%20Vu%20-%20Historian.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recDPvhPtHzXb8D5w"
+    ],
+    "(You can't directly edit this column)": "Tan Vu, AFX Board Summer/Fall 2016 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recTLInL69e8UmYh7": {
+    "createdTime": "2018-10-17T22:44:50.000Z",
+    "id": "recTLInL69e8UmYh7",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "att48EPmZGYU9PzWL",
+        "url": "https://dl.airtable.com/bVbrLecrQe2OWWFQXq8i_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+        "filename": "Chelsea Zhang - PR Marketing.jpg",
+        "size": 542968,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/X0VMbqmhSOad833mVYWR_small_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/xOrAWEP9TUCiqT90ncmE_large_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/sx7iQoxcQVybyKPw30Em_full_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
+            "width": 768,
+            "height": 768
+          }
+        }
+      }
+    ],
+    "person": [
+      "recrAtRib7HBEcJB9"
+    ],
+    "(You can't directly edit this column)": "Chelsea Zhang, AFX Board Summer/Fall 2016 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recAuBgjfYB2N5lD4": {
+    "createdTime": "2018-10-17T22:48:35.000Z",
+    "id": "recAuBgjfYB2N5lD4",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attleKx81Q7DBDq6K",
+        "url": "https://dl.airtable.com/Nduxp5hFS7W257Wa4TLF_Nancy%20Yang%20-%20PR%20Marketing.jpg",
+        "filename": "Nancy Yang - PR Marketing.jpg",
+        "size": 150571,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/PHSro7raQ9a7VA3xaIwe_small_Nancy%20Yang%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Oh7YLLKQTC5UKXnpZ9Tp_large_Nancy%20Yang%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/SjEwmRoVSUWTz74LQXMS_full_Nancy%20Yang%20-%20PR%20Marketing.jpg",
+            "width": 957,
+            "height": 959
+          }
+        }
+      }
+    ],
+    "person": [
+      "recH8tvzTKdL29gBU"
+    ],
+    "(You can't directly edit this column)": "Nancy Yang, AFX Board Summer/Fall 2016 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec2GqsZxdnvsmOMW": {
+    "createdTime": "2018-10-17T22:49:57.000Z",
+    "id": "rec2GqsZxdnvsmOMW",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "PR Marketing",
+    "picture": [
+      {
+        "id": "attILVV5mwLCc4b2x",
+        "url": "https://dl.airtable.com/PFjyBFVaSKSTfUPbEQ24_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
+        "filename": "Stephanie Kim - PR Marketing.jpg",
+        "size": 32363,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WjYZd59ISPS5kJV15uOz_small_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/DOlv5xFThm2Me1QfJtau_large_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9dthHLKkQHiGJ44ofcN3_full_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recdfUETv4veF8fUU"
+    ],
+    "(You can't directly edit this column)": "Stephanie Kim, AFX Board Summer/Fall 2016 PR Marketing",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec9JZQjQwYloJops": {
+    "createdTime": "2018-10-17T22:49:35.000Z",
+    "id": "rec9JZQjQwYloJops",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "PR Design",
+    "picture": [
+      {
+        "id": "attaqGBMcRzUJFHPd",
+        "url": "https://dl.airtable.com/ZqfQfzUOTCuW2vKA8oMQ_Shirley%20Li%20-%20PR%20Design.jpg",
+        "filename": "Shirley Li - PR Design.jpg",
+        "size": 139073,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/TA4Eas7bSiWwbyNhMMvf_small_Shirley%20Li%20-%20PR%20Design.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/crAjIuBvSSCZ6L4VxlZ4_large_Shirley%20Li%20-%20PR%20Design.jpg",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6aMSI2xtScqOf7UcXKoA_full_Shirley%20Li%20-%20PR%20Design.jpg",
+            "width": 959,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recLibXAEVugrELPu"
+    ],
+    "(You can't directly edit this column)": "Shirley Li, AFX Board Summer/Fall 2016 PR Design",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec244XFvK8gGouDq": {
+    "createdTime": "2018-10-17T22:44:51.000Z",
+    "id": "rec244XFvK8gGouDq",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attUHxjcgxSC4LUfp",
+        "url": "https://dl.airtable.com/7RjraW2iQtSmHm5dsiKt_Gabrielle%20Balanon%20-%20Outreach.jpg",
+        "filename": "Gabrielle Balanon - Outreach.jpg",
+        "size": 321036,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wtS8AupETpGVp7eJ3DFz_small_Gabrielle%20Balanon%20-%20Outreach.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/wohB8cdsT6Ac1AerhhhG_large_Gabrielle%20Balanon%20-%20Outreach.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3tpATZoQdGlYZNiLyV8A_full_Gabrielle%20Balanon%20-%20Outreach.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "recJMNzslDXmQM7iZ"
+    ],
+    "(You can't directly edit this column)": "Gabrielle Balanon, AFX Board Summer/Fall 2016 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recZomHaoY9DQQBpn": {
+    "createdTime": "2018-10-17T22:44:51.000Z",
+    "id": "recZomHaoY9DQQBpn",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Outreach Chair",
+    "picture": [
+      {
+        "id": "attTmfxmwFn0MgEKP",
+        "url": "https://dl.airtable.com/vVtsweygR1ALWCv3SZgW_Jinnie%20Rhee%20-%20Outreach.png",
+        "filename": "Jinnie Rhee - Outreach.png",
+        "size": 1034518,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/iMEAeHatToGcoZcfYN6V_small_Jinnie%20Rhee%20-%20Outreach.png",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hrHJveObSz6u1ezGDERP_large_Jinnie%20Rhee%20-%20Outreach.png",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/UHR2eQoMSziNXUIFbJ67_full_Jinnie%20Rhee%20-%20Outreach.png",
+            "width": 803,
+            "height": 803
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnnv2dbvHIZ2dGJ"
+    ],
+    "(You can't directly edit this column)": "Jinnie Rhee, AFX Board Summer/Fall 2016 Outreach Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recPvx31lUvOTMzWI": {
+    "createdTime": "2018-10-18T00:34:37.000Z",
+    "id": "recPvx31lUvOTMzWI",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "att6kwBVYwyzYZEmo",
+        "url": "https://dl.airtable.com/j6FJjuRCOt3jfC20Y5YQ_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+        "filename": "Trisha Giron, Comp Board - Artistic Director, Fall 2017.jpg",
+        "size": 282908,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Q8nxP5hDQGCZXWv6UQcA_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/FPVeGi0qRrmmMUfHa1Ji_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ltpj4Z4gRkKbppEshONl_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 1367,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recNxGjKy27HT3XML"
+    ],
+    "(You can't directly edit this column)": "Trisha Giron, AFX Board Summer/Fall 2016 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recA29CYm8ous5YmT": {
+    "createdTime": "2018-10-18T00:34:57.000Z",
+    "id": "recA29CYm8ous5YmT",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "att3i4odHrxqFcIzS",
+        "url": "https://dl.airtable.com/Ba45fjTAR5egFzqc5KkU_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+        "filename": "Emilio Cuartero, Comp Board - Artistic Director, Fall 2017.jpg",
+        "size": 283296,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RBM0E0AWSEaSQc7jSLZM_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/79cpUmx2Qd6xZrBphhQF_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Xm69ZOtcSOqzBoBhyMLk_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recn9QkB6vln1iqIG"
+    ],
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2016 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recoz3ryR7fQCDoUq": {
+    "createdTime": "2018-10-18T00:35:43.000Z",
+    "id": "recoz3ryR7fQCDoUq",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Artistics ",
+    "picture": [
+      {
+        "id": "attW4uBTGp04v5ZjY",
+        "url": "https://dl.airtable.com/UB5Ov6G5RLCPnRUOSww9_15078583_1460326757318358_9120757854760246645_n.jpg",
+        "filename": "15078583_1460326757318358_9120757854760246645_n.jpg",
+        "size": 53497,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/7qESZykiT66hN21fqz0h_small_15078583_1460326757318358_9120757854760246645_n.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/rDbWer1cR8WsdDYhHt7R_large_15078583_1460326757318358_9120757854760246645_n.jpg",
+            "width": 513,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/GRmQvUkR6qv7c1M8akd5_full_15078583_1460326757318358_9120757854760246645_n.jpg",
+            "width": 755,
+            "height": 754
+          }
+        }
+      }
+    ],
+    "person": [
+      "recD6ol6FmNngbj9C"
+    ],
+    "(You can't directly edit this column)": "Katrina Oshima, AFX Board Summer/Fall 2016 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec7zqZoqYTawHa25": {
+    "createdTime": "2018-10-18T00:47:30.000Z",
+    "id": "rec7zqZoqYTawHa25",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Artistic Advisor",
+    "picture": [
+      {
+        "id": "attGvwNZkt21VlogX",
+        "url": "https://dl.airtable.com/6wla3AR6BtDlaoBNIXAx_17814415_10211819306979056_3288899545693974485_o.jpg",
+        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
+        "size": 190509,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Y9FtrteHQdKIoUw9m9lQ_small_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/CfbN4kfZRAW5njxRmpJs_large_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/dWNYXZrCQBue8XQevVdw_full_17814415_10211819306979056_3288899545693974485_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2016 Comp Artistic Advisor",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reculGDwitMiaaY6N": {
+    "createdTime": "2018-10-18T00:33:03.000Z",
+    "id": "reculGDwitMiaaY6N",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "att78iCO9T6iUUYux",
+        "url": "https://dl.airtable.com/6OAo5cmPRma97dHPcPy5_39750210_2014411958610140_8256809060142153728_o.jpg",
+        "filename": "39750210_2014411958610140_8256809060142153728_o.jpg",
+        "size": 170196,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Iw0kcSMARVOd1DGWH4AN_small_39750210_2014411958610140_8256809060142153728_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/rHzGbCrRvio4x0Qt1EiP_large_39750210_2014411958610140_8256809060142153728_o.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/S6MCnoWMStzMU9lCI1A3_full_39750210_2014411958610140_8256809060142153728_o.jpg",
+            "width": 890,
+            "height": 1334
+          }
+        }
+      }
+    ],
+    "person": [
+      "recPocv0xCXtbE2zX"
+    ],
+    "(You can't directly edit this column)": "Alina Lee, AFX Board Summer/Fall 2016 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "rec71FUZBo7jrpSqJ": {
+    "createdTime": "2018-10-18T00:33:44.000Z",
+    "id": "rec71FUZBo7jrpSqJ",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attAkT0X2iJRIRHkP",
+        "url": "https://dl.airtable.com/Eko3jPhQWal31krHpPhQ_21318943_10204116331145875_2003800272378693642_o.jpg",
+        "filename": "21318943_10204116331145875_2003800272378693642_o.jpg",
+        "size": 497757,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VjfUdhDRqmhlM2bBkQ5H_small_21318943_10204116331145875_2003800272378693642_o.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/NmyGDpDsS6y8o3zwfbt4_large_21318943_10204116331145875_2003800272378693642_o.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/NQuHrcfnT8iqVUxdH6Qr_full_21318943_10204116331145875_2003800272378693642_o.jpg",
+            "width": 2048,
+            "height": 1536
+          }
+        }
+      }
+    ],
+    "person": [
+      "recHftRqWaKYQyKDb"
+    ],
+    "(You can't directly edit this column)": "Yanni Velasquez, AFX Board Summer/Fall 2016 Comp Captain",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recQafxPMYHX8f1ON": {
+    "createdTime": "2018-10-18T00:32:57.000Z",
+    "id": "recQafxPMYHX8f1ON",
+    "group": [
+      "reck4OThY5wJJLrfc"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "att7KUw591vC4lEXp",
+        "url": "https://dl.airtable.com/QTnvItWQSJemMt97H5Yv_14047340_10210380135730693_3095454426301111570_o.jpg",
+        "filename": "14047340_10210380135730693_3095454426301111570_o.jpg",
+        "size": 272262,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/iDTKDhUTEymYsYvZBO5a_small_14047340_10210380135730693_3095454426301111570_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/UaZKCGCDTgmC7Pib2xkK_large_14047340_10210380135730693_3095454426301111570_o.jpg",
+            "width": 512,
+            "height": 770
+          },
+          "full": {
+            "url": "https://dl.airtable.com/zOKvn0FyQwCrPLXE8PPp_full_14047340_10210380135730693_3095454426301111570_o.jpg",
+            "width": 1362,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recxwGyHwoJImSoPP"
+    ],
+    "(You can't directly edit this column)": "Cari Gan, AFX Board Summer/Fall 2016 Comp Finance",
+    "groupType": [
+      "board"
+    ]
+  },
   "recDnBRrmDOgpil2Z": {
     "createdTime": "2018-09-28T02:27:24.000Z",
     "id": "recDnBRrmDOgpil2Z",
@@ -6554,47 +15261,6 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "recIZvsIUY7Lf3WCZ": {
-    "createdTime": "2018-09-28T02:31:20.000Z",
-    "id": "recIZvsIUY7Lf3WCZ",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attnwZIYHM5m7K9p7",
-        "url": "https://dl.airtable.com/oCj70uE9SBmge1VkgJ4z_kirk.jpg",
-        "filename": "kirk.jpg",
-        "size": 217842,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ihUvCoQcQ32coLBi3VsV_small_kirk.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/74kcM03DRjfbv6vEkN7P_large_kirk.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/lfTPfPPRh23RT58JUzdg_full_kirk.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4UfhaS3ZcsKOfU"
-    ],
-    "(You can't directly edit this column)": "Kirk La, AFX Board Summer/Fall 2017 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
   "recHuonEXK26KidcQ": {
     "createdTime": "2018-09-29T19:04:52.000Z",
     "id": "recHuonEXK26KidcQ",
@@ -6632,6 +15298,47 @@ export let PersonPositions = {
       "reci7k75SMLdI0Wjh"
     ],
     "(You can't directly edit this column)": "Mei Mei, AFX Board Summer/Fall 2017 Executive Director",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recIZvsIUY7Lf3WCZ": {
+    "createdTime": "2018-09-28T02:31:20.000Z",
+    "id": "recIZvsIUY7Lf3WCZ",
+    "group": [
+      "recV60tDu2ac60oV5"
+    ],
+    "positionTitle": "Vice Executive",
+    "picture": [
+      {
+        "id": "attnwZIYHM5m7K9p7",
+        "url": "https://dl.airtable.com/oCj70uE9SBmge1VkgJ4z_kirk.jpg",
+        "filename": "kirk.jpg",
+        "size": 217842,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ihUvCoQcQ32coLBi3VsV_small_kirk.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/74kcM03DRjfbv6vEkN7P_large_kirk.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/lfTPfPPRh23RT58JUzdg_full_kirk.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4UfhaS3ZcsKOfU"
+    ],
+    "(You can't directly edit this column)": "Kirk La, AFX Board Summer/Fall 2017 Vice Executive",
     "groupType": [
       "board"
     ]
@@ -6923,4888 +15630,35 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "recc9EiCmYyLyzfT0": {
-    "createdTime": "2018-10-04T02:47:30.000Z",
-    "id": "recc9EiCmYyLyzfT0",
+  "recOpta8sOgUHtIAv": {
+    "createdTime": "2018-10-17T23:37:47.000Z",
+    "id": "recOpta8sOgUHtIAv",
     "group": [
-      "recAlXOGF37p5Qrtk"
+      "recV60tDu2ac60oV5"
     ],
-    "positionTitle": "Committee Lead",
+    "positionTitle": "Historian",
     "picture": [
       {
-        "id": "attUbCuqI2AbYhf1h",
-        "url": "https://dl.airtable.com/BECpTCkgTSyeH81ecth2_39939369_2099407156756501_5536017118589353984_o.jpg",
-        "filename": "39939369_2099407156756501_5536017118589353984_o.jpg",
-        "size": 654455,
+        "id": "attW8LFTYxpHfaOxp",
+        "url": "https://dl.airtable.com/OTycUsRSAKZcjXiOaKMe_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
+        "filename": "Charmaine Lai, Board - Historian, Fall 2017.jpg",
+        "size": 173238,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/rouakvsDSK6qymk0K8io_small_39939369_2099407156756501_5536017118589353984_o.jpg",
+            "url": "https://dl.airtable.com/ssCIoUN6SGSimNVHrHwg_small_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/a21ovRoHQp8TchdSRmin_large_39939369_2099407156756501_5536017118589353984_o.jpg",
+            "url": "https://dl.airtable.com/Lt257EC8QgO9vZUHBXeB_large_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
             "width": 512,
             "height": 768
           },
           "full": {
-            "url": "https://dl.airtable.com/3Nhj0IhPSEGyhDJgmOKx_full_39939369_2099407156756501_5536017118589353984_o.jpg",
-            "width": 1365,
+            "url": "https://dl.airtable.com/AarXv7DkTeTpiyZUtdgR_full_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
+            "width": 1366,
             "height": 2048
-          }
-        }
-      }
-    ],
-    "(You can't directly edit this column)": "Sean Zhu, AFX Tech Fall 2018 Committee Lead",
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recxAxAFK4ULZWdyr"
-    ]
-  },
-  "recjT5aFHb5TsnMbd": {
-    "createdTime": "2018-10-04T02:48:05.000Z",
-    "id": "recjT5aFHb5TsnMbd",
-    "group": [
-      "recAlXOGF37p5Qrtk"
-    ],
-    "positionTitle": "Project Lead",
-    "picture": [
-      {
-        "id": "attknr8vuv9XPKOM1",
-        "url": "https://dl.airtable.com/U3f3r4hQPGCDvgCpW6yQ_RICHARD%20WU.jpg",
-        "filename": "RICHARD WU.jpg",
-        "size": 363222,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/uRLIe9mYQGS3oZVDjB5e_small_RICHARD%20WU.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/wyPWVRl4RMmHTXKHKNQ2_large_RICHARD%20WU.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/awCmqyRhTQiG1YOn1rz4_full_RICHARD%20WU.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec8Bd60VEzSli6cO"
-    ],
-    "(You can't directly edit this column)": "Richard Wu, AFX Tech Fall 2018 Project Lead",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reccrJOnJTsEoi3Ec": {
-    "createdTime": "2018-10-04T02:48:26.000Z",
-    "id": "reccrJOnJTsEoi3Ec",
-    "group": [
-      "recAlXOGF37p5Qrtk"
-    ],
-    "positionTitle": "Project Lead",
-    "picture": [
-      {
-        "id": "att7Pp3tIGNdRUkyE",
-        "url": "https://dl.airtable.com/lLCC4bDESkeEhuNNbQq2_CLARA%20PARK.jpg",
-        "filename": "CLARA PARK.jpg",
-        "size": 226473,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RkDMP3oxRcOFpdfvQ589_small_CLARA%20PARK.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/GCYyPi8XR0ecabcNgdt8_large_CLARA%20PARK.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/sIHN9zWrTkCS727DcY9f_full_CLARA%20PARK.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "recsIrG39H7oCENrA"
-    ],
-    "(You can't directly edit this column)": "Clara Park, AFX Tech Fall 2018 Project Lead",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recNEQCDVauvqQrk5": {
-    "createdTime": "2018-10-17T22:04:44.000Z",
-    "id": "recNEQCDVauvqQrk5",
-    "group": [
-      "recs2aRRotZKq6Lvm"
-    ],
-    "positionTitle": "Founder",
-    "picture": [
-      {
-        "id": "att0p5qbSHYf4qC3C",
-        "url": "https://dl.airtable.com/RfleS3BaRLeBxtIk91QK_13707611_10153301118629649_6258158905072127817_n.jpg",
-        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
-        "size": 44295,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/rbjwm0wKS4yYQduTuu2E_small_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zk3BicvTVOeZ6QzAcCyu_large_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/UDHI3hrLRLW6cIn2FVUW_full_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
-    "(You can't directly edit this column)": "Ping Quach, AFX Founders 2011-2012 Founder",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recgbIu7VI553Sybn": {
-    "createdTime": "2018-10-17T22:05:14.000Z",
-    "id": "recgbIu7VI553Sybn",
-    "group": [
-      "recs2aRRotZKq6Lvm"
-    ],
-    "positionTitle": "Founder",
-    "picture": [
-      {
-        "id": "atteNHv5hkz5leXY2",
-        "url": "https://dl.airtable.com/9fOFK6GaS14Eqa0GH0ku_13051780_10153967787361508_3966323251194751461_n.jpg",
-        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
-        "size": 180846,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/9uA5VVvzTUS30QQAL4lp_small_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/bRpZ8HRaRC258egixmpK_large_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 514,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/iozfAQkVQeuJGJa169c5_full_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 960,
-            "height": 957
-          }
-        }
-      }
-    ],
-    "person": [
-      "recI4tz7ioKyk9TK0"
-    ],
-    "(You can't directly edit this column)": "Geoffrey Chen, AFX Founders 2011-2012 Founder",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recyjjB0B4LTiqJLS": {
-    "createdTime": "2018-10-17T22:06:58.000Z",
-    "id": "recyjjB0B4LTiqJLS",
-    "group": [
-      "recs2aRRotZKq6Lvm"
-    ],
-    "positionTitle": "Founder",
-    "picture": [
-      {
-        "id": "attvH0Okhvo2uOrv1",
-        "url": "https://dl.airtable.com/7rHz5asVRxGAuu4KpyMx_23270536_10212447883406227_9024706850829743905_o.jpg",
-        "filename": "23270536_10212447883406227_9024706850829743905_o.jpg",
-        "size": 170526,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/VSHH6D8oRMmsnAaWUU9N_small_23270536_10212447883406227_9024706850829743905_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zp8oC61OSGmNW2B73Kkt_large_23270536_10212447883406227_9024706850829743905_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/kiCDw4SLmC9F5hPimLdA_full_23270536_10212447883406227_9024706850829743905_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn3dcDlodxrX69h"
-    ],
-    "(You can't directly edit this column)": "Rosemary Hua, AFX Founders 2011-2012 Founder",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec5EJMij7f7KaN2X": {
-    "createdTime": "2018-10-17T22:07:32.000Z",
-    "id": "rec5EJMij7f7KaN2X",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attORwiKJCQxf2yf0",
-        "url": "https://dl.airtable.com/OUNWGhSvaFXuYqwPloOQ_22049906_10155361653778113_6833126577707796435_n.jpg",
-        "filename": "22049906_10155361653778113_6833126577707796435_n.jpg",
-        "size": 16789,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/qFWyDcXTh6IGe8Sl3CCQ_small_22049906_10155361653778113_6833126577707796435_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/yTvKyvBhSXuF0Y1yFa5g_large_22049906_10155361653778113_6833126577707796435_n.jpg",
-            "width": 420,
-            "height": 420
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Lawh0nqKSMKVcArxwhyM_full_22049906_10155361653778113_6833126577707796435_n.jpg",
-            "width": 420,
-            "height": 420
-          }
-        }
-      }
-    ],
-    "(You can't directly edit this column)": "Shawn Han, AFX Board Spring 2013 Comp Captain",
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "reciBJu4qsJ1a1S0u"
-    ]
-  },
-  "recsZh1l7cUmPLqPW": {
-    "createdTime": "2018-10-17T22:07:54.000Z",
-    "id": "recsZh1l7cUmPLqPW",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attUxO01058lkkeNK",
-        "url": "https://dl.airtable.com/GbeGDqeLSW6wDLEV3ipO_Ada%20Ng%20-%20Events.jpg",
-        "filename": "Ada Ng - Events.jpg",
-        "size": 260772,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/9IrRatwRge9nADQrD2FA_small_Ada%20Ng%20-%20Events.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/rFB1Q42FQ7iyNi1VwNU6_large_Ada%20Ng%20-%20Events.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WSRXybXOTb6T4L5eeFgr_full_Ada%20Ng%20-%20Events.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec54iAVFwg1HwrW1"
-    ],
-    "(You can't directly edit this column)": "Ada Ng, AFX Board Summer/Fall 2014 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec9arrsO6ltYsTa9": {
-    "createdTime": "2018-10-17T22:10:24.000Z",
-    "id": "rec9arrsO6ltYsTa9",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attDnpakq41Ylm8Js",
-        "url": "https://dl.airtable.com/7Y8dpwnMRYGzk8gRsXVJ_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-        "filename": "Alyssa Alvarez - PR Design.jpg",
-        "size": 56398,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1Ag8jSEMQsqi6pVqhtxj_small_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/kvIO83kTKSapwwY722Qw_large_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-            "width": 772,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/LwleMSzMQPGEwUSlKKIy_full_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-            "width": 960,
-            "height": 637
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVe7qtpA0igWgdl"
-    ],
-    "(You can't directly edit this column)": "Alyssa Alvarez, AFX Board Summer/Fall 2014 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWyPZFROrnMhz6W": {
-    "createdTime": "2018-10-17T22:12:55.000Z",
-    "id": "recWyPZFROrnMhz6W",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attCBP8u7wajzQG7h",
-        "url": "https://dl.airtable.com/eYVpQWfvTpm1XwjMfVoV_Andrew%20Lee%20-%20Exec.jpg",
-        "filename": "Andrew Lee - Exec.jpg",
-        "size": 43485,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Jv6sMMHmTYWYfGjMlmy1_small_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/sRIw113UQtO3StEW3euO_large_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 772,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/JsvtER9xQVaBQJSWXy2V_full_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 960,
-            "height": 637
-          }
-        }
-      }
-    ],
-    "person": [
-      "recBPtE9xYnXjdgb4"
-    ],
-    "(You can't directly edit this column)": "Andrew Lee, AFX Board Summer/Fall 2014 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recdcLCumD1Q3KkNn": {
-    "createdTime": "2018-10-17T22:13:32.000Z",
-    "id": "recdcLCumD1Q3KkNn",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attmeDrBCbg0btZpq",
-        "url": "https://dl.airtable.com/F4lR8j0Ty6f7tIP3sHQd_Chris%20Kim%20-%20Historian.jpg",
-        "filename": "Chris Kim - Historian.jpg",
-        "size": 1031392,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/aA3r0YM5Q1mUWdAXN8Eb_small_Chris%20Kim%20-%20Historian.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/hExO5US4RmibcXAXF5ME_large_Chris%20Kim%20-%20Historian.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/O4yWDo1RNS0oxcacEB9Q_full_Chris%20Kim%20-%20Historian.jpg",
-            "width": 3000,
-            "height": 2000
-          }
-        }
-      }
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "(You can't directly edit this column)": "Chris Kim, AFX Board Summer/Fall 2014 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recitXxPLG94ld8ct": {
-    "createdTime": "2018-10-17T22:13:39.000Z",
-    "id": "recitXxPLG94ld8ct",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "atts8JJu3tPk7CDv3",
-        "url": "https://dl.airtable.com/se8zOiorRKW73O6GFIW9_36750437_2060075507338507_5789646413570768896_o.jpg",
-        "filename": "36750437_2060075507338507_5789646413570768896_o.jpg",
-        "size": 135206,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/kusAtRaaRiaKQYS9ecPh_small_36750437_2060075507338507_5789646413570768896_o.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/sOgLbFtQxu3pYjBpk7UT_large_36750437_2060075507338507_5789646413570768896_o.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/udKOiNzRQ1a90LfmfzfJ_full_36750437_2060075507338507_5789646413570768896_o.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4wvItkd0rSu1w8"
-    ],
-    "(You can't directly edit this column)": "James Arias, AFX Board Spring 2013 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec1KRcNkLaFDWaly": {
-    "createdTime": "2018-10-17T22:14:28.000Z",
-    "id": "rec1KRcNkLaFDWaly",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attKWjntOeJ6IkuAn",
-        "url": "https://dl.airtable.com/2edpSkoLStieck08qSyT_13707611_10153301118629649_6258158905072127817_n.jpg",
-        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
-        "size": 44295,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/vLhcGR4QYezwUs4WQaD8_small_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/IkUssmXwTCuYCzEKWr1W_large_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/7IdRw2viSSur3tcumnDN_full_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
-    "(You can't directly edit this column)": "Ping Quach, AFX Board Spring 2013 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recTAdsbclNgXbvey": {
-    "createdTime": "2018-10-17T22:14:28.000Z",
-    "id": "recTAdsbclNgXbvey",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "att8FBsoblneJq7lp",
-        "url": "https://dl.airtable.com/r1ypwcdNQ4u4gVvaoltU_13707611_10153301118629649_6258158905072127817_n.jpg",
-        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
-        "size": 44295,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/0BOmASbRd6V1xDoZNvIA_small_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/eWEkO9ZqSgmK4j4DcaZv_large_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/07DatUwRYCTO8y6K8Rcb_full_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
-    "(You can't directly edit this column)": "Ping Quach, AFX Board Spring 2013 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec3kK4A9qdmQXQdH": {
-    "createdTime": "2018-10-17T22:14:31.000Z",
-    "id": "rec3kK4A9qdmQXQdH",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attiK5hc31HSOFFPv",
-        "url": "https://dl.airtable.com/KJlJcQY2NGQWO0N8WMQa_13051780_10153967787361508_3966323251194751461_n.jpg",
-        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
-        "size": 180846,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1er9SGXSsKTLqhvvOyFg_small_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/HRYxA6sRSSBRSWCgc26b_large_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 514,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/9eZG6wVBQFqNxwSuPelf_full_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 960,
-            "height": 957
-          }
-        }
-      }
-    ],
-    "person": [
-      "recI4tz7ioKyk9TK0"
-    ],
-    "(You can't directly edit this column)": "Geoffrey Chen, AFX Board Spring 2013 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recU54lLZqUz4LmbK": {
-    "createdTime": "2018-10-17T22:14:33.000Z",
-    "id": "recU54lLZqUz4LmbK",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attvH1BR1lf6yAwdu",
-        "url": "https://dl.airtable.com/faFzctCQRYW1eeyPzabR_13051780_10153967787361508_3966323251194751461_n.jpg",
-        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
-        "size": 180846,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/zBBkOZwAScu715YlOrUo_small_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Wavr8VsbRNGGN6LfEaO3_large_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 514,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/mctZ6HvYQ5AlVNiBB4gB_full_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 960,
-            "height": 957
-          }
-        }
-      }
-    ],
-    "person": [
-      "recI4tz7ioKyk9TK0"
-    ],
-    "(You can't directly edit this column)": "Geoffrey Chen, AFX Board Spring 2013 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWqs23aXzwyEOyh": {
-    "createdTime": "2018-10-17T22:14:33.000Z",
-    "id": "recWqs23aXzwyEOyh",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Communications",
-    "picture": [
-      {
-        "id": "attLcoDHitK8eLPFQ",
-        "url": "https://dl.airtable.com/SU9nAj0LQFC1HkCd4qdd_18922463_10210522522152194_4209326782606585402_o.jpg",
-        "filename": "18922463_10210522522152194_4209326782606585402_o.jpg",
-        "size": 75016,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/hdP2Gp8DQVialHlu2o0m_small_18922463_10210522522152194_4209326782606585402_o.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/gn031mb4RmWwuzUDg2GQ_large_18922463_10210522522152194_4209326782606585402_o.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/0VRKOiMwTLKQuzsQqWXJ_full_18922463_10210522522152194_4209326782606585402_o.jpg",
-            "width": 1440,
-            "height": 1440
-          }
-        }
-      }
-    ],
-    "person": [
-      "recSpdnuAOuF5svEh"
-    ],
-    "(You can't directly edit this column)": "Gordon Lai, AFX Board Spring 2013 Communications",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recBg9E1RVPt9HKfe": {
-    "createdTime": "2018-10-17T22:14:35.000Z",
-    "id": "recBg9E1RVPt9HKfe",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Public Relations",
-    "picture": [
-      {
-        "id": "attZvAoKueVv3L6Ik",
-        "url": "https://dl.airtable.com/1VuQJq4DSUuA4VkIF8bX_11703292_10152817179557924_8152791156677549647_n.jpg",
-        "filename": "11703292_10152817179557924_8152791156677549647_n.jpg",
-        "size": 42107,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/xAug1A1IQLKtcnnX06MR_small_11703292_10152817179557924_8152791156677549647_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/4ua5Nz4vRO7sgoK1TGHT_large_11703292_10152817179557924_8152791156677549647_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WaSvtbEtSwqAYSQwC2Gy_full_11703292_10152817179557924_8152791156677549647_n.jpg",
-            "width": 720,
-            "height": 720
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec0osRffYVXkinft"
-    ],
-    "(You can't directly edit this column)": "Carol Yu, AFX Board Spring 2013 Public Relations",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recnOfQihz89RL3zI": {
-    "createdTime": "2018-10-17T22:25:04.000Z",
-    "id": "recnOfQihz89RL3zI",
-    "group": [
-      "reclDFFQA8U6TkNNU"
-    ],
-    "positionTitle": "Public Relations",
-    "picture": [
-      {
-        "id": "attguUyaBfMFIqTT2",
-        "url": "https://dl.airtable.com/F56JujQT9uRIWYhyY8Qg_11885009_10207394596813288_3614778451375522020_o.jpg",
-        "filename": "11885009_10207394596813288_3614778451375522020_o.jpg",
-        "size": 536106,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/JPhJKyDQRP2FiUH6PDXP_small_11885009_10207394596813288_3614778451375522020_o.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/CWaYVsN3Q4Zrloq8jmmR_large_11885009_10207394596813288_3614778451375522020_o.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/U3tbDVdwQFGdaXSyD6zj_full_11885009_10207394596813288_3614778451375522020_o.jpg",
-            "width": 2006,
-            "height": 2006
-          }
-        }
-      }
-    ],
-    "person": [
-      "recrROhFCZ4KFxjAW"
-    ],
-    "(You can't directly edit this column)": "Cathy Yang, AFX Board Spring 2013 Public Relations",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recOZGvfMNPABr1FI": {
-    "createdTime": "2018-10-17T22:25:56.000Z",
-    "id": "recOZGvfMNPABr1FI",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "att0qzb9ELbJcGkvS",
-        "url": "https://dl.airtable.com/0fq4K81nQJ29zijOIvL8_18922463_10210522522152194_4209326782606585402_o.jpg",
-        "filename": "18922463_10210522522152194_4209326782606585402_o.jpg",
-        "size": 75016,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/BqvG86mkRgqMS563fuo6_small_18922463_10210522522152194_4209326782606585402_o.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/GT2LCDnIRWGNu5nL6qLz_large_18922463_10210522522152194_4209326782606585402_o.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/RGDjjtqoQWp6qY2k2bwx_full_18922463_10210522522152194_4209326782606585402_o.jpg",
-            "width": 1440,
-            "height": 1440
-          }
-        }
-      }
-    ],
-    "person": [
-      "recSpdnuAOuF5svEh"
-    ],
-    "(You can't directly edit this column)": "Gordon Lai, AFX Board Summer/Fall 2013 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recxlFvvUfFDj8Hyj": {
-    "createdTime": "2018-10-17T22:27:21.000Z",
-    "id": "recxlFvvUfFDj8Hyj",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attEvyO2Y2ftg2964",
-        "url": "https://dl.airtable.com/PThMqPD4TruXygw4x4js_13707611_10153301118629649_6258158905072127817_n.jpg",
-        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
-        "size": 44295,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/c4LCprZ1RwGuxDAk9Mbb_small_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/qjelma4HSiGe7WhTxaJP_large_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/lSXEbS0PSLHJktNdlmSf_full_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
-    "(You can't directly edit this column)": "Ping Quach, AFX Board Summer/Fall 2013 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec2ArD4zfUhlWKwj": {
-    "createdTime": "2018-10-17T22:27:56.000Z",
-    "id": "rec2ArD4zfUhlWKwj",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attQZ5jAHjumN2FLx",
-        "url": "https://dl.airtable.com/ypzQN7GhRRSfOVvW30FC_13051780_10153967787361508_3966323251194751461_n.jpg",
-        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
-        "size": 180846,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/GbpMdr9S6rIxHAzerfSg_small_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Aa1dC2lfRYKV47lLZB7w_large_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 514,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/MHO6yldR5e9F8nzjhgng_full_13051780_10153967787361508_3966323251194751461_n.jpg",
-            "width": 960,
-            "height": 957
-          }
-        }
-      }
-    ],
-    "person": [
-      "recI4tz7ioKyk9TK0"
-    ],
-    "(You can't directly edit this column)": "Geoffrey Chen, AFX Board Summer/Fall 2013 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recH2qy05mNoxqz5l": {
-    "createdTime": "2018-10-17T22:28:39.000Z",
-    "id": "recH2qy05mNoxqz5l",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attXDgspqmiIcu1dn",
-        "url": "https://dl.airtable.com/1ilG38YGQya1kUO2PvbJ_11350615_10153425210498408_4242649587900320037_n.jpg",
-        "filename": "11350615_10153425210498408_4242649587900320037_n.jpg",
-        "size": 70606,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/NwslITLBTeerNyRl4tsg_small_11350615_10153425210498408_4242649587900320037_n.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/XW8EuNQTiCfLRdADkQBA_large_11350615_10153425210498408_4242649587900320037_n.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/PvU472oSY6QV5f0P0l9P_full_11350615_10153425210498408_4242649587900320037_n.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLDaDFZxNyhrLYf"
-    ],
-    "(You can't directly edit this column)": "Darae Kim, AFX Board Summer/Fall 2013 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reccuKlOcC6NdTOwO": {
-    "createdTime": "2018-10-17T22:28:43.000Z",
-    "id": "reccuKlOcC6NdTOwO",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attpPaoyTIYQrxz14",
-        "url": "https://dl.airtable.com/0cBCcDq7TWOnXfvywanD_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/AFGKDKUQQ3C5zjYn65KP_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/X7GR8hoT9aoaoBRGsGAg_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/zMDE1vvKQiKNAWc6kZks_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2013 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec61dgtt7fFuPdUc": {
-    "createdTime": "2018-10-17T22:30:41.000Z",
-    "id": "rec61dgtt7fFuPdUc",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Internal Relations",
-    "picture": [
-      {
-        "id": "attEupPK2sMTz0zUm",
-        "url": "https://dl.airtable.com/IxifWZ8PR46OUz5D2lBn_10336787_10203173734938313_2658813470424420589_n.jpg",
-        "filename": "10336787_10203173734938313_2658813470424420589_n.jpg",
-        "size": 24422,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/SXrxd2TNSi683lhwMJp9_small_10336787_10203173734938313_2658813470424420589_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/uSjiZYE1RtGNMmVQWsQ1_large_10336787_10203173734938313_2658813470424420589_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3Iiwy6M7RdOeKEAVP7ES_full_10336787_10203173734938313_2658813470424420589_n.jpg",
-            "width": 565,
-            "height": 565
-          }
-        }
-      }
-    ],
-    "person": [
-      "recvmgzYF7heGgA9k"
-    ],
-    "(You can't directly edit this column)": "Aurora Marie, AFX Board Summer/Fall 2013 Internal Relations",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recUFrFlIpVABapxl": {
-    "createdTime": "2018-10-17T22:30:43.000Z",
-    "id": "recUFrFlIpVABapxl",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attSednALlVt6B0LV",
-        "url": "https://dl.airtable.com/EYrFyUUIQ1bFsiLAwwKk_43698067_10161048739485154_2777770867487145984_o.jpg",
-        "filename": "43698067_10161048739485154_2777770867487145984_o.jpg",
-        "size": 171972,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/IVWb1vxzSTuvo8mI41Dg_small_43698067_10161048739485154_2777770867487145984_o.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/HhSZ6qniSiz6cKqghwsd_large_43698067_10161048739485154_2777770867487145984_o.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/8fKjBB4TVdrEr7OorOAw_full_43698067_10161048739485154_2777770867487145984_o.jpg",
-            "width": 1080,
-            "height": 1080
-          }
-        }
-      }
-    ],
-    "person": [
-      "recv47ketfwyrgVAn"
-    ],
-    "(You can't directly edit this column)": "Surmayee Tetarbe, AFX Board Summer/Fall 2013 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recmv9EMTgBKiRcBw": {
-    "createdTime": "2018-10-17T22:30:46.000Z",
-    "id": "recmv9EMTgBKiRcBw",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "att2jtjbA4UVB3gct",
-        "url": "https://dl.airtable.com/yXlMJ0e2Sg2ERPUbIP3O_44255099_473562976476941_739385315860414464_n.jpg",
-        "filename": "44255099_473562976476941_739385315860414464_n.jpg",
-        "size": 54641,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/T0eIm26WR7O3ofi4iPOw_small_44255099_473562976476941_739385315860414464_n.jpg",
-            "width": 20,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/si3s4dCTZG7bUQNiHyg8_large_44255099_473562976476941_739385315860414464_n.jpg",
-            "width": 512,
-            "height": 911
-          },
-          "full": {
-            "url": "https://dl.airtable.com/RQ0NVw1IT9KgyF0Q9jYO_full_44255099_473562976476941_739385315860414464_n.jpg",
-            "width": 750,
-            "height": 1334
-          }
-        }
-      }
-    ],
-    "person": [
-      "recxrlu4YBT1PwNh6"
-    ],
-    "(You can't directly edit this column)": "Shawn Mei, AFX Board Summer/Fall 2013 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recYinURnABbJOFqe": {
-    "createdTime": "2018-10-17T22:33:15.000Z",
-    "id": "recYinURnABbJOFqe",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "att1nSMDZr3uMEd7b",
-        "url": "https://dl.airtable.com/uOtcP4BcTWivr8n3YHqx_14107690_10155306920701164_2842158559044562378_o.jpg",
-        "filename": "14107690_10155306920701164_2842158559044562378_o.jpg",
-        "size": 402098,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/jw99O1ASautKWgsK3lbQ_small_14107690_10155306920701164_2842158559044562378_o.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Jl2ZJtMQwe7swWgJ3Bwj_large_14107690_10155306920701164_2842158559044562378_o.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/sqNTGoirRISnc6JtxnMe_full_14107690_10155306920701164_2842158559044562378_o.jpg",
-            "width": 2048,
-            "height": 1365
-          }
-        }
-      }
-    ],
-    "person": [
-      "reccBSwkwjN6WIsfB"
-    ],
-    "(You can't directly edit this column)": "Jenny Chen, AFX Board Summer/Fall 2013 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWHyWMs5CQgy6L2": {
-    "createdTime": "2018-10-17T22:33:17.000Z",
-    "id": "recWHyWMs5CQgy6L2",
-    "group": [
-      "rec7AuUevOSkKy0wb"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attI6DApa7HFGV2yT",
-        "url": "https://dl.airtable.com/Nc9ZSuqaRJu3AQZtQSB2_24173077_10156007339882028_5981613006874063536_o.jpg",
-        "filename": "24173077_10156007339882028_5981613006874063536_o.jpg",
-        "size": 224059,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/80W5M1uSr6F5VrecSbmr_small_24173077_10156007339882028_5981613006874063536_o.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/saJQdsdvTZSyS6lbFPti_large_24173077_10156007339882028_5981613006874063536_o.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/yGS1BDdATDKht8Vx8xwK_full_24173077_10156007339882028_5981613006874063536_o.jpg",
-            "width": 1152,
-            "height": 1152
-          }
-        }
-      }
-    ],
-    "person": [
-      "recZ4bppVkukHelyx"
-    ],
-    "(You can't directly edit this column)": "Joseph Koo, AFX Board Summer/Fall 2013 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recyOfaGap9N8vUfi": {
-    "createdTime": "2018-10-17T22:33:26.000Z",
-    "id": "recyOfaGap9N8vUfi",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attR7DgGDY08oOw9z",
-        "url": "https://dl.airtable.com/LFy1PmBwRFKdGj57zblP_Andrew%20Lee%20-%20Exec.jpg",
-        "filename": "Andrew Lee - Exec.jpg",
-        "size": 43485,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/uaocFWPVRtKSgDzyRms5_small_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/GzcxaNyJQ9KZXWuPFuHR_large_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 772,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/XdCsUds8R1eUeD3TREQr_full_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 960,
-            "height": 637
-          }
-        }
-      }
-    ],
-    "person": [
-      "recBPtE9xYnXjdgb4"
-    ],
-    "(You can't directly edit this column)": "Andrew Lee, AFX Board Spring 2014 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recpsLx44CYFgFzqe": {
-    "createdTime": "2018-10-17T22:36:16.000Z",
-    "id": "recpsLx44CYFgFzqe",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attlXcE4xnYfe8a53",
-        "url": "https://dl.airtable.com/021QYdnuS5SqD5HiX9AU_10336787_10203173734938313_2658813470424420589_n.jpg",
-        "filename": "10336787_10203173734938313_2658813470424420589_n.jpg",
-        "size": 24422,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Ur9iKLAGQmqGuYZlqk5C_small_10336787_10203173734938313_2658813470424420589_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zU2S70vRTgKWi2muHnRw_large_10336787_10203173734938313_2658813470424420589_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/hjXesBOQkaNctA0ZHYKZ_full_10336787_10203173734938313_2658813470424420589_n.jpg",
-            "width": 565,
-            "height": 565
-          }
-        }
-      }
-    ],
-    "person": [
-      "recvmgzYF7heGgA9k"
-    ],
-    "(You can't directly edit this column)": "Aurora Marie, AFX Board Spring 2014 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recZRkwOqdub8rIb4": {
-    "createdTime": "2018-10-17T22:37:23.000Z",
-    "id": "recZRkwOqdub8rIb4",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attClzHsTOkGTSDKS",
-        "url": "https://dl.airtable.com/RT0mNtFVQxqcEp7oHyR0_12819195_10209240517958911_7108238715465571965_o.jpg",
-        "filename": "12819195_10209240517958911_7108238715465571965_o.jpg",
-        "size": 225594,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/XnV84lU0QPe1ygkfDYim_small_12819195_10209240517958911_7108238715465571965_o.jpg",
-            "width": 26,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ez8ouSfpT9ClqYRgogL1_large_12819195_10209240517958911_7108238715465571965_o.jpg",
-            "width": 512,
-            "height": 709
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3H8kIsGWQqWVwuPcl2Qu_full_12819195_10209240517958911_7108238715465571965_o.jpg",
-            "width": 1479,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recp0NmQKxjcdlu8w"
-    ],
-    "(You can't directly edit this column)": "Eric Kim, AFX Board Spring 2014 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec4z6wz1bId6q4v3": {
-    "createdTime": "2018-10-17T22:38:44.000Z",
-    "id": "rec4z6wz1bId6q4v3",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attxwyhPGAF9Ovfcr",
-        "url": "https://dl.airtable.com/BtzR7e2pSoG7wAguFFqK_25626881_10213204123351989_6096239528565524427_o.jpg",
-        "filename": "25626881_10213204123351989_6096239528565524427_o.jpg",
-        "size": 351453,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/KJxXuWSaKXuS63RXhxBA_small_25626881_10213204123351989_6096239528565524427_o.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/jxxyBY4oQFSM3TblbkzA_large_25626881_10213204123351989_6096239528565524427_o.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/5Sd4RRV2QDGee4juR5ZM_full_25626881_10213204123351989_6096239528565524427_o.jpg",
-            "width": 1365,
-            "height": 1365
-          }
-        }
-      }
-    ],
-    "person": [
-      "recOWrlg8MLtI8Py2"
-    ],
-    "(You can't directly edit this column)": "Felix Li, AFX Board Spring 2014 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recvXhAMyqnKWxeqy": {
-    "createdTime": "2018-10-17T22:38:47.000Z",
-    "id": "recvXhAMyqnKWxeqy",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "att8lPttm83KDpEzW",
-        "url": "https://dl.airtable.com/krAFtssMQleIBW2xbpAX_13707611_10153301118629649_6258158905072127817_n.jpg",
-        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
-        "size": 44295,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/GPbbNZPBRgeqAWHZeeth_small_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/SG8tmXNiSC2qRSi0Id7G_large_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/SBAiu2VJRiqSQfRRY9pN_full_13707611_10153301118629649_6258158905072127817_n.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
-    "(You can't directly edit this column)": "Ping Quach, AFX Board Spring 2014 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec95Nr6rB535jmwh": {
-    "createdTime": "2018-10-17T22:38:49.000Z",
-    "id": "rec95Nr6rB535jmwh",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attJa1vboXMa8t2jE",
-        "url": "https://dl.airtable.com/vj6PmI3mRV6FwnPBahmq_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1DMw6eQySF60AtBxKMPD_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/wsfdsFGbTdCr6TpZT8sV_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/pkL3kyqS6mGDv3qqYlVQ_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Spring 2014 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec7CxNBh9H35Vj0A": {
-    "createdTime": "2018-10-17T22:38:51.000Z",
-    "id": "rec7CxNBh9H35Vj0A",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attgpacuZQ56UW6Yw",
-        "url": "https://dl.airtable.com/XVoVMDDQQ6CJttvbJ8J5_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-        "filename": "Screen Shot 2018-10-17 at 6.24.09 PM.png",
-        "size": 1958721,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/AfgC4kxdSdGWRykr9nnw_small_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/KTSVadXRDG5d7velHFnP_large_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-            "width": 517,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Rh5TbuFuSfGTkyXiyfGk_full_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-            "width": 1128,
-            "height": 1118
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4rqgME4ja2gNp7"
-    ],
-    "(You can't directly edit this column)": "Jaemin Kim, AFX Board Spring 2014 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recHPFEfJg3chEyPc": {
-    "createdTime": "2018-10-17T22:41:19.000Z",
-    "id": "recHPFEfJg3chEyPc",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "PR Marketing",
-    "person": [
-      "rec1f93ALW5SsVGI9"
-    ],
-    "(You can't directly edit this column)": "Alex Tang, AFX Board Spring 2014 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recwHz7FQK4hCm7i7": {
-    "createdTime": "2018-10-17T22:41:23.000Z",
-    "id": "recwHz7FQK4hCm7i7",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attMQpZM8SltuBMSS",
-        "url": "https://dl.airtable.com/tFJsD0tITgOaGR29oUmo_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-        "filename": "Alyssa Alvarez - PR Design.jpg",
-        "size": 56398,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/MPQeCumhTfaKLvcAPPzq_small_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Jab73bK1RoqqOCdqxSn4_large_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-            "width": 772,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/50D4RdgdRWK25ELt1CMh_full_Alyssa%20Alvarez%20-%20PR%20Design.jpg",
-            "width": 960,
-            "height": 637
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVe7qtpA0igWgdl"
-    ],
-    "(You can't directly edit this column)": "Alyssa Alvarez, AFX Board Spring 2014 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reci5J6MOS8tphZcF": {
-    "createdTime": "2018-10-17T22:41:25.000Z",
-    "id": "reci5J6MOS8tphZcF",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attPnPMC1q5x02eVV",
-        "url": "https://dl.airtable.com/c5mljkjjTCiZjbein4GF_11060901_10152847604664103_5588632650466657168_n.jpg",
-        "filename": "11060901_10152847604664103_5588632650466657168_n.jpg",
-        "size": 107776,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/WMMKZ8rhTWq2OjKMaBcH_small_11060901_10152847604664103_5588632650466657168_n.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/hkGXekQyS8qdy7Iu3snm_large_11060901_10152847604664103_5588632650466657168_n.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/fttkVepTUisdebctomqE_full_11060901_10152847604664103_5588632650466657168_n.jpg",
-            "width": 960,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec64C1WdF2Amk1VV"
-    ],
-    "(You can't directly edit this column)": "Natalie Ma, AFX Board Spring 2014 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recxsfg4zOPLAqf9R": {
-    "createdTime": "2018-10-17T22:41:28.000Z",
-    "id": "recxsfg4zOPLAqf9R",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attwcvFYTg5MyLt4K",
-        "url": "https://dl.airtable.com/ty9M83C4TGSQiewPZVhA_Jenny%20Li%20-%20Events.jpg",
-        "filename": "Jenny Li - Events.jpg",
-        "size": 41654,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/e5qWO1OTYOBWhCCZv1Fi_small_Jenny%20Li%20-%20Events.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/UhLNEJe1QAmRlVVd1wPu_large_Jenny%20Li%20-%20Events.jpg",
-            "width": 772,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WcTThE34TgiARCKldR50_full_Jenny%20Li%20-%20Events.jpg",
-            "width": 960,
-            "height": 637
-          }
-        }
-      }
-    ],
-    "person": [
-      "reclzXp3jh79lnbB0"
-    ],
-    "(You can't directly edit this column)": "Jenny Li, AFX Board Spring 2014 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recqBbjzibVHDFjwq": {
-    "createdTime": "2018-10-17T22:44:38.000Z",
-    "id": "recqBbjzibVHDFjwq",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "att4RI5BVXDIsb1IX",
-        "url": "https://dl.airtable.com/ImP8qMjS6KiYebT48m7k_23755098_10156228244853115_7067970468443493890_n.jpg",
-        "filename": "23755098_10156228244853115_7067970468443493890_n.jpg",
-        "size": 34476,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/roFt6A0cSaSJzlvO2QbT_small_23755098_10156228244853115_7067970468443493890_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Rw5Kj7fDSgaby2Rwp1kf_large_23755098_10156228244853115_7067970468443493890_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/OHyFvjXvR4KSpheScH5H_full_23755098_10156228244853115_7067970468443493890_n.jpg",
-            "width": 720,
-            "height": 720
-          }
-        }
-      }
-    ],
-    "person": [
-      "reciuIga5VEVPI5sb"
-    ],
-    "(You can't directly edit this column)": "Edwina Yuan, AFX Board Spring 2014 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec6ZCBxkhHM9WUFj": {
-    "createdTime": "2018-10-17T22:44:42.000Z",
-    "id": "rec6ZCBxkhHM9WUFj",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attvqIQ1UJ9coisuY",
-        "url": "https://dl.airtable.com/dcIVliRYTdWxFE28i4hb_Simon%20Chen%20-%20Historian.jpg",
-        "filename": "Simon Chen - Historian.jpg",
-        "size": 157737,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wWLhs4xxQUSuHWSsoomw_small_Simon%20Chen%20-%20Historian.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/mIt8C5ipTDOJSSZuHXTT_large_Simon%20Chen%20-%20Historian.jpg",
-            "width": 398,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Pn7yNPfSqqq5F7DGZE7K_full_Simon%20Chen%20-%20Historian.jpg",
-            "width": 398,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "reccl1uy2ajMiq1O2"
-    ],
-    "(You can't directly edit this column)": "Simon Chen, AFX Board Spring 2014 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recCV8UTZJWjUgyYE": {
-    "createdTime": "2018-10-17T22:44:44.000Z",
-    "id": "recCV8UTZJWjUgyYE",
-    "group": [
-      "recefYCYkTSsb9UBW"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attyKK7edcqAtzOzT",
-        "url": "https://dl.airtable.com/zNhTtQT1mLLkhA0o02CQ_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-        "filename": "Jasmine Chau - Vice Exec + Outreach Chair.jpg",
-        "size": 169881,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/gbzdL24ZSvGuvIQklgDi_small_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/UjB56YV5QISQEuVvI1dS_large_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 401,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ACftU8j6QPKu02upVdqp_full_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 401,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Spring 2014 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recPE6Z2zTr4HPmTD": {
-    "createdTime": "2018-10-17T22:14:36.000Z",
-    "id": "recPE6Z2zTr4HPmTD",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attTOaC0bxhFUTmmz",
-        "url": "https://dl.airtable.com/KJDdZX5QXGhA0ETlf8wZ_Davinci%20Lam%20-%20Historian.jpg",
-        "filename": "Davinci Lam - Historian.jpg",
-        "size": 61791,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/EN14eaJXScGkH4C0RuE5_small_Davinci%20Lam%20-%20Historian.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/1mgu4yNCRMrnE9cES7Ul_large_Davinci%20Lam%20-%20Historian.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/bhe9sVXS2bEkIQ88MtQg_full_Davinci%20Lam%20-%20Historian.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec7BBK1UpjDQQiJF"
-    ],
-    "(You can't directly edit this column)": "Davinci Lam, AFX Board Summer/Fall 2014 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec54wo9l7lwIPoDh": {
-    "createdTime": "2018-10-17T22:16:53.000Z",
-    "id": "rec54wo9l7lwIPoDh",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attRcRmRxp0TWTdSG",
-        "url": "https://dl.airtable.com/PZRulihCRSusCEzFT9ax_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-        "filename": "Emily Tsai - PR Marketing.jpg",
-        "size": 56592,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ekK2bfzRQ3aGAAujvz30_small_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/8RL3fPqFRgGse68u60id_large_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/qF1K4QVmTlChBx6mNtEF_full_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-            "width": 960,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLxGorRTNI9I0QS"
-    ],
-    "(You can't directly edit this column)": "Emily Tsai, AFX Board Summer/Fall 2014 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recTrl8bPc8liK962": {
-    "createdTime": "2018-10-17T22:17:23.000Z",
-    "id": "recTrl8bPc8liK962",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attoU8nXhYHnFwBTZ",
-        "url": "https://dl.airtable.com/pi6c7Uf7T8SiHRYSaJ8Y_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-        "filename": "Jasmine Chau - Vice Exec + Outreach Chair.jpg",
-        "size": 169881,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/uONrmIOsQjiRRYLwBdRw_small_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/3QdG1NvUTQ62aGWukncZ_large_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 401,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BVNV3O2OQ8yvXAE0yUsP_full_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 401,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Summer/Fall 2014 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recowepyieoCN1uVQ": {
-    "createdTime": "2018-10-17T22:17:57.000Z",
-    "id": "recowepyieoCN1uVQ",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attYDnpEYT42HF8pV",
-        "url": "https://dl.airtable.com/O2KXJi4HRIufrJECrwE2_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-        "filename": "Jasmine Chau - Vice Exec + Outreach Chair.jpg",
-        "size": 169881,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/IL9P6YI4S2OWbhMzytbF_small_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/XsTueSbGR8WUZu4tN05N_large_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 401,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/iGNcdYMQ52EaVJ5PRt1V_full_Jasmine%20Chau%20-%20Vice%20Exec%20%2B%20Outreach%20Chair.jpg",
-            "width": 401,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Summer/Fall 2014 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recCYFGpcjEB5aPVa": {
-    "createdTime": "2018-10-17T22:18:25.000Z",
-    "id": "recCYFGpcjEB5aPVa",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "att0EYB7MzXmwgRmu",
-        "url": "https://dl.airtable.com/TxDOf0SxSxCbREyZqsMJ_Jenny%20Li%20-%20Events.jpg",
-        "filename": "Jenny Li - Events.jpg",
-        "size": 41654,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/OsoqpxkR76R8IKY64zyQ_small_Jenny%20Li%20-%20Events.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/mZlvs46wT3KjyKRWECRk_large_Jenny%20Li%20-%20Events.jpg",
-            "width": 772,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/KqFqg87TSaaD5jNUbbwe_full_Jenny%20Li%20-%20Events.jpg",
-            "width": 960,
-            "height": 637
-          }
-        }
-      }
-    ],
-    "person": [
-      "reclzXp3jh79lnbB0"
-    ],
-    "(You can't directly edit this column)": "Jenny Li, AFX Board Summer/Fall 2014 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recnVPyrNQBtG10yJ": {
-    "createdTime": "2018-10-17T22:19:00.000Z",
-    "id": "recnVPyrNQBtG10yJ",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attoljWSJtaFZEclH",
-        "url": "https://dl.airtable.com/S5bc0V1JTi2d54fBnXgB_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
-        "filename": "Kevin Hayakawa - PR Marketing.jpg",
-        "size": 129935,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Z7gegAemSPyxK6aTkjIl_small_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/iAj7ghKCRC6e1UAiqC0p_large_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 773
-          },
-          "full": {
-            "url": "https://dl.airtable.com/pwk699GQpBY4dcNIQIpw_full_Kevin%20Hayakawa%20-%20PR%20Marketing.jpg",
-            "width": 636,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec3RLZl3eC9SXHwJ"
-    ],
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFX Board Summer/Fall 2014 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recAKbFuUkG4O5I3F": {
-    "createdTime": "2018-10-17T22:19:57.000Z",
-    "id": "recAKbFuUkG4O5I3F",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attDWxTS1YmGnqcMT",
-        "url": "https://dl.airtable.com/jOPeWGxHTwy7yRxxcsY2_Mikaela%20Klein%20-%20Finance.jpg",
-        "filename": "Mikaela Klein - Finance.jpg",
-        "size": 186203,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/p3NmOi3mQoqAIHyCI3yM_small_Mikaela%20Klein%20-%20Finance.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Q3SyrHsQSVqy1y9LtFwC_large_Mikaela%20Klein%20-%20Finance.jpg",
-            "width": 398,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/TYdpBbXtQ7ekpuGXp4HZ_full_Mikaela%20Klein%20-%20Finance.jpg",
-            "width": 398,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "reclVNKAxBs3D00S5"
-    ],
-    "(You can't directly edit this column)": "Mikaela Klein, AFX Board Summer/Fall 2014 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recFik0UCmCjnsmAX": {
-    "createdTime": "2018-10-17T22:20:23.000Z",
-    "id": "recFik0UCmCjnsmAX",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attCaGtMfuHfXdTvp",
-        "url": "https://dl.airtable.com/DbYQwirYRvW4Hj74RTPB_Natalie%20Ma%20-%20Finance.jpg",
-        "filename": "Natalie Ma - Finance.jpg",
-        "size": 358095,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/nhiE3DGhRjOVBGd7jqkb_small_Natalie%20Ma%20-%20Finance.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/1MnL6gvwTOSUZdXK4ykQ_large_Natalie%20Ma%20-%20Finance.jpg",
-            "width": 773,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/0ztfKmosQli1ynokgTCl_full_Natalie%20Ma%20-%20Finance.jpg",
-            "width": 2048,
-            "height": 1357
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec64C1WdF2Amk1VV"
-    ],
-    "(You can't directly edit this column)": "Natalie Ma, AFX Board Summer/Fall 2014 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recy3JKUOpqTV1Jxr": {
-    "createdTime": "2018-10-17T22:21:04.000Z",
-    "id": "recy3JKUOpqTV1Jxr",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attz3lVrGAaWLvVNe",
-        "url": "https://dl.airtable.com/Eslu6PLTkqUL1WhjWHr1_Simon%20Chen%20-%20Historian.jpg",
-        "filename": "Simon Chen - Historian.jpg",
-        "size": 157737,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/PoZuAEphTemy2dbzbxf6_small_Simon%20Chen%20-%20Historian.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/fUCCchkGSHmDMXlFs5Z1_large_Simon%20Chen%20-%20Historian.jpg",
-            "width": 398,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/YIPTiVjTJyuFcK34VCKv_full_Simon%20Chen%20-%20Historian.jpg",
-            "width": 398,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "reccl1uy2ajMiq1O2"
-    ],
-    "(You can't directly edit this column)": "Simon Chen, AFX Board Summer/Fall 2014 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recdYsI8CVYMgmLJ4": {
-    "createdTime": "2018-10-17T22:21:28.000Z",
-    "id": "recdYsI8CVYMgmLJ4",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "att54kaKvgRJFz17u",
-        "url": "https://dl.airtable.com/qRn3sl0fQTiA8EVk31Ha_Xinuye%20Wang%20-%20Finance.jpg",
-        "filename": "Xinuye Wang - Finance.jpg",
-        "size": 143368,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/jnztBICHQUumOgjMK6Ba_small_Xinuye%20Wang%20-%20Finance.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/vaZoH1nLREWod1glw20w_large_Xinuye%20Wang%20-%20Finance.jpg",
-            "width": 400,
-            "height": 600
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BCi2xSAjRQmYnXPi91cw_full_Xinuye%20Wang%20-%20Finance.jpg",
-            "width": 400,
-            "height": 600
-          }
-        }
-      }
-    ],
-    "person": [
-      "recrEeHaWMhxv56jE"
-    ],
-    "(You can't directly edit this column)": "Xinuye Wang, AFX Board Summer/Fall 2014 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recyux8jbE3ZvF4X6": {
-    "createdTime": "2018-10-17T22:22:06.000Z",
-    "id": "recyux8jbE3ZvF4X6",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attfL6xYwXKuq9Ywj",
-        "url": "https://dl.airtable.com/jLqHhJXNR2ikLwRDqjxk_Ada%20Ng%20-%20Events.jpg",
-        "filename": "Ada Ng - Events.jpg",
-        "size": 772077,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/4UiVSKoQ6Y6Sn0gdX4pA_small_Ada%20Ng%20-%20Events.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/tDqntP0XTku2ACc6j5hr_large_Ada%20Ng%20-%20Events.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ghyljSgKRgqdbmLJoldJ_full_Ada%20Ng%20-%20Events.jpg",
-            "width": 1067,
-            "height": 800
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec54iAVFwg1HwrW1"
-    ],
-    "(You can't directly edit this column)": "Ada Ng, AFX Board Spring 2015 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recVF1tjI67BNcwu0": {
-    "createdTime": "2018-10-17T22:22:07.000Z",
-    "id": "recVF1tjI67BNcwu0",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attdpoFQ28wYes9Z3",
-        "url": "https://dl.airtable.com/kDA3wbcFRE2NUz3ycRwV_Arthur%20Liou%20-%20Finance.jpg",
-        "filename": "Arthur Liou - Finance.jpg",
-        "size": 93964,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/BIVp3Gn5QBa9dNU97sO2_small_Arthur%20Liou%20-%20Finance.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/LZLg2DIQEqeuKXLGY5wj_large_Arthur%20Liou%20-%20Finance.jpg",
-            "width": 639,
-            "height": 480
-          },
-          "full": {
-            "url": "https://dl.airtable.com/lHLAbhRS4ydcmQdMyZvh_full_Arthur%20Liou%20-%20Finance.jpg",
-            "width": 639,
-            "height": 480
-          }
-        }
-      }
-    ],
-    "person": [
-      "recbcCfd2aMzjtrro"
-    ],
-    "(You can't directly edit this column)": "Arthur Liou, AFX Board Spring 2015 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recsaxUF87czITRBf": {
-    "createdTime": "2018-10-17T22:22:07.000Z",
-    "id": "recsaxUF87czITRBf",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attFZ7Q450WmifDqP",
-        "url": "https://dl.airtable.com/pOh6y3elTf24G1EGA4dX_Chris%20Him%20-%20Historian.jpg",
-        "filename": "Chris Him - Historian.jpg",
-        "size": 135267,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/z08VU5U6QqaGhkR55uN0_small_Chris%20Him%20-%20Historian.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/kjtAYqowQ7SAgr7k3iTZ_large_Chris%20Him%20-%20Historian.jpg",
-            "width": 511,
-            "height": 383
-          },
-          "full": {
-            "url": "https://dl.airtable.com/42m1ycQRB6OsfTKfBxxU_full_Chris%20Him%20-%20Historian.jpg",
-            "width": 511,
-            "height": 383
-          }
-        }
-      }
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "(You can't directly edit this column)": "Chris Kim, AFX Board Spring 2015 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recOTsrW10YbgxArn": {
-    "createdTime": "2018-10-17T22:22:08.000Z",
-    "id": "recOTsrW10YbgxArn",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attIvSxOMH96JILQ1",
-        "url": "https://dl.airtable.com/BBU6u4h1Riyvg1NHYhYO_Christina%20Ong%20-%20Historian.jpg",
-        "filename": "Christina Ong - Historian.jpg",
-        "size": 635705,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/24tR8q3xQ8qqelg7rDME_small_Christina%20Ong%20-%20Historian.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/glvhuXKURLi6tFv3oOTI_large_Christina%20Ong%20-%20Historian.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/COLZwlxQ9K9t6Afnzmvg_full_Christina%20Ong%20-%20Historian.jpg",
-            "width": 900,
-            "height": 675
-          }
-        }
-      }
-    ],
-    "person": [
-      "rech7Tn0Mt2LITmpc"
-    ],
-    "(You can't directly edit this column)": "Christina Ong, AFX Board Spring 2015 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recBGlHz815nSSdWi": {
-    "createdTime": "2018-10-17T22:22:09.000Z",
-    "id": "recBGlHz815nSSdWi",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attAtMs7UuOirBgcS",
-        "url": "https://dl.airtable.com/G5Tq6m16RCKc3JpcPhzg_Davinci%20Lam%20-%20PR%20Design.jpg",
-        "filename": "Davinci Lam - PR Design.jpg",
-        "size": 262602,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/syRtjKQbQEGfGWv7ER13_small_Davinci%20Lam%20-%20PR%20Design.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/LE2uhSxIQ0C5UQR7SF6D_large_Davinci%20Lam%20-%20PR%20Design.jpg",
-            "width": 621,
-            "height": 466
-          },
-          "full": {
-            "url": "https://dl.airtable.com/KbSRp28QNm2MjfnYqKNa_full_Davinci%20Lam%20-%20PR%20Design.jpg",
-            "width": 621,
-            "height": 466
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec7BBK1UpjDQQiJF"
-    ],
-    "(You can't directly edit this column)": "Davinci Lam, AFX Board Spring 2015 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recRYxRcI1EBvHWWr": {
-    "createdTime": "2018-10-17T22:25:00.000Z",
-    "id": "recRYxRcI1EBvHWWr",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "att0kHGLfsnOFDEve",
-        "url": "https://dl.airtable.com/7hrkhheqTDGrZsNHxPnf_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-        "filename": "Emily Tsai - PR Marketing.jpg",
-        "size": 205585,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/xHABk8y2Q2i62zyHIsO3_small_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/vppaEiZTzWbvg5AtnVvi_large_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-            "width": 588,
-            "height": 441
-          },
-          "full": {
-            "url": "https://dl.airtable.com/jx5Wli9ZSv6HMP8MGgrZ_full_Emily%20Tsai%20-%20PR%20Marketing.jpg",
-            "width": 588,
-            "height": 441
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLxGorRTNI9I0QS"
-    ],
-    "(You can't directly edit this column)": "Emily Tsai, AFX Board Spring 2015 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recL2c46u3NFrncta": {
-    "createdTime": "2018-10-17T22:25:33.000Z",
-    "id": "recL2c46u3NFrncta",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "att33rqawjytqhqOh",
-        "url": "https://dl.airtable.com/ifohpCU8Rzq9stnWoMw4_Jasmine%20Chau%20-%20Exec.jpg",
-        "filename": "Jasmine Chau - Exec.jpg",
-        "size": 581494,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/kcFcM8rMQDmiOpc6MnPh_small_Jasmine%20Chau%20-%20Exec.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/O2GISGm7TUGBWtaD1G5O_large_Jasmine%20Chau%20-%20Exec.jpg",
-            "width": 684,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/btOx4rCwQ2imgpqay3SG_full_Jasmine%20Chau%20-%20Exec.jpg",
-            "width": 800,
-            "height": 599
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Spring 2015 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recYDrXQ1G6b6s9oj": {
-    "createdTime": "2018-10-17T22:26:02.000Z",
-    "id": "recYDrXQ1G6b6s9oj",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attudOrwe3vXWo9Ga",
-        "url": "https://dl.airtable.com/Hkmb0IP4ToyDRDjSZhcX_Josh%20Park%20-%20Outreach.jpg",
-        "filename": "Josh Park - Outreach.jpg",
-        "size": 270234,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ATGZ0oPgTEqLkMc9gkEK_small_Josh%20Park%20-%20Outreach.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zNhbdTwRUeK2dsdgcuI2_large_Josh%20Park%20-%20Outreach.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/lzUvFoGvTiCI6T1Sdhrb_full_Josh%20Park%20-%20Outreach.jpg",
-            "width": 720,
-            "height": 540
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec9jN75kKwlEUKlP"
-    ],
-    "(You can't directly edit this column)": "Josh Park, AFX Board Spring 2015 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recvod600x05DuouE": {
-    "createdTime": "2018-10-17T22:26:33.000Z",
-    "id": "recvod600x05DuouE",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attzjOxpIerXQ24qQ",
-        "url": "https://dl.airtable.com/M3NM9tsnSIuTyDxkx1KG_Kevin%20Hayakawa%20-%20Events.jpg",
-        "filename": "Kevin Hayakawa - Events.jpg",
-        "size": 836589,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ozIS5GUyRYuSpan4iS6O_small_Kevin%20Hayakawa%20-%20Events.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/dhaSSzxuT8qtlK4xSGyB_large_Kevin%20Hayakawa%20-%20Events.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/upaQRa35Sqe3m5VNu6JS_full_Kevin%20Hayakawa%20-%20Events.jpg",
-            "width": 1200,
-            "height": 900
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec3RLZl3eC9SXHwJ"
-    ],
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFX Board Spring 2015 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recsvU27ydWdr0eSV": {
-    "createdTime": "2018-10-17T22:27:01.000Z",
-    "id": "recsvU27ydWdr0eSV",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attv8uCVbe6Gyh9aS",
-        "url": "https://dl.airtable.com/rtLT4VjQF6CAuVfXyxgl_Xinyue%20Wang%20-%20Finance.jpg",
-        "filename": "Xinyue Wang - Finance.jpg",
-        "size": 240281,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/VglGlsZDRLakyuERQwv0_small_Xinyue%20Wang%20-%20Finance.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/7PJFqyJ4SuuncTqy239a_large_Xinyue%20Wang%20-%20Finance.jpg",
-            "width": 515,
-            "height": 386
-          },
-          "full": {
-            "url": "https://dl.airtable.com/v93gem1lS9yiQG3R7Dw6_full_Xinyue%20Wang%20-%20Finance.jpg",
-            "width": 515,
-            "height": 386
-          }
-        }
-      }
-    ],
-    "person": [
-      "reczF9UfpTvqHGWjE"
-    ],
-    "(You can't directly edit this column)": "Xinyue Wang, AFX Board Spring 2015 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recVXN0oNRF3K1oY8": {
-    "createdTime": "2018-10-17T22:27:42.000Z",
-    "id": "recVXN0oNRF3K1oY8",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attlJGaGb7YgaypSK",
-        "url": "https://dl.airtable.com/EDnLdSJCSz68Psnv5VQS_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
-        "filename": "Zoey Kenny - PR Marketing.jpg",
-        "size": 216274,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/P1JUVicQWeKebsxTyjwG_small_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/O0PAcaDdTLK6U6FZNTk5_large_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "full": {
-            "url": "https://dl.airtable.com/rSARH9fCTnmzNPvb0swr_full_Zoey%20Kenny%20-%20PR%20Marketing.jpg",
-            "width": 640,
-            "height": 480
-          }
-        }
-      }
-    ],
-    "person": [
-      "recXSiCVLPXdDO5g8"
-    ],
-    "(You can't directly edit this column)": "Zoey Kenny, AFX Board Spring 2015 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec6POiIFWbnVhXji": {
-    "createdTime": "2018-10-17T22:28:34.000Z",
-    "id": "rec6POiIFWbnVhXji",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "att0P9lZLxAkEAFGk",
-        "url": "https://dl.airtable.com/zjBW5oFSQNqNuJ4TZxkf_Arthur%20Liao%20-%20Finance.jpg",
-        "filename": "Arthur Liao - Finance.jpg",
-        "size": 119325,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/cKgK7DdpS1GypJMNqxVi_small_Arthur%20Liao%20-%20Finance.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/x3NFUPAkRQmL7KvCB0ch_large_Arthur%20Liao%20-%20Finance.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WHPizGtR3OS3AAiS7WsU_full_Arthur%20Liao%20-%20Finance.jpg",
-            "width": 639,
-            "height": 639
-          }
-        }
-      }
-    ],
-    "person": [
-      "recbcCfd2aMzjtrro"
-    ],
-    "(You can't directly edit this column)": "Arthur Liou, AFX Board Summer/Fall 2015 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recwIOfNVdHw2rgi9": {
-    "createdTime": "2018-10-17T22:28:34.000Z",
-    "id": "recwIOfNVdHw2rgi9",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attC8Kl75m9aersFN",
-        "url": "https://dl.airtable.com/Y6QH33ttSOa3H1I8dBZW_Christina%20Ong%20-%20Historian.jpg",
-        "filename": "Christina Ong - Historian.jpg",
-        "size": 279031,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/gkHYs00SgylkzwT72Ndx_small_Christina%20Ong%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/TzcnqGdYSJKf9d2WUHbO_large_Christina%20Ong%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Gy3kayEShSZgOPkCu7kO_full_Christina%20Ong%20-%20Historian.jpg",
-            "width": 551,
-            "height": 551
-          }
-        }
-      }
-    ],
-    "person": [
-      "rech7Tn0Mt2LITmpc"
-    ],
-    "(You can't directly edit this column)": "Christina Ong, AFX Board Summer/Fall 2015 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reclH2WaVrHdkjc1p": {
-    "createdTime": "2018-10-17T22:28:35.000Z",
-    "id": "reclH2WaVrHdkjc1p",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "att6UuxpymvgoDF8B",
-        "url": "https://dl.airtable.com/PGUoSNZpTBmQyXc39S4w_Emilio%20Cuartero%20-%20PR%20Design.jpg",
-        "filename": "Emilio Cuartero - PR Design.jpg",
-        "size": 87673,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/rlmLtPVWQwByIoSvR9xS_small_Emilio%20Cuartero%20-%20PR%20Design.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ecZImO2pQqetZXuiEagO_large_Emilio%20Cuartero%20-%20PR%20Design.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BEXDqxm6TAOi7GlGb7XQ_full_Emilio%20Cuartero%20-%20PR%20Design.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2015 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recCTWLDbdrqn2nYJ": {
-    "createdTime": "2018-10-17T22:28:35.000Z",
-    "id": "recCTWLDbdrqn2nYJ",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "att3OcmsLHNk8pfc5",
-        "url": "https://dl.airtable.com/gxKtcScpQOaGVM9g6ITb_Jasmine%20Chau%20-%20Exec.jpg",
-        "filename": "Jasmine Chau - Exec.jpg",
-        "size": 291514,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/st6JCiu6SRW0ZBxRN09T_small_Jasmine%20Chau%20-%20Exec.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/F5Lw4qvfQnmYD4v8fKTe_large_Jasmine%20Chau%20-%20Exec.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3qF3LXodQAqmBIv3KxKw_full_Jasmine%20Chau%20-%20Exec.jpg",
-            "width": 683,
-            "height": 683
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Board Summer/Fall 2015 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recvQimuy5LNCjCSH": {
-    "createdTime": "2018-10-17T22:28:39.000Z",
-    "id": "recvQimuy5LNCjCSH",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attwKRt1xQLcKxoG5",
-        "url": "https://dl.airtable.com/AXhjVMxgSmy5qPnoB7Fo_Josh%20Park%20-%20Outreach.jpg",
-        "filename": "Josh Park - Outreach.jpg",
-        "size": 294848,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/nkQqQyJ0REgsW4UsJbyA_small_Josh%20Park%20-%20Outreach.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ceSe41bmS6COnuHfSaUx_large_Josh%20Park%20-%20Outreach.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/TpyqJnJVTgITKqm2l9tA_full_Josh%20Park%20-%20Outreach.jpg",
-            "width": 611,
-            "height": 611
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec9jN75kKwlEUKlP"
-    ],
-    "(You can't directly edit this column)": "Josh Park, AFX Board Summer/Fall 2015 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recpDL3KDWfgRHxc4": {
-    "createdTime": "2018-10-17T22:31:33.000Z",
-    "id": "recpDL3KDWfgRHxc4",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attpaJ9du5BuHH7dt",
-        "url": "https://dl.airtable.com/edtgOLNQ7Cu4pXb4FVJO_Karen%20Ding%20-%20Vice%20Exec.jpg",
-        "filename": "Karen Ding - Vice Exec.jpg",
-        "size": 484644,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/UO039KCwS6enfYbCaN6d_small_Karen%20Ding%20-%20Vice%20Exec.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/21yYofEoROiuhPXj0V25_large_Karen%20Ding%20-%20Vice%20Exec.jpg",
-            "width": 513,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/JUxfNMXpQWOMgJbHUY7B_full_Karen%20Ding%20-%20Vice%20Exec.jpg",
-            "width": 1024,
-            "height": 1023
-          }
-        }
-      }
-    ],
-    "person": [
-      "recFHoYhUBiV5URhr"
-    ],
-    "(You can't directly edit this column)": "Karen Ding, AFX Board Summer/Fall 2015 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recCsdE1LTyQrjMBW": {
-    "createdTime": "2018-10-17T22:32:05.000Z",
-    "id": "recCsdE1LTyQrjMBW",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attIcsqLQYmqCUrYK",
-        "url": "https://dl.airtable.com/dr3HkoqoTlu8xdzP01iN_Kathie%20Tian%20-%20Events.jpg",
-        "filename": "Kathie Tian - Events.jpg",
-        "size": 200381,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/QpZluQeZQpCoMp8FGIJj_small_Kathie%20Tian%20-%20Events.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/GbCsb6XIT4ivgny203a7_large_Kathie%20Tian%20-%20Events.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/mm0jsPwbQJO0Ta5fXbK5_full_Kathie%20Tian%20-%20Events.jpg",
-            "width": 750,
-            "height": 750
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec8WQB0KC7QXPy7z"
-    ],
-    "(You can't directly edit this column)": "Kathie Tian, AFX Board Summer/Fall 2015 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec8nwJXLJ37OV0rQ": {
-    "createdTime": "2018-10-17T22:32:29.000Z",
-    "id": "rec8nwJXLJ37OV0rQ",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attSGgSwLSoJCStZe",
-        "url": "https://dl.airtable.com/vJocYYMiQbSsqAYHc6mz_Kelly%20Yong%20-%20Finance.jpg",
-        "filename": "Kelly Yong - Finance.jpg",
-        "size": 284491,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/xsmNYgOST2YNcK9izS0c_small_Kelly%20Yong%20-%20Finance.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/LLzZXzqzQZSn7kxrNtHr_large_Kelly%20Yong%20-%20Finance.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/apusaWQ4S8639UlnmpO9_full_Kelly%20Yong%20-%20Finance.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "recXJr3fTDXjPWZd6"
-    ],
-    "(You can't directly edit this column)": "Kelly Yong, AFX Board Summer/Fall 2015 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recBfzJCrlmmV2q5q": {
-    "createdTime": "2018-10-17T22:32:53.000Z",
-    "id": "recBfzJCrlmmV2q5q",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "atti51MCq2QROj5KW",
-        "url": "https://dl.airtable.com/HlRR9SOqQmuLlbUBwX3W_Michael%20Chu%20-%20PR%20Marketing.jpg",
-        "filename": "Michael Chu - PR Marketing.jpg",
-        "size": 400579,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/2St3YTx1TZWLqudg6cM9_small_Michael%20Chu%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/dFVHUCXUTAubEnBZKSvg_large_Michael%20Chu%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/z73LKrP7RyucMk81ZloH_full_Michael%20Chu%20-%20PR%20Marketing.jpg",
-            "width": 908,
-            "height": 908
-          }
-        }
-      }
-    ],
-    "person": [
-      "reclpX3jvpv0V44dl"
-    ],
-    "(You can't directly edit this column)": "Michael Chu, AFX Board Summer/Fall 2015 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recKgeJ2ciU7ic8Kr": {
-    "createdTime": "2018-10-17T22:33:27.000Z",
-    "id": "recKgeJ2ciU7ic8Kr",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attq1VwsXD8RhyJlL",
-        "url": "https://dl.airtable.com/ExzMyAqS261Syl5hB4K0_Queena%20Xu%20-%20Historian.jpg",
-        "filename": "Queena Xu - Historian.jpg",
-        "size": 374814,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RXlnTe9jQGung7oktqtL_small_Queena%20Xu%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/WuU9hDi1TVuWgFCkqbpI_large_Queena%20Xu%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/x0Sf4tHiQZAwfhJI3Z85_full_Queena%20Xu%20-%20Historian.jpg",
-            "width": 1024,
-            "height": 1024
-          }
-        }
-      }
-    ],
-    "person": [
-      "recm9GGNQwNn3Y0uG"
-    ],
-    "(You can't directly edit this column)": "Queena Xu, AFX Board Summer/Fall 2015 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec59rkeuQcbbDZ7V": {
-    "createdTime": "2018-10-17T22:33:54.000Z",
-    "id": "rec59rkeuQcbbDZ7V",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attqEVohbPiPm5Mgw",
-        "url": "https://dl.airtable.com/KmRc97LfSH2B9Bm5aosk_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
-        "filename": "Ruiling Wen - PR Marketing.jpg",
-        "size": 563578,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/WfNYxPryRTm8rf0FTtLf_small_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Fj9giroTxCIJ52GjDRbc_large_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/jNSLvFORSjyfNPk9p1h9_full_Ruiling%20Wen%20-%20PR%20Marketing.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recH0VHagnAyTBeKG"
-    ],
-    "(You can't directly edit this column)": "Ruiling Wen, AFX Board Summer/Fall 2015 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recKCKwCa2KwUjvDm": {
-    "createdTime": "2018-10-17T22:34:21.000Z",
-    "id": "recKCKwCa2KwUjvDm",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attDN9fhgCwGQs09f",
-        "url": "https://dl.airtable.com/a4uaG1DQfiKZl4JZobXA_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
-        "filename": "Ryan Barroga - Vice Exec.jpg",
-        "size": 302792,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/VFnxdL6rTnOrnvWKr9HD_small_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ahNgS3qTSo6gaZ7MEsMf_large_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3NMjuX5CQoaQQfah9MtL_full_Ryan%20Barroga%20-%20Vice%20Exec.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "reczfMxHZL2l3qHUm"
-    ],
-    "(You can't directly edit this column)": "Ryan Barroga, AFX Board Summer/Fall 2015 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recNLqvbB61XluNA8": {
-    "createdTime": "2018-10-17T22:34:45.000Z",
-    "id": "recNLqvbB61XluNA8",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attoJmKIc9gjbFSEG",
-        "url": "https://dl.airtable.com/LRYlrHAvQtmuu5ZIDthY_Susan%20Shen%20-%20Events.jpg",
-        "filename": "Susan Shen - Events.jpg",
-        "size": 441434,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/mXH1jdxHT7mohj8JY0WJ_small_Susan%20Shen%20-%20Events.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/kRrQO4zQVudIqxj2N7XS_large_Susan%20Shen%20-%20Events.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/OTom4jH7TqWQUWHcVAKU_full_Susan%20Shen%20-%20Events.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "recgVaA2OjSYAR8oD"
-    ],
-    "(You can't directly edit this column)": "Susan Shen, AFX Board Summer/Fall 2015 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rectJjLvB0uQXlcFA": {
-    "createdTime": "2018-10-17T22:35:06.000Z",
-    "id": "rectJjLvB0uQXlcFA",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attRriHaJzoebhkYv",
-        "url": "https://dl.airtable.com/dMhqoEzhSiWQ002agTG0_Swan%20Kim%20-%20PR%20Marketing.jpeg",
-        "filename": "Swan Kim - PR Marketing.jpeg",
-        "size": 370862,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/SlNkIdgESbxuUe5AJYi9_small_Swan%20Kim%20-%20PR%20Marketing.jpeg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Qow2uQ83RfG3SIoNXP3m_large_Swan%20Kim%20-%20PR%20Marketing.jpeg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/oYim96TMTzWgxCPFUpEP_full_Swan%20Kim%20-%20PR%20Marketing.jpeg",
-            "width": 815,
-            "height": 815
-          }
-        }
-      }
-    ],
-    "person": [
-      "recoqVLPTKw2gNmA1"
-    ],
-    "(You can't directly edit this column)": "Swan Kim, AFX Board Summer/Fall 2015 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recxowEgkbgyTq4w4": {
-    "createdTime": "2018-10-17T22:35:30.000Z",
-    "id": "recxowEgkbgyTq4w4",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attMjJ7rs3wmuYwNF",
-        "url": "https://dl.airtable.com/VcYq2XgxRiCNcOjjQgKt_Tiffanie%20Abacan%20-%20Historian.jpg",
-        "filename": "Tiffanie Abacan - Historian.jpg",
-        "size": 301013,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/k65EaM6QR9GowNcB2fi8_small_Tiffanie%20Abacan%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/HeXdJuEIR1t0D46FxBcw_large_Tiffanie%20Abacan%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BN9GfmHxTrqTQcoABsj0_full_Tiffanie%20Abacan%20-%20Historian.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "recRcjNWpPIB6MhSE"
-    ],
-    "(You can't directly edit this column)": "Tiffanie Abacan, AFX Board Summer/Fall 2015 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recMZaerYaUo8bIa2": {
-    "createdTime": "2018-10-17T22:35:42.000Z",
-    "id": "recMZaerYaUo8bIa2",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attMu5h0VjVikvKTI",
-        "url": "https://dl.airtable.com/gdDsI1k4S7WQc6PsUhHz_Ashmitha%20Thinagar%20-%20Finance.jpg",
-        "filename": "Ashmitha Thinagar - Finance.jpg",
-        "size": 78840,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/gByTJmeLTuG4Cr8RHrwq_small_Ashmitha%20Thinagar%20-%20Finance.jpg",
-            "width": 49,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/rNCsstXkQkqHqLHKdUvk_large_Ashmitha%20Thinagar%20-%20Finance.jpg",
-            "width": 697,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/iZLcMk0CQ1iwX5egLMb9_full_Ashmitha%20Thinagar%20-%20Finance.jpg",
-            "width": 700,
-            "height": 514
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec1NK9KoDeRi9Pq9"
-    ],
-    "(You can't directly edit this column)": "Ashmitha Thinagar, AFX Board Spring 2016 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recD9K0ch5nqXUBlx": {
-    "createdTime": "2018-10-17T22:37:41.000Z",
-    "id": "recD9K0ch5nqXUBlx",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attuJ7mcbQjliKWgd",
-        "url": "https://dl.airtable.com/3grEj86wT9KzP4jy8isH_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-        "filename": "Chelsea Zhang - PR Marketing.jpg",
-        "size": 109452,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/SPCps3JsSj2c5sH7Mauc_small_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/NlYGuZWbTvClNBzjDnFz_large_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/B58Zfn1CQ5y9JdVBHTuL_full_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-            "width": 800,
-            "height": 533
-          }
-        }
-      }
-    ],
-    "person": [
-      "recrAtRib7HBEcJB9"
-    ],
-    "(You can't directly edit this column)": "Chelsea Zhang, AFX Board Spring 2016 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recboh27pftuiP1MF": {
-    "createdTime": "2018-10-17T22:38:11.000Z",
-    "id": "recboh27pftuiP1MF",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "att7L9EFI8SrDPQX5",
-        "url": "https://dl.airtable.com/aCjOsnbRa2noZvY4EKKD_Chris%20Kim%20-%20Vice%20Exec.jpg",
-        "filename": "Chris Kim - Vice Exec.jpg",
-        "size": 132222,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/tzGz7lTTQ2SLaV8qxJcg_small_Chris%20Kim%20-%20Vice%20Exec.jpg",
-            "width": 28,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/pBZlQU0VTyuxiaCvY60G_large_Chris%20Kim%20-%20Vice%20Exec.jpg",
-            "width": 512,
-            "height": 661
-          },
-          "full": {
-            "url": "https://dl.airtable.com/6mpu5pSFSgyf0uEqg0hN_full_Chris%20Kim%20-%20Vice%20Exec.jpg",
-            "width": 650,
-            "height": 839
-          }
-        }
-      }
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "(You can't directly edit this column)": "Chris Kim, AFX Board Spring 2016 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec0xXxNqIKyo0acv": {
-    "createdTime": "2018-10-17T22:38:34.000Z",
-    "id": "rec0xXxNqIKyo0acv",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attlFEvvgsNWzgKh2",
-        "url": "https://dl.airtable.com/8CIrIYVqRXuraXArAJ3y_Danielle%20Ip%20-%20Finance.jpg",
-        "filename": "Danielle Ip - Finance.jpg",
-        "size": 118481,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/yi5jDcaREOlOjvLeZjgo_small_Danielle%20Ip%20-%20Finance.jpg",
-            "width": 49,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ikSwpsAYT0S1tZNRNe5k_large_Danielle%20Ip%20-%20Finance.jpg",
-            "width": 698,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/MOXp8TEaRICZW9fsfcu1_full_Danielle%20Ip%20-%20Finance.jpg",
-            "width": 954,
-            "height": 700
-          }
-        }
-      }
-    ],
-    "person": [
-      "recoKdC5z3vmLbrhF"
-    ],
-    "(You can't directly edit this column)": "Danielle Ip, AFX Board Spring 2016 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec1eoD5Alq8iuRRR": {
-    "createdTime": "2018-10-17T22:38:58.000Z",
-    "id": "rec1eoD5Alq8iuRRR",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attdOKHlt9oA0hF7I",
-        "url": "https://dl.airtable.com/9tXs3BOkRzuZQgQxOp48_Emily%20Liang%20-%20PR%20Marketing.jpg",
-        "filename": "Emily Liang - PR Marketing.jpg",
-        "size": 76056,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/c7EW78Z9RJe6ipYAlnaG_small_Emily%20Liang%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ABR7b0bQOON0ToDauFLU_large_Emily%20Liang%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/c8RLUmDaTNybzj717MEo_full_Emily%20Liang%20-%20PR%20Marketing.jpg",
-            "width": 606,
-            "height": 606
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4DL1eippoez0bh"
-    ],
-    "(You can't directly edit this column)": "Emily Liang, AFX Board Spring 2016 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recvkizTwIECyfD8A": {
-    "createdTime": "2018-10-17T22:39:24.000Z",
-    "id": "recvkizTwIECyfD8A",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attZutfNeefHWZKne",
-        "url": "https://dl.airtable.com/KquUYroS1eGkR1AoSE4d_Jasmine%20Tatah%20-%20Outreach.jpg",
-        "filename": "Jasmine Tatah - Outreach.jpg",
-        "size": 78766,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/0x8YmCV4QrOkKTEudbnU_small_Jasmine%20Tatah%20-%20Outreach.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/jpQdv0OMSMqbq3GC6OgD_large_Jasmine%20Tatah%20-%20Outreach.jpg",
-            "width": 773,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/eASkxVdwT6arrNiXuuKf_full_Jasmine%20Tatah%20-%20Outreach.jpg",
-            "width": 773,
-            "height": 512
-          }
-        }
-      }
-    ],
-    "person": [
-      "recRTWAYnQmB1tE5v"
-    ],
-    "(You can't directly edit this column)": "Jasmine Tatah, AFX Board Spring 2016 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recCUymelnvLksVOH": {
-    "createdTime": "2018-10-17T22:39:46.000Z",
-    "id": "recCUymelnvLksVOH",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "att2NgAKJUrodkSpW",
-        "url": "https://dl.airtable.com/DJKcpgG5T5WutwtnPZBQ_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
-        "filename": "Jinnie Rhee - PR Marketing.jpg",
-        "size": 67809,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RunoehRTQ6KGc3m6mMrX_small_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/leMKCnBqRD2tPO5hG4EC_large_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/1hqhx1NjTaajfa6JrkM7_full_Jinnie%20Rhee%20-%20PR%20Marketing.jpg",
-            "width": 800,
-            "height": 533
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnnv2dbvHIZ2dGJ"
-    ],
-    "(You can't directly edit this column)": "Jinnie Rhee, AFX Board Spring 2016 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recRn726PeTJUTlp1": {
-    "createdTime": "2018-10-17T22:40:10.000Z",
-    "id": "recRn726PeTJUTlp1",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attuJY9ZFKz2dhgqu",
-        "url": "https://dl.airtable.com/bSKRcxFBRIiAW4VckVqu_Julie%20Yu%20-%20Finance.jpg",
-        "filename": "Julie Yu - Finance.jpg",
-        "size": 83773,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/vt3zfsz4Qyu6zW5sMy8c_small_Julie%20Yu%20-%20Finance.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/lTmpoUCqSeOeVnXQ5Ffs_large_Julie%20Yu%20-%20Finance.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/4L0BzvMZQbegS94ukbif_full_Julie%20Yu%20-%20Finance.jpg",
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    ],
-    "person": [
-      "recDBy6u6VlMpeiMt"
-    ],
-    "(You can't directly edit this column)": "Julie Yu, AFX Board Spring 2016 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recIjhqWDW2hFdXNs": {
-    "createdTime": "2018-10-17T22:40:31.000Z",
-    "id": "recIjhqWDW2hFdXNs",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "atta7f86EyNKZL2Q1",
-        "url": "https://dl.airtable.com/IWc95lG9QvKuAg6CGYy1_Karen%20Ding%20-%20Vice%20Exec.jpg",
-        "filename": "Karen Ding - Vice Exec.jpg",
-        "size": 100322,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/g6CwmGpRTLupIMIelK7p_small_Karen%20Ding%20-%20Vice%20Exec.jpg",
-            "width": 28,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Ro6EpbyiRjmPfqLD1fqM_large_Karen%20Ding%20-%20Vice%20Exec.jpg",
-            "width": 512,
-            "height": 661
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Wdqg99wGSv2aZV581yAo_full_Karen%20Ding%20-%20Vice%20Exec.jpg",
-            "width": 620,
-            "height": 800
-          }
-        }
-      }
-    ],
-    "person": [
-      "recFHoYhUBiV5URhr"
-    ],
-    "(You can't directly edit this column)": "Karen Ding, AFX Board Spring 2016 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recZpYxJZgts0bfGu": {
-    "createdTime": "2018-10-17T22:40:53.000Z",
-    "id": "recZpYxJZgts0bfGu",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attTHKFOMor4h6KUs",
-        "url": "https://dl.airtable.com/YvSnIvNhSGqDYPSMVpzR_Kevin%20Pham%20-%20Events.jpg",
-        "filename": "Kevin Pham - Events.jpg",
-        "size": 94451,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/4YhxcYEQUKTDEhOO3qwc_small_Kevin%20Pham%20-%20Events.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/11IRiVbRh2d69yECPqKJ_large_Kevin%20Pham%20-%20Events.jpg",
-            "width": 512,
-            "height": 676
-          },
-          "full": {
-            "url": "https://dl.airtable.com/64DCCLt3Ri6NAlA6WYZ8_full_Kevin%20Pham%20-%20Events.jpg",
-            "width": 600,
-            "height": 792
-          }
-        }
-      }
-    ],
-    "person": [
-      "recTyIipOm1vPBdpw"
-    ],
-    "(You can't directly edit this column)": "Kevin Pham, AFX Board Spring 2016 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recuvB9shc9cyE0Sw": {
-    "createdTime": "2018-10-17T22:41:14.000Z",
-    "id": "recuvB9shc9cyE0Sw",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attxLmTEHc7xziTML",
-        "url": "https://dl.airtable.com/HYAz6TDReimO5EMnBoqU_Queena%20Xu%20-%20Historian.jpg",
-        "filename": "Queena Xu - Historian.jpg",
-        "size": 88268,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wyiAwT9IQTuVsQkSLC4I_small_Queena%20Xu%20-%20Historian.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/gVCA65RGKJAMmKX876jA_large_Queena%20Xu%20-%20Historian.jpg",
-            "width": 680,
-            "height": 510
-          },
-          "full": {
-            "url": "https://dl.airtable.com/nmxd4AgST1CCP2j9mJ11_full_Queena%20Xu%20-%20Historian.jpg",
-            "width": 680,
-            "height": 510
-          }
-        }
-      }
-    ],
-    "person": [
-      "recm9GGNQwNn3Y0uG"
-    ],
-    "(You can't directly edit this column)": "Queena Xu, AFX Board Spring 2016 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recq43Z718PFa7rNz": {
-    "createdTime": "2018-10-17T22:41:37.000Z",
-    "id": "recq43Z718PFa7rNz",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attQKgUMBF18DVJGO",
-        "url": "https://dl.airtable.com/HzT0LQTMQPC2PKWJ4jlm_Ryan%20Barroga%20-%20Exec.jpg",
-        "filename": "Ryan Barroga - Exec.jpg",
-        "size": 131403,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/y4tgBLAZRKKpMeS1I1jQ_small_Ryan%20Barroga%20-%20Exec.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/we0OnMnlTECfbmc5PKCc_large_Ryan%20Barroga%20-%20Exec.jpg",
-            "width": 512,
-            "height": 762
-          },
-          "full": {
-            "url": "https://dl.airtable.com/93OVDYqtSNyw9AqttnAX_full_Ryan%20Barroga%20-%20Exec.jpg",
-            "width": 605,
-            "height": 900
-          }
-        }
-      }
-    ],
-    "person": [
-      "reczfMxHZL2l3qHUm"
-    ],
-    "(You can't directly edit this column)": "Ryan Barroga, AFX Board Spring 2016 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec58m0QuSsWYPy3i": {
-    "createdTime": "2018-10-17T22:42:01.000Z",
-    "id": "rec58m0QuSsWYPy3i",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "att7Yywvv9pyPfMud",
-        "url": "https://dl.airtable.com/A95vsiFYRDW5ZN1LM5nZ_Ryan%20Ta%20-%20Events.jpg",
-        "filename": "Ryan Ta - Events.jpg",
-        "size": 75996,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wZeXtJulTAe0ziYiZlAE_small_Ryan%20Ta%20-%20Events.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/XIOTykF6QJiDRWpNwAvf_large_Ryan%20Ta%20-%20Events.jpg",
-            "width": 512,
-            "height": 675
-          },
-          "full": {
-            "url": "https://dl.airtable.com/V3NczUFQKmqOqidnK07D_full_Ryan%20Ta%20-%20Events.jpg",
-            "width": 546,
-            "height": 720
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLla3pij2rxqiUK"
-    ],
-    "(You can't directly edit this column)": "Ryan Ta, AFX Board Spring 2016 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recbAqu4Hf1mDgAwf": {
-    "createdTime": "2018-10-17T22:42:22.000Z",
-    "id": "recbAqu4Hf1mDgAwf",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attBLZxsMVsIoETXM",
-        "url": "https://dl.airtable.com/x34KDATtev3Y07yuO1Iw_Shirley%20Li%20-%20PR%20Design.jpg",
-        "filename": "Shirley Li - PR Design.jpg",
-        "size": 52536,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/D5lgEYbpTMmhINbMYxB2_small_Shirley%20Li%20-%20PR%20Design.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/IQR5ckQkRQukvpW6JUlm_large_Shirley%20Li%20-%20PR%20Design.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/SjMm4S5XTtOnXHB8wygX_full_Shirley%20Li%20-%20PR%20Design.jpg",
-            "width": 720,
-            "height": 720
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLibXAEVugrELPu"
-    ],
-    "(You can't directly edit this column)": "Shirley Li, AFX Board Spring 2016 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recwvKkgeHb2SAKOZ": {
-    "createdTime": "2018-10-17T22:42:42.000Z",
-    "id": "recwvKkgeHb2SAKOZ",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attojzzyvP7RoJ3ZQ",
-        "url": "https://dl.airtable.com/VDJkBGpkS9GK7r4PqAMY_Tiffanie%20Abacan%20-%20Historian.jpg",
-        "filename": "Tiffanie Abacan - Historian.jpg",
-        "size": 301013,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/PJ5EAfmKR9KixGxNLTFP_small_Tiffanie%20Abacan%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/qAQf4KwUS7GsBmbjRwEH_large_Tiffanie%20Abacan%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/2uxfSq0fQH64cPjZZ6iZ_full_Tiffanie%20Abacan%20-%20Historian.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "recRcjNWpPIB6MhSE"
-    ],
-    "(You can't directly edit this column)": "Tiffanie Abacan, AFX Board Spring 2016 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recsR3dCQFQBuj3Qs": {
-    "createdTime": "2018-10-17T22:43:02.000Z",
-    "id": "recsR3dCQFQBuj3Qs",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attVyydvxHkzyOyvK",
-        "url": "https://dl.airtable.com/gUy2ocGLQUqBr7qQP61F_William%20Zheng%20-%20Historian.jpg",
-        "filename": "William Zheng - Historian.jpg",
-        "size": 86535,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/4xqiZ7SHRGqysqZWMT75_small_William%20Zheng%20-%20Historian.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/T27pCVSbTW2zwdlH8e9f_large_William%20Zheng%20-%20Historian.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/QOZ41shpTa9zgaXrEO1A_full_William%20Zheng%20-%20Historian.jpg",
-            "width": 762,
-            "height": 571
-          }
-        }
-      }
-    ],
-    "person": [
-      "recjMN8Zx4KlJGDUL"
-    ],
-    "(You can't directly edit this column)": "William Zheng, AFX Board Spring 2016 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWEZvMv7ktz9kHI": {
-    "createdTime": "2018-10-17T22:43:42.000Z",
-    "id": "recWEZvMv7ktz9kHI",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "att3gFZ1njvSxFvlF",
-        "url": "https://dl.airtable.com/Z5A5rcUySgiDpzg6phPq_Winn%20Cui%20-%20Outreach.jpg",
-        "filename": "Winn Cui - Outreach.jpg",
-        "size": 88693,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/bN41hsA6SWWDriujDhRB_small_Winn%20Cui%20-%20Outreach.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ybZ2j5DfRpWlNl8v47t7_large_Winn%20Cui%20-%20Outreach.jpg",
-            "width": 771,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/DTbcCnUcTuCIQdQsSthQ_full_Winn%20Cui%20-%20Outreach.jpg",
-            "width": 800,
-            "height": 531
-          }
-        }
-      }
-    ],
-    "person": [
-      "reccusci4MPy2I4i4"
-    ],
-    "(You can't directly edit this column)": "Winn Cui, AFX Board Spring 2016 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recgHxVPeQJD7UKwT": {
-    "createdTime": "2018-10-17T22:44:49.000Z",
-    "id": "recgHxVPeQJD7UKwT",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attwSFypOzE240DJ9",
-        "url": "https://dl.airtable.com/3SGVGd8ARIShQrE1ffrV_Alex%20Nguyen%20-%20Historian.jpg",
-        "filename": "Alex Nguyen - Historian.jpg",
-        "size": 5504490,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/nZS7RF1qTKmjRLQWX4h9_small_Alex%20Nguyen%20-%20Historian.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ZutMyKTQaiQYWDC8ascY_large_Alex%20Nguyen%20-%20Historian.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/iriFcUiS0u9QuM6slWPW_full_Alex%20Nguyen%20-%20Historian.jpg",
-            "width": 3000,
-            "height": 2250
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Board Summer/Fall 2016 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recNGBiCiOwgqKOtw": {
-    "createdTime": "2018-10-17T22:44:50.000Z",
-    "id": "recNGBiCiOwgqKOtw",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "att6ITWybIBBWhNDz",
-        "url": "https://dl.airtable.com/w1xQxOtTYOvEyorIEwRH_Ashmitha%20Thinagar%20-%20Finance.jpg",
-        "filename": "Ashmitha Thinagar - Finance.jpg",
-        "size": 125438,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RioftdZiQ0mGIiBHvF5M_small_Ashmitha%20Thinagar%20-%20Finance.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/fts0CzeZRxEz2UIGAUH0_large_Ashmitha%20Thinagar%20-%20Finance.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BbHVg2PPQQC02GAhz94A_full_Ashmitha%20Thinagar%20-%20Finance.jpg",
-            "width": 1356,
-            "height": 1356
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec1NK9KoDeRi9Pq9"
-    ],
-    "(You can't directly edit this column)": "Ashmitha Thinagar, AFX Board Summer/Fall 2016 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recTLInL69e8UmYh7": {
-    "createdTime": "2018-10-17T22:44:50.000Z",
-    "id": "recTLInL69e8UmYh7",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "att48EPmZGYU9PzWL",
-        "url": "https://dl.airtable.com/bVbrLecrQe2OWWFQXq8i_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-        "filename": "Chelsea Zhang - PR Marketing.jpg",
-        "size": 542968,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/X0VMbqmhSOad833mVYWR_small_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/xOrAWEP9TUCiqT90ncmE_large_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/sx7iQoxcQVybyKPw30Em_full_Chelsea%20Zhang%20-%20PR%20Marketing.jpg",
-            "width": 768,
-            "height": 768
-          }
-        }
-      }
-    ],
-    "person": [
-      "recrAtRib7HBEcJB9"
-    ],
-    "(You can't directly edit this column)": "Chelsea Zhang, AFX Board Summer/Fall 2016 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec8aO9PIE26GJjlU": {
-    "createdTime": "2018-10-17T22:44:51.000Z",
-    "id": "rec8aO9PIE26GJjlU",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attdlt3L19ICU7wNd",
-        "url": "https://dl.airtable.com/TdSsCobBRfUwwb8V2iMt_Emily%20Liang%20-%20Finance.jpg",
-        "filename": "Emily Liang - Finance.jpg",
-        "size": 424306,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/WfPxWwWCQBr7zU6qwa7B_small_Emily%20Liang%20-%20Finance.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/PaDpPsMZQmqblbiKqCbk_large_Emily%20Liang%20-%20Finance.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/03mUcHSHyXSK7AVFGwBQ_full_Emily%20Liang%20-%20Finance.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4DL1eippoez0bh"
-    ],
-    "(You can't directly edit this column)": "Emily Liang, AFX Board Summer/Fall 2016 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec244XFvK8gGouDq": {
-    "createdTime": "2018-10-17T22:44:51.000Z",
-    "id": "rec244XFvK8gGouDq",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attUHxjcgxSC4LUfp",
-        "url": "https://dl.airtable.com/7RjraW2iQtSmHm5dsiKt_Gabrielle%20Balanon%20-%20Outreach.jpg",
-        "filename": "Gabrielle Balanon - Outreach.jpg",
-        "size": 321036,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wtS8AupETpGVp7eJ3DFz_small_Gabrielle%20Balanon%20-%20Outreach.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/wohB8cdsT6Ac1AerhhhG_large_Gabrielle%20Balanon%20-%20Outreach.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3tpATZoQdGlYZNiLyV8A_full_Gabrielle%20Balanon%20-%20Outreach.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "recJMNzslDXmQM7iZ"
-    ],
-    "(You can't directly edit this column)": "Gabrielle Balanon, AFX Board Summer/Fall 2016 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWSwGnmjnUW7jWa": {
-    "createdTime": "2018-10-17T22:44:51.000Z",
-    "id": "recWSwGnmjnUW7jWa",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attUImKdmgvJaKf9J",
-        "url": "https://dl.airtable.com/1z8u5YFKSVqYnUECMxp1_George%20Wu%20-%20Finance.jpg",
-        "filename": "George Wu - Finance.jpg",
-        "size": 377583,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/R9ZhcupCTpWxVhwySp9P_small_George%20Wu%20-%20Finance.jpg",
-            "width": 45,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/gnKih7ISTRmLec5oJyFm_large_George%20Wu%20-%20Finance.jpg",
-            "width": 640,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/TMYcIXHSqW7UQIYUCP7g_full_George%20Wu%20-%20Finance.jpg",
-            "width": 854,
-            "height": 683
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec14xvdLuoluctCH"
-    ],
-    "(You can't directly edit this column)": "George Wu, AFX Board Summer/Fall 2016 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recZomHaoY9DQQBpn": {
-    "createdTime": "2018-10-17T22:44:51.000Z",
-    "id": "recZomHaoY9DQQBpn",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attTmfxmwFn0MgEKP",
-        "url": "https://dl.airtable.com/vVtsweygR1ALWCv3SZgW_Jinnie%20Rhee%20-%20Outreach.png",
-        "filename": "Jinnie Rhee - Outreach.png",
-        "size": 1034518,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/iMEAeHatToGcoZcfYN6V_small_Jinnie%20Rhee%20-%20Outreach.png",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/hrHJveObSz6u1ezGDERP_large_Jinnie%20Rhee%20-%20Outreach.png",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/UHR2eQoMSziNXUIFbJ67_full_Jinnie%20Rhee%20-%20Outreach.png",
-            "width": 803,
-            "height": 803
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnnv2dbvHIZ2dGJ"
-    ],
-    "(You can't directly edit this column)": "Jinnie Rhee, AFX Board Summer/Fall 2016 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rechneZNwlBVrMuBv": {
-    "createdTime": "2018-10-17T22:44:52.000Z",
-    "id": "rechneZNwlBVrMuBv",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "att9aGhMxnHce7YUq",
-        "url": "https://dl.airtable.com/i0UyPBqSThaNWoQPGv5g_Kevin%20Pham%20-%20Evets.jpg",
-        "filename": "Kevin Pham - Evets.jpg",
-        "size": 407608,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/dnHoy0cRYq1lAwl2J6qA_small_Kevin%20Pham%20-%20Evets.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/p9fzWluNSS6oACzeRmx2_large_Kevin%20Pham%20-%20Evets.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/DoiPLlB5RVeJZAyWGTgJ_full_Kevin%20Pham%20-%20Evets.jpg",
-            "width": 750,
-            "height": 750
-          }
-        }
-      }
-    ],
-    "person": [
-      "recTyIipOm1vPBdpw"
-    ],
-    "(You can't directly edit this column)": "Kevin Pham, AFX Board Summer/Fall 2016 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recvYMH4qGUQzU6fU": {
-    "createdTime": "2018-10-17T22:44:52.000Z",
-    "id": "recvYMH4qGUQzU6fU",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attiOLXo6XmdgSYPc",
-        "url": "https://dl.airtable.com/2eRf6s6qSFu4nWbANo3y_Kim%20Ambrocio%20-%20Historian.jpg",
-        "filename": "Kim Ambrocio - Historian.jpg",
-        "size": 114946,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Tt55q9XS0yqNHdq3w6ZI_small_Kim%20Ambrocio%20-%20Historian.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/uOdIjb2QjuCE3JBXD2yn_large_Kim%20Ambrocio%20-%20Historian.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/22JiBlxSnijxgAAOhciY_full_Kim%20Ambrocio%20-%20Historian.jpg",
-            "width": 683,
-            "height": 512
-          }
-        }
-      }
-    ],
-    "person": [
-      "recewlyjxE33ebDly"
-    ],
-    "(You can't directly edit this column)": "Kim Ambrocio, AFX Board Summer/Fall 2016 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recGkQe9WXhmJPUn2": {
-    "createdTime": "2018-10-17T22:44:52.000Z",
-    "id": "recGkQe9WXhmJPUn2",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attSSqjhVQlPWt2e2",
-        "url": "https://dl.airtable.com/jZHC9XTM2XM9JJ5ZPZlQ_Mei%20Mei%20-%20Events.jpg",
-        "filename": "Mei Mei - Events.jpg",
-        "size": 178174,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/VRvYM5cQWKZbF3PWDXZQ_small_Mei%20Mei%20-%20Events.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/pHDAqEpVR12fKyrvGXoS_large_Mei%20Mei%20-%20Events.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Yt6kAvcuRSu9p2wX2py1_full_Mei%20Mei%20-%20Events.jpg",
-            "width": 1341,
-            "height": 1340
-          }
-        }
-      }
-    ],
-    "person": [
-      "reci7k75SMLdI0Wjh"
-    ],
-    "(You can't directly edit this column)": "Mei Mei, AFX Board Summer/Fall 2016 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recAuBgjfYB2N5lD4": {
-    "createdTime": "2018-10-17T22:48:35.000Z",
-    "id": "recAuBgjfYB2N5lD4",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attleKx81Q7DBDq6K",
-        "url": "https://dl.airtable.com/Nduxp5hFS7W257Wa4TLF_Nancy%20Yang%20-%20PR%20Marketing.jpg",
-        "filename": "Nancy Yang - PR Marketing.jpg",
-        "size": 150571,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/PHSro7raQ9a7VA3xaIwe_small_Nancy%20Yang%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Oh7YLLKQTC5UKXnpZ9Tp_large_Nancy%20Yang%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 513
-          },
-          "full": {
-            "url": "https://dl.airtable.com/SjEwmRoVSUWTz74LQXMS_full_Nancy%20Yang%20-%20PR%20Marketing.jpg",
-            "width": 957,
-            "height": 959
-          }
-        }
-      }
-    ],
-    "person": [
-      "recH8tvzTKdL29gBU"
-    ],
-    "(You can't directly edit this column)": "Nancy Yang, AFX Board Summer/Fall 2016 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec16ckDJqJqxrZPg": {
-    "createdTime": "2018-10-17T22:48:55.000Z",
-    "id": "rec16ckDJqJqxrZPg",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "att3FMNdhioh8yINh",
-        "url": "https://dl.airtable.com/x5NcoOgYRcuxPkanKaXS_Patrick%20Lin%20-%20Events.jpg",
-        "filename": "Patrick Lin - Events.jpg",
-        "size": 250623,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/nkzND5bRBKEdqm0HEHRs_small_Patrick%20Lin%20-%20Events.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/TREcKwGGQDu4xdPu2Llg_large_Patrick%20Lin%20-%20Events.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/RM0KnpRTXekTqYktiQD0_full_Patrick%20Lin%20-%20Events.jpg",
-            "width": 681,
-            "height": 681
-          }
-        }
-      }
-    ],
-    "person": [
-      "recen1WngPBkT2o36"
-    ],
-    "(You can't directly edit this column)": "Patrick Lin, AFX Board Summer/Fall 2016 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recpJ858d4kQB4EPr": {
-    "createdTime": "2018-10-17T22:49:15.000Z",
-    "id": "recpJ858d4kQB4EPr",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attduAfqhZ54PCiNU",
-        "url": "https://dl.airtable.com/dqqeE6e7SlS1KRHyy1WN_Ryan%20Ta%20-%20Exec.jpg",
-        "filename": "Ryan Ta - Exec.jpg",
-        "size": 404803,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/40WFAT9wRiq1BPqN4v9L_small_Ryan%20Ta%20-%20Exec.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Ju7gn1ftSUqYTvVCt9tu_large_Ryan%20Ta%20-%20Exec.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/bLPVpld5RLW1Z9YJCJzG_full_Ryan%20Ta%20-%20Exec.jpg",
-            "width": 681,
-            "height": 908
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLla3pij2rxqiUK"
-    ],
-    "(You can't directly edit this column)": "Ryan Ta, AFX Board Summer/Fall 2016 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec9JZQjQwYloJops": {
-    "createdTime": "2018-10-17T22:49:35.000Z",
-    "id": "rec9JZQjQwYloJops",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attaqGBMcRzUJFHPd",
-        "url": "https://dl.airtable.com/ZqfQfzUOTCuW2vKA8oMQ_Shirley%20Li%20-%20PR%20Design.jpg",
-        "filename": "Shirley Li - PR Design.jpg",
-        "size": 139073,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/TA4Eas7bSiWwbyNhMMvf_small_Shirley%20Li%20-%20PR%20Design.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/crAjIuBvSSCZ6L4VxlZ4_large_Shirley%20Li%20-%20PR%20Design.jpg",
-            "width": 512,
-            "height": 513
-          },
-          "full": {
-            "url": "https://dl.airtable.com/6aMSI2xtScqOf7UcXKoA_full_Shirley%20Li%20-%20PR%20Design.jpg",
-            "width": 959,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLibXAEVugrELPu"
-    ],
-    "(You can't directly edit this column)": "Shirley Li, AFX Board Summer/Fall 2016 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec2GqsZxdnvsmOMW": {
-    "createdTime": "2018-10-17T22:49:57.000Z",
-    "id": "rec2GqsZxdnvsmOMW",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attILVV5mwLCc4b2x",
-        "url": "https://dl.airtable.com/PFjyBFVaSKSTfUPbEQ24_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
-        "filename": "Stephanie Kim - PR Marketing.jpg",
-        "size": 32363,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/WjYZd59ISPS5kJV15uOz_small_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/DOlv5xFThm2Me1QfJtau_large_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/9dthHLKkQHiGJ44ofcN3_full_Stephanie%20Kim%20-%20PR%20Marketing.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recdfUETv4veF8fUU"
-    ],
-    "(You can't directly edit this column)": "Stephanie Kim, AFX Board Summer/Fall 2016 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recSmcBMOj1lx3jUF": {
-    "createdTime": "2018-10-17T22:50:21.000Z",
-    "id": "recSmcBMOj1lx3jUF",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attuDRCrPbvXDPiwO",
-        "url": "https://dl.airtable.com/aH7mzpJcRHikgKW5xRCs_Susan%20Shen%20-%20Vice%20Exec.jpg",
-        "filename": "Susan Shen - Vice Exec.jpg",
-        "size": 428846,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Iev2o8j8QReMQRvKEL0C_small_Susan%20Shen%20-%20Vice%20Exec.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/qCVJxrGYSGqdgywI3Fib_large_Susan%20Shen%20-%20Vice%20Exec.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/bmPNwE2DRImchZN15Ee9_full_Susan%20Shen%20-%20Vice%20Exec.jpg",
-            "width": 1024,
-            "height": 768
-          }
-        }
-      }
-    ],
-    "person": [
-      "recgVaA2OjSYAR8oD"
-    ],
-    "(You can't directly edit this column)": "Susan Shen, AFX Board Summer/Fall 2016 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recBWKJ7nZnK49IUI": {
-    "createdTime": "2018-10-17T22:50:40.000Z",
-    "id": "recBWKJ7nZnK49IUI",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "att1lzxi4tsU1O4Dq",
-        "url": "https://dl.airtable.com/QXw7j6blSpeShhcvGIyl_Tan%20Vu%20-%20Historian.jpg",
-        "filename": "Tan Vu - Historian.jpg",
-        "size": 69202,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/DZjhMiKmSE2aFxDA1o7Q_small_Tan%20Vu%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/KQKq03pER26p9z3A142o_large_Tan%20Vu%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/PB3Mm5HSAWAQO7995Wdk_full_Tan%20Vu%20-%20Historian.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recDPvhPtHzXb8D5w"
-    ],
-    "(You can't directly edit this column)": "Tan Vu, AFX Board Summer/Fall 2016 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recaKAVUiPS4axGXZ": {
-    "createdTime": "2018-10-17T22:50:57.000Z",
-    "id": "recaKAVUiPS4axGXZ",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attb48eM2AjrfRhU3",
-        "url": "https://dl.airtable.com/ULZuYxL4RA2N1GRkDa6n_Wenhao%20Liao%20-%20Exec.jpg",
-        "filename": "Wenhao Liao - Exec.jpg",
-        "size": 294511,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1Y0AtsMHQmGI8M95B9Fg_small_Wenhao%20Liao%20-%20Exec.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/e12Q6ecUQHGOzTCzIT8s_large_Wenhao%20Liao%20-%20Exec.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/V9j7zBkRHarZ30gCwd5m_full_Wenhao%20Liao%20-%20Exec.jpg",
-            "width": 683,
-            "height": 683
-          }
-        }
-      }
-    ],
-    "person": [
-      "recb1hKgi5bRfTlH9"
-    ],
-    "(You can't directly edit this column)": "Wenhao Liao, AFX Board Summer/Fall 2016 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reccYYrL6cPXyeh6H": {
-    "createdTime": "2018-10-17T22:51:22.000Z",
-    "id": "reccYYrL6cPXyeh6H",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attkv47sEYeVFQcQa",
-        "url": "https://dl.airtable.com/vA7UHuMjTBiVUlhkS1kU_Winn%20Cui%20-%20Vice%20Exec.jpg",
-        "filename": "Winn Cui - Vice Exec.jpg",
-        "size": 164341,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/lpejwaGSjmA20gWtqzfA_small_Winn%20Cui%20-%20Vice%20Exec.jpg",
-            "width": 45,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Zvmiz5TEQCCW9eG9qbM5_large_Winn%20Cui%20-%20Vice%20Exec.jpg",
-            "width": 640,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/NZ2p8HaVTS6Eh3vEnwzk_full_Winn%20Cui%20-%20Vice%20Exec.jpg",
-            "width": 854,
-            "height": 683
-          }
-        }
-      }
-    ],
-    "person": [
-      "reccusci4MPy2I4i4"
-    ],
-    "(You can't directly edit this column)": "Winn Cui, AFX Board Summer/Fall 2016 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recZAsgx9Pww9moqU": {
-    "createdTime": "2018-10-17T22:52:12.000Z",
-    "id": "recZAsgx9Pww9moqU",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attjqzK90ABZA47jc",
-        "url": "https://dl.airtable.com/RJGWADxeQ26wfot9JyAJ_Aileen%20Gui%20-%20Finance.jpg",
-        "filename": "Aileen Gui - Finance.jpg",
-        "size": 59099,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/bg6cu5s6Q1qFl7i7P7LC_small_Aileen%20Gui%20-%20Finance.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/HcAovGEKSJGwynEaR2KQ_large_Aileen%20Gui%20-%20Finance.jpg",
-            "width": 512,
-            "height": 773
-          },
-          "full": {
-            "url": "https://dl.airtable.com/qlm3SBPURgaQiFF39ldc_full_Aileen%20Gui%20-%20Finance.jpg",
-            "width": 636,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recaIBY8nq01IWPqM"
-    ],
-    "(You can't directly edit this column)": "Aileen Gui, AFX Board Spring 2017 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rectPeFl8L3r1BHn3": {
-    "createdTime": "2018-10-17T22:52:50.000Z",
-    "id": "rectPeFl8L3r1BHn3",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attmiDm1sJd8yEPXc",
-        "url": "https://dl.airtable.com/KOQvMu9uRwKarYBrFwaa_Alex%20Nguyen%20-%20Historian.jpg",
-        "filename": "Alex Nguyen - Historian.jpg",
-        "size": 1080175,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RW0lqXMbQxmFvKb6jzLy_small_Alex%20Nguyen%20-%20Historian.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/vS0Pr6SSCP39K1QFMVAg_large_Alex%20Nguyen%20-%20Historian.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/v0YLEToKR1SWYxVGWcZu_full_Alex%20Nguyen%20-%20Historian.jpg",
-            "width": 2250,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Board Spring 2017 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recRnQm10089GTbld": {
-    "createdTime": "2018-10-17T22:53:10.000Z",
-    "id": "recRnQm10089GTbld",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attxdbLL9gtKPxnBU",
-        "url": "https://dl.airtable.com/YZhdSElRrOIcWzOAh0c2_Angie%20Liao%20-%20Outreach.jpg",
-        "filename": "Angie Liao - Outreach.jpg",
-        "size": 74912,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/MVByze5mSomBWkhh58a1_small_Angie%20Liao%20-%20Outreach.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/uO4gCJxASQy7rXQLn3yb_large_Angie%20Liao%20-%20Outreach.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BmIAcDUcS16FjGSPGFFf_full_Angie%20Liao%20-%20Outreach.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2017 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recwtb0YqUyFUnBKp": {
-    "createdTime": "2018-10-17T22:53:29.000Z",
-    "id": "recwtb0YqUyFUnBKp",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attwtiuzAh0GwwUhF",
-        "url": "https://dl.airtable.com/A4C8GwkSSt68SuDgcZ71_Anna%20Liang%20-%20PR%20Marketing.jpg",
-        "filename": "Anna Liang - PR Marketing.jpg",
-        "size": 90188,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ZDWKWYNBRlSnFkbNErvt_small_Anna%20Liang%20-%20PR%20Marketing.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/KmzRpaPZSBmAslRN8jNq_large_Anna%20Liang%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/UYKKLjccSQET72TZbygJ_full_Anna%20Liang%20-%20PR%20Marketing.jpg",
-            "width": 720,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recaFAdgok66RkVsR"
-    ],
-    "(You can't directly edit this column)": "Anna Liang, AFX Board Spring 2017 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recqnIywOC0Vr3Rlc": {
-    "createdTime": "2018-10-17T22:53:48.000Z",
-    "id": "recqnIywOC0Vr3Rlc",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "att1qKyffCSnM7BJt",
-        "url": "https://dl.airtable.com/i3oHpFj8RQG0wyoPhLSZ_Charmaine%20Lai%20-%20Historian.jpg",
-        "filename": "Charmaine Lai - Historian.jpg",
-        "size": 1024101,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Ds1bJJuVRuyrVutsuaTT_small_Charmaine%20Lai%20-%20Historian.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Dzqh3oNqT0mrH1s5Rq8F_large_Charmaine%20Lai%20-%20Historian.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/RIovMvYeTuWwCSxSGm1S_full_Charmaine%20Lai%20-%20Historian.jpg",
-            "width": 3000,
-            "height": 2000
           }
         }
       }
@@ -11812,376 +15666,48 @@ export let PersonPositions = {
     "person": [
       "recnJ1jNx4hdHcs8S"
     ],
-    "(You can't directly edit this column)": "Charmaine Lai, AFX Board Spring 2017 Historian",
+    "(You can't directly edit this column)": "Charmaine Lai, AFX Board Summer/Fall 2017 Historian",
     "groupType": [
       "board"
     ]
   },
-  "recOzSRjNX9vREosk": {
-    "createdTime": "2018-10-17T22:54:07.000Z",
-    "id": "recOzSRjNX9vREosk",
+  "recNCn5iSCGzeCbGa": {
+    "createdTime": "2018-10-17T23:38:35.000Z",
+    "id": "recNCn5iSCGzeCbGa",
     "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attuQfkVaQcvg7alb",
-        "url": "https://dl.airtable.com/6GO2EuwTbmeMph4PX2jX_Danielle%20Li%20-%20PR%20Design.jpg",
-        "filename": "Danielle Li - PR Design.jpg",
-        "size": 166085,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/XdzlRAe5R4WcsNzlzE5A_small_Danielle%20Li%20-%20PR%20Design.jpg",
-            "width": 31,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/wl1wZP3aTXOvqiw5jvpA_large_Danielle%20Li%20-%20PR%20Design.jpg",
-            "width": 512,
-            "height": 601
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ie1K8n8OSz2qY9xfjFHE_full_Danielle%20Li%20-%20PR%20Design.jpg",
-            "width": 711,
-            "height": 835
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4xqb3LIKHRZjFp"
-    ],
-    "(You can't directly edit this column)": "Danielle Li, AFX Board Spring 2017 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recUoDEMVQwdj8pdF": {
-    "createdTime": "2018-10-17T22:54:33.000Z",
-    "id": "recUoDEMVQwdj8pdF",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attJO0bspNmjPNUYN",
-        "url": "https://dl.airtable.com/qp8eRLDQ7yeDhOYuaK8g_Emily%20Hill%20-%20PR%20Marketing.jpg",
-        "filename": "Emily Hill - PR Marketing.jpg",
-        "size": 95765,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/PmhAaDhRxuGGNJ9NDhFL_small_Emily%20Hill%20-%20PR%20Marketing.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/AIkwRblGTdOmvJ0v0zth_large_Emily%20Hill%20-%20PR%20Marketing.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/US53ueWaRsanWnb1T3Ja_full_Emily%20Hill%20-%20PR%20Marketing.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recD2MQzODBpKusXm"
-    ],
-    "(You can't directly edit this column)": "Emily Hill, AFX Board Spring 2017 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec2eY3R0ExDIo5rY": {
-    "createdTime": "2018-10-17T22:54:53.000Z",
-    "id": "rec2eY3R0ExDIo5rY",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attZxu8uTURpsrxeZ",
-        "url": "https://dl.airtable.com/Y0KBK4uZQ8Kylt0h4bbD_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
-        "filename": "Jeffrey Wang - Vice Exec.jpg",
-        "size": 763306,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/SYMiXoPORTqDgejvJhoH_small_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/fjt6EFHTUWoHHOYDf27C_large_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/EO0aHpTSqmND07REapIf_full_Jeffrey%20Wang%20-%20Vice%20Exec.jpg",
-            "width": 2000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "person": [
-      "recO6btsvRqZeuJjP"
-    ],
-    "(You can't directly edit this column)": "Jeffrey Wang, AFX Board Spring 2017 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recvdEHm4j3CBAHaL": {
-    "createdTime": "2018-10-17T22:55:12.000Z",
-    "id": "recvdEHm4j3CBAHaL",
-    "group": [
-      "recSb1AY0752pOYe6"
+      "recV60tDu2ac60oV5"
     ],
     "positionTitle": "Historian",
     "picture": [
       {
-        "id": "attKfiN8QNECcKsak",
-        "url": "https://dl.airtable.com/IPU9ujtMQxZxYg6f8ObV_Kim%20Ambrocio%20-%20Historian.jpg",
-        "filename": "Kim Ambrocio - Historian.jpg",
-        "size": 39166,
+        "id": "attcoHM2vQQlluCkZ",
+        "url": "https://dl.airtable.com/CXvUgTdhQTGor6vEsxnT_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
+        "filename": "Navid Jawad, Board - Historian, Fall 2017.jpg",
+        "size": 219243,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/afoqI4ePSaqcQB917jhM_small_Kim%20Ambrocio%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Or1ktx4hQSSbon1chSeL_large_Kim%20Ambrocio%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3UwlSgOdReuzWxqBXOBU_full_Kim%20Ambrocio%20-%20Historian.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recewlyjxE33ebDly"
-    ],
-    "(You can't directly edit this column)": "Kim Ambrocio, AFX Board Spring 2017 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recs15zKfmfMsjBgE": {
-    "createdTime": "2018-10-17T22:55:29.000Z",
-    "id": "recs15zKfmfMsjBgE",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "atttMva8KO2ocHPV0",
-        "url": "https://dl.airtable.com/e6105NuZTfaoFd6nquC7_Mark%20Refe%20-%20Outreach.jpg",
-        "filename": "Mark Refe - Outreach.jpg",
-        "size": 103086,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/fWpTnUh1RFa19NiWj8QV_small_Mark%20Refe%20-%20Outreach.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ZBOOMuxSm6gLa3ee7G9I_large_Mark%20Refe%20-%20Outreach.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/7QgWf1ohQc2yjb8FU1Nk_full_Mark%20Refe%20-%20Outreach.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recQEUQvGhpt2Sydx"
-    ],
-    "(You can't directly edit this column)": "Mark Refe, AFX Board Spring 2017 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recRhyhlWtKnOo3f8": {
-    "createdTime": "2018-10-17T22:56:16.000Z",
-    "id": "recRhyhlWtKnOo3f8",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attKOh9aAvb7o2QU7",
-        "url": "https://dl.airtable.com/VYMhI3wRsyvcNUXjLO1Q_Mei%20Mei%20-%20Vice%20Exec.jpg",
-        "filename": "Mei Mei - Vice Exec.jpg",
-        "size": 223286,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Y5aoNIntSSuW8OUpcYWq_small_Mei%20Mei%20-%20Vice%20Exec.jpg",
+            "url": "https://dl.airtable.com/drL4H1ZAR5arJW8A1EnH_small_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/oNvbUSBQuyVh4qfomP7T_large_Mei%20Mei%20-%20Vice%20Exec.jpg",
+            "url": "https://dl.airtable.com/WKEgrClySvekaZ8iertL_large_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
             "width": 512,
-            "height": 770
+            "height": 767
           },
           "full": {
-            "url": "https://dl.airtable.com/DXo9sLMnRbGaFX90nvO1_full_Mei%20Mei%20-%20Vice%20Exec.jpg",
-            "width": 1361,
+            "url": "https://dl.airtable.com/cByiEC9gRg2IYTBb77pI_full_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
+            "width": 1367,
             "height": 2048
           }
         }
       }
     ],
     "person": [
-      "reci7k75SMLdI0Wjh"
+      "recVTIsM4iNA1qOgR"
     ],
-    "(You can't directly edit this column)": "Mei Mei, AFX Board Spring 2017 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWGoUj92415MYGK": {
-    "createdTime": "2018-10-17T22:56:34.000Z",
-    "id": "recWGoUj92415MYGK",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attDw67DXnslwWUre",
-        "url": "https://dl.airtable.com/AYxxrLC3T3qDpjg1rvVO_Michael%20Chan%20-%20Events.jpg",
-        "filename": "Michael Chan - Events.jpg",
-        "size": 315747,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/DuRt1rT5SHGwtmXJQCoJ_small_Michael%20Chan%20-%20Events.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/4BbOXtDKTaCWX311hzD6_large_Michael%20Chan%20-%20Events.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/R8orsNnTGyelTC4yL4zw_full_Michael%20Chan%20-%20Events.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recvmimrks8m7hMNB"
-    ],
-    "(You can't directly edit this column)": "Michael Chen, AFX Board Spring 2017 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reciu5395LaD08ooO": {
-    "createdTime": "2018-10-17T22:57:00.000Z",
-    "id": "reciu5395LaD08ooO",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attKp9vT3YIrpFUL2",
-        "url": "https://dl.airtable.com/M6h280esT1WBKRDyxm6S_Nicole%20Shim%20-%20PR%20Design.jpg",
-        "filename": "Nicole Shim - PR Design.jpg",
-        "size": 51700,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/PQPnzw6rTKWwis3JfSEh_small_Nicole%20Shim%20-%20PR%20Design.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/SMq1cVPNReGZvM7VEAZd_large_Nicole%20Shim%20-%20PR%20Design.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ftgLc5hTluBkdIHHlVec_full_Nicole%20Shim%20-%20PR%20Design.jpg",
-            "width": 1136,
-            "height": 851
-          }
-        }
-      }
-    ],
-    "person": [
-      "recmLTV2BFh495bJC"
-    ],
-    "(You can't directly edit this column)": "Nicole Shim, AFX Board Spring 2017 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recA5AtEHnQjODYey": {
-    "createdTime": "2018-10-17T22:57:19.000Z",
-    "id": "recA5AtEHnQjODYey",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attuAi4fFt6mcT4bn",
-        "url": "https://dl.airtable.com/PpQp4MhQ5ixrVaV4Ze0Y_Nolan%20Pokpongkiat%20-%20Finance.jpg",
-        "filename": "Nolan Pokpongkiat - Finance.jpg",
-        "size": 70468,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/SGMATceHSHypMEsGSqBK_small_Nolan%20Pokpongkiat%20-%20Finance.jpg",
-            "width": 29,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/pGinV1dWRjCgUnzCdCk6_large_Nolan%20Pokpongkiat%20-%20Finance.jpg",
-            "width": 512,
-            "height": 640
-          },
-          "full": {
-            "url": "https://dl.airtable.com/JClIqSPJQBSVvZDBAbd6_full_Nolan%20Pokpongkiat%20-%20Finance.jpg",
-            "width": 768,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recPgjUGxFwXXOPoQ"
-    ],
-    "(You can't directly edit this column)": "Nolan Pokpongkiat, AFX Board Spring 2017 Finance Chair",
+    "(You can't directly edit this column)": "Navid Jawad, AFX Board Summer/Fall 2017 Historian",
     "groupType": [
       "board"
     ]
@@ -12223,252 +15749,6 @@ export let PersonPositions = {
       "recen1WngPBkT2o36"
     ],
     "(You can't directly edit this column)": "Patrick Lin, AFX Board Summer/Fall 2017 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec0CTTAqpcyachz4": {
-    "createdTime": "2018-10-17T22:58:13.000Z",
-    "id": "rec0CTTAqpcyachz4",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attGoBOvWUNWYSTlb",
-        "url": "https://dl.airtable.com/QDBo2ZKTTmWvCAdG61Jn_Richard%20Xu%20-%20Historian.jpg",
-        "filename": "Richard Xu - Historian.jpg",
-        "size": 60322,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/PdBHc7wkTquBbW0bIM6K_small_Richard%20Xu%20-%20Historian.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/hDpD0ZTBmUdRazOSb92w_large_Richard%20Xu%20-%20Historian.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/iX2rAYUZQWGzD7OOUkhk_full_Richard%20Xu%20-%20Historian.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recKBDLL5lmSDiNTY"
-    ],
-    "(You can't directly edit this column)": "Richard Xu, AFX Board Spring 2017 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recbGFrP03BLwiDTs": {
-    "createdTime": "2018-10-17T22:58:33.000Z",
-    "id": "recbGFrP03BLwiDTs",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attI0Nmmj0MNH9KJx",
-        "url": "https://dl.airtable.com/9GJxB7Y2Qy6YFidbExM4_Robert%20Yu%20-%20Events.jpg",
-        "filename": "Robert Yu - Events.jpg",
-        "size": 86750,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/SgZMrh6RS3aQ79hnnzY9_small_Robert%20Yu%20-%20Events.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/qSgtDsgAQiWP8uGUeca9_large_Robert%20Yu%20-%20Events.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/1UHZcar2SzuYpy16sTfK_full_Robert%20Yu%20-%20Events.jpg",
-            "width": 1288,
-            "height": 1288
-          }
-        }
-      }
-    ],
-    "person": [
-      "recCmof4I4TUVFaZ3"
-    ],
-    "(You can't directly edit this column)": "Robert Yu, AFX Board Spring 2017 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recPPz4kBRV4YoVeU": {
-    "createdTime": "2018-10-17T22:58:50.000Z",
-    "id": "recPPz4kBRV4YoVeU",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attidgFkeMkLStNzU",
-        "url": "https://dl.airtable.com/v8cf7bTtTL6xXT2D4Osx_Ryan%20Ta%20-%20Exec.jpg",
-        "filename": "Ryan Ta - Exec.jpg",
-        "size": 164663,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/V6ZaRr3gQKGVSwmda6fk_small_Ryan%20Ta%20-%20Exec.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/JEg5GmT4OxB6S3X8Pdzw_large_Ryan%20Ta%20-%20Exec.jpg",
-            "width": 767,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/eCj3SCUNTRWtgw2djpeA_full_Ryan%20Ta%20-%20Exec.jpg",
-            "width": 1334,
-            "height": 891
-          }
-        }
-      }
-    ],
-    "person": [
-      "recLla3pij2rxqiUK"
-    ],
-    "(You can't directly edit this column)": "Ryan Ta, AFX Board Spring 2017 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec2UtXTU4cm9hpjF": {
-    "createdTime": "2018-10-17T22:59:10.000Z",
-    "id": "rec2UtXTU4cm9hpjF",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attf7NVOLCZifR6TO",
-        "url": "https://dl.airtable.com/.attachments/ebe47c4d9bd8729f0726358a314ca42f/42ba21af/SheldonChen_SP17.PNG",
-        "filename": "Sheldon Chen_SP17.PNG",
-        "size": 1074227,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/666128f4e6b23dc1b450a6720191b3b2/e52dc4b9",
-            "width": 45,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/acd09e5c7d9bd2220a0f37b921098aba/974bddd3",
-            "width": 636,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6c52869b141483ec3f64c5544b9b47cf/95ea9d17",
-            "width": 815,
-            "height": 656
-          }
-        }
-      }
-    ],
-    "(You can't directly edit this column)": "Sheldon Chen, AFX Board Spring 2017 PR Design",
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recLFDbA5iq2o2spW"
-    ]
-  },
-  "recZFzCcA5n9Tuyij": {
-    "createdTime": "2018-10-17T22:59:30.000Z",
-    "id": "recZFzCcA5n9Tuyij",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "att9T596ALpv1F0SD",
-        "url": "https://dl.airtable.com/Nt87ZcrWQPeDY7ZXumPj_Stephanie%20Kim%20-%20Events.jpg",
-        "filename": "Stephanie Kim - Events.jpg",
-        "size": 56039,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/kjK8I0YTXCrKrFp1qkjQ_small_Stephanie%20Kim%20-%20Events.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/8hWaKUgQ3edpX7KnhHII_large_Stephanie%20Kim%20-%20Events.jpg",
-            "width": 518,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/6HPYxsefTzqlxyABnfO0_full_Stephanie%20Kim%20-%20Events.jpg",
-            "width": 750,
-            "height": 742
-          }
-        }
-      }
-    ],
-    "person": [
-      "recdfUETv4veF8fUU"
-    ],
-    "(You can't directly edit this column)": "Stephanie Kim, AFX Board Spring 2017 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recF4UufceUmsaz3Y": {
-    "createdTime": "2018-10-17T22:59:47.000Z",
-    "id": "recF4UufceUmsaz3Y",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attGsKwG3dAi3OxCR",
-        "url": "https://dl.airtable.com/3RExN89mQMG5Q1VR3b36_Winn%20Cui%20-%20Exec.jpg",
-        "filename": "Winn Cui - Exec.jpg",
-        "size": 117169,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/fUcXCBK6Tx66W2z66zTk_small_Winn%20Cui%20-%20Exec.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/b6yaSo8RQeW2w9I1mnF8_large_Winn%20Cui%20-%20Exec.jpg",
-            "width": 770,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/29h9OEKhSaycY44JPyUx_full_Winn%20Cui%20-%20Exec.jpg",
-            "width": 1000,
-            "height": 665
-          }
-        }
-      }
-    ],
-    "person": [
-      "reccusci4MPy2I4i4"
-    ],
-    "(You can't directly edit this column)": "Winn Cui, AFX Board Spring 2017 Executive Director",
     "groupType": [
       "board"
     ]
@@ -12678,88 +15958,6 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "recOpta8sOgUHtIAv": {
-    "createdTime": "2018-10-17T23:37:47.000Z",
-    "id": "recOpta8sOgUHtIAv",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attW8LFTYxpHfaOxp",
-        "url": "https://dl.airtable.com/OTycUsRSAKZcjXiOaKMe_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-        "filename": "Charmaine Lai, Board - Historian, Fall 2017.jpg",
-        "size": 173238,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ssCIoUN6SGSimNVHrHwg_small_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Lt257EC8QgO9vZUHBXeB_large_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/AarXv7DkTeTpiyZUtdgR_full_Charmaine%20Lai%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-            "width": 1366,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnJ1jNx4hdHcs8S"
-    ],
-    "(You can't directly edit this column)": "Charmaine Lai, AFX Board Summer/Fall 2017 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recNCn5iSCGzeCbGa": {
-    "createdTime": "2018-10-17T23:38:35.000Z",
-    "id": "recNCn5iSCGzeCbGa",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attcoHM2vQQlluCkZ",
-        "url": "https://dl.airtable.com/CXvUgTdhQTGor6vEsxnT_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-        "filename": "Navid Jawad, Board - Historian, Fall 2017.jpg",
-        "size": 219243,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/drL4H1ZAR5arJW8A1EnH_small_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/WKEgrClySvekaZ8iertL_large_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/cByiEC9gRg2IYTBb77pI_full_Navid%20Jawad%2C%20Board%20-%20Historian%2C%20Fall%202017.jpg",
-            "width": 1367,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVTIsM4iNA1qOgR"
-    ],
-    "(You can't directly edit this column)": "Navid Jawad, AFX Board Summer/Fall 2017 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
   "recunId6aCRH4Jc2z": {
     "createdTime": "2018-10-17T23:39:13.000Z",
     "id": "recunId6aCRH4Jc2z",
@@ -12842,156 +16040,33 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "reckBSsIr0Y8teuIl": {
-    "createdTime": "2018-10-17T23:43:16.000Z",
-    "id": "reckBSsIr0Y8teuIl",
+  "rec1fMNZGppXBQW6N": {
+    "createdTime": "2018-10-18T00:42:19.000Z",
+    "id": "rec1fMNZGppXBQW6N",
     "group": [
-      "recPWlKgpGEXDmwBI"
+      "recV60tDu2ac60oV5"
     ],
-    "positionTitle": "Executive Director",
+    "positionTitle": "Comp Artistics ",
     "picture": [
       {
-        "id": "attG9SYt3bK042yff",
-        "url": "https://dl.airtable.com/O2kPzPPsT4qfbm7ynYvY_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-        "filename": "Jeffrey Wang, Board - Exec, Spring 2018.jpg",
-        "size": 218148,
+        "id": "attRUoWqMsgioGDcd",
+        "url": "https://dl.airtable.com/9FERMvPZTtCJBQ4zrnvi_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+        "filename": "Trisha Giron, Comp Board - Artistic Director, Fall 2017.jpg",
+        "size": 282908,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/UAyjHAZKQ5GQTFsNr82p_small_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/00PDeItPTyOb09BmKk3H_large_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/hJdTcjNRSaUVyOytxm61_full_Jeffrey%20Wang%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "recO6btsvRqZeuJjP"
-    ],
-    "(You can't directly edit this column)": "Jeffrey Wang, AFX Board Spring 2018 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec1vQvWschmPVm61": {
-    "createdTime": "2018-10-17T23:44:26.000Z",
-    "id": "rec1vQvWschmPVm61",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attKF35DiPEAKSDLE",
-        "url": "https://dl.airtable.com/UXXSaJwgTjqU5JjajPIt_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-        "filename": "Stephanie Kim, Board - Exec, Spring 2018.jpg",
-        "size": 138463,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/n1tYvvgT0eUoFNWKqLLg_small_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/Iyhth4tSRCK2QVU0RYwf_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/s4pGX8VIS0SqDWjnlj3h_large_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/rjpbfaWtTxOKaEk6uZb9_full_Stephanie%20Kim%2C%20Board%20-%20Exec%2C%20Spring%202018.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recdfUETv4veF8fUU"
-    ],
-    "(You can't directly edit this column)": "Stephanie Kim, AFX Board Spring 2018 Executive Director",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recOm0w7AwBFrZEh3": {
-    "createdTime": "2018-10-17T23:45:20.000Z",
-    "id": "recOm0w7AwBFrZEh3",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "atthmi3mtezlDSR40",
-        "url": "https://dl.airtable.com/ssxEeThSj2zu4qG0Clsu_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
-        "filename": "Angie Liao, Board - Vice Exec, Spring 2018.jpg",
-        "size": 432053,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/mP4nlDTBTVytxrN9Gnf7_small_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/QvWiSlVFSvGnK6IQn0aF_large_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ZWvExuWgSfSySwvSwpGZ_full_Angie%20Liao%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recTX06RHpFGNzK9T": {
-    "createdTime": "2018-10-17T23:46:48.000Z",
-    "id": "recTX06RHpFGNzK9T",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attNSmykUEEgGaJ7r",
-        "url": "https://dl.airtable.com/zPKqME2QRD66bvFrTi6w_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
-        "filename": "Danielle Li, Board - Vice Exec, Spring 2018.jpg",
-        "size": 172698,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/oEfrNdQbQCaBFNuGIFS1_small_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/0bVrVtyySjKnjobZt88b_large_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/ww2HdFWkTAa4iPReLTnc_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
             "width": 512,
             "height": 767
           },
           "full": {
-            "url": "https://dl.airtable.com/fMGk7E0ZRTCApOnZOuaQ_full_Danielle%20Li%2C%20Board%20-%20Vice%20Exec%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/b9QpmY3KT5u606gAZne8_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
             "width": 1367,
             "height": 2048
           }
@@ -12999,81 +16074,40 @@ export let PersonPositions = {
       }
     ],
     "person": [
-      "rec4xqb3LIKHRZjFp"
+      "recNxGjKy27HT3XML"
     ],
-    "(You can't directly edit this column)": "Danielle Li, AFX Board Spring 2018 Vice Executive",
+    "(You can't directly edit this column)": "Trisha Giron, AFX Board Summer/Fall 2017 Comp Artistics ",
     "groupType": [
       "board"
     ]
   },
-  "rec8fq44tkasMgUFF": {
-    "createdTime": "2018-10-17T23:47:46.000Z",
-    "id": "rec8fq44tkasMgUFF",
+  "recJ4qaFgB7HGebc7": {
+    "createdTime": "2018-10-18T00:44:56.000Z",
+    "id": "recJ4qaFgB7HGebc7",
     "group": [
-      "recPWlKgpGEXDmwBI"
+      "recV60tDu2ac60oV5"
     ],
-    "positionTitle": "PR Marketing",
+    "positionTitle": "Comp Artistics ",
     "picture": [
       {
-        "id": "attTVdF3dfYkaxviE",
-        "url": "https://dl.airtable.com/S7pvL40FTWGm6bE9UopD_CW-James%20(1).jpg",
-        "filename": "James Chen, Board - Marketing, Spring 2018",
-        "size": 60782,
+        "id": "attWJcuvZxk2M3831",
+        "url": "https://dl.airtable.com/v8J8ZHRJybQ668K2SyA4_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
+        "filename": "Emilio Cuartero, Comp Board - Artistic Director, Fall 2017.jpg",
+        "size": 283296,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/MBeHf3DqTO2rkrROkZJv_small_CW-James%20(1).jpg",
-            "width": 35,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/suJGDnEjTFKDzRfayb47_large_CW-James%20(1).jpg",
-            "width": 512,
-            "height": 527
-          },
-          "full": {
-            "url": "https://dl.airtable.com/GV8BsECKTZCymk3z0cty_full_CW-James%20(1).jpg",
-            "width": 570,
-            "height": 587
-          }
-        }
-      }
-    ],
-    "person": [
-      "recIrcS0iqZm0deBi"
-    ],
-    "(You can't directly edit this column)": "James Chen, AFX Board Spring 2018 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recbuA6BMMXIx3eRa": {
-    "createdTime": "2018-10-17T23:48:25.000Z",
-    "id": "recbuA6BMMXIx3eRa",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attdXqN5ICZH2usEo",
-        "url": "https://dl.airtable.com/O7o4TH0SiDCD2mir6Rjw_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-        "filename": "Ryan Wong, Board - Marketing, Spring 2018.jpg",
-        "size": 254053,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/L819vorXQXeU3PvptqUm_small_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/d0xKAjMjQ2qQkrbpv1Cf_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
             "width": 27,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/IOFPGWa0SNK0tY80MhVz_large_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/nGnJR9w0Sru2MtxPlMWh_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
             "width": 512,
             "height": 683
           },
           "full": {
-            "url": "https://dl.airtable.com/txyEavMURCyGxuQnr7xJ_full_Ryan%20Wong%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/kOsKmSLtQKum1xsY0iNk_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
             "width": 1536,
             "height": 2048
           }
@@ -13081,409 +16115,122 @@ export let PersonPositions = {
       }
     ],
     "person": [
-      "recBls2iU2PDgwqk5"
+      "recn9QkB6vln1iqIG"
     ],
-    "(You can't directly edit this column)": "Ryan Wong, AFX Board Spring 2018 PR Marketing",
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2017 Comp Artistics ",
     "groupType": [
       "board"
     ]
   },
-  "recY0wr9dD6XrplEt": {
-    "createdTime": "2018-10-17T23:48:58.000Z",
-    "id": "recY0wr9dD6XrplEt",
+  "recOJEHgsz20gcZgQ": {
+    "createdTime": "2018-10-18T00:40:04.000Z",
+    "id": "recOJEHgsz20gcZgQ",
     "group": [
-      "recPWlKgpGEXDmwBI"
+      "recV60tDu2ac60oV5"
     ],
-    "positionTitle": "PR Marketing",
+    "positionTitle": "Comp Captain",
     "picture": [
       {
-        "id": "attOJXCrv2O9qeXpT",
-        "url": "https://dl.airtable.com/rJPmPosuR4KX7lMExEDk_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-        "filename": "Jeremiah Kim, Board - Marketing, Spring 2018.jpg",
-        "size": 65121,
+        "id": "attL636gemj8DQTM1",
+        "url": "https://dl.airtable.com/v04shpJSTA6mWM0RIUig_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+        "filename": "AC Dela Paz, Comp Board - Captain, Fall 2017.jpg",
+        "size": 172569,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/KY8bBmXnRlq0ozA1HpAJ_small_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/n9lZ3ihDRSKZK6eIHz5x_large_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 766
-          },
-          "full": {
-            "url": "https://dl.airtable.com/YAiTj4iUQkWBEEROkqjU_full_Jeremiah%20Kim%2C%20Board%20-%20Marketing%2C%20Spring%202018.jpg",
-            "width": 668,
-            "height": 1000
-          }
-        }
-      }
-    ],
-    "person": [
-      "recFEcamXUNR9EndJ"
-    ],
-    "(You can't directly edit this column)": "Jeremiah Kim, AFX Board Spring 2018 PR Marketing",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec1ej6auMgWYirwN": {
-    "createdTime": "2018-10-17T23:49:32.000Z",
-    "id": "rec1ej6auMgWYirwN",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "atto71Riy9ORle08X",
-        "url": "https://dl.airtable.com/FNqcJ9FRSVGm7yl3sdeC_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-        "filename": "Nicole Shim, Board - Design, Spring 2018.jpg",
-        "size": 205632,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1pHmUDTQTeQjqfdPsUDm_small_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/vmmaLEeFSNKfNjPcUjyk_large_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/aOOZRrxTRWJj5Jic9g8g_full_Nicole%20Shim%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recmLTV2BFh495bJC"
-    ],
-    "(You can't directly edit this column)": "Nicole Shim, AFX Board Spring 2018 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recgAAXh8WKL1kcO0": {
-    "createdTime": "2018-10-17T23:50:05.000Z",
-    "id": "recgAAXh8WKL1kcO0",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attg9Tk5BYifKeWxR",
-        "url": "https://dl.airtable.com/OVswRO66SJGigZQxEJkx_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-        "filename": "Christine Ho, Board - Design, Spring 2018.jpg",
-        "size": 337240,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ThkZEwwBSoaIyIqxKBtS_small_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/dfXlNYgURlSc9qQnfssg_large_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/efIatjyyTh24g9a4lhv0_full_Christine%20Ho%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 1365,
-            "height": 1365
-          }
-        }
-      }
-    ],
-    "person": [
-      "recJu9Hcotxvp8rOT"
-    ],
-    "(You can't directly edit this column)": "Christine Ho, AFX Board Spring 2018 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recssZGhieI9WjLJB": {
-    "createdTime": "2018-10-17T23:50:39.000Z",
-    "id": "recssZGhieI9WjLJB",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "att35LRb7jHmmLKzm",
-        "url": "https://dl.airtable.com/4f8m1jfPQh6nYrNZru5N_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-        "filename": "Monica Li, Board - Design, Spring 2018.jpg",
-        "size": 115809,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/DWBz7mFsTGK4oXtSbDsj_small_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/7E5UTZDRTW5PnPXeXLNG_small_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
             "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/D6ka6wGDRmuY0KqBUHyE_large_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/1P7iByUISteCurMEiJfs_large_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
             "width": 768,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/loMCTUcSxCaFZW3zFDxu_full_Monica%20Li%2C%20Board%20-%20Design%2C%20Spring%202018.jpg",
-            "width": 1405,
-            "height": 937
-          }
-        }
-      }
-    ],
-    "person": [
-      "recCmFeqHAujsDBhb"
-    ],
-    "(You can't directly edit this column)": "Monica Li, AFX Board Spring 2018 PR Design",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recf2TJ7oiYZ3ENj7": {
-    "createdTime": "2018-10-17T23:51:59.000Z",
-    "id": "recf2TJ7oiYZ3ENj7",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attv5Z7uu7oaeWqa1",
-        "url": "https://dl.airtable.com/FPEgUDOIQpGANESAGgxp_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-        "filename": "Charmaine Lai, Board - Finance, Spring 2018.jpg",
-        "size": 173238,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/uZae0krNR7e8hFCRXC1M_small_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/59rjHKXRNOrlyYW8s3dA_large_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/mo6DwPmzThDiuMDO0RcH_full_Charmaine%20Lai%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 1366,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnJ1jNx4hdHcs8S"
-    ],
-    "(You can't directly edit this column)": "Charmaine Lai, AFX Board Spring 2018 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recNbD8Ax95wnPUXH": {
-    "createdTime": "2018-10-17T23:52:43.000Z",
-    "id": "recNbD8Ax95wnPUXH",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attMhatDQ1NRLojQm",
-        "url": "https://dl.airtable.com/K0qyWvVEQ92Qyt0XcHLu_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-        "filename": "Soo Rim Choi, Board - Finance, Spring 2018.jpg",
-        "size": 15270,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/8jnGnO7lTjauvpWQQB0w_small_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/XxJPeXjSRheayoBCy0ac_large_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 423,
-            "height": 423
-          },
-          "full": {
-            "url": "https://dl.airtable.com/DQCaErRXmcY47uL1IOog_full_Soo%20Rim%20Choi%2C%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 423,
-            "height": 423
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqzbrK1cnXPa5Wd"
-    ],
-    "(You can't directly edit this column)": "Soo Rim Choi, AFX Board Spring 2018 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recKH6lInnnP3rq5v": {
-    "createdTime": "2018-10-17T23:53:28.000Z",
-    "id": "recKH6lInnnP3rq5v",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attaOKQTZJXaKscRr",
-        "url": "https://dl.airtable.com/ByhwaPlSEG001jtwE2nS_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-        "filename": "Chloe Ding, Board - Events, Spring 2018.jpg",
-        "size": 349185,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/VoLwTtOlRqflCnggQ2Pf_small_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/F8VkkR6HQ4qsK48rkpUq_large_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/DAYrbPtVTl2nnq3KHyLQ_full_Chloe%20Ding%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 1366,
+            "url": "https://dl.airtable.com/cH55znmRGWjr8nWQtfoB_full_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 2048,
             "height": 1366
           }
         }
       }
     ],
     "person": [
-      "reclQY37yXdhBjDGH"
+      "rec2nvAlUafPaALoo"
     ],
-    "(You can't directly edit this column)": "Chloe Ding, AFX Board Spring 2018 Events Chair",
+    "(You can't directly edit this column)": "AC Dela Paz, AFX Board Summer/Fall 2017 Comp Captain",
     "groupType": [
       "board"
     ]
   },
-  "recySsvbLKyHk9sfh": {
-    "createdTime": "2018-10-17T23:54:06.000Z",
-    "id": "recySsvbLKyHk9sfh",
+  "recD8ZQSM8cA7PbBW": {
+    "createdTime": "2018-10-18T00:41:14.000Z",
+    "id": "recD8ZQSM8cA7PbBW",
     "group": [
-      "recPWlKgpGEXDmwBI"
+      "recV60tDu2ac60oV5"
     ],
-    "positionTitle": "Events Chair",
+    "positionTitle": "Comp Captain",
     "picture": [
       {
-        "id": "att9a2N2s2LzMV50q",
-        "url": "https://dl.airtable.com/e7aOGdX0TtKkiyE9CejN_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-        "filename": "Karina Hull, Board - Events, Spring 2018.jpg",
-        "size": 72528,
+        "id": "att1Q9cCUAwKF0UfZ",
+        "url": "https://dl.airtable.com/HJ4iXToqTuyJMdTor0ox_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
+        "size": 239226,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/midXl1iUSfCUKVrRAG8E_small_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 36,
+            "url": "https://dl.airtable.com/xdSdMlyQRe81uHEqikP9_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/Bl3RD6YIRGmTifgRFYbV_large_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 513,
+            "url": "https://dl.airtable.com/SR7CeXRBRtnMy67jJeb3_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 768,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/iubQpdwiR32HZWm2e2pI_full_Karina%20Hull%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 890,
-            "height": 888
+            "url": "https://dl.airtable.com/poVJ25jzTSmBTYhRWDhg_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 2048,
+            "height": 1366
           }
         }
       }
     ],
     "person": [
-      "reczY2iMsgy8o68WH"
+      "recnIIrPMXGlfHFb9"
     ],
-    "(You can't directly edit this column)": "Karina Hull, AFX Board Spring 2018 Events Chair",
+    "(You can't directly edit this column)": "Lenny Dong, AFX Board Summer/Fall 2017 Comp Captain",
     "groupType": [
       "board"
     ]
   },
-  "reciqnqcItxwiB9ZR": {
-    "createdTime": "2018-10-17T23:54:57.000Z",
-    "id": "reciqnqcItxwiB9ZR",
+  "rechord0CVTrFiwm9": {
+    "createdTime": "2018-10-18T00:37:51.000Z",
+    "id": "rechord0CVTrFiwm9",
     "group": [
-      "recPWlKgpGEXDmwBI"
+      "recV60tDu2ac60oV5"
     ],
-    "positionTitle": "Events Chair",
+    "positionTitle": "Comp Finance",
     "picture": [
       {
-        "id": "att0WRUaMFNpUDSXh",
-        "url": "https://dl.airtable.com/AKiM9SMUQoaZgyC1AHLA_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-        "filename": "Vivian Tieu, Board - Events, Spring 2018.jpg",
-        "size": 68614,
+        "id": "attb8bdzZolVMrWwS",
+        "url": "https://dl.airtable.com/emyL9WciRUGvz0do3fvu_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
+        "filename": "Tiffanie Abacan, Comp Board - Finance, Fall 2017.jpg",
+        "size": 277196,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/CJYP26kSrKy0FGXCkWdW_small_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/nfLBZfQOT7O7XD0trEpN_large_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 513
-          },
-          "full": {
-            "url": "https://dl.airtable.com/inoIbMlSnWBbFYuBZAaf_full_Vivian%20Tieu%2C%20Board%20-%20Events%2C%20Spring%202018.jpg",
-            "width": 823,
-            "height": 824
-          }
-        }
-      }
-    ],
-    "person": [
-      "reczKuh2qJJf55cf0"
-    ],
-    "(You can't directly edit this column)": "Vivian Tieu, AFX Board Spring 2018 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recfaaat8NOYpX42H": {
-    "createdTime": "2018-10-17T23:55:33.000Z",
-    "id": "recfaaat8NOYpX42H",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attl9M5gDFlXefZoR",
-        "url": "https://dl.airtable.com/o9Nm87UT0O02KWOf4M81_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-        "filename": "Anthony Chen, Board - Historian, Spring 2018.jpg",
-        "size": 291371,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/QLzfjOSSYWj7Lxw5AqFQ_small_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/I6RhbMeuSzOjY8dLptnJ_small_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/4urEu89eSTSEEL1SvFuR_large_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/QxiPiiqQRmQWEMhoGTAz_large_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
             "width": 512,
             "height": 768
           },
           "full": {
-            "url": "https://dl.airtable.com/KFws8PuzQhu54X6qt5lL_full_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/Tae3waTPSBSZfjzUYIbj_full_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
             "width": 1366,
             "height": 2048
           }
@@ -13491,132 +16238,9 @@ export let PersonPositions = {
       }
     ],
     "person": [
-      "recuxPPGm6jYZYg8b"
+      "recRcjNWpPIB6MhSE"
     ],
-    "(You can't directly edit this column)": "Anthony Chen, AFX Board Spring 2018 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec7RNbDRBHYxdKqM": {
-    "createdTime": "2018-10-17T23:56:14.000Z",
-    "id": "rec7RNbDRBHYxdKqM",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attLkRY58NaMQ3TTk",
-        "url": "https://dl.airtable.com/iykkUN0qTCCz5VtUi0Rj_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-        "filename": "Alicia Chow, Board - Historian, Spring 2018.jpg",
-        "size": 163589,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/V7Y5sHlBTiNo8EWBdGpF_small_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/s0jjrCXwQ4SK9MQ4aRK0_large_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 517
-          },
-          "full": {
-            "url": "https://dl.airtable.com/sLWG8NykRpuFEAPvh7NI_full_Alicia%20Chow%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-            "width": 1080,
-            "height": 1090
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec1LGQN0f3Ylkwo9"
-    ],
-    "(You can't directly edit this column)": "Alicia Chow, AFX Board Spring 2018 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec0KlBZwxCoTMOFo": {
-    "createdTime": "2018-10-17T23:57:06.000Z",
-    "id": "rec0KlBZwxCoTMOFo",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attzQIagJDnf2NpFd",
-        "url": "https://dl.airtable.com/JhrHGxCSPigw4CJmyXgS_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-        "filename": "Mariana Tagano, Board - Outreach, Spring 2018.jpg",
-        "size": 53329,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/LKWjW9c1QAq33UIspKa3_small_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/IDpELK1nTRuG5dgTOuY5_large_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/5auIp7dMSa0jPzhp7ilM_full_Mariana%20Tagano%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recA62lDDRZ9YpoBM"
-    ],
-    "(You can't directly edit this column)": "Mariana Tagano, AFX Board Spring 2018 Outreach Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reclCdruw9w77flnr": {
-    "createdTime": "2018-10-17T23:58:00.000Z",
-    "id": "reclCdruw9w77flnr",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "att087RKZQ9yrnivz",
-        "url": "https://dl.airtable.com/oEkW5LyUTo6H8Zsg8wrH_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-        "filename": "Ansel Deng, Board - Outreach, Spring 2018.jpg",
-        "size": 237337,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/BRHg8oiQSO7H4B1C76D4_small_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/04upx2NR3mO1tx1KHD6g_large_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/L7xIm4dhQr6tTUEPpJlu_full_Ansel%20Deng%2C%20Board%20-%20Outreach%2C%20Spring%202018.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec0Xrjy5cO0rNOIE"
-    ],
-    "(You can't directly edit this column)": "Ansel Deng, AFX Board Spring 2018 Outreach Chair",
+    "(You can't directly edit this column)": "Tiffanie Abacan, AFX Board Summer/Fall 2017 Comp Finance",
     "groupType": [
       "board"
     ]
@@ -13826,6 +16450,334 @@ export let PersonPositions = {
       "board"
     ]
   },
+  "recFf0bUFGJ0IZ7rg": {
+    "createdTime": "2018-10-18T00:13:50.000Z",
+    "id": "recFf0bUFGJ0IZ7rg",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attAxpad7qCTLKVPr",
+        "url": "https://dl.airtable.com/LVMAyyulRRGXk5fXHIC0_IMG_3457%20-%20Audrey%20Ma.JPG",
+        "filename": "IMG_3457 - Audrey Ma.JPG",
+        "size": 5168096,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/7eCbR8T36rQ86unVwbXw_small_IMG_3457%20-%20Audrey%20Ma.JPG",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/osa4RyPfShC6Lc9zdHOP_large_IMG_3457%20-%20Audrey%20Ma.JPG",
+            "width": 512,
+            "height": 756
+          },
+          "full": {
+            "url": "https://dl.airtable.com/yUWKnp29QfGYefMxY4Xr_full_IMG_3457%20-%20Audrey%20Ma.JPG",
+            "width": 1567,
+            "height": 2313
+          }
+        }
+      }
+    ],
+    "person": [
+      "recY91MTqkbqNjZjL"
+    ],
+    "(You can't directly edit this column)": "Audrey Ma, AFX Board Summer/Fall 2018 Events Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recTT7RxdkCfw3qOk": {
+    "createdTime": "2018-10-18T00:14:33.000Z",
+    "id": "recTT7RxdkCfw3qOk",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attZcHqlQ4qQc7F7C",
+        "url": "https://dl.airtable.com/6yWNWkRwT66fwgt0X9SX_Use%20this%20one%20-%20Tom%20Cheah.jpg",
+        "filename": "Use this one - Tom Cheah.jpg",
+        "size": 8673355,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/NIopP7K9RUmt9HtQTGDI_small_Use%20this%20one%20-%20Tom%20Cheah.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/alMoMT26SWpqqlbwYNWg_large_Use%20this%20one%20-%20Tom%20Cheah.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/5GD6yuW5R0jUnz77SrvA_full_Use%20this%20one%20-%20Tom%20Cheah.jpg",
+            "width": 2000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "(You can't directly edit this column)": "Tom Cheah, AFX Board Summer/Fall 2018 Events Chair",
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "rectG3gNwTYTDJyMk"
+    ]
+  },
+  "recliQv8CcMvX9Lz7": {
+    "createdTime": "2018-10-18T00:15:35.000Z",
+    "id": "recliQv8CcMvX9Lz7",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Events Chair",
+    "picture": [
+      {
+        "id": "attefwVgv7k1tW1We",
+        "url": "https://dl.airtable.com/dJnEnbxsRgCEllKzXVZz_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
+        "filename": "Profile_Pic - Vincent-Demetrio Young.jpg",
+        "size": 195057,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/z3DrEBgSRG0g8OvziCGY_small_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/xCqg9g9RgqgGBIDGOUnb_large_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Z5l7PD4xTUKBT5y00JqW_full_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "(You can't directly edit this column)": "Vincent Young, AFX Board Summer/Fall 2018 Events Chair",
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "rece3KN1RqpPjW1ji"
+    ]
+  },
+  "recQBI7hJmK8Dd6qe": {
+    "createdTime": "2018-10-18T00:11:21.000Z",
+    "id": "recQBI7hJmK8Dd6qe",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attGVSMei9xxm1OIi",
+        "url": "https://dl.airtable.com/OZtltoM1QGabTCBDcc97_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
+        "filename": "MAWsolo-169 - Cheryl Chen.JPG",
+        "size": 934117,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/n9XWkthRq2Dyceu09RLg_small_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/BB39dP3ORJSr4jF3HWMg_large_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/FOqc4whHRTGPW3OnJDVo_full_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
+            "width": 2002,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "person": [
+      "reczZGBDJP1tLF0A9"
+    ],
+    "(You can't directly edit this column)": "Cheryl Chen, AFX Board Summer/Fall 2018 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recuQShydZMDeFnk8": {
+    "createdTime": "2018-10-18T00:12:07.000Z",
+    "id": "recuQShydZMDeFnk8",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "attO7zvqU3a2EAFzy",
+        "url": "https://dl.airtable.com/E2DsgAn5TTSS1t8ly7Si_Capture%20-%20Soo%20Choi.JPG",
+        "filename": "Capture - Soo Choi.JPG",
+        "size": 37419,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/vr2h2qCmT0d4zYEasnlA_small_Capture%20-%20Soo%20Choi.JPG",
+            "width": 52,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XjMTA3pWSXCh8s5MHTya_large_Capture%20-%20Soo%20Choi.JPG",
+            "width": 485,
+            "height": 334
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Xu8Wdw3TCWr6nQDeKU0V_full_Capture%20-%20Soo%20Choi.JPG",
+            "width": 485,
+            "height": 334
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqzbrK1cnXPa5Wd"
+    ],
+    "(You can't directly edit this column)": "Soo Rim Choi, AFX Board Summer/Fall 2018 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recDDSSEqMN7mjYIQ": {
+    "createdTime": "2018-10-18T00:13:03.000Z",
+    "id": "recDDSSEqMN7mjYIQ",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Finance Chair",
+    "picture": [
+      {
+        "id": "att85MthJViRRWCJ3",
+        "url": "https://dl.airtable.com/kUN1wmdZQ56yLx6jfDJ1_IMG_6482%20-%20Jasmine%20Chen.JPG",
+        "filename": "IMG_6482 - Jasmine Chen.JPG",
+        "size": 245019,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Qy39ZEkKQ2G8CRJ7rT3x_small_IMG_6482%20-%20Jasmine%20Chen.JPG",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/45dqqcLaTJu8Yb41vy10_large_IMG_6482%20-%20Jasmine%20Chen.JPG",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/MrV6BwXStOi0vn8wlk7K_full_IMG_6482%20-%20Jasmine%20Chen.JPG",
+            "width": 1620,
+            "height": 1080
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4VoP3lLO1sUyqS"
+    ],
+    "(You can't directly edit this column)": "Jasmine Chen, AFX Board Summer/Fall 2018 Finance Chair",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recEx6BW29gbfazMi": {
+    "createdTime": "2018-10-18T00:17:03.000Z",
+    "id": "recEx6BW29gbfazMi",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attiyyvOgmyUc9TMl",
+        "url": "https://dl.airtable.com/NcnM9QUmQwSic5IXSX2j_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
+        "filename": "33607961_10216940145842118_1683570327549902848_n - Alicia Chow.jpg",
+        "size": 176546,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/TcL88cgJQKGJQNHnEMZs_small_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/NAEWAk3dQquDTo6HrPJv_large_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
+            "width": 512,
+            "height": 773
+          },
+          "full": {
+            "url": "https://dl.airtable.com/8ZFoouHFSlSjeeBgx1d3_full_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
+            "width": 1224,
+            "height": 1848
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1LGQN0f3Ylkwo9"
+    ],
+    "(You can't directly edit this column)": "Alicia Chow, AFX Board Summer/Fall 2018 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recV1ZpVswX7PICAt": {
+    "createdTime": "2018-10-18T00:18:07.000Z",
+    "id": "recV1ZpVswX7PICAt",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Historian",
+    "picture": [
+      {
+        "id": "attx1nBzRGajdjHTV",
+        "url": "https://dl.airtable.com/PjvygowyQSGmLkkwX2gX_IMG_1525%20-%20Jonah%20Tang.jpg",
+        "filename": "IMG_1525 - Jonah Tang.jpg",
+        "size": 9049656,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/yehsnUMcTqIqrQV61b5Q_small_IMG_1525%20-%20Jonah%20Tang.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/PkmkUvUBTM2cB8Y7Awkk_large_IMG_1525%20-%20Jonah%20Tang.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ZqbytXxRSRCBjZpOlhsu_full_IMG_1525%20-%20Jonah%20Tang.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recBiWbxo0ly1HtJS"
+    ],
+    "(You can't directly edit this column)": "Jonah Tang, AFX Board Summer/Fall 2018 Historian",
+    "groupType": [
+      "board"
+    ]
+  },
   "rec9wN29UB9PSc3bX": {
     "createdTime": "2018-10-18T00:05:44.000Z",
     "id": "rec9wN29UB9PSc3bX",
@@ -14031,334 +16983,6 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "recQBI7hJmK8Dd6qe": {
-    "createdTime": "2018-10-18T00:11:21.000Z",
-    "id": "recQBI7hJmK8Dd6qe",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attGVSMei9xxm1OIi",
-        "url": "https://dl.airtable.com/OZtltoM1QGabTCBDcc97_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
-        "filename": "MAWsolo-169 - Cheryl Chen.JPG",
-        "size": 934117,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/n9XWkthRq2Dyceu09RLg_small_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/BB39dP3ORJSr4jF3HWMg_large_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/FOqc4whHRTGPW3OnJDVo_full_MAWsolo-169%20-%20Cheryl%20Chen.JPG",
-            "width": 2002,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "person": [
-      "reczZGBDJP1tLF0A9"
-    ],
-    "(You can't directly edit this column)": "Cheryl Chen, AFX Board Summer/Fall 2018 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recuQShydZMDeFnk8": {
-    "createdTime": "2018-10-18T00:12:07.000Z",
-    "id": "recuQShydZMDeFnk8",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attO7zvqU3a2EAFzy",
-        "url": "https://dl.airtable.com/E2DsgAn5TTSS1t8ly7Si_Capture%20-%20Soo%20Choi.JPG",
-        "filename": "Capture - Soo Choi.JPG",
-        "size": 37419,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/vr2h2qCmT0d4zYEasnlA_small_Capture%20-%20Soo%20Choi.JPG",
-            "width": 52,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/XjMTA3pWSXCh8s5MHTya_large_Capture%20-%20Soo%20Choi.JPG",
-            "width": 485,
-            "height": 334
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Xu8Wdw3TCWr6nQDeKU0V_full_Capture%20-%20Soo%20Choi.JPG",
-            "width": 485,
-            "height": 334
-          }
-        }
-      }
-    ],
-    "person": [
-      "recqzbrK1cnXPa5Wd"
-    ],
-    "(You can't directly edit this column)": "Soo Rim Choi, AFX Board Summer/Fall 2018 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recDDSSEqMN7mjYIQ": {
-    "createdTime": "2018-10-18T00:13:03.000Z",
-    "id": "recDDSSEqMN7mjYIQ",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "att85MthJViRRWCJ3",
-        "url": "https://dl.airtable.com/kUN1wmdZQ56yLx6jfDJ1_IMG_6482%20-%20Jasmine%20Chen.JPG",
-        "filename": "IMG_6482 - Jasmine Chen.JPG",
-        "size": 245019,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Qy39ZEkKQ2G8CRJ7rT3x_small_IMG_6482%20-%20Jasmine%20Chen.JPG",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/45dqqcLaTJu8Yb41vy10_large_IMG_6482%20-%20Jasmine%20Chen.JPG",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/MrV6BwXStOi0vn8wlk7K_full_IMG_6482%20-%20Jasmine%20Chen.JPG",
-            "width": 1620,
-            "height": 1080
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4VoP3lLO1sUyqS"
-    ],
-    "(You can't directly edit this column)": "Jasmine Chen, AFX Board Summer/Fall 2018 Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recFf0bUFGJ0IZ7rg": {
-    "createdTime": "2018-10-18T00:13:50.000Z",
-    "id": "recFf0bUFGJ0IZ7rg",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attAxpad7qCTLKVPr",
-        "url": "https://dl.airtable.com/LVMAyyulRRGXk5fXHIC0_IMG_3457%20-%20Audrey%20Ma.JPG",
-        "filename": "IMG_3457 - Audrey Ma.JPG",
-        "size": 5168096,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/7eCbR8T36rQ86unVwbXw_small_IMG_3457%20-%20Audrey%20Ma.JPG",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/osa4RyPfShC6Lc9zdHOP_large_IMG_3457%20-%20Audrey%20Ma.JPG",
-            "width": 512,
-            "height": 756
-          },
-          "full": {
-            "url": "https://dl.airtable.com/yUWKnp29QfGYefMxY4Xr_full_IMG_3457%20-%20Audrey%20Ma.JPG",
-            "width": 1567,
-            "height": 2313
-          }
-        }
-      }
-    ],
-    "person": [
-      "recY91MTqkbqNjZjL"
-    ],
-    "(You can't directly edit this column)": "Audrey Ma, AFX Board Summer/Fall 2018 Events Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recTT7RxdkCfw3qOk": {
-    "createdTime": "2018-10-18T00:14:33.000Z",
-    "id": "recTT7RxdkCfw3qOk",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attZcHqlQ4qQc7F7C",
-        "url": "https://dl.airtable.com/6yWNWkRwT66fwgt0X9SX_Use%20this%20one%20-%20Tom%20Cheah.jpg",
-        "filename": "Use this one - Tom Cheah.jpg",
-        "size": 8673355,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/NIopP7K9RUmt9HtQTGDI_small_Use%20this%20one%20-%20Tom%20Cheah.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/alMoMT26SWpqqlbwYNWg_large_Use%20this%20one%20-%20Tom%20Cheah.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/5GD6yuW5R0jUnz77SrvA_full_Use%20this%20one%20-%20Tom%20Cheah.jpg",
-            "width": 2000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "(You can't directly edit this column)": "Tom Cheah, AFX Board Summer/Fall 2018 Events Chair",
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "rectG3gNwTYTDJyMk"
-    ]
-  },
-  "recliQv8CcMvX9Lz7": {
-    "createdTime": "2018-10-18T00:15:35.000Z",
-    "id": "recliQv8CcMvX9Lz7",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Events Chair",
-    "picture": [
-      {
-        "id": "attefwVgv7k1tW1We",
-        "url": "https://dl.airtable.com/dJnEnbxsRgCEllKzXVZz_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
-        "filename": "Profile_Pic - Vincent-Demetrio Young.jpg",
-        "size": 195057,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/z3DrEBgSRG0g8OvziCGY_small_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/xCqg9g9RgqgGBIDGOUnb_large_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Z5l7PD4xTUKBT5y00JqW_full_Profile_Pic%20-%20Vincent-Demetrio%20Young.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "(You can't directly edit this column)": "Vincent Young, AFX Board Summer/Fall 2018 Events Chair",
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "rece3KN1RqpPjW1ji"
-    ]
-  },
-  "recEx6BW29gbfazMi": {
-    "createdTime": "2018-10-18T00:17:03.000Z",
-    "id": "recEx6BW29gbfazMi",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attiyyvOgmyUc9TMl",
-        "url": "https://dl.airtable.com/NcnM9QUmQwSic5IXSX2j_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
-        "filename": "33607961_10216940145842118_1683570327549902848_n - Alicia Chow.jpg",
-        "size": 176546,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/TcL88cgJQKGJQNHnEMZs_small_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/NAEWAk3dQquDTo6HrPJv_large_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
-            "width": 512,
-            "height": 773
-          },
-          "full": {
-            "url": "https://dl.airtable.com/8ZFoouHFSlSjeeBgx1d3_full_33607961_10216940145842118_1683570327549902848_n%20-%20Alicia%20Chow.jpg",
-            "width": 1224,
-            "height": 1848
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec1LGQN0f3Ylkwo9"
-    ],
-    "(You can't directly edit this column)": "Alicia Chow, AFX Board Summer/Fall 2018 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recV1ZpVswX7PICAt": {
-    "createdTime": "2018-10-18T00:18:07.000Z",
-    "id": "recV1ZpVswX7PICAt",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attx1nBzRGajdjHTV",
-        "url": "https://dl.airtable.com/PjvygowyQSGmLkkwX2gX_IMG_1525%20-%20Jonah%20Tang.jpg",
-        "filename": "IMG_1525 - Jonah Tang.jpg",
-        "size": 9049656,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/yehsnUMcTqIqrQV61b5Q_small_IMG_1525%20-%20Jonah%20Tang.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/PkmkUvUBTM2cB8Y7Awkk_large_IMG_1525%20-%20Jonah%20Tang.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ZqbytXxRSRCBjZpOlhsu_full_IMG_1525%20-%20Jonah%20Tang.jpg",
-            "width": 3000,
-            "height": 2000
-          }
-        }
-      }
-    ],
-    "person": [
-      "recBiWbxo0ly1HtJS"
-    ],
-    "(You can't directly edit this column)": "Jonah Tang, AFX Board Summer/Fall 2018 Historian",
-    "groupType": [
-      "board"
-    ]
-  },
   "recEpa6g2eK4kepYU": {
     "createdTime": "2018-10-18T00:18:53.000Z",
     "id": "recEpa6g2eK4kepYU",
@@ -14441,1644 +17065,168 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "recPgnkPYdTsaXuLW": {
-    "createdTime": "2018-10-18T00:22:42.000Z",
-    "id": "recPgnkPYdTsaXuLW",
+  "recec2glh67SHUU54": {
+    "createdTime": "2019-01-23T10:26:47.000Z",
+    "id": "recec2glh67SHUU54",
+    "(You can't directly edit this column)": "Catherine Chi, AFX Board Summer/Fall 2018 Tech Committee Lead",
     "group": [
-      "recvLyVuB39eaBWUG"
+      "recacbKTL0BnOU1WC"
     ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attXcZfrOkT2zkveD",
-        "url": "https://dl.airtable.com/uF0fqudtTV22cUlPRavo_23517757_1730434420334284_2978850615855378761_n.jpg",
-        "filename": "23517757_1730434420334284_2978850615855378761_n.jpg",
-        "size": 164776,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/TjW8ZiP9TqSgtjTH7wfy_small_23517757_1730434420334284_2978850615855378761_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/gVKHh1PPS025w4E51hK3_large_23517757_1730434420334284_2978850615855378761_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/iuAPhHCZRHqVzTPWt3cx_full_23517757_1730434420334284_2978850615855378761_n.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec186CmW9PWsr87T"
-    ],
-    "(You can't directly edit this column)": "Alison Ong, AFX Board Summer/Fall 2014 Comp Finance",
     "groupType": [
       "board"
-    ]
-  },
-  "recFneoMUrd7Qitlf": {
-    "createdTime": "2018-10-18T00:23:21.000Z",
-    "id": "recFneoMUrd7Qitlf",
-    "group": [
-      "recvLyVuB39eaBWUG"
     ],
-    "positionTitle": "Comp Captain",
+    "positionTitle": "Tech Committee Lead",
     "picture": [
       {
-        "id": "attWbPNaWbr7AxkdI",
-        "url": "https://dl.airtable.com/P10LpsRraho0zAUEsIfA_41677504_1972020742818719_5250966448460791808_o.jpg",
-        "filename": "41677504_1972020742818719_5250966448460791808_o.jpg",
-        "size": 158266,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/F75OCtYQAmcErCfOjQ0N_small_41677504_1972020742818719_5250966448460791808_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/BmaHLFQsTgqGcq2C95jE_large_41677504_1972020742818719_5250966448460791808_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Mw5kfj0JTOWq1s38yjKp_full_41677504_1972020742818719_5250966448460791808_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recMwcvipXM9qiwJJ"
-    ],
-    "(You can't directly edit this column)": "Christian Cayton, AFX Board Summer/Fall 2014 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recpoOliHHmwDIBof": {
-    "createdTime": "2018-10-18T00:23:44.000Z",
-    "id": "recpoOliHHmwDIBof",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attW3vfv8Hh5RWfbT",
-        "url": "https://dl.airtable.com/FcipjfjRTXqGJsrkC5YA_Chris%20Lee.jpg",
-        "filename": "Chris Lee.jpg",
-        "size": 137832,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Wpvf9c1FQnCi3hSz7YTb_small_Chris%20Lee.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/q40HtyZeSikeHkZt3iOw_large_Chris%20Lee.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ulJKZV0ATNyFwM8x2z23_full_Chris%20Lee.jpg",
-            "width": 720,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recNQnSSq1R8SBkoa"
-    ],
-    "(You can't directly edit this column)": "Chris Lee, AFX Board Summer/Fall 2014 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWBvRimNr5bCWyI": {
-    "createdTime": "2018-10-18T00:24:06.000Z",
-    "id": "recWBvRimNr5bCWyI",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "atte2oq19Acf6ckFf",
-        "url": "https://dl.airtable.com/uNIgkr5Q56tnrH83mp5w_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/bkXu4wZ0Rc63NpGnAMtG_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/nXG18yjlTsOUAwwA1xoK_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/A38ttz1sT4SOIpXZ2bFl_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2014 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec7h2sY81YQeHgiB": {
-    "createdTime": "2018-10-18T00:24:43.000Z",
-    "id": "rec7h2sY81YQeHgiB",
-    "group": [
-      "recvLyVuB39eaBWUG"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "att5PoN25tfleyMxy",
-        "url": "https://dl.airtable.com/t4y9CZa3S2iAMD4R0uoP_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-        "filename": "Screen Shot 2018-10-17 at 6.24.09 PM.png",
-        "size": 1958721,
+        "id": "attUcmhasVJt4DMB0",
+        "url": "https://dl.airtable.com/.attachments/2a01894d4880b14dc8070bb9c1237ca1/9bf36832/CATHERINECHIsp18.PNG",
+        "filename": "CATHERINE CHI sp18.PNG",
+        "size": 816919,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/AXs3kLKaTgaaKzaKstMQ_small_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-            "width": 36,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c55135d44de2411382ff9382651660cb/238cc52c",
+            "width": 38,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/jxHfkqiQ2WWU7UpOJXzj_large_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-            "width": 517,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1bbe5a843573d0f5466b39684146e5e9/531d7164",
+            "width": 542,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/wALJxpFRLe8PE0DUIQjg_full_Screen%20Shot%202018-10-17%20at%206.24.09%20PM.png",
-            "width": 1128,
-            "height": 1118
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5da7f1ece759a8b98aa36e85ff92e85e/be82663d",
+            "width": 725,
+            "height": 685
           }
         }
       }
     ],
     "person": [
-      "rec4rqgME4ja2gNp7"
-    ],
-    "(You can't directly edit this column)": "Jaemin Kim, AFX Board Summer/Fall 2014 Comp Artistics ",
-    "groupType": [
-      "board"
+      "recYuBaHxO4CUhAYJ"
     ]
   },
-  "recftaxOirG0FO2uP": {
-    "createdTime": "2018-10-18T00:25:17.000Z",
-    "id": "recftaxOirG0FO2uP",
+  "recouVVTZfD8ikRTO": {
+    "createdTime": "2019-01-23T10:27:51.000Z",
+    "id": "recouVVTZfD8ikRTO",
+    "(You can't directly edit this column)": "Allison Yeh, AFX Board Summer/Fall 2018 Tech Committee Lead",
     "group": [
-      "rec5wYZUm8pLKCX3T"
+      "recacbKTL0BnOU1WC"
     ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attlzTOJ3JdUbjApJ",
-        "url": "https://dl.airtable.com/nkspRPpSeeNL6xb8GL90_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/QYMnZUzATyJmIU4auw9Z_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/TQrnPNwoRJA7TTi0Q241_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/0JCzyUlrS1axEF7mM2h3_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
+    "groupType": [
+      "board"
     ],
     "person": [
-      "recfLsiC7955V83ri"
+      "recONuMtdPaTegXlB"
     ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Spring 2015 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reclSqlKcWOPSBmnt": {
-    "createdTime": "2018-10-18T00:25:53.000Z",
-    "id": "reclSqlKcWOPSBmnt",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Comp Artistics ",
+    "positionTitle": "Tech Committee Lead",
     "picture": [
       {
-        "id": "attAlV3Npqm4kh8kf",
-        "url": "https://dl.airtable.com/hL0elBQvTGSaByY1wxSW_Andrew%20Lee%20-%20Exec.jpg",
-        "filename": "Andrew Lee - Exec.jpg",
-        "size": 43485,
-        "type": "image/jpeg",
+        "id": "attfzP6fyD0apFIbw",
+        "url": "https://dl.airtable.com/.attachments/3e174c5007c22c70b1de164b10eccd98/2f6a3814/ALLISONYEHsp19.PNG",
+        "filename": "ALLISON YEHsp19.PNG",
+        "size": 903642,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/zdPKQW0BS9WG3JUFiS1T_small_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 54,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/26b0421a06fde3521726e14a7598eff0/7f9cae3a",
+            "width": 41,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/0wzqhjRUT1aZqRyrl3xS_large_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 772,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/99783a87f698be3f760c1c320f8f260e/1a24c58f",
+            "width": 578,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/bkaCjTpQ1KMJMeNxXk9V_full_Andrew%20Lee%20-%20Exec.jpg",
-            "width": 960,
-            "height": 637
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04983d1c6f6a5c67a3f276edab52574d/b17ef750",
+            "width": 680,
+            "height": 602
+          }
+        }
+      }
+    ]
+  },
+  "recTnun7fDTNAbinL": {
+    "createdTime": "2019-01-23T10:28:32.000Z",
+    "id": "recTnun7fDTNAbinL",
+    "(You can't directly edit this column)": "Michelle Fan, AFX Board Summer/Fall 2018 Tech Committee Lead",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "groupType": [
+      "board"
+    ],
+    "positionTitle": "Tech Committee Lead",
+    "picture": [
+      {
+        "id": "attKgESiVFCZ5OHsn",
+        "url": "https://dl.airtable.com/.attachments/7f0af1477e0616b1e9ad58fa9327b47e/b68e5611/MICHELLEFAN.PNG",
+        "filename": "MICHELLE FAN.PNG",
+        "size": 462044,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37d54ec35c77f59c99ba936798f8485c/088be7d8",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/242a31c611b6d727d304cd822df64ab4/eef67371",
+            "width": 522,
+            "height": 461
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ad7bb0765c124393754c6196c5bcb002/80b11f55",
+            "width": 522,
+            "height": 461
           }
         }
       }
     ],
     "person": [
-      "recBPtE9xYnXjdgb4"
-    ],
-    "(You can't directly edit this column)": "Andrew Lee, AFX Board Spring 2015 Comp Artistics ",
-    "groupType": [
-      "board"
+      "rec5tje5u3gnnZkCt"
     ]
   },
-  "recsREBChFaltwzAo": {
-    "createdTime": "2018-10-18T00:26:41.000Z",
-    "id": "recsREBChFaltwzAo",
+  "recyjkm1cPMUEdizT": {
+    "createdTime": "2019-01-23T10:30:15.000Z",
+    "id": "recyjkm1cPMUEdizT",
+    "(You can't directly edit this column)": "Sean Zhu, AFX Board Summer/Fall 2018 Tech Committee Lead",
     "group": [
-      "rec5wYZUm8pLKCX3T"
+      "recacbKTL0BnOU1WC"
     ],
-    "positionTitle": "Comp Captain",
+    "groupType": [
+      "board"
+    ],
+    "positionTitle": "Tech Committee Lead",
     "picture": [
       {
-        "id": "attXhFiggWHy8IT0u",
-        "url": "https://dl.airtable.com/YBt5D1HrSf6anrgeA8PF_41677504_1972020742818719_5250966448460791808_o.jpg",
-        "filename": "41677504_1972020742818719_5250966448460791808_o.jpg",
-        "size": 158266,
-        "type": "image/jpeg",
+        "id": "attuSUi44hVGVy4f5",
+        "url": "https://dl.airtable.com/.attachments/a2662fede6a260d9db0e77bdb32a29e8/43e89d65/SEANZHUsp19.PNG",
+        "filename": "SEAN ZHUsp19.PNG",
+        "size": 895237,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/E7E6vVQVQuSaCxCdHZ70_small_41677504_1972020742818719_5250966448460791808_o.jpg",
-            "width": 24,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/20263a8351df40d86b77dacd5eb458cf/d17b9608",
+            "width": 35,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/38Rx8ldHRu2JHuzXEo7O_large_41677504_1972020742818719_5250966448460791808_o.jpg",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5ed7be29f22d04c15c5a0df2b3ab3b9c/02aa83e0",
             "width": 512,
-            "height": 768
+            "height": 524
           },
           "full": {
-            "url": "https://dl.airtable.com/2PhxJPibS8mIdEFp87uQ_full_41677504_1972020742818719_5250966448460791808_o.jpg",
-            "width": 1365,
-            "height": 2048
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8eddcbd6448714e74c1758f3f97be69c/1bfe2a01",
+            "width": 629,
+            "height": 644
           }
         }
       }
     ],
     "person": [
-      "recMwcvipXM9qiwJJ"
-    ],
-    "(You can't directly edit this column)": "Christian Cayton, AFX Board Spring 2015 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recqlraIAykE9FI3S": {
-    "createdTime": "2018-10-18T00:27:12.000Z",
-    "id": "recqlraIAykE9FI3S",
-    "group": [
-      "rec5wYZUm8pLKCX3T"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attMOJXP9ZjfJekbZ",
-        "url": "https://dl.airtable.com/5kMtPPp9R7ycAXwvWW44_30743668_1771855149503344_7681325623351967744_n.jpg",
-        "filename": "30743668_1771855149503344_7681325623351967744_n.jpg",
-        "size": 89775,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/2VBKYjKTQDeggjJ0H5aa_small_30743668_1771855149503344_7681325623351967744_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/FIwisUUnQPyj4EwIS7gZ_large_30743668_1771855149503344_7681325623351967744_n.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/gvE2ojp9S4imvNEwkjSI_full_30743668_1771855149503344_7681325623351967744_n.jpg",
-            "width": 740,
-            "height": 740
-          }
-        }
-      }
-    ],
-    "person": [
-      "recWzPqCuU8d0RdCK"
-    ],
-    "(You can't directly edit this column)": "Alice Lee, AFX Board Spring 2015 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recnJSRWIQMhZbQEs": {
-    "createdTime": "2018-10-18T00:27:34.000Z",
-    "id": "recnJSRWIQMhZbQEs",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attRml35A9fBVUlKN",
-        "url": "https://dl.airtable.com/ZtVXInoUTTOMdY53DcAO_18077195_2337094809848387_5913850620716608256_o.jpg",
-        "filename": "18077195_2337094809848387_5913850620716608256_o.jpg",
-        "size": 265638,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/hD9rkOuXRLKJQiHijUdY_small_18077195_2337094809848387_5913850620716608256_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/uTL6nHi7SXmLH6GH7GiX_large_18077195_2337094809848387_5913850620716608256_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/zsF18MPRUekENnrnizmI_full_18077195_2337094809848387_5913850620716608256_o.jpg",
-            "width": 1366,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recFHTImw5G3ebb3P"
-    ],
-    "(You can't directly edit this column)": "Dan Ricciardelli, AFX Board Summer/Fall 2015 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recLJGgsdMILy5XOd": {
-    "createdTime": "2018-10-18T00:29:51.000Z",
-    "id": "recLJGgsdMILy5XOd",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attrqg97c7PbUIhHj",
-        "url": "https://dl.airtable.com/XZt6rrSNW5a7CPH2FSbg_13958198_1415176458497780_4655581795915536553_o.jpg",
-        "filename": "13958198_1415176458497780_4655581795915536553_o.jpg",
-        "size": 321302,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/IqfqxvydSDixiVRxhi9k_small_13958198_1415176458497780_4655581795915536553_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/sV7yClSRgtnhMKyuefUw_large_13958198_1415176458497780_4655581795915536553_o.jpg",
-            "width": 512,
-            "height": 770
-          },
-          "full": {
-            "url": "https://dl.airtable.com/L2AP4dc6S8q6lPtjC99A_full_13958198_1415176458497780_4655581795915536553_o.jpg",
-            "width": 1362,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recuE0zgh4gmxJVEO"
-    ],
-    "(You can't directly edit this column)": "Brandon Toy, AFX Board Summer/Fall 2015 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recVhmcmenPkMyFWt": {
-    "createdTime": "2018-10-18T00:30:10.000Z",
-    "id": "recVhmcmenPkMyFWt",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attlXn3YhUV33tAbn",
-        "url": "https://dl.airtable.com/4EaWimMDRNikcULEj2Ve_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/uq20IRxsQlOPrYdMKVmS_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/OI7B4f50RGqc8WHNpc4L_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Jm6BDORUQlS1L4Hft8EQ_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2015 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recXaCCAUDQHqukTy": {
-    "createdTime": "2018-10-18T00:30:31.000Z",
-    "id": "recXaCCAUDQHqukTy",
-    "group": [
-      "recBUiPZV1HCyrITE"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attD30Wq00y71YR2o",
-        "url": "https://dl.airtable.com/vblSv9VARiuPvVVO65ar_14889742_10209513298642715_3823053715729303370_o.jpg",
-        "filename": "14889742_10209513298642715_3823053715729303370_o.jpg",
-        "size": 319782,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/MPCoZk1mSjaPf8E6cTfX_small_14889742_10209513298642715_3823053715729303370_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/xYDSlCnRSUqCLSD2ySry_large_14889742_10209513298642715_3823053715729303370_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/YMxJihWcSnKVviXO0QpG_full_14889742_10209513298642715_3823053715729303370_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recl0MAVB8URRERpr"
-    ],
-    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Board Summer/Fall 2015 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec3AKMveOXLNezy2": {
-    "createdTime": "2018-10-18T00:30:55.000Z",
-    "id": "rec3AKMveOXLNezy2",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attBqznVY0rBuLGOM",
-        "url": "https://dl.airtable.com/IFI6YKLfSQyr16KEoTBH_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/0GS7hdbETxOms15icQvd_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/MbckZdfBRYidfEkUD8TI_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/wjAxcS5rTsWW0GLplWWe_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Spring 2016 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recQJrl4Ir3zMeFhy": {
-    "createdTime": "2018-10-18T00:31:32.000Z",
-    "id": "recQJrl4Ir3zMeFhy",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attiflkBlyisnYR19",
-        "url": "https://dl.airtable.com/jtECAULnTo2RN7bvGK7g_39750210_2014411958610140_8256809060142153728_o.jpg",
-        "filename": "39750210_2014411958610140_8256809060142153728_o.jpg",
-        "size": 170196,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/UETOz9iHRvGVCBOppFNQ_small_39750210_2014411958610140_8256809060142153728_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/SO6328uTM6N0OHfXSxOE_large_39750210_2014411958610140_8256809060142153728_o.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/bAYnsy3SiK0MYpjk5HDq_full_39750210_2014411958610140_8256809060142153728_o.jpg",
-            "width": 890,
-            "height": 1334
-          }
-        }
-      }
-    ],
-    "person": [
-      "recPocv0xCXtbE2zX"
-    ],
-    "(You can't directly edit this column)": "Alina Lee, AFX Board Spring 2016 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reccimMJ4z1CZxCEn": {
-    "createdTime": "2018-10-18T00:31:53.000Z",
-    "id": "reccimMJ4z1CZxCEn",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attNhbT0ikCshgyGg",
-        "url": "https://dl.airtable.com/WIUClriR2SzOnfFPwyAi_10355612_10205028674057448_8623846652097804396_o.jpg",
-        "filename": "10355612_10205028674057448_8623846652097804396_o.jpg",
-        "size": 209213,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/fk3gopYJRBaaEogLBe0z_small_10355612_10205028674057448_8623846652097804396_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/7qXfB5ByRpy3Zl9OSMNG_large_10355612_10205028674057448_8623846652097804396_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/kr9wWOARSHSnZmwO8DQ8_full_10355612_10205028674057448_8623846652097804396_o.jpg",
-            "width": 1366,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec9ycYnjZ88dsU32"
-    ],
-    "(You can't directly edit this column)": "Albert Weng, AFX Board Spring 2016 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reczOglPA7H4rKZD3": {
-    "createdTime": "2018-10-18T00:32:19.000Z",
-    "id": "reczOglPA7H4rKZD3",
-    "group": [
-      "recWYlWdGZIv2Cu5Y"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attLkot2Vg1p34z7t",
-        "url": "https://dl.airtable.com/158GXjHSxOzZRCVYSqng_14889742_10209513298642715_3823053715729303370_o.jpg",
-        "filename": "14889742_10209513298642715_3823053715729303370_o.jpg",
-        "size": 319782,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/dz91gwF7QIGogvVwbo2l_small_14889742_10209513298642715_3823053715729303370_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/XfhmNzrQ4qOh7wspI29N_large_14889742_10209513298642715_3823053715729303370_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/PsUAnfaQEaG5OvfiXYDN_full_14889742_10209513298642715_3823053715729303370_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recl0MAVB8URRERpr"
-    ],
-    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Board Spring 2016 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recQafxPMYHX8f1ON": {
-    "createdTime": "2018-10-18T00:32:57.000Z",
-    "id": "recQafxPMYHX8f1ON",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "att7KUw591vC4lEXp",
-        "url": "https://dl.airtable.com/QTnvItWQSJemMt97H5Yv_14047340_10210380135730693_3095454426301111570_o.jpg",
-        "filename": "14047340_10210380135730693_3095454426301111570_o.jpg",
-        "size": 272262,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/iDTKDhUTEymYsYvZBO5a_small_14047340_10210380135730693_3095454426301111570_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/UaZKCGCDTgmC7Pib2xkK_large_14047340_10210380135730693_3095454426301111570_o.jpg",
-            "width": 512,
-            "height": 770
-          },
-          "full": {
-            "url": "https://dl.airtable.com/zOKvn0FyQwCrPLXE8PPp_full_14047340_10210380135730693_3095454426301111570_o.jpg",
-            "width": 1362,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recxwGyHwoJImSoPP"
-    ],
-    "(You can't directly edit this column)": "Cari Gan, AFX Board Summer/Fall 2016 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reculGDwitMiaaY6N": {
-    "createdTime": "2018-10-18T00:33:03.000Z",
-    "id": "reculGDwitMiaaY6N",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "att78iCO9T6iUUYux",
-        "url": "https://dl.airtable.com/6OAo5cmPRma97dHPcPy5_39750210_2014411958610140_8256809060142153728_o.jpg",
-        "filename": "39750210_2014411958610140_8256809060142153728_o.jpg",
-        "size": 170196,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Iw0kcSMARVOd1DGWH4AN_small_39750210_2014411958610140_8256809060142153728_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/rHzGbCrRvio4x0Qt1EiP_large_39750210_2014411958610140_8256809060142153728_o.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/S6MCnoWMStzMU9lCI1A3_full_39750210_2014411958610140_8256809060142153728_o.jpg",
-            "width": 890,
-            "height": 1334
-          }
-        }
-      }
-    ],
-    "person": [
-      "recPocv0xCXtbE2zX"
-    ],
-    "(You can't directly edit this column)": "Alina Lee, AFX Board Summer/Fall 2016 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec71FUZBo7jrpSqJ": {
-    "createdTime": "2018-10-18T00:33:44.000Z",
-    "id": "rec71FUZBo7jrpSqJ",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attAkT0X2iJRIRHkP",
-        "url": "https://dl.airtable.com/Eko3jPhQWal31krHpPhQ_21318943_10204116331145875_2003800272378693642_o.jpg",
-        "filename": "21318943_10204116331145875_2003800272378693642_o.jpg",
-        "size": 497757,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/VjfUdhDRqmhlM2bBkQ5H_small_21318943_10204116331145875_2003800272378693642_o.jpg",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/NmyGDpDsS6y8o3zwfbt4_large_21318943_10204116331145875_2003800272378693642_o.jpg",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/NQuHrcfnT8iqVUxdH6Qr_full_21318943_10204116331145875_2003800272378693642_o.jpg",
-            "width": 2048,
-            "height": 1536
-          }
-        }
-      }
-    ],
-    "person": [
-      "recHftRqWaKYQyKDb"
-    ],
-    "(You can't directly edit this column)": "Yanni Velasquez, AFX Board Summer/Fall 2016 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recPvx31lUvOTMzWI": {
-    "createdTime": "2018-10-18T00:34:37.000Z",
-    "id": "recPvx31lUvOTMzWI",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "att6kwBVYwyzYZEmo",
-        "url": "https://dl.airtable.com/j6FJjuRCOt3jfC20Y5YQ_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-        "filename": "Trisha Giron, Comp Board - Artistic Director, Fall 2017.jpg",
-        "size": 282908,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Q8nxP5hDQGCZXWv6UQcA_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/FPVeGi0qRrmmMUfHa1Ji_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ltpj4Z4gRkKbppEshONl_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 1367,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recNxGjKy27HT3XML"
-    ],
-    "(You can't directly edit this column)": "Trisha Giron, AFX Board Summer/Fall 2016 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recA29CYm8ous5YmT": {
-    "createdTime": "2018-10-18T00:34:57.000Z",
-    "id": "recA29CYm8ous5YmT",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "att3i4odHrxqFcIzS",
-        "url": "https://dl.airtable.com/Ba45fjTAR5egFzqc5KkU_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-        "filename": "Emilio Cuartero, Comp Board - Artistic Director, Fall 2017.jpg",
-        "size": 283296,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RBM0E0AWSEaSQc7jSLZM_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/79cpUmx2Qd6xZrBphhQF_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Xm69ZOtcSOqzBoBhyMLk_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2016 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recoz3ryR7fQCDoUq": {
-    "createdTime": "2018-10-18T00:35:43.000Z",
-    "id": "recoz3ryR7fQCDoUq",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attW4uBTGp04v5ZjY",
-        "url": "https://dl.airtable.com/UB5Ov6G5RLCPnRUOSww9_15078583_1460326757318358_9120757854760246645_n.jpg",
-        "filename": "15078583_1460326757318358_9120757854760246645_n.jpg",
-        "size": 53497,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/7qESZykiT66hN21fqz0h_small_15078583_1460326757318358_9120757854760246645_n.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/rDbWer1cR8WsdDYhHt7R_large_15078583_1460326757318358_9120757854760246645_n.jpg",
-            "width": 513,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/GRmQvUkR6qv7c1M8akd5_full_15078583_1460326757318358_9120757854760246645_n.jpg",
-            "width": 755,
-            "height": 754
-          }
-        }
-      }
-    ],
-    "person": [
-      "recD6ol6FmNngbj9C"
-    ],
-    "(You can't directly edit this column)": "Katrina Oshima, AFX Board Summer/Fall 2016 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recWvtIchtUL1bcn7": {
-    "createdTime": "2018-10-18T00:36:13.000Z",
-    "id": "recWvtIchtUL1bcn7",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attiH9HSekCIKhrJW",
-        "url": "https://dl.airtable.com/TMzstBLRxu0SL0Ve1Vd6_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-        "filename": "Trisha Giron, Comp Board - Artistic Director, Fall 2017.jpg",
-        "size": 282908,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/vC7U7sDSgucvAhOfDrGK_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/dfWyfrMoSiewZgNGFsvj_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/8N58XgwUT768J9QGJXji_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 1367,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recNxGjKy27HT3XML"
-    ],
-    "(You can't directly edit this column)": "Trisha Giron, AFX Board Spring 2017 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recEdqoEkjRTml6xZ": {
-    "createdTime": "2018-10-18T00:36:40.000Z",
-    "id": "recEdqoEkjRTml6xZ",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attRdJT9avOnW2SVy",
-        "url": "https://dl.airtable.com/vwIzvmgjSgmvbKbdabl4_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-        "filename": "Emilio Cuartero, Comp Board - Artistic Director, Fall 2017.jpg",
-        "size": 283296,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ugsclt2tQKuwH7kA3ZIw_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/5JSnlca8S06H9tbDtNeu_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/UyMaeSZkRicDDgW0foBh_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Spring 2017 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recQ7VUlKsTaz1PA9": {
-    "createdTime": "2018-10-18T00:37:00.000Z",
-    "id": "recQ7VUlKsTaz1PA9",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "att6DtrduX1tYkdRd",
-        "url": "https://dl.airtable.com/3XO8HayaQSmNBjqz5C7P_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-        "filename": "AC Dela Paz, Comp Board - Captain, Fall 2017.jpg",
-        "size": 172569,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/zRWxKSg2TGKPnamkXQv6_small_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/oL2eaaXQS3ynn4a5eZro_large_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/e7TPAwUTo2fa9GDH94wl_full_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec2nvAlUafPaALoo"
-    ],
-    "(You can't directly edit this column)": "AC Dela Paz, AFX Board Spring 2017 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec8ELbYUBDN8u2M9": {
-    "createdTime": "2018-10-18T00:37:29.000Z",
-    "id": "rec8ELbYUBDN8u2M9",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attrSBsA9o9KzBLhG",
-        "url": "https://dl.airtable.com/QLnu7RWYTC21WCl4GFdM_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
-        "size": 239226,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/4pnQwNFMTImNNpqgxtaD_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/8BjODTLSuVV8HmBYiQYQ_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/G7xHOYgsRg4AzCO2gKL2_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnIIrPMXGlfHFb9"
-    ],
-    "(You can't directly edit this column)": "Lenny Dong, AFX Board Spring 2017 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rechord0CVTrFiwm9": {
-    "createdTime": "2018-10-18T00:37:51.000Z",
-    "id": "rechord0CVTrFiwm9",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attb8bdzZolVMrWwS",
-        "url": "https://dl.airtable.com/emyL9WciRUGvz0do3fvu_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
-        "filename": "Tiffanie Abacan, Comp Board - Finance, Fall 2017.jpg",
-        "size": 277196,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/I6RhbMeuSzOjY8dLptnJ_small_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/QxiPiiqQRmQWEMhoGTAz_large_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Tae3waTPSBSZfjzUYIbj_full_Tiffanie%20Abacan%2C%20Comp%20Board%20-%20Finance%2C%20Fall%202017.jpg",
-            "width": 1366,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recRcjNWpPIB6MhSE"
-    ],
-    "(You can't directly edit this column)": "Tiffanie Abacan, AFX Board Summer/Fall 2017 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recQjFIWuzTruoDx8": {
-    "createdTime": "2018-10-18T00:38:49.000Z",
-    "id": "recQjFIWuzTruoDx8",
-    "group": [
-      "recSb1AY0752pOYe6"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attg9xJew3JhZEUoW",
-        "url": "https://dl.airtable.com/BD4cpLXhQAmwc3rrPGXN_14047340_10210380135730693_3095454426301111570_o.jpg",
-        "filename": "14047340_10210380135730693_3095454426301111570_o.jpg",
-        "size": 272262,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/jhNELOikRLKhiMKa9IIG_small_14047340_10210380135730693_3095454426301111570_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/PH9nA7BoRzmuUvz1Zoc4_large_14047340_10210380135730693_3095454426301111570_o.jpg",
-            "width": 512,
-            "height": 770
-          },
-          "full": {
-            "url": "https://dl.airtable.com/r6Gjy3hURRmUIDdVWl2m_full_14047340_10210380135730693_3095454426301111570_o.jpg",
-            "width": 1362,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recxwGyHwoJImSoPP"
-    ],
-    "(You can't directly edit this column)": "Cari Gan, AFX Board Spring 2017 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recOJEHgsz20gcZgQ": {
-    "createdTime": "2018-10-18T00:40:04.000Z",
-    "id": "recOJEHgsz20gcZgQ",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attL636gemj8DQTM1",
-        "url": "https://dl.airtable.com/v04shpJSTA6mWM0RIUig_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-        "filename": "AC Dela Paz, Comp Board - Captain, Fall 2017.jpg",
-        "size": 172569,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/7E5UTZDRTW5PnPXeXLNG_small_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/1P7iByUISteCurMEiJfs_large_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/cH55znmRGWjr8nWQtfoB_full_AC%20Dela%20Paz%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec2nvAlUafPaALoo"
-    ],
-    "(You can't directly edit this column)": "AC Dela Paz, AFX Board Summer/Fall 2017 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recD8ZQSM8cA7PbBW": {
-    "createdTime": "2018-10-18T00:41:14.000Z",
-    "id": "recD8ZQSM8cA7PbBW",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "att1Q9cCUAwKF0UfZ",
-        "url": "https://dl.airtable.com/HJ4iXToqTuyJMdTor0ox_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
-        "size": 239226,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/xdSdMlyQRe81uHEqikP9_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/SR7CeXRBRtnMy67jJeb3_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/poVJ25jzTSmBTYhRWDhg_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnIIrPMXGlfHFb9"
-    ],
-    "(You can't directly edit this column)": "Lenny Dong, AFX Board Summer/Fall 2017 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec1fMNZGppXBQW6N": {
-    "createdTime": "2018-10-18T00:42:19.000Z",
-    "id": "rec1fMNZGppXBQW6N",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attRUoWqMsgioGDcd",
-        "url": "https://dl.airtable.com/9FERMvPZTtCJBQ4zrnvi_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-        "filename": "Trisha Giron, Comp Board - Artistic Director, Fall 2017.jpg",
-        "size": 282908,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Iyhth4tSRCK2QVU0RYwf_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ww2HdFWkTAa4iPReLTnc_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/b9QpmY3KT5u606gAZne8_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 1367,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recNxGjKy27HT3XML"
-    ],
-    "(You can't directly edit this column)": "Trisha Giron, AFX Board Summer/Fall 2017 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recJ4qaFgB7HGebc7": {
-    "createdTime": "2018-10-18T00:44:56.000Z",
-    "id": "recJ4qaFgB7HGebc7",
-    "group": [
-      "recV60tDu2ac60oV5"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attWJcuvZxk2M3831",
-        "url": "https://dl.airtable.com/v8J8ZHRJybQ668K2SyA4_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-        "filename": "Emilio Cuartero, Comp Board - Artistic Director, Fall 2017.jpg",
-        "size": 283296,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/d0xKAjMjQ2qQkrbpv1Cf_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/nGnJR9w0Sru2MtxPlMWh_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/kOsKmSLtQKum1xsY0iNk_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Fall%202017.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2017 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec7zqZoqYTawHa25": {
-    "createdTime": "2018-10-18T00:47:30.000Z",
-    "id": "rec7zqZoqYTawHa25",
-    "group": [
-      "reck4OThY5wJJLrfc"
-    ],
-    "positionTitle": "Comp Artistic Advisor",
-    "picture": [
-      {
-        "id": "attGvwNZkt21VlogX",
-        "url": "https://dl.airtable.com/6wla3AR6BtDlaoBNIXAx_17814415_10211819306979056_3288899545693974485_o.jpg",
-        "filename": "17814415_10211819306979056_3288899545693974485_o.jpg",
-        "size": 190509,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Y9FtrteHQdKIoUw9m9lQ_small_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/CfbN4kfZRAW5njxRmpJs_large_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/dWNYXZrCQBue8XQevVdw_full_17814415_10211819306979056_3288899545693974485_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "(You can't directly edit this column)": "Daniel He, AFX Board Summer/Fall 2016 Comp Artistic Advisor",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recSEORUAvZKBuKAW": {
-    "createdTime": "2018-10-18T00:48:17.000Z",
-    "id": "recSEORUAvZKBuKAW",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Comp Artistic Advisor",
-    "picture": [
-      {
-        "id": "attFFDYCi0TCbHtjB",
-        "url": "https://dl.airtable.com/iWDtrLxHR4uXYLfxEtxi_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-        "filename": "Emilio Cuartero, Comp Board - Artistic Advisor, Spring 2018.jpg",
-        "size": 283296,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Li7f3bRrR4STjgkCjAsu_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/k7WJdYQRR4WWXcSocr8J_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3mzxhZgS8idlWrV26qo4_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Spring 2018 Comp Artistic Advisor",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recIxLsf6AhkAYZjp": {
-    "createdTime": "2018-10-18T00:49:41.000Z",
-    "id": "recIxLsf6AhkAYZjp",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Comp Finance",
-    "picture": [
-      {
-        "id": "attftuD0NUaapF4En",
-        "url": "https://dl.airtable.com/Mn2cT5QzODyMZgxNAzIA_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-        "filename": "Kayla Toy, Comp Board - Finance, Spring 2018.jpg",
-        "size": 243036,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wCDE0COvQiCTYIMIe4HQ_small_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/czveRikoQiGcsqyv2Hgw_large_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/chY3kMqaQ4ieKmZXSosJ_full_Kayla%20Toy%2C%20Comp%20Board%20-%20Finance%2C%20Spring%202018.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "recbLbxmZ4W2vEr5g"
-    ],
-    "(You can't directly edit this column)": "Kayla Toy, AFX Board Spring 2018 Comp Finance",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec3pE1flR2WcvqhZ": {
-    "createdTime": "2018-10-18T00:50:22.000Z",
-    "id": "rec3pE1flR2WcvqhZ",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attXsrGc90Ju2QSS1",
-        "url": "https://dl.airtable.com/wqS85llnTiO0lUVrvuZx_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-        "filename": "Max McArthur, Comp Board - Captain, Spring 2018.jpg",
-        "size": 229769,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/fKXS5R69T3GskpVmQFUy_small_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/d0qM1bBJQvq0Xv6CRtKl_large_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/tuUHHxlpTmib0g3F8MPR_full_Max%20McArthur%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "rechcalO1WrUFzO5c"
-    ],
-    "(You can't directly edit this column)": "Max McArthur, AFX Board Spring 2018 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recc62zVWNCbaDchq": {
-    "createdTime": "2018-10-18T00:51:10.000Z",
-    "id": "recc62zVWNCbaDchq",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "att5lPGTvTPLx5b0G",
-        "url": "https://dl.airtable.com/Vz5za11T6ivnxP9NmT0v_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-        "filename": "Zoe Marsh, Comp Board - Captain, Spring 2018.jpg",
-        "size": 58396,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/vgjjg7iISqybF5YTJMD4_small_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/VEEA8BqSZ2CJVjx36ByT_large_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/VEetKZRRt2mVSeJj3jD7_full_Zoe%20Marsh%2C%20Comp%20Board%20-%20Captain%2C%20Spring%202018.jpg",
-            "width": 758,
-            "height": 1136
-          }
-        }
-      }
-    ],
-    "person": [
-      "recxzpEID6oEGOEtD"
-    ],
-    "(You can't directly edit this column)": "Zoe Marsh, AFX Board Spring 2018 Comp Captain",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec1VNrCd7imnrsrf": {
-    "createdTime": "2018-10-18T01:00:47.000Z",
-    "id": "rec1VNrCd7imnrsrf",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attImNu4deJu3nBmP",
-        "url": "https://dl.airtable.com/oEvlLrO6T7mXIrGhBQGV_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-        "filename": "Trisha Giron, Comp Board - Artistic Director, Spring 2018.jpg",
-        "size": 282908,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/vXNX0bBFQxKQZleh1caz_small_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zAaejw5QAyOWyBrILlaA_large_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/y1CXZnp4QmGpgxKN4y0V_full_Trisha%20Giron%2C%20Comp%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-            "width": 1367,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recNxGjKy27HT3XML"
-    ],
-    "(You can't directly edit this column)": "Trisha Giron, AFX Board Spring 2018 Comp Artistics ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recC1yAk0chU3BGIV": {
-    "createdTime": "2018-10-18T01:02:03.000Z",
-    "id": "recC1yAk0chU3BGIV",
-    "group": [
-      "recPWlKgpGEXDmwBI"
-    ],
-    "positionTitle": "Comp Artistics ",
-    "picture": [
-      {
-        "id": "attJJGNnadTzXQhr2",
-        "url": "https://dl.airtable.com/ywpPYvPHS7OiwJasXCMu_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-        "filename": "Chantal Herrera, Board - Artistic Director, Spring 2018.jpg",
-        "size": 371530,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Jfh7CVs4SXtELViGp7j3_small_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/SEwrGTXZROCAjUAuOoW2_large_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/yy6mRQ7JSJK5EPnrrRxI_full_Chantal%20Herrera%2C%20Board%20-%20Artistic%20Director%2C%20Spring%202018.jpg",
-            "width": 1366,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recDphJDWcMIkCW3k"
-    ],
-    "(You can't directly edit this column)": "Chantal Herrera, AFX Board Spring 2018 Comp Artistics ",
-    "groupType": [
-      "board"
+      "recxAxAFK4ULZWdyr"
     ]
   },
   "recQam7kgl8ewGaTj": {
@@ -16159,6 +17307,47 @@ export let PersonPositions = {
       "recDphJDWcMIkCW3k"
     ],
     "(You can't directly edit this column)": "Chantal Herrera, AFX Board Summer/Fall 2018 Comp Artistics ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recvOgtgGVK39lPR9": {
+    "createdTime": "2018-10-18T01:11:34.000Z",
+    "id": "recvOgtgGVK39lPR9",
+    "group": [
+      "recacbKTL0BnOU1WC"
+    ],
+    "positionTitle": "Comp Artistic Advisor",
+    "picture": [
+      {
+        "id": "atttuSigfGkraMa34",
+        "url": "https://dl.airtable.com/Y8mrUh3qTZChxKXS1aT3_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+        "filename": "Emilio Cuartero, Comp Board - Artistic Advisor, Spring 2018.jpg",
+        "size": 283296,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ntMbpicoQj27rS1KiUXy_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/rwzc74J5RcavVVMQCuMF_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ati1j6btT2WGkJwn6aJr_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recn9QkB6vln1iqIG"
+    ],
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2018 Comp Artistic Advisor",
     "groupType": [
       "board"
     ]
@@ -16286,156 +17475,33 @@ export let PersonPositions = {
       "board"
     ]
   },
-  "recvOgtgGVK39lPR9": {
-    "createdTime": "2018-10-18T01:11:34.000Z",
-    "id": "recvOgtgGVK39lPR9",
+  "recNEQCDVauvqQrk5": {
+    "createdTime": "2018-10-17T22:04:44.000Z",
+    "id": "recNEQCDVauvqQrk5",
     "group": [
-      "recacbKTL0BnOU1WC"
+      "recs2aRRotZKq6Lvm"
     ],
-    "positionTitle": "Comp Artistic Advisor",
+    "positionTitle": "Founder",
     "picture": [
       {
-        "id": "atttuSigfGkraMa34",
-        "url": "https://dl.airtable.com/Y8mrUh3qTZChxKXS1aT3_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-        "filename": "Emilio Cuartero, Comp Board - Artistic Advisor, Spring 2018.jpg",
-        "size": 283296,
+        "id": "att0p5qbSHYf4qC3C",
+        "url": "https://dl.airtable.com/RfleS3BaRLeBxtIk91QK_13707611_10153301118629649_6258158905072127817_n.jpg",
+        "filename": "13707611_10153301118629649_6258158905072127817_n.jpg",
+        "size": 44295,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/ntMbpicoQj27rS1KiUXy_small_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/rwzc74J5RcavVVMQCuMF_large_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ati1j6btT2WGkJwn6aJr_full_Emilio%20Cuartero%2C%20Comp%20Board%20-%20Artistic%20Advisor%2C%20Spring%202018.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX Board Summer/Fall 2018 Comp Artistic Advisor",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recUMDlSdJPSLOorB": {
-    "createdTime": "2018-11-03T18:35:25.000Z",
-    "id": "recUMDlSdJPSLOorB",
-    "group": [
-      "recJGCk5JPfHJ5nI5"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attbfT328oFXJlSj5",
-        "url": "https://dl.airtable.com/2l8YaHaUTM2SI0D4wVZz_EMILY%20ZHANG.jpg",
-        "filename": "EMILY ZHANG.jpg",
-        "size": 82000,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/ywheAXaMT0avzcIJ7XfF_small_EMILY%20ZHANG.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Bff0V98aQnmxtisF2Fty_large_EMILY%20ZHANG.jpg",
-            "width": 512,
-            "height": 674
-          },
-          "full": {
-            "url": "https://dl.airtable.com/5D6We3TSYyaIJ3xHrzSw_full_EMILY%20ZHANG.jpg",
-            "width": 729,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "rect8pr6b0mWltnRl"
-    ],
-    "(You can't directly edit this column)": "Emily Zhang, AFXsi Smol Chunks Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccuIpsZHfgfMdHZ": {
-    "createdTime": "2018-11-10T18:34:38.000Z",
-    "id": "reccuIpsZHfgfMdHZ",
-    "group": [
-      "recJGCk5JPfHJ5nI5"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attjofcr6CsQfFI1J",
-        "url": "https://dl.airtable.com/zNzvmatQZy87OJYn8hvc_JENNIFER%20ZHANG.jpg",
-        "filename": "JENNIFER ZHANG.jpg",
-        "size": 73254,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Eo2PBfF1R9Kwpbjp7X7m_small_JENNIFER%20ZHANG.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/DjT91KmWSMq5yOXHljPZ_large_JENNIFER%20ZHANG.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WbMxRrrkT1amAH1u8RjW_full_JENNIFER%20ZHANG.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recm7CbBymkkW63kg"
-    ],
-    "(You can't directly edit this column)": "Jennifer Zhang, AFXsi Smol Chunks Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rechMfFiXW6u3hig7": {
-    "createdTime": "2018-11-10T18:34:54.000Z",
-    "id": "rechMfFiXW6u3hig7",
-    "group": [
-      "recJGCk5JPfHJ5nI5"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attxYOpxT7rXnWGqb",
-        "url": "https://dl.airtable.com/dzfJMxOCTvOLaOI3fZPW_JOSEPH%20JIANG.jpg",
-        "filename": "JOSEPH JIANG.jpg",
-        "size": 107256,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wjCfBP0AS2a2iJmipHnj_small_JOSEPH%20JIANG.jpg",
+            "url": "https://dl.airtable.com/rbjwm0wKS4yYQduTuu2E_small_13707611_10153301118629649_6258158905072127817_n.jpg",
             "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/WmXiKPr2RYSexffkhOVn_large_JOSEPH%20JIANG.jpg",
+            "url": "https://dl.airtable.com/zk3BicvTVOeZ6QzAcCyu_large_13707611_10153301118629649_6258158905072127817_n.jpg",
             "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/HDqg8QBkQuuGdm7v7koK_full_JOSEPH%20JIANG.jpg",
+            "url": "https://dl.airtable.com/UDHI3hrLRLW6cIn2FVUW_full_13707611_10153301118629649_6258158905072127817_n.jpg",
             "width": 960,
             "height": 960
           }
@@ -16443,52 +17509,213 @@ export let PersonPositions = {
       }
     ],
     "person": [
-      "recNZcauY6F7F5QL9"
+      "recGYjEvMRqWuQabn"
     ],
-    "(You can't directly edit this column)": "Joseph Jiang, AFXsi Smol Chunks Director",
+    "(You can't directly edit this column)": "Ping Quach, AFX Founders 2011-2012 Founder",
     "groupType": [
-      "team"
+      "board"
     ]
   },
-  "recfbZU6l6HbLMMLB": {
-    "createdTime": "2018-11-10T18:36:33.000Z",
-    "id": "recfbZU6l6HbLMMLB",
+  "recgbIu7VI553Sybn": {
+    "createdTime": "2018-10-17T22:05:14.000Z",
+    "id": "recgbIu7VI553Sybn",
     "group": [
-      "recjSiKn95KAHbj4A"
+      "recs2aRRotZKq6Lvm"
     ],
-    "positionTitle": "Director",
+    "positionTitle": "Founder",
     "picture": [
       {
-        "id": "attNNEiiEpmpFvurN",
-        "url": "https://dl.airtable.com/Vk5iG1DRtmD47ZqR52IA_Copy%20of%20ANGELICA%20NGUYEN.JPG",
-        "filename": "Copy of ANGELICA NGUYEN.JPG",
-        "size": 202181,
+        "id": "atteNHv5hkz5leXY2",
+        "url": "https://dl.airtable.com/9fOFK6GaS14Eqa0GH0ku_13051780_10153967787361508_3966323251194751461_n.jpg",
+        "filename": "13051780_10153967787361508_3966323251194751461_n.jpg",
+        "size": 180846,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/oGpr3ZpJTx2ZXePuXzyJ_small_Copy%20of%20ANGELICA%20NGUYEN.JPG",
-            "width": 24,
+            "url": "https://dl.airtable.com/9uA5VVvzTUS30QQAL4lp_small_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/YeVH6hMXQvK4Ywwz37KP_large_Copy%20of%20ANGELICA%20NGUYEN.JPG",
-            "width": 512,
-            "height": 767
+            "url": "https://dl.airtable.com/bRpZ8HRaRC258egixmpK_large_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 514,
+            "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/AoNV8gnFSRmfr6PSNlKV_full_Copy%20of%20ANGELICA%20NGUYEN.JPG",
-            "width": 890,
-            "height": 1334
+            "url": "https://dl.airtable.com/iozfAQkVQeuJGJa169c5_full_13051780_10153967787361508_3966323251194751461_n.jpg",
+            "width": 960,
+            "height": 957
           }
         }
       }
     ],
     "person": [
-      "recZKJLk6t9beZRcA"
+      "recI4tz7ioKyk9TK0"
     ],
-    "(You can't directly edit this column)": "Angelica Nguyen, AFX Boom Director",
+    "(You can't directly edit this column)": "Geoffrey Chen, AFX Founders 2011-2012 Founder",
     "groupType": [
-      "team"
+      "board"
+    ]
+  },
+  "recyjjB0B4LTiqJLS": {
+    "createdTime": "2018-10-17T22:06:58.000Z",
+    "id": "recyjjB0B4LTiqJLS",
+    "group": [
+      "recs2aRRotZKq6Lvm"
+    ],
+    "positionTitle": "Founder",
+    "picture": [
+      {
+        "id": "attvH0Okhvo2uOrv1",
+        "url": "https://dl.airtable.com/7rHz5asVRxGAuu4KpyMx_23270536_10212447883406227_9024706850829743905_o.jpg",
+        "filename": "23270536_10212447883406227_9024706850829743905_o.jpg",
+        "size": 170526,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/VSHH6D8oRMmsnAaWUU9N_small_23270536_10212447883406227_9024706850829743905_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zp8oC61OSGmNW2B73Kkt_large_23270536_10212447883406227_9024706850829743905_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/kiCDw4SLmC9F5hPimLdA_full_23270536_10212447883406227_9024706850829743905_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "person": [
+      "recn3dcDlodxrX69h"
+    ],
+    "(You can't directly edit this column)": "Rosemary Hua, AFX Founders 2011-2012 Founder",
+    "groupType": [
+      "board"
+    ]
+  },
+  "recc9EiCmYyLyzfT0": {
+    "createdTime": "2018-10-04T02:47:30.000Z",
+    "id": "recc9EiCmYyLyzfT0",
+    "group": [
+      "recAlXOGF37p5Qrtk"
+    ],
+    "picture": [
+      {
+        "id": "attUbCuqI2AbYhf1h",
+        "url": "https://dl.airtable.com/BECpTCkgTSyeH81ecth2_39939369_2099407156756501_5536017118589353984_o.jpg",
+        "filename": "39939369_2099407156756501_5536017118589353984_o.jpg",
+        "size": 654455,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/rouakvsDSK6qymk0K8io_small_39939369_2099407156756501_5536017118589353984_o.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/a21ovRoHQp8TchdSRmin_large_39939369_2099407156756501_5536017118589353984_o.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/3Nhj0IhPSEGyhDJgmOKx_full_39939369_2099407156756501_5536017118589353984_o.jpg",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "(You can't directly edit this column)": "Sean Zhu, AFX Tech Fall 2018 ",
+    "groupType": [
+      "board"
+    ],
+    "person": [
+      "recxAxAFK4ULZWdyr"
+    ]
+  },
+  "recjT5aFHb5TsnMbd": {
+    "createdTime": "2018-10-04T02:48:05.000Z",
+    "id": "recjT5aFHb5TsnMbd",
+    "group": [
+      "recAlXOGF37p5Qrtk"
+    ],
+    "picture": [
+      {
+        "id": "attknr8vuv9XPKOM1",
+        "url": "https://dl.airtable.com/U3f3r4hQPGCDvgCpW6yQ_RICHARD%20WU.jpg",
+        "filename": "RICHARD WU.jpg",
+        "size": 363222,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/uRLIe9mYQGS3oZVDjB5e_small_RICHARD%20WU.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/wyPWVRl4RMmHTXKHKNQ2_large_RICHARD%20WU.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/awCmqyRhTQiG1YOn1rz4_full_RICHARD%20WU.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec8Bd60VEzSli6cO"
+    ],
+    "(You can't directly edit this column)": "Richard Wu, AFX Tech Fall 2018 ",
+    "groupType": [
+      "board"
+    ]
+  },
+  "reccrJOnJTsEoi3Ec": {
+    "createdTime": "2018-10-04T02:48:26.000Z",
+    "id": "reccrJOnJTsEoi3Ec",
+    "group": [
+      "recAlXOGF37p5Qrtk"
+    ],
+    "picture": [
+      {
+        "id": "att7Pp3tIGNdRUkyE",
+        "url": "https://dl.airtable.com/lLCC4bDESkeEhuNNbQq2_CLARA%20PARK.jpg",
+        "filename": "CLARA PARK.jpg",
+        "size": 226473,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/RkDMP3oxRcOFpdfvQ589_small_CLARA%20PARK.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/GCYyPi8XR0ecabcNgdt8_large_CLARA%20PARK.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/sIHN9zWrTkCS727DcY9f_full_CLARA%20PARK.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "recsIrG39H7oCENrA"
+    ],
+    "(You can't directly edit this column)": "Clara Park, AFX Tech Fall 2018 ",
+    "groupType": [
+      "board"
     ]
   },
   "recrGxiMaXDrZ7TAf": {
@@ -16569,6 +17796,717 @@ export let PersonPositions = {
       "recSHMwX0RknR4WdM"
     ],
     "(You can't directly edit this column)": "Jonathan Huang, AFX </3 Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recyk7Nm3WijVUq57": {
+    "createdTime": "2019-01-23T08:50:40.000Z",
+    "id": "recyk7Nm3WijVUq57",
+    "(You can't directly edit this column)": "Albert Weng, AFX $$ Library Director",
+    "group": [
+      "recmGzdylRKshL1l9"
+    ],
+    "person": [
+      "rec9ycYnjZ88dsU32"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recnoY9wnItyapJap": {
+    "createdTime": "2019-01-23T08:51:27.000Z",
+    "id": "recnoY9wnItyapJap",
+    "(You can't directly edit this column)": "Glen Zhou, AFX $$ Library Director",
+    "person": [
+      "recQPj8dfn0udEv5K"
+    ],
+    "group": [
+      "recmGzdylRKshL1l9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec1izG1tYPovom6i": {
+    "createdTime": "2019-01-23T08:51:43.000Z",
+    "id": "rec1izG1tYPovom6i",
+    "(You can't directly edit this column)": "Raymond Truong, AFX $$ Library Director",
+    "person": [
+      "recrLGpI3MihPjAXn"
+    ],
+    "group": [
+      "recmGzdylRKshL1l9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recw0NtLZlq71ISmR": {
+    "createdTime": "2019-01-23T08:44:29.000Z",
+    "id": "recw0NtLZlq71ISmR",
+    "(You can't directly edit this column)": "Michael Chen, AFX 2AM Director",
+    "group": [
+      "recmxbea7C1BBFDLp"
+    ],
+    "person": [
+      "rec133LBDsx7IXwNn"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recCOhW0jh9YsdD6M": {
+    "createdTime": "2019-01-23T08:45:13.000Z",
+    "id": "recCOhW0jh9YsdD6M",
+    "(You can't directly edit this column)": "Amanda Chow, AFX 2AM Director",
+    "person": [
+      "recVm4BZ3jTOdVgz2"
+    ],
+    "group": [
+      "recmxbea7C1BBFDLp"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYEr1cknU5JGRzu": {
+    "createdTime": "2019-01-23T08:04:45.000Z",
+    "id": "recYEr1cknU5JGRzu",
+    "(You can't directly edit this column)": "Elvin Yang, AFX 7/11 Director",
+    "group": [
+      "recckK4i87e8XMHKx"
+    ],
+    "person": [
+      "reckj8ZdUtGgflWUI"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccBrnBXgk2gMFzu": {
+    "createdTime": "2019-01-23T08:05:30.000Z",
+    "id": "reccBrnBXgk2gMFzu",
+    "(You can't directly edit this column)": "Kevin Fong, AFX 7/11 Director",
+    "group": [
+      "recckK4i87e8XMHKx"
+    ],
+    "person": [
+      "rec4StCAYIM1itLSX"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recXdf0Jbd2LFOABf": {
+    "createdTime": "2019-01-23T08:05:51.000Z",
+    "id": "recXdf0Jbd2LFOABf",
+    "(You can't directly edit this column)": "Sophia Lam, AFX 7/11 Director",
+    "group": [
+      "recckK4i87e8XMHKx"
+    ],
+    "person": [
+      "recDwwS03AO73j2Z4"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recG7YEQJad7XCRdn": {
+    "createdTime": "2018-12-12T10:13:25.000Z",
+    "id": "recG7YEQJad7XCRdn",
+    "group": [
+      "recooewIvmz1cLLO8"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attSzB7JtLW6vgqbv",
+        "url": "https://dl.airtable.com/ht8mGcjQYO4BMKpeXmmw_MAX%20YEO.jpg",
+        "filename": "MAX YEO.jpg",
+        "size": 47244,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wC6W4zmnTbyfDdhd4RxD_small_MAX%20YEO.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/os7IrwxoTAamiraaOmtH_large_MAX%20YEO.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/9KaopF0PRC0vE0WlVmsD_full_MAX%20YEO.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recuKXXmoyxpZQscF"
+    ],
+    "(You can't directly edit this column)": "Max Yeo, AFX 101 Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recXL7dzcT7j5sFXI": {
+    "createdTime": "2018-12-12T10:19:03.000Z",
+    "id": "recXL7dzcT7j5sFXI",
+    "group": [
+      "recooewIvmz1cLLO8"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attiIfebDA1g1RON6",
+        "url": "https://dl.airtable.com/zrvwWH1LQ9O9TOyl7cRQ_KIRK%20LA%20(1).jpg",
+        "filename": "KIRK LA (1).jpg",
+        "size": 109527,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/AKOQpq68RiaPIKIjuCVr_small_KIRK%20LA%20(1).jpg",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/aaEnB3TOQE6b6gci9NJ7_large_KIRK%20LA%20(1).jpg",
+            "width": 619,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WvLl5k6yTw68j4bDHgyn_full_KIRK%20LA%20(1).jpg",
+            "width": 1403,
+            "height": 1161
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec4UfhaS3ZcsKOfU"
+    ],
+    "(You can't directly edit this column)": "Kirk La, AFX 101 Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec9bpqYYLuK3xFb6": {
+    "createdTime": "2018-12-12T10:21:05.000Z",
+    "id": "rec9bpqYYLuK3xFb6",
+    "group": [
+      "recooewIvmz1cLLO8"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attd7wrgQ4gTIQOMl",
+        "url": "https://dl.airtable.com/Ss9vg3GRGHWSCUvtLqRw_SUHAAS%20GARRE.jpg",
+        "filename": "SUHAAS GARRE.jpg",
+        "size": 188663,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/M62Fa7rROWGYriYUuJFN_small_SUHAAS%20GARRE.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/oygOxyrXRfquIWs8qDEu_large_SUHAAS%20GARRE.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/UHWivrVVTKy3Rd24SSSN_full_SUHAAS%20GARRE.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "person": [
+      "recDpgNj1OCRCsflf"
+    ],
+    "(You can't directly edit this column)": "Suhaas Garre, AFX 101 Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recytTDW7ghvx63wj": {
+    "createdTime": "2019-01-23T07:56:18.000Z",
+    "id": "recytTDW7ghvx63wj",
+    "(You can't directly edit this column)": "Angela Gao, AFX 404 Director",
+    "group": [
+      "recEgyVF2HAjF3C1G"
+    ],
+    "person": [
+      "rec8ftmATdmGYdNy9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recvpS96YhydF5Yka": {
+    "createdTime": "2019-01-23T07:57:30.000Z",
+    "id": "recvpS96YhydF5Yka",
+    "(You can't directly edit this column)": "Joseph Jiang, AFX 404 Director",
+    "person": [
+      "recNZcauY6F7F5QL9"
+    ],
+    "positionTitle": "Director",
+    "group": [
+      "recEgyVF2HAjF3C1G"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recKEhsySbDVIeqxh": {
+    "createdTime": "2019-01-23T08:01:06.000Z",
+    "id": "recKEhsySbDVIeqxh",
+    "(You can't directly edit this column)": "Mitchell Srimongkol, AFX 404 Director",
+    "person": [
+      "recxQm9h5yWlwcR63"
+    ],
+    "positionTitle": "Director",
+    "group": [
+      "recEgyVF2HAjF3C1G"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recflGNOxbZXPt4RK": {
+    "createdTime": "2019-01-23T08:02:17.000Z",
+    "id": "recflGNOxbZXPt4RK",
+    "(You can't directly edit this column)": "Wilfred Salacup, AFX 404 Director",
+    "person": [
+      "recWC7yK5Re53KiVd"
+    ],
+    "positionTitle": "Director",
+    "group": [
+      "recEgyVF2HAjF3C1G"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recawk3BnqEty5jE5": {
+    "createdTime": "2019-01-23T09:07:10.000Z",
+    "id": "recawk3BnqEty5jE5",
+    "(You can't directly edit this column)": "Audrey Wu, AFX ACE Director",
+    "group": [
+      "recCwYBuoC4d3UBVf"
+    ],
+    "person": [
+      "recnTpSTLfF4Hu3aM"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recQOklOo0slbtd5Y": {
+    "createdTime": "2019-01-23T09:07:34.000Z",
+    "id": "recQOklOo0slbtd5Y",
+    "(You can't directly edit this column)": "Cathy Yang, AFX ACE Director",
+    "person": [
+      "recrROhFCZ4KFxjAW"
+    ],
+    "group": [
+      "recCwYBuoC4d3UBVf"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recsCe8y1yuojsYWu": {
+    "createdTime": "2019-01-23T09:07:38.000Z",
+    "id": "recsCe8y1yuojsYWu",
+    "(You can't directly edit this column)": "Ella Wang, AFX ACE Director",
+    "person": [
+      "recbC7WmKkTVE3W2Q"
+    ],
+    "group": [
+      "recCwYBuoC4d3UBVf"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recbx2A3DbTzdZuHV": {
+    "createdTime": "2019-01-23T09:39:50.000Z",
+    "id": "recbx2A3DbTzdZuHV",
+    "(You can't directly edit this column)": "Angela Hou, AFX Allies ",
+    "group": [
+      "rec6qXkPYRtQRgQts"
+    ],
+    "person": [
+      "recAMURcPEdVfdaWy"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recIN5s4uBwQ6dOxF": {
+    "createdTime": "2019-01-23T09:40:07.000Z",
+    "id": "recIN5s4uBwQ6dOxF",
+    "(You can't directly edit this column)": "Julie Han, AFX Allies ",
+    "person": [
+      "recfATGKemUjdLR40"
+    ],
+    "group": [
+      "rec6qXkPYRtQRgQts"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBTDrdwNmiS1zzF": {
+    "createdTime": "2019-01-23T09:40:32.000Z",
+    "id": "recBTDrdwNmiS1zzF",
+    "(You can't directly edit this column)": "Raymond Ly, AFX Allies ",
+    "person": [
+      "recIYQtBmhphqbdin"
+    ],
+    "group": [
+      "rec6qXkPYRtQRgQts"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec5NUxm8X43YPPGF": {
+    "createdTime": "2019-01-23T09:40:45.000Z",
+    "id": "rec5NUxm8X43YPPGF",
+    "(You can't directly edit this column)": "Aimee Pepper, AFX Allies ",
+    "person": [
+      "recq3sdvy3JjKPWR5"
+    ],
+    "group": [
+      "rec6qXkPYRtQRgQts"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recEN7TAyHb6fQpmW": {
+    "createdTime": "2019-01-23T07:26:55.000Z",
+    "id": "recEN7TAyHb6fQpmW",
+    "(You can't directly edit this column)": "Andrea Deng, AFX Anemone Director",
+    "group": [
+      "reczhFJVl1odeRHxw"
+    ],
+    "person": [
+      "recmMWJZAi4BnKpIc"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rechyBdG7YJ4twPZH": {
+    "createdTime": "2019-01-23T07:27:38.000Z",
+    "id": "rechyBdG7YJ4twPZH",
+    "(You can't directly edit this column)": "Julia Ting, AFX Anemone Director",
+    "group": [
+      "reczhFJVl1odeRHxw"
+    ],
+    "person": [
+      "recqlH5BSDJwdW67r"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec7JGQCIlMvOAsiA": {
+    "createdTime": "2019-01-23T07:27:58.000Z",
+    "id": "rec7JGQCIlMvOAsiA",
+    "(You can't directly edit this column)": "Serena Chang, AFX Anemone Director",
+    "group": [
+      "reczhFJVl1odeRHxw"
+    ],
+    "positionTitle": "Director",
+    "person": [
+      "recnu7oBVEPmq03vp"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reclew3PBCUrdH2rc": {
+    "createdTime": "2019-01-23T07:29:03.000Z",
+    "id": "reclew3PBCUrdH2rc",
+    "(You can't directly edit this column)": "Sophia Morgan, AFX Anemone Director",
+    "group": [
+      "reczhFJVl1odeRHxw"
+    ],
+    "person": [
+      "recy7KgvvPeMKOaTI"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recyAagZfFqoW6au1": {
+    "createdTime": "2019-01-23T08:06:08.000Z",
+    "id": "recyAagZfFqoW6au1",
+    "(You can't directly edit this column)": "Cina Shahabi, AFX Apocalypse Director",
+    "person": [
+      "recoGBSQHEEWuL1LU"
+    ],
+    "group": [
+      "rec7PS1587tLDisxK"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec6bIZqVXdLQF3wY": {
+    "createdTime": "2019-01-23T08:06:16.000Z",
+    "id": "rec6bIZqVXdLQF3wY",
+    "(You can't directly edit this column)": "Peggy Shih, AFX Apocalypse Director",
+    "person": [
+      "recZWKQK0rewWfxJn"
+    ],
+    "group": [
+      "rec7PS1587tLDisxK"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reciAu568KyUK1CSi": {
+    "createdTime": "2019-01-23T08:06:56.000Z",
+    "id": "reciAu568KyUK1CSi",
+    "(You can't directly edit this column)": "Winn Cui, AFX Apocalypse Director",
+    "person": [
+      "reccusci4MPy2I4i4"
+    ],
+    "group": [
+      "rec7PS1587tLDisxK"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recmTBay03ARrwYwm": {
+    "createdTime": "2019-01-23T08:49:15.000Z",
+    "id": "recmTBay03ARrwYwm",
+    "(You can't directly edit this column)": "Andrea Deng, AFX ASKII Director",
+    "group": [
+      "recmTznhu8LJQiMZA"
+    ],
+    "person": [
+      "recmMWJZAi4BnKpIc"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec0fhOiuDhPvkohZ": {
+    "createdTime": "2019-01-23T08:49:37.000Z",
+    "id": "rec0fhOiuDhPvkohZ",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFX ASKII Director",
+    "person": [
+      "rec3RLZl3eC9SXHwJ"
+    ],
+    "group": [
+      "recmTznhu8LJQiMZA"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recj6iZrKTyIOF0ED": {
+    "createdTime": "2019-01-23T08:49:41.000Z",
+    "id": "recj6iZrKTyIOF0ED",
+    "(You can't directly edit this column)": "Serena Chang, AFX ASKII Director",
+    "person": [
+      "recnu7oBVEPmq03vp"
+    ],
+    "group": [
+      "recmTznhu8LJQiMZA"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recady1hl0WeVTArd": {
+    "createdTime": "2019-01-23T09:41:00.000Z",
+    "id": "recady1hl0WeVTArd",
+    "(You can't directly edit this column)": "Timothy Corpuz, AFX ATP ",
+    "person": [
+      "recdPZJ6n8RJnb4Q3"
+    ],
+    "group": [
+      "rec0VciUnJmJJ6oeD"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reco4qEdiSgJa57Iq": {
+    "createdTime": "2019-01-23T08:45:20.000Z",
+    "id": "reco4qEdiSgJa57Iq",
+    "(You can't directly edit this column)": "Brian Lam, AFX Bangzi Director",
+    "group": [
+      "recxcvsKUVdVMwwH2"
+    ],
+    "person": [
+      "rec3psATzLriQhitj"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recooATEwKCYBnAUa": {
+    "createdTime": "2019-01-23T08:45:37.000Z",
+    "id": "recooATEwKCYBnAUa",
+    "(You can't directly edit this column)": "Yangzi He, AFX Bangzi Director",
+    "person": [
+      "recDNBAQC3NwFP4s0"
+    ],
+    "group": [
+      "recxcvsKUVdVMwwH2"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recbPeoVw9V8yiawh": {
+    "createdTime": "2019-01-23T09:41:51.000Z",
+    "id": "recbPeoVw9V8yiawh",
+    "(You can't directly edit this column)": "Christopher Lau, AFX BigBrother ",
+    "group": [
+      "recaZjoItED6gXEdr"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "person": [
+      "recFnSfjcdECqcAGQ"
+    ]
+  },
+  "rec8oiFxUXIYcl1ZV": {
+    "createdTime": "2019-01-23T09:42:34.000Z",
+    "id": "rec8oiFxUXIYcl1ZV",
+    "(You can't directly edit this column)": "Bryan Lov, AFX BigBrother ",
+    "person": [
+      "recoKBUH3YF9e3iBQ"
+    ],
+    "group": [
+      "recaZjoItED6gXEdr"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec8FjekR65k5yXkL": {
+    "createdTime": "2019-01-23T09:42:38.000Z",
+    "id": "rec8FjekR65k5yXkL",
+    "(You can't directly edit this column)": "Gilbert Lin, AFX BigBrother ",
+    "person": [
+      "reczPIesm1yNS5tFx"
+    ],
+    "group": [
+      "recaZjoItED6gXEdr"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec66ocK4tWPfNtDW": {
+    "createdTime": "2019-01-23T08:50:11.000Z",
+    "id": "rec66ocK4tWPfNtDW",
+    "(You can't directly edit this column)": "Andrew Wang, AFX BMW Director",
+    "group": [
+      "recx1sbhyf2I8cdSo"
+    ],
+    "person": [
+      "rec4fvoJyKAQ1AsVD"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccxxKrMwN6WbrGI": {
+    "createdTime": "2019-01-23T08:50:35.000Z",
+    "id": "reccxxKrMwN6WbrGI",
+    "(You can't directly edit this column)": "Natalie Ma, AFX BMW Director",
+    "person": [
+      "rec64C1WdF2Amk1VV"
+    ],
+    "group": [
+      "recx1sbhyf2I8cdSo"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recfbZU6l6HbLMMLB": {
+    "createdTime": "2018-11-10T18:36:33.000Z",
+    "id": "recfbZU6l6HbLMMLB",
+    "group": [
+      "recjSiKn95KAHbj4A"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attNNEiiEpmpFvurN",
+        "url": "https://dl.airtable.com/Vk5iG1DRtmD47ZqR52IA_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+        "filename": "Copy of ANGELICA NGUYEN.JPG",
+        "size": 202181,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/oGpr3ZpJTx2ZXePuXzyJ_small_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/YeVH6hMXQvK4Ywwz37KP_large_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/AoNV8gnFSRmfr6PSNlKV_full_Copy%20of%20ANGELICA%20NGUYEN.JPG",
+            "width": 890,
+            "height": 1334
+          }
+        }
+      }
+    ],
+    "person": [
+      "recZKJLk6t9beZRcA"
+    ],
+    "(You can't directly edit this column)": "Angelica Nguyen, AFX Boom Director",
     "groupType": [
       "team"
     ]
@@ -16655,166 +18593,397 @@ export let PersonPositions = {
       "team"
     ]
   },
-  "recEMop3PhgfDFccm": {
-    "createdTime": "2018-11-10T18:41:26.000Z",
-    "id": "recEMop3PhgfDFccm",
+  "rec9XBnsE2ILD2YrO": {
+    "createdTime": "2019-01-23T09:05:45.000Z",
+    "id": "rec9XBnsE2ILD2YrO",
+    "(You can't directly edit this column)": "Christian Cayton, AFX C2 Director",
     "group": [
-      "recXo2Wr1dwrRK7x7"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attRkLyKLSEqAyBzc",
-        "url": "https://dl.airtable.com/vmGsSPzBSVS94TbsUIWZ_Copy%20of%20ANN%20DENG%20(1).jpg",
-        "filename": "Copy of ANN DENG (1).jpg",
-        "size": 376242,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/go2tvBaqTEaoUzg538rI_small_Copy%20of%20ANN%20DENG%20(1).jpg",
-            "width": 42,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/o0DvNQKzSVm33pX5znT7_large_Copy%20of%20ANN%20DENG%20(1).jpg",
-            "width": 598,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/X64xwrAiTA7s6VYH90uR_full_Copy%20of%20ANN%20DENG%20(1).jpg",
-            "width": 2113,
-            "height": 1810
-          }
-        }
-      }
+      "recF4yQ7IPp6e9dXn"
     ],
     "person": [
-      "recrhMG6f41h7ppYu"
+      "recMwcvipXM9qiwJJ"
     ],
-    "(You can't directly edit this column)": "Ann Deng, AFX ETA Director",
+    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recTJSDEJuUa3c8aS": {
-    "createdTime": "2018-11-10T18:41:45.000Z",
-    "id": "recTJSDEJuUa3c8aS",
+  "recrviESvy0iRYk3G": {
+    "createdTime": "2019-01-23T09:05:56.000Z",
+    "id": "recrviESvy0iRYk3G",
+    "(You can't directly edit this column)": "Chris Lee, AFX C2 Director",
+    "person": [
+      "recNQnSSq1R8SBkoa"
+    ],
     "group": [
-      "recXo2Wr1dwrRK7x7"
+      "recF4yQ7IPp6e9dXn"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attDSBY64Sw9rASQD",
-        "url": "https://dl.airtable.com/9thChAkIQC2GPpSMLdE9_Copy%20of%20ETHAN%20CHUNG.jpg",
-        "filename": "Copy of ETHAN CHUNG.jpg",
-        "size": 1798207,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1v1943jsTa22pxRRHjIg_small_Copy%20of%20ETHAN%20CHUNG.jpg",
-            "width": 37,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zUzJNGn3QnG4yY81vQ4F_large_Copy%20of%20ETHAN%20CHUNG.jpg",
-            "width": 524,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/EDmKM1PEQK0AGpVayP8C_full_Copy%20of%20ETHAN%20CHUNG.jpg",
-            "width": 2680,
-            "height": 2620
-          }
-        }
-      }
-    ],
-    "person": [
-      "recdFjZHoucW4IFIv"
-    ],
-    "(You can't directly edit this column)": "Ethan Chung, AFX ETA Director",
     "groupType": [
       "team"
     ]
   },
-  "recfp4C8UIra4GMBQ": {
-    "createdTime": "2018-11-10T18:41:50.000Z",
-    "id": "recfp4C8UIra4GMBQ",
+  "recXEEScYvYBq2wb5": {
+    "createdTime": "2019-01-23T08:16:14.000Z",
+    "id": "recXEEScYvYBq2wb5",
+    "(You can't directly edit this column)": "Cameron Lee, AFX CaDaLys+ Director",
+    "person": [
+      "reclFKTnGDsAIEJmu"
+    ],
     "group": [
-      "recgRpBKR0PGtPoaf"
+      "recs4sDRkWSBWVORf"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attCmhSlHvpKOxRYJ",
-        "url": "https://dl.airtable.com/gjt9FKhQZireHCSPQ7js_ALEX%20NGUYEN_softcore.jpg",
-        "filename": "ALEX NGUYEN_softcore.jpg",
-        "size": 46715,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/DslvHUXYQ1qlIKRvrCaX_small_ALEX%20NGUYEN_softcore.jpg",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/jFXp1biQvTHcFVsi8g8A_large_ALEX%20NGUYEN_softcore.jpg",
-            "width": 547,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/SDVJaTHeQbXvt63Mwupg_full_ALEX%20NGUYEN_softcore.jpg",
-            "width": 640,
-            "height": 599
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "(You can't directly edit this column)": "Alex Nguyen, AFX softcore  Director",
     "groupType": [
       "team"
     ]
   },
-  "recKefbsymSU2XoQQ": {
-    "createdTime": "2018-11-10T18:42:36.000Z",
-    "id": "recKefbsymSU2XoQQ",
+  "recFCm06cU2kC2inx": {
+    "createdTime": "2019-01-23T08:35:40.000Z",
+    "id": "recFCm06cU2kC2inx",
+    "(You can't directly edit this column)": "Alyssa Jolene, AFX CaDaLys+ Director",
+    "person": [
+      "rechJ87TWAyGyqo7D"
+    ],
     "group": [
-      "recn6LlGtFykr0SZo"
+      "recs4sDRkWSBWVORf"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recDrByCzdiGEGlCu": {
+    "createdTime": "2019-01-23T08:35:48.000Z",
+    "id": "recDrByCzdiGEGlCu",
+    "(You can't directly edit this column)": "Darius Sparks, AFX CaDaLys+ Director",
+    "person": [
+      "rec6IpW9b974hS7Dx"
+    ],
+    "group": [
+      "recs4sDRkWSBWVORf"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recainx4sDZDZGhiz": {
+    "createdTime": "2019-01-23T08:51:53.000Z",
+    "id": "recainx4sDZDZGhiz",
+    "(You can't directly edit this column)": "AC Dela Paz, AFX Cadanza Director",
+    "group": [
+      "recEY1Pqe6Svv7yy6"
+    ],
+    "person": [
+      "rec2nvAlUafPaALoo"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZpUzq2hWa3MoKI": {
+    "createdTime": "2019-01-23T08:51:58.000Z",
+    "id": "recZpUzq2hWa3MoKI",
+    "(You can't directly edit this column)": "Andy Vendrell, AFX Cadanza Director",
+    "person": [
+      "recyrDnDQgBygPkQK"
+    ],
+    "group": [
+      "recEY1Pqe6Svv7yy6"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec08P4Fziekn7nEN": {
+    "createdTime": "2019-01-23T08:52:05.000Z",
+    "id": "rec08P4Fziekn7nEN",
+    "(You can't directly edit this column)": "Lenell Ordanza, AFX Cadanza Director",
+    "person": [
+      "recc44dWSzgZKA2RW"
+    ],
+    "group": [
+      "recEY1Pqe6Svv7yy6"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recCQHDbZ8KdW1TB0": {
+    "createdTime": "2019-01-23T08:42:43.000Z",
+    "id": "recCQHDbZ8KdW1TB0",
+    "(You can't directly edit this column)": "Christian Cayton, AFX Christallan Director",
+    "group": [
+      "recj61UZTSuECP0t6"
+    ],
+    "person": [
+      "recMwcvipXM9qiwJJ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recokRiCa40XjT8tH": {
+    "createdTime": "2019-01-23T08:43:24.000Z",
+    "id": "recokRiCa40XjT8tH",
+    "(You can't directly edit this column)": "Allan Zhao, AFX Christallan Director",
+    "person": [
+      "recVQcKN6hQgQH9zX"
+    ],
+    "group": [
+      "recj61UZTSuECP0t6"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recXYNcEF0oqhlYeP": {
+    "createdTime": "2019-01-23T09:07:50.000Z",
+    "id": "recXYNcEF0oqhlYeP",
+    "(You can't directly edit this column)": "Christian Cayton, AFX Christallan Director",
+    "group": [
+      "recI9zyyYVj7U5SBn"
+    ],
+    "person": [
+      "recMwcvipXM9qiwJJ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec3NPKQ1DBthVIvf": {
+    "createdTime": "2019-01-23T09:08:10.000Z",
+    "id": "rec3NPKQ1DBthVIvf",
+    "(You can't directly edit this column)": "Allan Zhao, AFX Christallan Director",
+    "person": [
+      "recVQcKN6hQgQH9zX"
+    ],
+    "group": [
+      "recI9zyyYVj7U5SBn"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recl9R7y99PMhmHDW": {
+    "createdTime": "2019-01-23T09:39:34.000Z",
+    "id": "recl9R7y99PMhmHDW",
+    "(You can't directly edit this column)": "Chris Kim, AFX Christoria ",
+    "group": [
+      "rechL3W2Vi7wov83L"
+    ],
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recV0D4c9roitEuFm": {
+    "createdTime": "2019-01-23T09:39:41.000Z",
+    "id": "recV0D4c9roitEuFm",
+    "(You can't directly edit this column)": "Victoria Du, AFX Christoria ",
+    "person": [
+      "recwFJemNLcX2Xhhp"
+    ],
+    "group": [
+      "rechL3W2Vi7wov83L"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec1HZHoLGdQLhZqj": {
+    "createdTime": "2019-01-23T08:45:43.000Z",
+    "id": "rec1HZHoLGdQLhZqj",
+    "(You can't directly edit this column)": "Arthur Liou, AFX CIA Director",
+    "group": [
+      "recWQ51TQMht31tXx"
+    ],
+    "person": [
+      "recbcCfd2aMzjtrro"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recaxisKlEkcXH5CR": {
+    "createdTime": "2019-01-23T08:45:49.000Z",
+    "id": "recaxisKlEkcXH5CR",
+    "(You can't directly edit this column)": "Chris Kim, AFX CIA Director",
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "group": [
+      "recWQ51TQMht31tXx"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recTtVK53vyTnkqQM": {
+    "createdTime": "2019-01-23T08:45:53.000Z",
+    "id": "recTtVK53vyTnkqQM",
+    "(You can't directly edit this column)": "Ingrid Hong, AFX CIA Director",
+    "person": [
+      "reck3YhyVFHzYvWyp"
+    ],
+    "group": [
+      "recWQ51TQMht31tXx"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec5eogmx6uLpKksW": {
+    "createdTime": "2019-01-23T08:56:04.000Z",
+    "id": "rec5eogmx6uLpKksW",
+    "(You can't directly edit this column)": "Catherine Ho, AFX CORE Director",
+    "group": [
+      "recHqabtPu20aZqoa"
+    ],
+    "person": [
+      "recV3gjQK9tysqXw1"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recAopPt86feRMdRk": {
+    "createdTime": "2019-01-23T08:56:50.000Z",
+    "id": "recAopPt86feRMdRk",
+    "(You can't directly edit this column)": "Edward Liu, AFX CORE Director",
+    "person": [
+      "recdtJEnMyxtyD6yQ"
+    ],
+    "group": [
+      "recHqabtPu20aZqoa"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recwwi2RLkqBq1wHs": {
+    "createdTime": "2019-01-23T08:57:00.000Z",
+    "id": "recwwi2RLkqBq1wHs",
+    "(You can't directly edit this column)": "Jessica Shen, AFX CORE Director",
+    "person": [
+      "recV6mEyCtcaHTHVw"
+    ],
+    "group": [
+      "recHqabtPu20aZqoa"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recw3K2TqCIUEkc7Z": {
+    "createdTime": "2019-01-23T08:57:05.000Z",
+    "id": "recw3K2TqCIUEkc7Z",
+    "(You can't directly edit this column)": "Julian Sarafian, AFX CORE Director",
+    "person": [
+      "recAoPcpu3xgw4lfx"
+    ],
+    "group": [
+      "recHqabtPu20aZqoa"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recyheH136WhJJv72": {
+    "createdTime": "2018-12-12T10:25:17.000Z",
+    "id": "recyheH136WhJJv72",
+    "group": [
+      "recgGEOokEasFJJkn"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attMjQlgtWX3Ewfl8",
-        "url": "https://dl.airtable.com/yXoRFYZRUChSyLzUCtbw_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
-        "filename": "Screen Shot 2018-12-14 at 8.02.35 PM.png",
-        "size": 1521838,
-        "type": "image/png",
+        "id": "attbsOEuC4V0jv2Kg",
+        "url": "https://dl.airtable.com/PjJumsFgSFeZi4jgFYjC_CARI%20GAN.jpg",
+        "filename": "CARI GAN.jpg",
+        "size": 152714,
+        "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/DWVq47huSigGpUPYIPSf_small_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
-            "width": 37,
+            "url": "https://dl.airtable.com/YmNbhXjQH6NAq6hPCzg8_small_CARI%20GAN.jpg",
+            "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/BIYQ3CEDSS2WIngnzms6_large_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
-            "width": 528,
+            "url": "https://dl.airtable.com/f6UWJNc8SkWqzsv93SiU_large_CARI%20GAN.jpg",
+            "width": 768,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/QWPxyaPTECm4827dAl9w_full_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
-            "width": 1166,
-            "height": 1130
+            "url": "https://dl.airtable.com/Y8cGcdJ1R8ef4ple65Z5_full_CARI%20GAN.jpg",
+            "width": 2048,
+            "height": 1365
           }
         }
       }
     ],
     "person": [
-      "recVwOcszdvg6tMe0"
+      "recxwGyHwoJImSoPP"
     ],
-    "(You can't directly edit this column)": "Alex Nguyen, AFXsi Slumber Party Director",
+    "(You can't directly edit this column)": "Cari Gan, AFX CW Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recomZlm6yeXnlo6G": {
+    "createdTime": "2018-12-12T10:27:58.000Z",
+    "id": "recomZlm6yeXnlo6G",
+    "group": [
+      "recgGEOokEasFJJkn"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attJOIg5m5VREtcER",
+        "url": "https://dl.airtable.com/hXplfueRWWWZBSTh1NPA_800_1995Edit.jpg",
+        "filename": "800_1995Edit.jpg",
+        "size": 3085512,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/lTuR4f4SvO8LncC8AHXw_small_800_1995Edit.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QoUT2uZQGOtAlpY6OO2k_large_800_1995Edit.jpg",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/cxc2Jf5QgebhN55QzwLq_full_800_1995Edit.jpg",
+            "width": 2002,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recb1hKgi5bRfTlH9"
+    ],
+    "(You can't directly edit this column)": "Wenhao Liao, AFX CW Director",
     "groupType": [
       "team"
     ]
@@ -16938,6 +19107,623 @@ export let PersonPositions = {
       "recSFNnBSOUul5AUA"
     ],
     "(You can't directly edit this column)": "Matthew Tran , AFX DAAAAM Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZonKujt9AoCKdh": {
+    "createdTime": "2019-01-23T07:40:00.000Z",
+    "id": "recZonKujt9AoCKdh",
+    "(You can't directly edit this column)": "Brendon Ho, AFX DaB Director",
+    "group": [
+      "recMmZni3OrOaZeqV"
+    ],
+    "positionTitle": "Director",
+    "person": [
+      "rec4cE7BkSgkq4OmT"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recF2y8cw1D9RQlqE": {
+    "createdTime": "2019-01-23T07:41:36.000Z",
+    "id": "recF2y8cw1D9RQlqE",
+    "(You can't directly edit this column)": "David Moon, AFX DaB Director",
+    "group": [
+      "recMmZni3OrOaZeqV"
+    ],
+    "positionTitle": "Director",
+    "person": [
+      "rec9fE9T87W7gVqhv"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recyko34oM0jvhmaF": {
+    "createdTime": "2019-01-23T08:38:39.000Z",
+    "id": "recyko34oM0jvhmaF",
+    "(You can't directly edit this column)": "AC Dela Paz, AFX Danc Director",
+    "group": [
+      "recIbUE7FZapHgsqw"
+    ],
+    "person": [
+      "rec2nvAlUafPaALoo"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recteBvxQnOFEoRag": {
+    "createdTime": "2019-01-23T08:38:55.000Z",
+    "id": "recteBvxQnOFEoRag",
+    "(You can't directly edit this column)": "Dan Ricciardelli, AFX Danc Director",
+    "person": [
+      "recFHTImw5G3ebb3P"
+    ],
+    "group": [
+      "recIbUE7FZapHgsqw"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recd2OuBeOaXf6SSX": {
+    "createdTime": "2019-01-23T09:11:42.000Z",
+    "id": "recd2OuBeOaXf6SSX",
+    "(You can't directly edit this column)": "Daniel He, AFX Dandrew Director",
+    "group": [
+      "recYrzpMstDdoQ9fv"
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec5oZ5Lk7ecUGGhL": {
+    "createdTime": "2019-01-23T09:11:50.000Z",
+    "id": "rec5oZ5Lk7ecUGGhL",
+    "(You can't directly edit this column)": "Andrew Lee, AFX Dandrew Director",
+    "person": [
+      "recBPtE9xYnXjdgb4"
+    ],
+    "group": [
+      "recYrzpMstDdoQ9fv"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec47QSX3FEI3IOUS": {
+    "createdTime": "2019-01-23T08:46:00.000Z",
+    "id": "rec47QSX3FEI3IOUS",
+    "(You can't directly edit this column)": "Michael Chen, AFX DAWN Director",
+    "group": [
+      "rec9ZMvxY0pFx4SJP"
+    ],
+    "person": [
+      "recvmimrks8m7hMNB"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZz165njKINk3zI": {
+    "createdTime": "2019-01-23T08:47:55.000Z",
+    "id": "recZz165njKINk3zI",
+    "(You can't directly edit this column)": "Queena Xu, AFX DAWN Director",
+    "person": [
+      "recm9GGNQwNn3Y0uG"
+    ],
+    "group": [
+      "rec9ZMvxY0pFx4SJP"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recHnwA6CcDq0B93X": {
+    "createdTime": "2019-01-23T09:41:54.000Z",
+    "id": "recHnwA6CcDq0B93X",
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Desert Thirst ",
+    "group": [
+      "recH77oO4ipgKWSO7"
+    ],
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recET3Ze0kERobis7": {
+    "createdTime": "2019-01-23T09:43:07.000Z",
+    "id": "recET3Ze0kERobis7",
+    "(You can't directly edit this column)": "Anna Dai Feng, AFX Desert Thirst ",
+    "person": [
+      "recxNAoG50eOCH61C"
+    ],
+    "group": [
+      "recH77oO4ipgKWSO7"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recCQZoaBvk8TLQ9G": {
+    "createdTime": "2019-01-23T09:43:19.000Z",
+    "id": "recCQZoaBvk8TLQ9G",
+    "(You can't directly edit this column)": "Jonathan Ting, AFX Desert Thirst ",
+    "person": [
+      "recjsSvAoZikr9uL8"
+    ],
+    "group": [
+      "recH77oO4ipgKWSO7"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBcvQ75mGgJJezA": {
+    "createdTime": "2018-12-13T09:02:53.000Z",
+    "id": "recBcvQ75mGgJJezA",
+    "group": [
+      "recXjuWcIV7jHFKTN"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attHUBRiPEz1d6vNH",
+        "url": "https://dl.airtable.com/tQT37ogcR16zRaLL7vqU_KAREN%20DING.PNG",
+        "filename": "KAREN DING.PNG",
+        "size": 951176,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/C58VS2iDRW6I14b2xdKs_small_KAREN%20DING.PNG",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/u5XD2yOnQjqbJ4iesNXD_large_KAREN%20DING.PNG",
+            "width": 512,
+            "height": 514
+          },
+          "full": {
+            "url": "https://dl.airtable.com/0DyiKTfjQyeDBvsOSofh_full_KAREN%20DING.PNG",
+            "width": 596,
+            "height": 598
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFHoYhUBiV5URhr"
+    ],
+    "(You can't directly edit this column)": "Karen Ding, AFX Ding Dong Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBcgMIqL5c2ymfY": {
+    "createdTime": "2018-12-13T09:04:04.000Z",
+    "id": "recBcgMIqL5c2ymfY",
+    "group": [
+      "recXjuWcIV7jHFKTN"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attyXxcNxtk0xrxby",
+        "url": "https://dl.airtable.com/UUdIxXkIS6uC83ichFSP_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
+        "size": 239226,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/z1oxYPqcRYeqz219a7yq_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/MCLW1QxYR5SlI5Dy078V_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/6D5i36BPSsSPAr9iHRKf_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      }
+    ],
+    "person": [
+      "recnIIrPMXGlfHFb9"
+    ],
+    "(You can't directly edit this column)": "Lenny Dong, AFX Ding Dong Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rechsNxHsvYb4ipgn": {
+    "createdTime": "2018-12-13T09:13:47.000Z",
+    "id": "rechsNxHsvYb4ipgn",
+    "group": [
+      "reclgPwPymHTre39f"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attiovuMMtRDOZuvj",
+        "url": "https://dl.airtable.com/Qmj63CywTI2oABKTvukh_DARIUS%20SPARKS.jpg",
+        "filename": "DARIUS SPARKS.jpg",
+        "size": 146245,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/FL0ZL5tQdeODw0rKvyyU_small_DARIUS%20SPARKS.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zcXCeufdS4SYYXpH6UgV_large_DARIUS%20SPARKS.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/b4sdETYRcapMPNgPExnv_full_DARIUS%20SPARKS.jpg",
+            "width": 960,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec6IpW9b974hS7Dx"
+    ],
+    "(You can't directly edit this column)": "Darius Sparks, AFX DJ Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec6h4qSGHuC5wUWx": {
+    "createdTime": "2018-12-13T09:15:22.000Z",
+    "id": "rec6h4qSGHuC5wUWx",
+    "group": [
+      "reclgPwPymHTre39f"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attvGPsqTwh5bFQrA",
+        "url": "https://dl.airtable.com/xDMrw1pFThKrw6YBrdtu_JASON%20BOUATAVANH.PNG",
+        "filename": "JASON BOUATAVANH.PNG",
+        "size": 313299,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Lz7D6mTTywRJMtZOkTAR_small_JASON%20BOUATAVANH.PNG",
+            "width": 30,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/7SxtZSPQJ6qbOqf54gjr_large_JASON%20BOUATAVANH.PNG",
+            "width": 512,
+            "height": 607
+          },
+          "full": {
+            "url": "https://dl.airtable.com/7ng6Mxl4R0qOWbDWxqe1_full_JASON%20BOUATAVANH.PNG",
+            "width": 550,
+            "height": 652
+          }
+        }
+      }
+    ],
+    "person": [
+      "recb95w3N49Pkc93b"
+    ],
+    "(You can't directly edit this column)": "Jason Bouatavanh, AFX DJ Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recHZ7oBfbP3ZazKD": {
+    "createdTime": "2019-01-23T09:08:12.000Z",
+    "id": "recHZ7oBfbP3ZazKD",
+    "(You can't directly edit this column)": "Alex Tang, AFX Empire Hearts Director",
+    "group": [
+      "recTp0TOj7NCVeDQp"
+    ],
+    "person": [
+      "rec1f93ALW5SsVGI9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec83L7rGfysXiwe4": {
+    "createdTime": "2019-01-23T09:08:19.000Z",
+    "id": "rec83L7rGfysXiwe4",
+    "(You can't directly edit this column)": "Chloe Lim, AFX Empire Hearts Director",
+    "person": [
+      "recSgFCUTKNbfOcE4"
+    ],
+    "group": [
+      "recTp0TOj7NCVeDQp"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recTZdjhGhkVQ2Xiz": {
+    "createdTime": "2019-01-23T08:52:10.000Z",
+    "id": "recTZdjhGhkVQ2Xiz",
+    "(You can't directly edit this column)": "Elissa Lee, AFX EQ Director",
+    "group": [
+      "reczzXpEnRpSu1MGb"
+    ],
+    "person": [
+      "rectyXeaflL5ML6II"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recWqgGDe3AIQDII1": {
+    "createdTime": "2019-01-23T08:52:17.000Z",
+    "id": "recWqgGDe3AIQDII1",
+    "(You can't directly edit this column)": "Li Yu, AFX EQ Director",
+    "person": [
+      "recCcQw4yzV9EyHLK"
+    ],
+    "group": [
+      "reczzXpEnRpSu1MGb"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recqdNSGHQyUqgIWD": {
+    "createdTime": "2019-01-23T08:52:24.000Z",
+    "id": "recqdNSGHQyUqgIWD",
+    "(You can't directly edit this column)": "Tifa Shen, AFX EQ Director",
+    "person": [
+      "recB6lx5qZupqApWy"
+    ],
+    "group": [
+      "reczzXpEnRpSu1MGb"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec2FpH0eo29L9LFR": {
+    "createdTime": "2019-01-23T08:52:39.000Z",
+    "id": "rec2FpH0eo29L9LFR",
+    "(You can't directly edit this column)": "Simon Chen, AFX EQ Director",
+    "person": [
+      "reccl1uy2ajMiq1O2"
+    ],
+    "group": [
+      "reczzXpEnRpSu1MGb"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec4FDB3ipqyD4DAq": {
+    "createdTime": "2019-01-23T09:06:43.000Z",
+    "id": "rec4FDB3ipqyD4DAq",
+    "(You can't directly edit this column)": "Natalie Ma, AFX ESPR Director",
+    "group": [
+      "recOnVahXzC7kYXXp"
+    ],
+    "person": [
+      "rec64C1WdF2Amk1VV"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recWOfrlZUWgpmzsj": {
+    "createdTime": "2019-01-23T09:06:56.000Z",
+    "id": "recWOfrlZUWgpmzsj",
+    "(You can't directly edit this column)": "Sky Nite, AFX ESPR Director",
+    "person": [
+      "recqqDXnLWyYJwYio"
+    ],
+    "group": [
+      "recOnVahXzC7kYXXp"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recEMop3PhgfDFccm": {
+    "createdTime": "2018-11-10T18:41:26.000Z",
+    "id": "recEMop3PhgfDFccm",
+    "group": [
+      "recXo2Wr1dwrRK7x7"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attRkLyKLSEqAyBzc",
+        "url": "https://dl.airtable.com/vmGsSPzBSVS94TbsUIWZ_Copy%20of%20ANN%20DENG%20(1).jpg",
+        "filename": "Copy of ANN DENG (1).jpg",
+        "size": 376242,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/go2tvBaqTEaoUzg538rI_small_Copy%20of%20ANN%20DENG%20(1).jpg",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/o0DvNQKzSVm33pX5znT7_large_Copy%20of%20ANN%20DENG%20(1).jpg",
+            "width": 598,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/X64xwrAiTA7s6VYH90uR_full_Copy%20of%20ANN%20DENG%20(1).jpg",
+            "width": 2113,
+            "height": 1810
+          }
+        }
+      }
+    ],
+    "person": [
+      "recrhMG6f41h7ppYu"
+    ],
+    "(You can't directly edit this column)": "Ann Deng, AFX ETA Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recTJSDEJuUa3c8aS": {
+    "createdTime": "2018-11-10T18:41:45.000Z",
+    "id": "recTJSDEJuUa3c8aS",
+    "group": [
+      "recXo2Wr1dwrRK7x7"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attDSBY64Sw9rASQD",
+        "url": "https://dl.airtable.com/9thChAkIQC2GPpSMLdE9_Copy%20of%20ETHAN%20CHUNG.jpg",
+        "filename": "Copy of ETHAN CHUNG.jpg",
+        "size": 1798207,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1v1943jsTa22pxRRHjIg_small_Copy%20of%20ETHAN%20CHUNG.jpg",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/zUzJNGn3QnG4yY81vQ4F_large_Copy%20of%20ETHAN%20CHUNG.jpg",
+            "width": 524,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/EDmKM1PEQK0AGpVayP8C_full_Copy%20of%20ETHAN%20CHUNG.jpg",
+            "width": 2680,
+            "height": 2620
+          }
+        }
+      }
+    ],
+    "person": [
+      "recdFjZHoucW4IFIv"
+    ],
+    "(You can't directly edit this column)": "Ethan Chung, AFX ETA Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recUJ72D7F53TYKxw": {
+    "createdTime": "2019-01-23T09:41:54.000Z",
+    "id": "recUJ72D7F53TYKxw",
+    "(You can't directly edit this column)": "Andy Vendrell, AFX Eyecandy ",
+    "group": [
+      "recYKZTGxchrDzELp"
+    ],
+    "person": [
+      "recyrDnDQgBygPkQK"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recelflqRNSPaMDIO": {
+    "createdTime": "2019-01-23T07:09:34.000Z",
+    "id": "recelflqRNSPaMDIO",
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Fatale Director",
+    "group": [
+      "recmBZZ61fSUMApWT"
+    ],
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rect0HirGdedYxaUf": {
+    "createdTime": "2019-01-23T07:10:03.000Z",
+    "id": "rect0HirGdedYxaUf",
+    "(You can't directly edit this column)": "Josh Fitch, AFX Fatale Director",
+    "group": [
+      "recmBZZ61fSUMApWT"
+    ],
+    "person": [
+      "recZuxgeAKWZderDL"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec7Hmnw8b6hpLhsP": {
+    "createdTime": "2019-01-23T08:43:28.000Z",
+    "id": "rec7Hmnw8b6hpLhsP",
+    "(You can't directly edit this column)": "Genevieve Tran, AFX FTFO Director",
+    "group": [
+      "reccK9CEI8KHIjNqI"
+    ],
+    "person": [
+      "reczNFWgfdbLjCub6"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recxeWYT5wwGZ1jxJ": {
+    "createdTime": "2019-01-23T08:43:43.000Z",
+    "id": "recxeWYT5wwGZ1jxJ",
+    "(You can't directly edit this column)": "Mikaela Klein, AFX FTFO Director",
+    "person": [
+      "reclVNKAxBs3D00S5"
+    ],
+    "group": [
+      "reccK9CEI8KHIjNqI"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recsTkVvyHLF0Z0Hq": {
+    "createdTime": "2019-01-23T08:44:00.000Z",
+    "id": "recsTkVvyHLF0Z0Hq",
+    "(You can't directly edit this column)": "Jessica Yu, AFX FTFO Director",
+    "person": [
+      "recwtkyQYyYu7Qx4i"
+    ],
+    "group": [
+      "reccK9CEI8KHIjNqI"
+    ],
+    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
@@ -17106,125 +19892,1181 @@ export let PersonPositions = {
       "team"
     ]
   },
-  "recFSErXcEQJ2oLHs": {
-    "createdTime": "2018-12-01T19:00:54.000Z",
-    "id": "recFSErXcEQJ2oLHs",
+  "reccf6VAD3KDImN4E": {
+    "createdTime": "2019-01-23T09:00:15.000Z",
+    "id": "reccf6VAD3KDImN4E",
+    "(You can't directly edit this column)": "Shawn Han, AFX Han Solo Director",
     "group": [
-      "rec7bcuYPZkO20JSj"
+      "recLSvOyDcwTf9G7c"
+    ],
+    "person": [
+      "reciBJu4qsJ1a1S0u"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recGUTDB1Uctt8Q4x": {
+    "createdTime": "2019-01-23T08:52:55.000Z",
+    "id": "recGUTDB1Uctt8Q4x",
+    "(You can't directly edit this column)": "Haley Arganbright, AFX Hazie Director",
+    "group": [
+      "recqvVAp0UylCOWbh"
+    ],
+    "person": [
+      "recoV1V3TYXr1QcSl"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recImqGj8sEOj6Ox7": {
+    "createdTime": "2019-01-23T08:53:32.000Z",
+    "id": "recImqGj8sEOj6Ox7",
+    "(You can't directly edit this column)": "Susie Morales, AFX Hazie Director",
+    "person": [
+      "reclc67u4MT3byfuP"
+    ],
+    "group": [
+      "recqvVAp0UylCOWbh"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recD3mJVYrGoCP198": {
+    "createdTime": "2019-01-23T09:02:33.000Z",
+    "id": "recD3mJVYrGoCP198",
+    "(You can't directly edit this column)": "Che Yeon Hyun, AFX Hyphen Director",
+    "group": [
+      "rec3tdZ3T0Dx3MQAg"
+    ],
+    "person": [
+      "recJ19fhtI8ksFlx9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZfwHTo86cKCgXk": {
+    "createdTime": "2019-01-23T09:02:59.000Z",
+    "id": "recZfwHTo86cKCgXk",
+    "(You can't directly edit this column)": "Stephen Pon, AFX Hyphen Director",
+    "person": [
+      "recBIezOE8vYLFQWo"
+    ],
+    "group": [
+      "rec3tdZ3T0Dx3MQAg"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "receKSpUI0bKXLEtM": {
+    "createdTime": "2019-01-23T08:48:02.000Z",
+    "id": "receKSpUI0bKXLEtM",
+    "(You can't directly edit this column)": "Alex Kwon, AFX iKON Director",
+    "group": [
+      "recjOCoNs1GbR2Bq4"
+    ],
+    "person": [
+      "recCtpyZdi7eNSYLw"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec795ZVHOzQXXID2": {
+    "createdTime": "2019-01-23T08:48:11.000Z",
+    "id": "rec795ZVHOzQXXID2",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFX iKON Director",
+    "person": [
+      "recyuGtimgWQu1z1r"
+    ],
+    "group": [
+      "recjOCoNs1GbR2Bq4"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recuX4WN2Vo3DehfB": {
+    "createdTime": "2019-01-23T08:48:15.000Z",
+    "id": "recuX4WN2Vo3DehfB",
+    "(You can't directly edit this column)": "Keien Ohta, AFX iKON Director",
+    "person": [
+      "recS7tOOGL4jKxWES"
+    ],
+    "group": [
+      "recjOCoNs1GbR2Bq4"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recKlWmVHM32G2Bgy": {
+    "createdTime": "2019-01-23T08:53:42.000Z",
+    "id": "recKlWmVHM32G2Bgy",
+    "(You can't directly edit this column)": "Jenny Chen, AFX JA! Director",
+    "group": [
+      "recWFnmpAsCMWmsmP"
+    ],
+    "person": [
+      "reccBSwkwjN6WIsfB"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recgmOV5dpR9F2oE4": {
+    "createdTime": "2019-01-23T08:54:05.000Z",
+    "id": "recgmOV5dpR9F2oE4",
+    "(You can't directly edit this column)": "Aileen Zhang, AFX JA! Director",
+    "person": [
+      "recyjhiPOWoth35P0"
+    ],
+    "group": [
+      "recWFnmpAsCMWmsmP"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccwc62xpKuWljUd": {
+    "createdTime": "2019-01-23T08:49:45.000Z",
+    "id": "reccwc62xpKuWljUd",
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Jelly Director",
+    "group": [
+      "reconkBMRGiRxRfeN"
+    ],
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reckfJfQymudtsnLI": {
+    "createdTime": "2019-01-23T08:49:52.000Z",
+    "id": "reckfJfQymudtsnLI",
+    "(You can't directly edit this column)": "Nelson Chen, AFX Jelly Director",
+    "person": [
+      "recVYyxv8eiSHTrNH"
+    ],
+    "group": [
+      "reconkBMRGiRxRfeN"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recGxHeywW4g1tysW": {
+    "createdTime": "2019-01-23T09:41:54.000Z",
+    "id": "recGxHeywW4g1tysW",
+    "(You can't directly edit this column)": "Joseph Jiang, AFX JEM ",
+    "group": [
+      "rec7OSPyLVxDKm2sV"
+    ],
+    "person": [
+      "recNZcauY6F7F5QL9"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recjj5eE0qZevBtKz": {
+    "createdTime": "2019-01-23T09:43:46.000Z",
+    "id": "recjj5eE0qZevBtKz",
+    "(You can't directly edit this column)": "Emily Duan, AFX JEM ",
+    "person": [
+      "recewxgeWZNfLIGqF"
+    ],
+    "group": [
+      "rec7OSPyLVxDKm2sV"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recl8L4sBNPKZAtbQ": {
+    "createdTime": "2019-01-23T09:43:51.000Z",
+    "id": "recl8L4sBNPKZAtbQ",
+    "(You can't directly edit this column)": "Michael Chu, AFX JEM ",
+    "person": [
+      "reclpX3jvpv0V44dl"
+    ],
+    "group": [
+      "rec7OSPyLVxDKm2sV"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec0xKgz6Wer2qKtX": {
+    "createdTime": "2019-01-23T08:48:22.000Z",
+    "id": "rec0xKgz6Wer2qKtX",
+    "(You can't directly edit this column)": "Jeffrey Kurohara, AFX JK Crew Director",
+    "group": [
+      "recTkNeHVUzN3bmtJ"
+    ],
+    "person": [
+      "recQtqK3Wp447F4q7"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccnnzBpK1AyICcC": {
+    "createdTime": "2019-01-23T08:48:32.000Z",
+    "id": "reccnnzBpK1AyICcC",
+    "(You can't directly edit this column)": "Jingting Wu, AFX JK Crew Director",
+    "person": [
+      "recY3sl2dCG9KGAT7"
+    ],
+    "group": [
+      "recTkNeHVUzN3bmtJ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYu2tOs42p4XGLE": {
+    "createdTime": "2019-01-23T08:48:42.000Z",
+    "id": "recYu2tOs42p4XGLE",
+    "(You can't directly edit this column)": "Kevyn Niu, AFX JK Crew Director",
+    "person": [
+      "recOmLL2mZ7VvkjmY"
+    ],
+    "group": [
+      "recTkNeHVUzN3bmtJ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recU5LO2Y6SCSP5s6": {
+    "createdTime": "2019-01-23T09:08:24.000Z",
+    "id": "recU5LO2Y6SCSP5s6",
+    "(You can't directly edit this column)": "Joseph Koo, AFX Jokayne Director",
+    "group": [
+      "rec85mDKYhDXcHY7h"
+    ],
+    "person": [
+      "recZ4bppVkukHelyx"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recl3uqtIPPHNNFor": {
+    "createdTime": "2019-01-23T09:08:39.000Z",
+    "id": "recl3uqtIPPHNNFor",
+    "(You can't directly edit this column)": "Kyle Feng, AFX Jokayne Director",
+    "person": [
+      "recxDe7YiXOYFR2ZB"
+    ],
+    "group": [
+      "rec85mDKYhDXcHY7h"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recJhTEJYJRSjYdxW": {
+    "createdTime": "2019-01-23T09:08:43.000Z",
+    "id": "recJhTEJYJRSjYdxW",
+    "(You can't directly edit this column)": "Wayne Zhong, AFX Jokayne Director",
+    "person": [
+      "recE3qCxpiAekTzGM"
+    ],
+    "group": [
+      "rec85mDKYhDXcHY7h"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccFJojUkSdwmxHU": {
+    "createdTime": "2019-01-23T09:00:25.000Z",
+    "id": "reccFJojUkSdwmxHU",
+    "(You can't directly edit this column)": "Felix Li, AFX Kelix Director",
+    "group": [
+      "reccuoGPAleMQ0ToU"
+    ],
+    "person": [
+      "recOWrlg8MLtI8Py2"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recemowZpG6VY4nCf": {
+    "createdTime": "2019-01-23T09:01:42.000Z",
+    "id": "recemowZpG6VY4nCf",
+    "(You can't directly edit this column)": "Kevin Song, AFX Kelix Director",
+    "person": [
+      "recuDgEKZRTQy2RP4"
+    ],
+    "group": [
+      "reccuoGPAleMQ0ToU"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recSkG4AalO1lIZHQ": {
+    "createdTime": "2019-01-23T09:08:51.000Z",
+    "id": "recSkG4AalO1lIZHQ",
+    "(You can't directly edit this column)": "Felix Li, AFX Kelix Director",
+    "group": [
+      "recCvlKgKNpcMfw5i"
+    ],
+    "person": [
+      "recOWrlg8MLtI8Py2"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recWtijlVXUHehRjZ": {
+    "createdTime": "2019-01-23T09:10:59.000Z",
+    "id": "recWtijlVXUHehRjZ",
+    "(You can't directly edit this column)": "Kevin Song, AFX Kelix Director",
+    "person": [
+      "recuDgEKZRTQy2RP4"
+    ],
+    "group": [
+      "recCvlKgKNpcMfw5i"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recIk8eJAMKCNJq7M": {
+    "createdTime": "2019-01-23T09:12:14.000Z",
+    "id": "recIk8eJAMKCNJq7M",
+    "(You can't directly edit this column)": "Felix Li, AFX Kelix Director",
+    "group": [
+      "recZYfUHmHt1ksKh0"
+    ],
+    "person": [
+      "recOWrlg8MLtI8Py2"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBRzg1nQRrAaScm": {
+    "createdTime": "2019-01-23T09:12:26.000Z",
+    "id": "recBRzg1nQRrAaScm",
+    "(You can't directly edit this column)": "Kevin Song, AFX Kelix Director",
+    "person": [
+      "recuDgEKZRTQy2RP4"
+    ],
+    "group": [
+      "recZYfUHmHt1ksKh0"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBD5V9nti3XtIEu": {
+    "createdTime": "2019-01-23T08:39:00.000Z",
+    "id": "recBD5V9nti3XtIEu",
+    "(You can't directly edit this column)": "Ian Lin, AFX Kindle Director",
+    "group": [
+      "recmnazdxob4GA1U6"
+    ],
+    "person": [
+      "recq899RkpXw3Gvrx"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec8OdR8oBKc2ZAqD": {
+    "createdTime": "2019-01-23T08:39:09.000Z",
+    "id": "rec8OdR8oBKc2ZAqD",
+    "(You can't directly edit this column)": "Keien Ohta, AFX Kindle Director",
+    "person": [
+      "recS7tOOGL4jKxWES"
+    ],
+    "group": [
+      "recmnazdxob4GA1U6"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recC0UCS6w9gAZdiv": {
+    "createdTime": "2019-01-23T08:39:15.000Z",
+    "id": "recC0UCS6w9gAZdiv",
+    "(You can't directly edit this column)": "Neil Xia, AFX Kindle Director",
+    "person": [
+      "reczWUDfU2NemTT6H"
+    ],
+    "group": [
+      "recmnazdxob4GA1U6"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZZdPEKofmImLYj": {
+    "createdTime": "2019-01-23T09:03:11.000Z",
+    "id": "recZZdPEKofmImLYj",
+    "(You can't directly edit this column)": "Krissy Austin, AFX Kriselle Director",
+    "group": [
+      "rec9MWNgbORpsNcE8"
+    ],
+    "person": [
+      "recJZ9nlz1gIrb87c"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recgtZZJ4dn7dawga": {
+    "createdTime": "2019-01-23T09:03:22.000Z",
+    "id": "recgtZZJ4dn7dawga",
+    "(You can't directly edit this column)": "Michelle Li, AFX Kriselle Director",
+    "person": [
+      "recuB6j27df5H1aBq"
+    ],
+    "group": [
+      "rec9MWNgbORpsNcE8"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reciymkEMLOU1t7sG": {
+    "createdTime": "2019-01-23T09:11:01.000Z",
+    "id": "reciymkEMLOU1t7sG",
+    "(You can't directly edit this column)": "Stephen Pon, AFX LePon Director",
+    "group": [
+      "recO91b2wy6XN4g0J"
+    ],
+    "person": [
+      "recBIezOE8vYLFQWo"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recmUDgbC3uNf673M": {
+    "createdTime": "2019-01-23T09:11:06.000Z",
+    "id": "recmUDgbC3uNf673M",
+    "(You can't directly edit this column)": "Nathan Lee, AFX LePon Director",
+    "person": [
+      "recQJky3Rrh2rfMVY"
+    ],
+    "group": [
+      "recO91b2wy6XN4g0J"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recvbzMN5cpL1AOq5": {
+    "createdTime": "2019-01-23T08:49:57.000Z",
+    "id": "recvbzMN5cpL1AOq5",
+    "(You can't directly edit this column)": "Edward Fang, AFX LIT Director",
+    "group": [
+      "recRYZjFxEnNWMVMm"
+    ],
+    "person": [
+      "recjGRqqBNGiVC604"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recFXp8rzhPZjETKs": {
+    "createdTime": "2019-01-23T08:50:03.000Z",
+    "id": "recFXp8rzhPZjETKs",
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX LIT Director",
+    "person": [
+      "recn9QkB6vln1iqIG"
+    ],
+    "group": [
+      "recRYZjFxEnNWMVMm"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZ8esGyjFp2QqhB": {
+    "createdTime": "2019-01-23T08:50:08.000Z",
+    "id": "recZ8esGyjFp2QqhB",
+    "(You can't directly edit this column)": "Trisha Giron, AFX LIT Director",
+    "person": [
+      "recNxGjKy27HT3XML"
+    ],
+    "group": [
+      "recRYZjFxEnNWMVMm"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recWnw4lEjFRENfyB": {
+    "createdTime": "2018-12-13T08:52:14.000Z",
+    "id": "recWnw4lEjFRENfyB",
+    "group": [
+      "rec6cFEd8SzUBNo9o"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attbUTnwreHYVpf3B",
-        "url": "https://dl.airtable.com/nDU9Wyp7R2DnhQYINpqP_DSC_1200.jpg",
-        "filename": "DSC_1200.jpg",
-        "size": 1532763,
+        "id": "att4XED99Mpzl6QRt",
+        "url": "https://dl.airtable.com/2xak5pnMShO47xP7fsKT_KATIE%20POA.PNG",
+        "filename": "KATIE POA.PNG",
+        "size": 725363,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/jN0fJ2NlRkePWciFfO0Y_small_KATIE%20POA.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/y7e5mrqAT4yxuZ0BxdQQ_large_KATIE%20POA.PNG",
+            "width": 479,
+            "height": 504
+          },
+          "full": {
+            "url": "https://dl.airtable.com/LhHbxDFQSonJJcbZGivr_full_KATIE%20POA.PNG",
+            "width": 479,
+            "height": 504
+          }
+        }
+      }
+    ],
+    "person": [
+      "recSVi5Qmw4oMyi8u"
+    ],
+    "(You can't directly edit this column)": "Katie Poa, AFX LoWKey Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recJeowLVzxkEnUWP": {
+    "createdTime": "2018-12-13T08:53:41.000Z",
+    "id": "recJeowLVzxkEnUWP",
+    "group": [
+      "rec6cFEd8SzUBNo9o"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att0Wi058al9EqJAJ",
+        "url": "https://dl.airtable.com/iRIeGlPtSbIxunrDrVNd_LOUISA%20ZHANG.PNG",
+        "filename": "LOUISA ZHANG.PNG",
+        "size": 312569,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/aUkwJj0xTVy8Q05vnbzl_small_LOUISA%20ZHANG.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sSl1wNp6SPmQbGkwsGCQ_large_LOUISA%20ZHANG.PNG",
+            "width": 469,
+            "height": 497
+          },
+          "full": {
+            "url": "https://dl.airtable.com/IhfQK6fSq2F7tWdjUUNA_full_LOUISA%20ZHANG.PNG",
+            "width": 469,
+            "height": 497
+          }
+        }
+      }
+    ],
+    "person": [
+      "recoXhzEe3CSWpV2b"
+    ],
+    "(You can't directly edit this column)": "Louisa Zhang, AFX LoWKey Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec4SUea9e15uK7OW": {
+    "createdTime": "2018-12-13T08:58:00.000Z",
+    "id": "rec4SUea9e15uK7OW",
+    "group": [
+      "rec6cFEd8SzUBNo9o"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att6i5ytKIVQad2S7",
+        "url": "https://dl.airtable.com/2KVSANi6QkanPjjDDZuJ_WINN%20CUI.PNG",
+        "filename": "WINN CUI.PNG",
+        "size": 560218,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/m0NowSpTcihYGDGYUSKA_small_WINN%20CUI.PNG",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/mDvihiHMQr2WDC8mNP7x_large_WINN%20CUI.PNG",
+            "width": 512,
+            "height": 531
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Gv9EtxS0Rsy8ToDZnwq7_full_WINN%20CUI.PNG",
+            "width": 572,
+            "height": 593
+          }
+        }
+      }
+    ],
+    "person": [
+      "reccusci4MPy2I4i4"
+    ],
+    "(You can't directly edit this column)": "Winn Cui, AFX LoWKey Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recTIIv90HDZjQgne": {
+    "createdTime": "2019-01-23T09:12:27.000Z",
+    "id": "recTIIv90HDZjQgne",
+    "(You can't directly edit this column)": "Daniel He, AFX MadHouse U Director",
+    "group": [
+      "recifKY7DcH1RxaMP"
+    ],
+    "person": [
+      "recfLsiC7955V83ri"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recIJmkmRf5CFMJOX": {
+    "createdTime": "2019-01-23T09:12:35.000Z",
+    "id": "recIJmkmRf5CFMJOX",
+    "(You can't directly edit this column)": "Eric Kim, AFX MadHouse U Director",
+    "person": [
+      "recp0NmQKxjcdlu8w"
+    ],
+    "group": [
+      "recifKY7DcH1RxaMP"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recgctqYeUKIKxvMG": {
+    "createdTime": "2019-01-23T08:39:23.000Z",
+    "id": "recgctqYeUKIKxvMG",
+    "(You can't directly edit this column)": "Mei Mei, AFX Matrix Director",
+    "group": [
+      "receCwoUGQ4WyR8GC"
+    ],
+    "person": [
+      "reci7k75SMLdI0Wjh"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recfI7xh0OyO8vYOD": {
+    "createdTime": "2019-01-23T08:39:30.000Z",
+    "id": "recfI7xh0OyO8vYOD",
+    "(You can't directly edit this column)": "Patrick Lin, AFX Matrix Director",
+    "person": [
+      "recen1WngPBkT2o36"
+    ],
+    "group": [
+      "receCwoUGQ4WyR8GC"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recd9f5nImbEfwIr7": {
+    "createdTime": "2019-01-23T08:39:38.000Z",
+    "id": "recd9f5nImbEfwIr7",
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Matrix Director",
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "group": [
+      "receCwoUGQ4WyR8GC"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recUEokKatoDRFpsz": {
+    "createdTime": "2018-12-12T23:17:43.000Z",
+    "id": "recUEokKatoDRFpsz",
+    "group": [
+      "recDV8rL7zVa2J6l5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attdb74vIgrcLxff8",
+        "url": "https://dl.airtable.com/1U6Ft7bzSBGai2kx8zA4_AC%20DELA%20PAZ%20(1).jpg",
+        "filename": "AC DELA PAZ (1).jpg",
+        "size": 42612,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/49nFAuZYSUuqiSXukmQA_small_DSC_1200.jpg",
+            "url": "https://dl.airtable.com/0eFQIxHtR4GBS6irey8b_small_AC%20DELA%20PAZ%20(1).jpg",
+            "width": 57,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/HHZ5T9F4QHiYmOkNVLoe_large_AC%20DELA%20PAZ%20(1).jpg",
+            "width": 812,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/LXT1l52mRzK08vZVAHkD_full_AC%20DELA%20PAZ%20(1).jpg",
+            "width": 871,
+            "height": 549
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec2nvAlUafPaALoo"
+    ],
+    "(You can't directly edit this column)": "AC Dela Paz, AFX MAWfia Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recP4u0zKITznz1cW": {
+    "createdTime": "2018-12-12T23:19:41.000Z",
+    "id": "recP4u0zKITznz1cW",
+    "group": [
+      "recDV8rL7zVa2J6l5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbmb0qXWL92F1vV",
+        "url": "https://dl.airtable.com/YP4AU0PoQ2u0KFddsbZi_MICHAEL%20CHEN.jpg",
+        "filename": "MICHAEL CHEN.jpg",
+        "size": 98855,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/qPz7tuNARO6l7P5tQ6Nm_small_MICHAEL%20CHEN.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/sZUu0EEySe6DDfCoE3En_large_DSC_1200.jpg",
+            "url": "https://dl.airtable.com/5ysdYVwbTiSxaqcW2BvH_large_MICHAEL%20CHEN.jpg",
             "width": 512,
             "height": 768
           },
           "full": {
-            "url": "https://dl.airtable.com/4LoXZg5eS5W72YpOdPzH_full_DSC_1200.jpg",
-            "width": 2000,
-            "height": 3000
+            "url": "https://dl.airtable.com/Ecu5VD3vRNGL66SQOmC6_full_MICHAEL%20CHEN.jpg",
+            "width": 640,
+            "height": 960
           }
         }
       }
     ],
     "person": [
-      "recFEcamXUNR9EndJ"
+      "recvmimrks8m7hMNB"
     ],
-    "(You can't directly edit this column)": "Jeremiah Kim, AFX Thick & Thin  Director",
+    "(You can't directly edit this column)": "Michael Chen, AFX MAWfia Director",
     "groupType": [
       "team"
     ]
   },
-  "recDLx7mt57vNRqk2": {
-    "createdTime": "2018-12-01T19:01:07.000Z",
-    "id": "recDLx7mt57vNRqk2",
+  "rec9D9NphXY0xYUI1": {
+    "createdTime": "2018-12-12T23:21:47.000Z",
+    "id": "rec9D9NphXY0xYUI1",
     "group": [
-      "rec7bcuYPZkO20JSj"
+      "recDV8rL7zVa2J6l5"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attbwsIJ4J7RsqxIH",
-        "url": "https://dl.airtable.com/5QneWSTySt6EndSv1HY4_DSC_0082.jpg",
-        "filename": "DSC_0082.jpg",
-        "size": 1437482,
+        "id": "attICBTbvkcuOUbgY",
+        "url": "https://dl.airtable.com/ouQ4F4OQ2wrtmZtVETgS_WILFRED%20SALACUP.jpg",
+        "filename": "WILFRED SALACUP.jpg",
+        "size": 55211,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/tRouftUQlGJjJik6bAEM_small_DSC_0082.jpg",
-            "width": 54,
+            "url": "https://dl.airtable.com/2ZEmRtLkTsmI434zu4tp_small_WILFRED%20SALACUP.jpg",
+            "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/0Txi4HJzRsu7jvH3EBrG_large_DSC_0082.jpg",
-            "width": 768,
+            "url": "https://dl.airtable.com/qgFG0jIoQUKTkW5UUAOs_large_WILFRED%20SALACUP.jpg",
+            "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/qYKAC7nJQIqO6BlIuVyD_full_DSC_0082.jpg",
-            "width": 3000,
-            "height": 2000
+            "url": "https://dl.airtable.com/BMS7AkX5SyW0KazER80O_full_WILFRED%20SALACUP.jpg",
+            "width": 737,
+            "height": 737
           }
         }
       }
     ],
     "person": [
-      "recsE4lwZeEnpsefV"
+      "recWC7yK5Re53KiVd"
     ],
-    "(You can't directly edit this column)": "Nathan Chou, AFX Thick & Thin  Director",
+    "(You can't directly edit this column)": "Wilfred Salacup, AFX MAWfia Director",
     "groupType": [
       "team"
     ]
   },
-  "recocK3tjmzmo3GWO": {
-    "createdTime": "2018-12-01T19:01:13.000Z",
-    "id": "recocK3tjmzmo3GWO",
+  "rec2Awc9Y8XrYeQ7j": {
+    "createdTime": "2018-12-13T09:06:29.000Z",
+    "id": "rec2Awc9Y8XrYeQ7j",
     "group": [
-      "rec7bcuYPZkO20JSj"
+      "recgSC5ZaU8HBQbmS"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attqQDtGl2etHyjXa",
-        "url": "https://dl.airtable.com/nrke3eLPQf26imJCpJo0_DSC_0207%20(1).jpg",
-        "filename": "DSC_0207 (1).jpg",
-        "size": 126842,
-        "type": "image/jpeg",
+        "id": "attrOsvEFlOS9JEQF",
+        "url": "https://dl.airtable.com/jKMjd742RX2apQHZLtZB_TIFFANIE%20ABACAN.PNG",
+        "filename": "TIFFANIE ABACAN.PNG",
+        "size": 1301642,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/928RQl0zSgmdR5sJQLrb_small_DSC_0207%20(1).jpg",
-            "width": 17,
+            "url": "https://dl.airtable.com/WFPnUDkQ8ejRuAxtYnmw_small_TIFFANIE%20ABACAN.PNG",
+            "width": 40,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/dQMvCKv4Q5CPlEKTxWCw_large_DSC_0207%20(1).jpg",
-            "width": 512,
-            "height": 1097
+            "url": "https://dl.airtable.com/uPNa85XfS2KKsiMlCN3K_large_TIFFANIE%20ABACAN.PNG",
+            "width": 571,
+            "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/f1Kfn9P1Rqm1kwgzIOJd_full_DSC_0207%20(1).jpg",
-            "width": 1097,
-            "height": 2350
+            "url": "https://dl.airtable.com/Mb6Uj6lSLmxC1Zgrr2wR_full_TIFFANIE%20ABACAN.PNG",
+            "width": 806,
+            "height": 723
           }
         }
       }
     ],
     "person": [
-      "rec6WvmQSMI1O6Y4Q"
+      "recRcjNWpPIB6MhSE"
     ],
-    "(You can't directly edit this column)": "Dan Chung, AFX Thick & Thin  Director",
+    "(You can't directly edit this column)": "Tiffanie Abacan, AFX META Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recIMXzS9m8dZ1zjF": {
+    "createdTime": "2018-12-13T09:08:20.000Z",
+    "id": "recIMXzS9m8dZ1zjF",
+    "group": [
+      "recgSC5ZaU8HBQbmS"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attSNvQuWYtEJvfjZ",
+        "url": "https://dl.airtable.com/ygtrZKp7RF6n3vYCQTx1_MENGYAN%20LI.PNG",
+        "filename": "MENGYAN LI.PNG",
+        "size": 588295,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/3QIuoviSNm3H5omX1pyD_small_MENGYAN%20LI.PNG",
+            "width": 51,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/ZxLwbhRRvK0Uckugfem7_large_MENGYAN%20LI.PNG",
+            "width": 597,
+            "height": 422
+          },
+          "full": {
+            "url": "https://dl.airtable.com/HxVy7i2mTlmOZXYqpPUA_full_MENGYAN%20LI.PNG",
+            "width": 597,
+            "height": 422
+          }
+        }
+      }
+    ],
+    "person": [
+      "recCQaNAzI6bTDsQo"
+    ],
+    "(You can't directly edit this column)": "Mengyan Li, AFX META Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recROI9NnR3gpwjS7": {
+    "createdTime": "2018-12-13T09:10:02.000Z",
+    "id": "recROI9NnR3gpwjS7",
+    "group": [
+      "recgSC5ZaU8HBQbmS"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attVuYx9cxMToTRBo",
+        "url": "https://dl.airtable.com/uJttDmQuQTq1Q3LNJXwb_ANTHONY%20NGUYEN.PNG",
+        "filename": "ANTHONY NGUYEN.PNG",
+        "size": 639124,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/WPSwWijESzCd9HxLlb96_small_ANTHONY%20NGUYEN.PNG",
+            "width": 30,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/J2YOkUV3SZGi0TVWApJP_large_ANTHONY%20NGUYEN.PNG",
+            "width": 488,
+            "height": 592
+          },
+          "full": {
+            "url": "https://dl.airtable.com/ixGmzM2QnaqYgOLausLQ_full_ANTHONY%20NGUYEN.PNG",
+            "width": 488,
+            "height": 592
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec0LPC8lZkJZSnkE"
+    ],
+    "(You can't directly edit this column)": "Anthony Nguyen, AFX META Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recpMHc2UHOX1UXBf": {
+    "createdTime": "2019-01-23T08:03:58.000Z",
+    "id": "recpMHc2UHOX1UXBf",
+    "(You can't directly edit this column)": "Christine Nguyen, AFX Michi Director",
+    "group": [
+      "recw1DrJjXTJiCxDu"
+    ],
+    "person": [
+      "rec8DTnPeU2YYqWpF"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recIbc0SgPcRJfj9z": {
+    "createdTime": "2019-01-23T08:04:24.000Z",
+    "id": "recIbc0SgPcRJfj9z",
+    "(You can't directly edit this column)": "Michael Ershov, AFX Michi Director",
+    "group": [
+      "recw1DrJjXTJiCxDu"
+    ],
+    "person": [
+      "recYT7OgVVQafOBIB"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recUfH8mr2MsRQmxU": {
+    "createdTime": "2019-01-23T08:39:43.000Z",
+    "id": "recUfH8mr2MsRQmxU",
+    "(You can't directly edit this column)": "Alex Kumamoto, AFX Mushu Director",
+    "group": [
+      "rec5NdqAYrjJvwOZP"
+    ],
+    "person": [
+      "recJBB9QQHpc2Eh40"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recCeQ0OUCu1o0rZz": {
+    "createdTime": "2019-01-23T08:40:02.000Z",
+    "id": "recCeQ0OUCu1o0rZz",
+    "(You can't directly edit this column)": "Michelle Li, AFX Mushu Director",
+    "person": [
+      "recuB6j27df5H1aBq"
+    ],
+    "group": [
+      "rec5NdqAYrjJvwOZP"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec4QdNMnRr5f8Ewe": {
+    "createdTime": "2018-12-13T09:23:30.000Z",
+    "id": "rec4QdNMnRr5f8Ewe",
+    "group": [
+      "recCuEIVaZ2TETp48"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attQub1n6duo2pzJk",
+        "url": "https://dl.airtable.com/H1MKmk8JQGLX6PLJyRxg_NARIA%20QUAZI.PNG",
+        "filename": "NARIA QUAZI.PNG",
+        "size": 839199,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Uzv1hduTzO5psVktTaxl_small_NARIA%20QUAZI.PNG",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Xto7DfyoTP23XFsl3lvj_large_NARIA%20QUAZI.PNG",
+            "width": 539,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/aJzo70VTqjTcxZBsEPew_full_NARIA%20QUAZI.PNG",
+            "width": 629,
+            "height": 597
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1nPfEeEIubXT0C"
+    ],
+    "(You can't directly edit this column)": "Naria Quazi, AFX NaLA Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recJnf4qYoOoE6qSR": {
+    "createdTime": "2018-12-13T09:28:09.000Z",
+    "id": "recJnf4qYoOoE6qSR",
+    "group": [
+      "recCuEIVaZ2TETp48"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attqs1Mk0GY2Esf3P",
+        "url": "https://dl.airtable.com/N9V4i4a7Rtmpza2Kn4DW_LEO%20ZHANG.PNG",
+        "filename": "LEO ZHANG.PNG",
+        "size": 569879,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/R7a6eUshTmuZ4czYUmH6_small_LEO%20ZHANG.PNG",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/cDzvryk3SAaFVGFCvsxc_large_LEO%20ZHANG.PNG",
+            "width": 512,
+            "height": 539
+          },
+          "full": {
+            "url": "https://dl.airtable.com/2CTjvshMTeiJaAZXoTjj_full_LEO%20ZHANG.PNG",
+            "width": 525,
+            "height": 553
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec1SKHcbRCJkp0cO"
+    ],
+    "(You can't directly edit this column)": "Leo Zhang, AFX NaLA Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recAViFCI7lrDQ6Ww": {
+    "createdTime": "2018-12-13T09:29:06.000Z",
+    "id": "recAViFCI7lrDQ6Ww",
+    "group": [
+      "recCuEIVaZ2TETp48"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attG1qWMnDSZ5N92v",
+        "url": "https://dl.airtable.com/Exv4VnQnSecnwtvI2MAu_AIMEE%20PEPPER.PNG",
+        "filename": "AIMEE PEPPER.PNG",
+        "size": 1053546,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/baRrfQMORay253gw7NLf_small_AIMEE%20PEPPER.PNG",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/XdnBrd7PSCiSf33JPiyf_large_AIMEE%20PEPPER.PNG",
+            "width": 514,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qjobhb7XTbasWR6W6ar4_full_AIMEE%20PEPPER.PNG",
+            "width": 695,
+            "height": 692
+          }
+        }
+      }
+    ],
+    "person": [
+      "recq3sdvy3JjKPWR5"
+    ],
+    "(You can't directly edit this column)": "Aimee Pepper, AFX NaLA Director",
     "groupType": [
       "team"
     ]
@@ -17393,6 +21235,36 @@ export let PersonPositions = {
       "team"
     ]
   },
+  "recupsLparQjxVcLt": {
+    "createdTime": "2019-01-23T08:48:50.000Z",
+    "id": "recupsLparQjxVcLt",
+    "(You can't directly edit this column)": "Noah Kim, AFX NoProblem Director",
+    "group": [
+      "recfY6t1K5Sh39hj8"
+    ],
+    "person": [
+      "recoUieEa0cjfU9U2"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recXSGsagoBIgMFV1": {
+    "createdTime": "2019-01-23T08:49:10.000Z",
+    "id": "recXSGsagoBIgMFV1",
+    "(You can't directly edit this column)": "Paul Baik, AFX NoProblem Director",
+    "person": [
+      "rec5dF2uKIbQKg9mW"
+    ],
+    "group": [
+      "recfY6t1K5Sh39hj8"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
   "recZA3W3bUfL9Plni": {
     "createdTime": "2018-12-01T19:02:10.000Z",
     "id": "recZA3W3bUfL9Plni",
@@ -17516,878 +21388,391 @@ export let PersonPositions = {
       "team"
     ]
   },
-  "reciTQZrpjz6GPY0E": {
-    "createdTime": "2018-12-01T19:02:43.000Z",
-    "id": "reciTQZrpjz6GPY0E",
+  "recYzJCII8mJFlE4x": {
+    "createdTime": "2018-12-13T09:32:37.000Z",
+    "id": "recYzJCII8mJFlE4x",
     "group": [
-      "recvYtPBSrT8l3Oel"
+      "recakv34dAgvMZqyk"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attaicv7IFKtFX3ML",
-        "url": "https://dl.airtable.com/5lMlQk96RpO4ClETwlBg_Copy%20of%20JULIE%20LIU.jpg",
-        "filename": "Copy of JULIE LIU.jpg",
-        "size": 187109,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Q4CuOsAhTa2bmOOR32H1_small_Copy%20of%20JULIE%20LIU.jpg",
-            "width": 46,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/VWpqA7hoRYqTfgkabIM2_large_Copy%20of%20JULIE%20LIU.jpg",
-            "width": 660,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/OcJBUJBzRVWlfmnCEnHP_full_Copy%20of%20JULIE%20LIU.jpg",
-            "width": 1237,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recWXNq71YJeR9DzG"
-    ],
-    "(You can't directly edit this column)": "Julie Liu , AFXXX Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recvJU1WJLwEMjjp9": {
-    "createdTime": "2018-12-01T19:03:00.000Z",
-    "id": "recvJU1WJLwEMjjp9",
-    "group": [
-      "recvYtPBSrT8l3Oel"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att9fgWfFTFNpiOPL",
-        "url": "https://dl.airtable.com/EEzreGlJTIWySEYD3nh8_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
-        "filename": "Copy of KATHERINE BIGELOW (1).jpg",
-        "size": 60885,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/fSghR8JFQCUyaY7HlwRC_small_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/5fcfs91eRySXJ9sDHT9Z_large_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
-            "width": 516,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/qKJmnK7TaKKWuBXQJB1j_full_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
-            "width": 640,
-            "height": 635
-          }
-        }
-      }
-    ],
-    "person": [
-      "recSfTGr4IXt0DH41"
-    ],
-    "(You can't directly edit this column)": "Katherine Bigelow, AFXXX Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recwMSrRTOGB90NW7": {
-    "createdTime": "2018-12-01T19:03:05.000Z",
-    "id": "recwMSrRTOGB90NW7",
-    "group": [
-      "recvYtPBSrT8l3Oel"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attLuwnxfQyfeTIXc",
-        "url": "https://dl.airtable.com/1uENnGCITIKDsiX8zLjQ_Copy%20of%20BRANDON%20PARK%20COY.jpg",
-        "filename": "Copy of BRANDON PARK COY.jpg",
-        "size": 107229,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/1I6xPuTQQ7aGfIgHsBNj_small_Copy%20of%20BRANDON%20PARK%20COY.jpg",
-            "width": 44,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/QtJoRIfTYKvyVdq242Qy_large_Copy%20of%20BRANDON%20PARK%20COY.jpg",
-            "width": 623,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/zMtzeTLSR6iNCkRBKPzc_full_Copy%20of%20BRANDON%20PARK%20COY.jpg",
-            "width": 1041,
-            "height": 856
-          }
-        }
-      }
-    ],
-    "person": [
-      "recYmFqa9v3or2Cp3"
-    ],
-    "(You can't directly edit this column)": "Brandon Park Coy, AFXXX Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recwCXVXkxDHyjrCs": {
-    "createdTime": "2018-12-01T19:03:12.000Z",
-    "id": "recwCXVXkxDHyjrCs",
-    "group": [
-      "recbo1kdUheKuzZyA"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attkFzWklIwpqWzBB",
-        "url": "https://dl.airtable.com/bD8utUo1RnOe6s8bsFMb_TRISHA%20GIRON%20(1).jpg",
-        "filename": "TRISHA GIRON (1).jpg",
-        "size": 28730,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/hJBv40jMSB6uLRFwvpGU_small_TRISHA%20GIRON%20(1).jpg",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/av7up4xNQmCKTBWIXRr6_large_TRISHA%20GIRON%20(1).jpg",
-            "width": 545,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/nMxG0ZgXQIqreohI0I5C_full_TRISHA%20GIRON%20(1).jpg",
-            "width": 619,
-            "height": 581
-          }
-        }
-      }
-    ],
-    "person": [
-      "recNxGjKy27HT3XML"
-    ],
-    "(You can't directly edit this column)": "Trisha Giron, AFX TV Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recN6aEQCOobedfTj": {
-    "createdTime": "2018-12-01T19:03:21.000Z",
-    "id": "recN6aEQCOobedfTj",
-    "group": [
-      "recbo1kdUheKuzZyA"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attnG9yDVuWmN2xWd",
-        "url": "https://dl.airtable.com/0TMxx7KtTgyXAzQJ8Pev_VIET%20TRUONG.jpg",
-        "filename": "VIET TRUONG.jpg",
-        "size": 48912,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Wn9LXzxMSqwfuLN4VI2Q_small_VIET%20TRUONG.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/FcG5y3rSeyx1sv4XOWS9_large_VIET%20TRUONG.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/dQIuLdwVSGqk3sxOfQVn_full_VIET%20TRUONG.jpg",
-            "width": 640,
-            "height": 640
-          }
-        }
-      }
-    ],
-    "person": [
-      "rechTc6alNI294bLQ"
-    ],
-    "(You can't directly edit this column)": "Viet Truong, AFX TV Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec6TDEsRxOdpUDDB": {
-    "createdTime": "2018-12-12T09:47:03.000Z",
-    "id": "rec6TDEsRxOdpUDDB",
-    "group": [
-      "recpQI3J6HKu6NObe"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attiJpo6Um0DexhKq",
-        "url": "https://dl.airtable.com/9vXYpr8Ro6pGmrT0D7cn_ASHLEY%20SONG.jpg",
-        "filename": "ASHLEY SONG.jpg",
-        "size": 71540,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/9wfawVIFTWu9rl9LAPb0_small_ASHLEY%20SONG.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/opkxaOx0Rz6ku0BMWsR9_large_ASHLEY%20SONG.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/y5LDMpLDQBW6hPFPf4IX_full_ASHLEY%20SONG.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "rece0DANFC7ouQRn4"
-    ],
-    "(You can't directly edit this column)": "Ashley Song, AFXsi N/A Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recrhqq26IXzcwk22": {
-    "createdTime": "2018-12-12T09:52:34.000Z",
-    "id": "recrhqq26IXzcwk22",
-    "group": [
-      "recpQI3J6HKu6NObe"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attq8mFABVCU4a3Ya",
-        "url": "https://dl.airtable.com/xatQj1NZT9St2dG21ETy_MAX%20WANG%20(1).jpg",
-        "filename": "MAX WANG (1).jpg",
-        "size": 101265,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/P2Bd9VmhQGW4FF0Qg9EX_small_MAX%20WANG%20(1).jpg",
-            "width": 72,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/AKjsVSnKQDmokdTQd1sK_large_MAX%20WANG%20(1).jpg",
-            "width": 905,
-            "height": 453
-          },
-          "full": {
-            "url": "https://dl.airtable.com/dZ9MjuRCRmezrJ7YybKz_full_MAX%20WANG%20(1).jpg",
-            "width": 905,
-            "height": 453
-          }
-        }
-      }
-    ],
-    "person": [
-      "recijMCIqUe2QR7Ez"
-    ],
-    "(You can't directly edit this column)": "Max Wang, AFXsi N/A Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recFHUd9aYKQpHLxs": {
-    "createdTime": "2018-12-12T09:57:15.000Z",
-    "id": "recFHUd9aYKQpHLxs",
-    "group": [
-      "rec8RsWuzGriceaKU"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attT5HPvITYleSQpP",
-        "url": "https://dl.airtable.com/LYc8H1c0SyGJNFNZ0J8s_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
-        "filename": "Screen Shot 2018-12-14 at 7.58.23 PM.png",
-        "size": 1437277,
+        "id": "attfvNLp834kD6dIO",
+        "url": "https://dl.airtable.com/b3noChSS1yuDfiyG9f01_CHRISTINE%20HO.PNG",
+        "filename": "CHRISTINE HO.PNG",
+        "size": 750831,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/oZAF5apsSlKVhdXmUMgB_small_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
-            "width": 38,
+            "url": "https://dl.airtable.com/8Q7UVfNaQJaYnw3iEsDU_small_CHRISTINE%20HO.PNG",
+            "width": 34,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/JdcPC3KTR12XzcblVLHT_large_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
-            "width": 537,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/sY9YiHTkS7aBxLG7rmIa_full_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
-            "width": 1174,
-            "height": 1120
-          }
-        }
-      }
-    ],
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "(You can't directly edit this column)": "Alex Nguyen, AFXsi 4PLAY Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recp7OFx2ofzhUvpO": {
-    "createdTime": "2018-12-12T10:04:50.000Z",
-    "id": "recp7OFx2ofzhUvpO",
-    "group": [
-      "recokuRWqWHMaWmuE"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attWkxLQLHvFxEYpf",
-        "url": "https://dl.airtable.com/d4IyIIfQQp6NuiXxCFhj_sophia%20morgan.jpg",
-        "filename": "sophia morgan.jpg",
-        "size": 56033,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/sZq0oS2gSLN6LRuOegJQ_small_sophia%20morgan.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/CxjktqHqQNCa3h1Y8SS0_large_sophia%20morgan.jpg",
+            "url": "https://dl.airtable.com/R04onzagQYq0w9fQegAa_large_CHRISTINE%20HO.PNG",
             "width": 512,
-            "height": 768
+            "height": 549
           },
           "full": {
-            "url": "https://dl.airtable.com/rdnY6HEDQNKI0cL8wEMM_full_sophia%20morgan.jpg",
-            "width": 640,
-            "height": 960
+            "url": "https://dl.airtable.com/Oc22agPSJ2GyJHJfkLMb_full_CHRISTINE%20HO.PNG",
+            "width": 644,
+            "height": 690
           }
         }
       }
     ],
     "person": [
-      "recy7KgvvPeMKOaTI"
+      "recJu9Hcotxvp8rOT"
     ],
-    "(You can't directly edit this column)": "Sophia Morgan, AFX Riddikulus Director",
+    "(You can't directly edit this column)": "Christine Ho, AFX OH Director",
     "groupType": [
       "team"
     ]
   },
-  "recwsF8F7AZazJcpK": {
-    "createdTime": "2018-12-12T10:06:32.000Z",
-    "id": "recwsF8F7AZazJcpK",
+  "recNuN2WJyVmC7Na7": {
+    "createdTime": "2018-12-13T09:33:49.000Z",
+    "id": "recNuN2WJyVmC7Na7",
     "group": [
-      "recokuRWqWHMaWmuE"
+      "recakv34dAgvMZqyk"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attxC6iUNJs8vtt2M",
-        "url": "https://dl.airtable.com/XDy4EHeZT5SKrGxiuZ2c_julia%20ting%20(1).jpg",
-        "filename": "julia ting (1).jpg",
-        "size": 51205,
-        "type": "image/jpeg",
+        "id": "att0ciHJjP6L57SDS",
+        "url": "https://dl.airtable.com/48Ap4RAoQ5OUU9USlvab_LENELL%20ORDANZA.PNG",
+        "filename": "LENELL ORDANZA.PNG",
+        "size": 401780,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/QXWNQQwsSFSxV8V9NweW_small_julia%20ting%20(1).jpg",
-            "width": 28,
+            "url": "https://dl.airtable.com/UJYlpsFyShef18vkQAGr_small_LENELL%20ORDANZA.PNG",
+            "width": 32,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/QxF686gQ4GzPDw74oD8y_large_julia%20ting%20(1).jpg",
-            "width": 512,
-            "height": 651
+            "url": "https://dl.airtable.com/9AhvmWbLRqqPma5fJmr7_large_LENELL%20ORDANZA.PNG",
+            "width": 477,
+            "height": 540
           },
           "full": {
-            "url": "https://dl.airtable.com/YBNGOTbpR76LAeB8Z5TM_full_julia%20ting%20(1).jpg",
-            "width": 588,
-            "height": 748
+            "url": "https://dl.airtable.com/tCZ3poJRgKNSQDBmaXQQ_full_LENELL%20ORDANZA.PNG",
+            "width": 477,
+            "height": 540
           }
         }
       }
     ],
     "person": [
-      "recqlH5BSDJwdW67r"
+      "recc44dWSzgZKA2RW"
     ],
-    "(You can't directly edit this column)": "Julia Ting, AFX Riddikulus Director",
+    "(You can't directly edit this column)": "Lenell Ordanza, AFX OH Director",
     "groupType": [
       "team"
     ]
   },
-  "recuJmSSiRcm4CM4o": {
-    "createdTime": "2018-12-12T10:08:49.000Z",
-    "id": "recuJmSSiRcm4CM4o",
+  "recWOmEoFBfSH3sAn": {
+    "createdTime": "2019-01-23T08:57:18.000Z",
+    "id": "recWOmEoFBfSH3sAn",
+    "(You can't directly edit this column)": "Dan Ricciardelli, AFX ORiKi Director",
     "group": [
-      "recokuRWqWHMaWmuE"
+      "recqQW2W4yDgUc14t"
+    ],
+    "person": [
+      "recFHTImw5G3ebb3P"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYsmvxBX4ZQSeAK": {
+    "createdTime": "2019-01-23T08:57:27.000Z",
+    "id": "recYsmvxBX4ZQSeAK",
+    "(You can't directly edit this column)": "Katrina Oshima, AFX ORiKi Director",
+    "person": [
+      "recD6ol6FmNngbj9C"
+    ],
+    "group": [
+      "recqQW2W4yDgUc14t"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rechOIkE9IelO6ns1": {
+    "createdTime": "2019-01-23T08:57:29.000Z",
+    "id": "rechOIkE9IelO6ns1",
+    "(You can't directly edit this column)": "Yesuk Kim, AFX ORiKi Director",
+    "person": [
+      "recZrg3jXnfqWFOs8"
+    ],
+    "group": [
+      "recqQW2W4yDgUc14t"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recQBBV0sNPYKoCxC": {
+    "createdTime": "2018-12-13T08:41:41.000Z",
+    "id": "recQBBV0sNPYKoCxC",
+    "group": [
+      "recw7gz6Y12j41aTG"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attwAIgccI1eIPkAv",
-        "url": "https://dl.airtable.com/yNSTzi5BRpOR6GyOHIhL_JOSH%20FITCH.jpg",
-        "filename": "JOSH FITCH.jpg",
-        "size": 68092,
-        "type": "image/jpeg",
+        "id": "att8JJgRsZzATVUIX",
+        "url": "https://dl.airtable.com/lfozf8yhQZK3KRqX0ZmJ_JOSEPH%20KOO.PNG",
+        "filename": "JOSEPH KOO.PNG",
+        "size": 1062977,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/KUoF2qaLRmmXSlkAZiM3_small_JOSH%20FITCH.jpg",
-            "width": 29,
+            "url": "https://dl.airtable.com/huRqOmlKR6H0s7GJA7AN_small_JOSEPH%20KOO.PNG",
+            "width": 49,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/s0X0YZCtRquOEeRnreya_large_JOSH%20FITCH.jpg",
-            "width": 512,
-            "height": 640
+            "url": "https://dl.airtable.com/BPGnTPn9SRqKaVJFCeDY_large_JOSEPH%20KOO.PNG",
+            "width": 695,
+            "height": 507
           },
           "full": {
-            "url": "https://dl.airtable.com/50l0o2VETzGyMQWIVgWm_full_JOSH%20FITCH.jpg",
-            "width": 750,
-            "height": 937
+            "url": "https://dl.airtable.com/xMP8BgEQHuuJxHI5Ytpw_full_JOSEPH%20KOO.PNG",
+            "width": 695,
+            "height": 507
           }
         }
       }
     ],
     "person": [
-      "recl8n4nA3VSuwVhG"
+      "recZ4bppVkukHelyx"
     ],
-    "(You can't directly edit this column)": "Joshua Fitch, AFX Riddikulus Director",
+    "(You can't directly edit this column)": "Joseph Koo, AFX PB&J Director",
     "groupType": [
       "team"
     ]
   },
-  "recG7YEQJad7XCRdn": {
-    "createdTime": "2018-12-12T10:13:25.000Z",
-    "id": "recG7YEQJad7XCRdn",
+  "recnq4kDRyJz9Be2u": {
+    "createdTime": "2018-12-13T08:46:01.000Z",
+    "id": "recnq4kDRyJz9Be2u",
     "group": [
-      "recooewIvmz1cLLO8"
+      "recw7gz6Y12j41aTG"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attSzB7JtLW6vgqbv",
-        "url": "https://dl.airtable.com/ht8mGcjQYO4BMKpeXmmw_MAX%20YEO.jpg",
-        "filename": "MAX YEO.jpg",
-        "size": 47244,
-        "type": "image/jpeg",
+        "id": "attDemVnNkqD85evZ",
+        "url": "https://dl.airtable.com/L8Nb2dMbTU2DbQroaEeI_PAUL%20BAIK.PNG",
+        "filename": "PAUL BAIK.PNG",
+        "size": 359631,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/wC6W4zmnTbyfDdhd4RxD_small_MAX%20YEO.jpg",
-            "width": 36,
+            "url": "https://dl.airtable.com/xM9DAHavSwWlmVLSVWLq_small_PAUL%20BAIK.PNG",
+            "width": 32,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/os7IrwxoTAamiraaOmtH_large_MAX%20YEO.jpg",
-            "width": 512,
-            "height": 512
+            "url": "https://dl.airtable.com/T1iM55JQaOGC2zvVU5aQ_large_PAUL%20BAIK.PNG",
+            "width": 357,
+            "height": 404
           },
           "full": {
-            "url": "https://dl.airtable.com/9KaopF0PRC0vE0WlVmsD_full_MAX%20YEO.jpg",
-            "width": 960,
-            "height": 960
+            "url": "https://dl.airtable.com/JTBPZkinRTKW1k6YBsVh_full_PAUL%20BAIK.PNG",
+            "width": 357,
+            "height": 404
           }
         }
       }
     ],
     "person": [
-      "recuKXXmoyxpZQscF"
+      "rec5dF2uKIbQKg9mW"
     ],
-    "(You can't directly edit this column)": "Max Yeo, AFX 101 Director",
+    "(You can't directly edit this column)": "Paul Baik, AFX PB&J Director",
     "groupType": [
       "team"
     ]
   },
-  "rec729ICzYrnaniKz": {
-    "createdTime": "2018-12-12T10:16:31.000Z",
-    "id": "rec729ICzYrnaniKz",
+  "rec2feBILeEXYOvLY": {
+    "createdTime": "2019-01-23T07:10:49.000Z",
+    "id": "rec2feBILeEXYOvLY",
+    "(You can't directly edit this column)": "Eric Park, AFX Pixels Director",
     "group": [
-      "rec6O0XYNXZk0TUSH"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attYh7B630dvajeav",
-        "url": "https://dl.airtable.com/7M5qufRCqnDKEQf1k9cw_JOSH%20FITCH.jpg",
-        "filename": "JOSH FITCH.jpg",
-        "size": 68092,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/TCZQopncTa2tTAaw80I2_small_JOSH%20FITCH.jpg",
-            "width": 29,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/x2fk80UVTwWWu2eGrIl8_large_JOSH%20FITCH.jpg",
-            "width": 512,
-            "height": 640
-          },
-          "full": {
-            "url": "https://dl.airtable.com/6kFbXmwbQ8O5w7f6UfxO_full_JOSH%20FITCH.jpg",
-            "width": 750,
-            "height": 937
-          }
-        }
-      }
+      "recJLwNiZZCkFPrFc"
     ],
     "person": [
-      "recl8n4nA3VSuwVhG"
+      "recOoW1XuWk5rEx9P"
     ],
-    "(You can't directly edit this column)": "Joshua Fitch, AFXsi (N)SFW Director",
+    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recv0StHKySgIjd2X": {
-    "createdTime": "2018-12-12T10:17:25.000Z",
-    "id": "recv0StHKySgIjd2X",
+  "rec36LBo4z1hzygmt": {
+    "createdTime": "2019-01-23T07:11:20.000Z",
+    "id": "rec36LBo4z1hzygmt",
+    "(You can't directly edit this column)": "Patrick Chenglo, AFX Pixels Director",
     "group": [
-      "rec6O0XYNXZk0TUSH"
+      "recJLwNiZZCkFPrFc"
+    ],
+    "person": [
+      "rec2lSmjsrli21EvU"
     ],
     "positionTitle": "Director",
-    "person": [
-      "recijMCIqUe2QR7Ez"
-    ],
-    "(You can't directly edit this column)": "Max Wang, AFXsi (N)SFW Director",
     "groupType": [
       "team"
     ]
   },
-  "recsGq7TKmJ1ie15w": {
-    "createdTime": "2018-12-12T10:17:58.000Z",
-    "id": "recsGq7TKmJ1ie15w",
+  "recyCb2TBeFlxLdbi": {
+    "createdTime": "2019-01-23T09:03:11.000Z",
+    "id": "recyCb2TBeFlxLdbi",
+    "(You can't directly edit this column)": "Chris Kim, AFX Pusheen Director",
     "group": [
-      "rec6O0XYNXZk0TUSH"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "atttn6W2iMJxPK9gy",
-        "url": "https://dl.airtable.com/oWJrr9PrTVihiAdhbArh_ASHLEY%20SONG.jpg",
-        "filename": "ASHLEY SONG.jpg",
-        "size": 71540,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/At7CSYvRmuPSfYmt6m8E_small_ASHLEY%20SONG.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/gDpYCuiKSy4sBnRBmKqn_large_ASHLEY%20SONG.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Lxq7wR8ZRe7xjmwkH9uU_full_ASHLEY%20SONG.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
+      "recPirtCISJXDTV4w"
     ],
     "person": [
-      "rece0DANFC7ouQRn4"
+      "recluqLVujMSWoHUV"
     ],
-    "(You can't directly edit this column)": "Ashley Song, AFXsi (N)SFW Director",
+    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recXL7dzcT7j5sFXI": {
-    "createdTime": "2018-12-12T10:19:03.000Z",
-    "id": "recXL7dzcT7j5sFXI",
+  "rec1URY9FpGdCqYTd": {
+    "createdTime": "2019-01-23T09:04:31.000Z",
+    "id": "rec1URY9FpGdCqYTd",
+    "(You can't directly edit this column)": "Alyssa Jolene, AFX Pusheen Director",
+    "person": [
+      "rechJ87TWAyGyqo7D"
+    ],
     "group": [
-      "recooewIvmz1cLLO8"
+      "recPirtCISJXDTV4w"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attiIfebDA1g1RON6",
-        "url": "https://dl.airtable.com/zrvwWH1LQ9O9TOyl7cRQ_KIRK%20LA%20(1).jpg",
-        "filename": "KIRK LA (1).jpg",
-        "size": 109527,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/AKOQpq68RiaPIKIjuCVr_small_KIRK%20LA%20(1).jpg",
-            "width": 44,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/aaEnB3TOQE6b6gci9NJ7_large_KIRK%20LA%20(1).jpg",
-            "width": 619,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WvLl5k6yTw68j4bDHgyn_full_KIRK%20LA%20(1).jpg",
-            "width": 1403,
-            "height": 1161
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec4UfhaS3ZcsKOfU"
-    ],
-    "(You can't directly edit this column)": "Kirk La, AFX 101 Director",
     "groupType": [
       "team"
     ]
   },
-  "rec9bpqYYLuK3xFb6": {
-    "createdTime": "2018-12-12T10:21:05.000Z",
-    "id": "rec9bpqYYLuK3xFb6",
+  "recx7yKlyuabT5f5M": {
+    "createdTime": "2019-01-23T09:04:34.000Z",
+    "id": "recx7yKlyuabT5f5M",
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Pusheen Director",
+    "person": [
+      "recqZKVLh9MwwoRfn"
+    ],
     "group": [
-      "recooewIvmz1cLLO8"
+      "recPirtCISJXDTV4w"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attd7wrgQ4gTIQOMl",
-        "url": "https://dl.airtable.com/Ss9vg3GRGHWSCUvtLqRw_SUHAAS%20GARRE.jpg",
-        "filename": "SUHAAS GARRE.jpg",
-        "size": 188663,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/M62Fa7rROWGYriYUuJFN_small_SUHAAS%20GARRE.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/oygOxyrXRfquIWs8qDEu_large_SUHAAS%20GARRE.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/UHWivrVVTKy3Rd24SSSN_full_SUHAAS%20GARRE.jpg",
-            "width": 2048,
-            "height": 1365
-          }
-        }
-      }
-    ],
-    "person": [
-      "recDpgNj1OCRCsflf"
-    ],
-    "(You can't directly edit this column)": "Suhaas Garre, AFX 101 Director",
     "groupType": [
       "team"
     ]
   },
-  "recyheH136WhJJv72": {
-    "createdTime": "2018-12-12T10:25:17.000Z",
-    "id": "recyheH136WhJJv72",
+  "recTR04pEHL6IERot": {
+    "createdTime": "2019-01-23T08:57:41.000Z",
+    "id": "recTR04pEHL6IERot",
+    "(You can't directly edit this column)": "Arthur Liou, AFX Rawrthur Director",
     "group": [
-      "recgGEOokEasFJJkn"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attbsOEuC4V0jv2Kg",
-        "url": "https://dl.airtable.com/PjJumsFgSFeZi4jgFYjC_CARI%20GAN.jpg",
-        "filename": "CARI GAN.jpg",
-        "size": 152714,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/YmNbhXjQH6NAq6hPCzg8_small_CARI%20GAN.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/f6UWJNc8SkWqzsv93SiU_large_CARI%20GAN.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Y8cGcdJ1R8ef4ple65Z5_full_CARI%20GAN.jpg",
-            "width": 2048,
-            "height": 1365
-          }
-        }
-      }
+      "recrkeWqUQXCnEhmS"
     ],
     "person": [
-      "recxwGyHwoJImSoPP"
+      "recbcCfd2aMzjtrro"
     ],
-    "(You can't directly edit this column)": "Cari Gan, AFX CW Director",
+    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recomZlm6yeXnlo6G": {
-    "createdTime": "2018-12-12T10:27:58.000Z",
-    "id": "recomZlm6yeXnlo6G",
+  "recyiyuRRND5Fq27W": {
+    "createdTime": "2019-01-23T08:57:47.000Z",
+    "id": "recyiyuRRND5Fq27W",
+    "(You can't directly edit this column)": "Rachel Wu, AFX Rawrthur Director",
+    "person": [
+      "recvJNPS3en8aT5mG"
+    ],
     "group": [
-      "recgGEOokEasFJJkn"
+      "recrkeWqUQXCnEhmS"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attJOIg5m5VREtcER",
-        "url": "https://dl.airtable.com/hXplfueRWWWZBSTh1NPA_800_1995Edit.jpg",
-        "filename": "800_1995Edit.jpg",
-        "size": 3085512,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/lTuR4f4SvO8LncC8AHXw_small_800_1995Edit.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/QoUT2uZQGOtAlpY6OO2k_large_800_1995Edit.jpg",
-            "width": 512,
-            "height": 767
-          },
-          "full": {
-            "url": "https://dl.airtable.com/cxc2Jf5QgebhN55QzwLq_full_800_1995Edit.jpg",
-            "width": 2002,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "person": [
-      "recb1hKgi5bRfTlH9"
-    ],
-    "(You can't directly edit this column)": "Wenhao Liao, AFX CW Director",
     "groupType": [
       "team"
     ]
   },
-  "reciObpc8gPiKo1In": {
-    "createdTime": "2018-12-12T10:40:26.000Z",
-    "id": "reciObpc8gPiKo1In",
+  "recW4rZuCQuVplGHp": {
+    "createdTime": "2019-01-23T08:58:08.000Z",
+    "id": "recW4rZuCQuVplGHp",
+    "(You can't directly edit this column)": "Joseph Beltran, AFX Ray J Director",
     "group": [
-      "recFJhX3DlVrqJRRn"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attJbSaIoLKCHk31Q",
-        "url": "https://dl.airtable.com/Def7NxgQ16e6AxK3kYog_sean%20zhu%20(1).jpg",
-        "filename": "sean zhu (1).jpg",
-        "size": 30543,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/NJxJgHY7QTypfd2EAPGk_small_sean%20zhu%20(1).jpg",
-            "width": 45,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/avJ1Th4RQQqr5iRCIWue_large_sean%20zhu%20(1).jpg",
-            "width": 634,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/uvEQwCNTMGs3Y40XpAbk_full_sean%20zhu%20(1).jpg",
-            "width": 640,
-            "height": 517
-          }
-        }
-      }
-    ],
-    "(You can't directly edit this column)": "Sean Zhu, AFXsi WaSteD Director",
-    "groupType": [
-      "team"
+      "recHJjowPtJTYf7Yz"
     ],
     "person": [
-      "recxAxAFK4ULZWdyr"
-    ]
-  },
-  "recnQ9X5cMaRnFV53": {
-    "createdTime": "2018-12-12T10:42:23.000Z",
-    "id": "recnQ9X5cMaRnFV53",
-    "group": [
-      "recFJhX3DlVrqJRRn"
+      "reczJvK2iDUHTxNQn"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attK6XjqECe32jJmo",
-        "url": "https://dl.airtable.com/tYDpLQmWTbOUE9QFc336_WHITNEY%20LI.jpg",
-        "filename": "WHITNEY LI.jpg",
-        "size": 91715,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/wk9s8HPtSjyAjuJdOaqx_small_WHITNEY%20LI.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/JRpTZmYESJybMaQUeAud_large_WHITNEY%20LI.jpg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/wUlWntBSlSW1vmn1rMAA_full_WHITNEY%20LI.jpg",
-            "width": 960,
-            "height": 960
-          }
-        }
-      }
-    ],
-    "person": [
-      "recDSwdrsXFswCDay"
-    ],
-    "(You can't directly edit this column)": "Whitney Li, AFXsi WaSteD Director",
     "groupType": [
       "team"
     ]
   },
-  "recD42sX1oii6b3so": {
-    "createdTime": "2018-12-12T10:43:34.000Z",
-    "id": "recD42sX1oii6b3so",
+  "recQCeO4WpUHp8XtR": {
+    "createdTime": "2019-01-23T08:58:26.000Z",
+    "id": "recQCeO4WpUHp8XtR",
+    "(You can't directly edit this column)": "Raymond Truong, AFX Ray J Director",
+    "person": [
+      "recrLGpI3MihPjAXn"
+    ],
     "group": [
-      "recFJhX3DlVrqJRRn"
+      "recHJjowPtJTYf7Yz"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att5N3S6w3Z65CKaC",
-        "url": "https://dl.airtable.com/aWmesPGBTom7L8PmvuXH_DANIEL%20RA.jpg",
-        "filename": "DANIEL RA.jpg",
-        "size": 106498,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/IoOODmTdyfZ02JPujQmw_small_DANIEL%20RA.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/NEBCwWsfR1yuHKUwS27O_large_DANIEL%20RA.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BOxelBoBRoiUnvD3BhaK_full_DANIEL%20RA.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
+    "groupType": [
+      "team"
+    ]
+  },
+  "recI1TUGPjSqDG6p9": {
+    "createdTime": "2019-01-23T09:04:38.000Z",
+    "id": "recI1TUGPjSqDG6p9",
+    "(You can't directly edit this column)": "Alice Lee, AFX RBFs Director",
+    "group": [
+      "recTFZCC0WkOZ62Wh"
     ],
     "person": [
-      "rec8KeceBsdwsLKzT"
+      "recWzPqCuU8d0RdCK"
     ],
-    "(You can't directly edit this column)": "Daniel Ra, AFXsi WaSteD Director",
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recjuDiGi95oFuVne": {
+    "createdTime": "2019-01-23T09:04:52.000Z",
+    "id": "recjuDiGi95oFuVne",
+    "(You can't directly edit this column)": "Michelle Huang, AFX RBFs Director",
+    "person": [
+      "recVat4NkEwrbqvCQ"
+    ],
+    "group": [
+      "recTFZCC0WkOZ62Wh"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec18sVyksgWqAHqQ": {
+    "createdTime": "2019-01-23T09:04:57.000Z",
+    "id": "rec18sVyksgWqAHqQ",
+    "(You can't directly edit this column)": "Amanda Calvo, AFX RBFs Director",
+    "person": [
+      "recP4m0P3NgXgSGgg"
+    ],
+    "group": [
+      "recTFZCC0WkOZ62Wh"
+    ],
+    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
@@ -18515,6 +21900,1074 @@ export let PersonPositions = {
       "team"
     ]
   },
+  "recp7OFx2ofzhUvpO": {
+    "createdTime": "2018-12-12T10:04:50.000Z",
+    "id": "recp7OFx2ofzhUvpO",
+    "group": [
+      "recokuRWqWHMaWmuE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attWkxLQLHvFxEYpf",
+        "url": "https://dl.airtable.com/d4IyIIfQQp6NuiXxCFhj_sophia%20morgan.jpg",
+        "filename": "sophia morgan.jpg",
+        "size": 56033,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/sZq0oS2gSLN6LRuOegJQ_small_sophia%20morgan.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/CxjktqHqQNCa3h1Y8SS0_large_sophia%20morgan.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/rdnY6HEDQNKI0cL8wEMM_full_sophia%20morgan.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recy7KgvvPeMKOaTI"
+    ],
+    "(You can't directly edit this column)": "Sophia Morgan, AFX Riddikulus Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recwsF8F7AZazJcpK": {
+    "createdTime": "2018-12-12T10:06:32.000Z",
+    "id": "recwsF8F7AZazJcpK",
+    "group": [
+      "recokuRWqWHMaWmuE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attxC6iUNJs8vtt2M",
+        "url": "https://dl.airtable.com/XDy4EHeZT5SKrGxiuZ2c_julia%20ting%20(1).jpg",
+        "filename": "julia ting (1).jpg",
+        "size": 51205,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/QXWNQQwsSFSxV8V9NweW_small_julia%20ting%20(1).jpg",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QxF686gQ4GzPDw74oD8y_large_julia%20ting%20(1).jpg",
+            "width": 512,
+            "height": 651
+          },
+          "full": {
+            "url": "https://dl.airtable.com/YBNGOTbpR76LAeB8Z5TM_full_julia%20ting%20(1).jpg",
+            "width": 588,
+            "height": 748
+          }
+        }
+      }
+    ],
+    "person": [
+      "recqlH5BSDJwdW67r"
+    ],
+    "(You can't directly edit this column)": "Julia Ting, AFX Riddikulus Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recuJmSSiRcm4CM4o": {
+    "createdTime": "2018-12-12T10:08:49.000Z",
+    "id": "recuJmSSiRcm4CM4o",
+    "group": [
+      "recokuRWqWHMaWmuE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attwAIgccI1eIPkAv",
+        "url": "https://dl.airtable.com/yNSTzi5BRpOR6GyOHIhL_JOSH%20FITCH.jpg",
+        "filename": "JOSH FITCH.jpg",
+        "size": 68092,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KUoF2qaLRmmXSlkAZiM3_small_JOSH%20FITCH.jpg",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/s0X0YZCtRquOEeRnreya_large_JOSH%20FITCH.jpg",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://dl.airtable.com/50l0o2VETzGyMQWIVgWm_full_JOSH%20FITCH.jpg",
+            "width": 750,
+            "height": 937
+          }
+        }
+      }
+    ],
+    "person": [
+      "recl8n4nA3VSuwVhG"
+    ],
+    "(You can't directly edit this column)": "Joshua Fitch, AFX Riddikulus Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recEtfeJRyfeBD8dO": {
+    "createdTime": "2019-01-23T08:36:09.000Z",
+    "id": "recEtfeJRyfeBD8dO",
+    "(You can't directly edit this column)": "Ryan Barroga, AFX Rogue 2 Director",
+    "person": [
+      "reczfMxHZL2l3qHUm"
+    ],
+    "group": [
+      "recvqz0iaFmQNln9P"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recKjImEWHvOHUAUT": {
+    "createdTime": "2019-01-23T08:36:18.000Z",
+    "id": "recKjImEWHvOHUAUT",
+    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Rogue 2 Director",
+    "person": [
+      "recl0MAVB8URRERpr"
+    ],
+    "group": [
+      "recvqz0iaFmQNln9P"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recSK898dj7khZdYW": {
+    "createdTime": "2019-01-23T09:13:40.000Z",
+    "id": "recSK898dj7khZdYW",
+    "(You can't directly edit this column)": "Andrew Lee, AFX Rosandré Director",
+    "group": [
+      "recagqbNsnSE97SSL"
+    ],
+    "person": [
+      "recBPtE9xYnXjdgb4"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYN87Md9apn7kDs": {
+    "createdTime": "2019-01-23T09:14:10.000Z",
+    "id": "recYN87Md9apn7kDs",
+    "(You can't directly edit this column)": "Rose Liu, AFX Rosandré Director",
+    "person": [
+      "recwOSsrMv9Cq1PHs"
+    ],
+    "group": [
+      "recagqbNsnSE97SSL"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recikhUt28QUmjeRg": {
+    "createdTime": "2019-01-23T09:11:11.000Z",
+    "id": "recikhUt28QUmjeRg",
+    "(You can't directly edit this column)": "Rose Liu, AFX Roselli Director",
+    "group": [
+      "rectC2LirGhN0EAgz"
+    ],
+    "person": [
+      "recwOSsrMv9Cq1PHs"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recJgktWrZdA5HYnB": {
+    "createdTime": "2019-01-23T09:11:22.000Z",
+    "id": "recJgktWrZdA5HYnB",
+    "(You can't directly edit this column)": "Elli Haugen, AFX Roselli Director",
+    "person": [
+      "reclCRAzsGQV4Gddq"
+    ],
+    "group": [
+      "rectC2LirGhN0EAgz"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recjXsC2HeeuUPGym": {
+    "createdTime": "2019-01-23T09:05:05.000Z",
+    "id": "recjXsC2HeeuUPGym",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFX Rybread Director",
+    "group": [
+      "rectbeEtWB1NJHFhl"
+    ],
+    "person": [
+      "rectcm65MFSWkghJQ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reck5ZeOVual7zqh3": {
+    "createdTime": "2019-01-23T09:41:54.000Z",
+    "id": "reck5ZeOVual7zqh3",
+    "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 ",
+    "group": [
+      "recRWachvE4BArxyb"
+    ],
+    "person": [
+      "reccafHTuCCMGDH5i"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recSgN3IK2uBmT6bC": {
+    "createdTime": "2019-01-23T09:44:08.000Z",
+    "id": "recSgN3IK2uBmT6bC",
+    "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 ",
+    "person": [
+      "recDPvXZ08hFkxLMT"
+    ],
+    "group": [
+      "recRWachvE4BArxyb"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recMgA1tjWR6Ow0gV": {
+    "createdTime": "2019-01-23T09:44:19.000Z",
+    "id": "recMgA1tjWR6Ow0gV",
+    "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 ",
+    "person": [
+      "rec4fP4DTUKs50r8Q"
+    ],
+    "group": [
+      "recRWachvE4BArxyb"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recivtfQKQEnduwoo": {
+    "createdTime": "2019-01-23T08:58:31.000Z",
+    "id": "recivtfQKQEnduwoo",
+    "(You can't directly edit this column)": "Phillip Chen, AFX Sandwich Director",
+    "group": [
+      "recKEKBMLeBbaNW7V"
+    ],
+    "person": [
+      "reca3cP6MoC29Qpqt"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recnZbOSI6CgE7AXq": {
+    "createdTime": "2019-01-23T08:58:46.000Z",
+    "id": "recnZbOSI6CgE7AXq",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFX Sandwich Director",
+    "person": [
+      "rectcm65MFSWkghJQ"
+    ],
+    "group": [
+      "recKEKBMLeBbaNW7V"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recz00fY9ttm9cTwt": {
+    "createdTime": "2019-01-23T08:58:56.000Z",
+    "id": "recz00fY9ttm9cTwt",
+    "(You can't directly edit this column)": "Sam Kim, AFX Sandwich Director",
+    "person": [
+      "rec7fjkh186JIw19W"
+    ],
+    "group": [
+      "recKEKBMLeBbaNW7V"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recMmLpa0QaOzFF2E": {
+    "createdTime": "2019-01-23T08:40:07.000Z",
+    "id": "recMmLpa0QaOzFF2E",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFX SD Director",
+    "group": [
+      "rec1ugpDp0pDY8B5n"
+    ],
+    "person": [
+      "recyuGtimgWQu1z1r"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBjUwFmyhtxZ10j": {
+    "createdTime": "2019-01-23T08:40:16.000Z",
+    "id": "recBjUwFmyhtxZ10j",
+    "(You can't directly edit this column)": "Sebastian Merz, AFX SD Director",
+    "person": [
+      "recgJodU80L9sVDIF"
+    ],
+    "group": [
+      "rec1ugpDp0pDY8B5n"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recldfWnRyS6oFVWZ": {
+    "createdTime": "2019-01-23T08:58:59.000Z",
+    "id": "recldfWnRyS6oFVWZ",
+    "(You can't directly edit this column)": "Kristen Shimoda, AFX SK Modern Director",
+    "group": [
+      "recyWoEbkZL4aK0JO"
+    ],
+    "person": [
+      "recIl9U3FDUzztIzq"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recOOURdIhNzMputd": {
+    "createdTime": "2019-01-23T08:59:14.000Z",
+    "id": "recOOURdIhNzMputd",
+    "(You can't directly edit this column)": "Sierra Feasel, AFX SK Modern Director",
+    "person": [
+      "recL6ukxI9XWv5RQx"
+    ],
+    "group": [
+      "recyWoEbkZL4aK0JO"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recfp4C8UIra4GMBQ": {
+    "createdTime": "2018-11-10T18:41:50.000Z",
+    "id": "recfp4C8UIra4GMBQ",
+    "group": [
+      "recgRpBKR0PGtPoaf"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attCmhSlHvpKOxRYJ",
+        "url": "https://dl.airtable.com/gjt9FKhQZireHCSPQ7js_ALEX%20NGUYEN_softcore.jpg",
+        "filename": "ALEX NGUYEN_softcore.jpg",
+        "size": 46715,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/DslvHUXYQ1qlIKRvrCaX_small_ALEX%20NGUYEN_softcore.jpg",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/jFXp1biQvTHcFVsi8g8A_large_ALEX%20NGUYEN_softcore.jpg",
+            "width": 547,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/SDVJaTHeQbXvt63Mwupg_full_ALEX%20NGUYEN_softcore.jpg",
+            "width": 640,
+            "height": 599
+          }
+        }
+      }
+    ],
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "(You can't directly edit this column)": "Alex Nguyen, AFX softcore  Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recAn9rnvPZ1QPgpM": {
+    "createdTime": "2019-01-23T08:40:48.000Z",
+    "id": "recAn9rnvPZ1QPgpM",
+    "(You can't directly edit this column)": "Jenny Li, AFX SOL Director",
+    "group": [
+      "recZdp9rMOaEl1Jr5"
+    ],
+    "person": [
+      "reclzXp3jh79lnbB0"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recftNKPTVlfyIEvn": {
+    "createdTime": "2019-01-23T08:40:59.000Z",
+    "id": "recftNKPTVlfyIEvn",
+    "(You can't directly edit this column)": "Mitchell Srimongkol, AFX SOL Director",
+    "person": [
+      "recxQm9h5yWlwcR63"
+    ],
+    "group": [
+      "recZdp9rMOaEl1Jr5"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recbqlVdlKLsTuPK1": {
+    "createdTime": "2019-01-23T08:41:06.000Z",
+    "id": "recbqlVdlKLsTuPK1",
+    "(You can't directly edit this column)": "Regina Ongowarsito, AFX SOL Director",
+    "person": [
+      "rec8Q97qlmJeDV3Zb"
+    ],
+    "group": [
+      "recZdp9rMOaEl1Jr5"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recqAOClbFCJ55owo": {
+    "createdTime": "2019-01-23T08:41:24.000Z",
+    "id": "recqAOClbFCJ55owo",
+    "(You can't directly edit this column)": "Chris Kim, AFX SoloQ Director",
+    "group": [
+      "rec919wbpiKahv624"
+    ],
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec24nlgQrd4tqRnx": {
+    "createdTime": "2019-01-23T09:01:48.000Z",
+    "id": "rec24nlgQrd4tqRnx",
+    "(You can't directly edit this column)": "Poe Charukesnant, AFX Spork Director",
+    "group": [
+      "reclT38qMHDMCS0UJ"
+    ],
+    "person": [
+      "recj5TJVJQM4DqK6C"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recjUy5Zc9pLPSfHW": {
+    "createdTime": "2019-01-23T09:02:20.000Z",
+    "id": "recjUy5Zc9pLPSfHW",
+    "(You can't directly edit this column)": "Jeanie Jung, AFX Spork Director",
+    "person": [
+      "rece4XUb0OgpT7AQB"
+    ],
+    "group": [
+      "reclT38qMHDMCS0UJ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rectYPeSmDUfITCIz": {
+    "createdTime": "2019-01-23T09:02:31.000Z",
+    "id": "rectYPeSmDUfITCIz",
+    "(You can't directly edit this column)": "Mikaela Klein, AFX Spork Director",
+    "person": [
+      "reclVNKAxBs3D00S5"
+    ],
+    "group": [
+      "reclT38qMHDMCS0UJ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recj70p48W8ZQSSPj": {
+    "createdTime": "2019-01-23T09:12:39.000Z",
+    "id": "recj70p48W8ZQSSPj",
+    "(You can't directly edit this column)": "Jenny Chen, AFX Sunny Director",
+    "group": [
+      "rec6BXmACvsC1lo0O"
+    ],
+    "person": [
+      "reccBSwkwjN6WIsfB"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recJh5rb6oAp8EAHY": {
+    "createdTime": "2019-01-23T09:12:47.000Z",
+    "id": "recJh5rb6oAp8EAHY",
+    "(You can't directly edit this column)": "Surmayee Tetarbe, AFX Sunny Director",
+    "person": [
+      "recv47ketfwyrgVAn"
+    ],
+    "group": [
+      "rec6BXmACvsC1lo0O"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recDbdHsHwEQ963t5": {
+    "createdTime": "2019-01-23T09:41:54.000Z",
+    "id": "recDbdHsHwEQ963t5",
+    "(You can't directly edit this column)": "Peggy Shih, AFX Technicality ",
+    "group": [
+      "recV24mdNgq8HICTK"
+    ],
+    "person": [
+      "recZWKQK0rewWfxJn"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recMxD6S3cVd6WWEN": {
+    "createdTime": "2019-01-23T09:44:30.000Z",
+    "id": "recMxD6S3cVd6WWEN",
+    "(You can't directly edit this column)": "Allan Chin, AFX Technicality ",
+    "person": [
+      "reczNCgWr62mxFmPe"
+    ],
+    "group": [
+      "recV24mdNgq8HICTK"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recaw2QlP9MfjwOEA": {
+    "createdTime": "2019-01-23T09:44:37.000Z",
+    "id": "recaw2QlP9MfjwOEA",
+    "(You can't directly edit this column)": "Angela Gao, AFX Technicality ",
+    "person": [
+      "rec8ftmATdmGYdNy9"
+    ],
+    "group": [
+      "recV24mdNgq8HICTK"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recmtP7sfQi7Ziuqj": {
+    "createdTime": "2019-01-23T08:55:49.000Z",
+    "id": "recmtP7sfQi7Ziuqj",
+    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
+    "group": [
+      "recbySoDTBxJA0xiR"
+    ],
+    "person": [
+      "rec4wvItkd0rSu1w8"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recLBmMBZS3LaiA0N": {
+    "createdTime": "2019-01-23T08:55:57.000Z",
+    "id": "recLBmMBZS3LaiA0N",
+    "(You can't directly edit this column)": "Christina Melissa, AFX The Crew Director",
+    "person": [
+      "recwmwheRF2yAJqEv"
+    ],
+    "group": [
+      "recbySoDTBxJA0xiR"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recScFTZrcPPDaWtz": {
+    "createdTime": "2019-01-23T09:11:29.000Z",
+    "id": "recScFTZrcPPDaWtz",
+    "(You can't directly edit this column)": "Aileen Zhang, AFX The Crew Director",
+    "group": [
+      "recrlyY7O3XM43HG9"
+    ],
+    "person": [
+      "recyjhiPOWoth35P0"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZ6VLdQDNiWuCrY": {
+    "createdTime": "2019-01-23T09:11:40.000Z",
+    "id": "recZ6VLdQDNiWuCrY",
+    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
+    "person": [
+      "rec4wvItkd0rSu1w8"
+    ],
+    "group": [
+      "recrlyY7O3XM43HG9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recPPnKy4M1GAwVJS": {
+    "createdTime": "2019-01-23T09:11:54.000Z",
+    "id": "recPPnKy4M1GAwVJS",
+    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
+    "group": [
+      "recDlM5I54yBFMaFU"
+    ],
+    "person": [
+      "rec4wvItkd0rSu1w8"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recqA78oJaWoFlv8t": {
+    "createdTime": "2019-01-23T09:13:09.000Z",
+    "id": "recqA78oJaWoFlv8t",
+    "(You can't directly edit this column)": "Felix Li, AFX The Projects Director",
+    "group": [
+      "recdWaEaTltCKbrFW"
+    ],
+    "person": [
+      "recOWrlg8MLtI8Py2"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recAACzGXUpL5q9bD": {
+    "createdTime": "2019-01-23T09:13:27.000Z",
+    "id": "recAACzGXUpL5q9bD",
+    "(You can't directly edit this column)": "Peter Joo, AFX The Projects Director",
+    "person": [
+      "recDIsGqeSw8ITxfc"
+    ],
+    "group": [
+      "recdWaEaTltCKbrFW"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recSiyfXj7YKorw9Z": {
+    "createdTime": "2019-01-23T09:13:36.000Z",
+    "id": "recSiyfXj7YKorw9Z",
+    "(You can't directly edit this column)": "Ping Quach, AFX The Projects Director",
+    "person": [
+      "recGYjEvMRqWuQabn"
+    ],
+    "group": [
+      "recdWaEaTltCKbrFW"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recFSErXcEQJ2oLHs": {
+    "createdTime": "2018-12-01T19:00:54.000Z",
+    "id": "recFSErXcEQJ2oLHs",
+    "group": [
+      "rec7bcuYPZkO20JSj"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbUTnwreHYVpf3B",
+        "url": "https://dl.airtable.com/nDU9Wyp7R2DnhQYINpqP_DSC_1200.jpg",
+        "filename": "DSC_1200.jpg",
+        "size": 1532763,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/49nFAuZYSUuqiSXukmQA_small_DSC_1200.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/sZUu0EEySe6DDfCoE3En_large_DSC_1200.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/4LoXZg5eS5W72YpOdPzH_full_DSC_1200.jpg",
+            "width": 2000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recFEcamXUNR9EndJ"
+    ],
+    "(You can't directly edit this column)": "Jeremiah Kim, AFX Thick & Thin  Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recDLx7mt57vNRqk2": {
+    "createdTime": "2018-12-01T19:01:07.000Z",
+    "id": "recDLx7mt57vNRqk2",
+    "group": [
+      "rec7bcuYPZkO20JSj"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbwsIJ4J7RsqxIH",
+        "url": "https://dl.airtable.com/5QneWSTySt6EndSv1HY4_DSC_0082.jpg",
+        "filename": "DSC_0082.jpg",
+        "size": 1437482,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/tRouftUQlGJjJik6bAEM_small_DSC_0082.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/0Txi4HJzRsu7jvH3EBrG_large_DSC_0082.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qYKAC7nJQIqO6BlIuVyD_full_DSC_0082.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "person": [
+      "recsE4lwZeEnpsefV"
+    ],
+    "(You can't directly edit this column)": "Nathan Chou, AFX Thick & Thin  Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recocK3tjmzmo3GWO": {
+    "createdTime": "2018-12-01T19:01:13.000Z",
+    "id": "recocK3tjmzmo3GWO",
+    "group": [
+      "rec7bcuYPZkO20JSj"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attqQDtGl2etHyjXa",
+        "url": "https://dl.airtable.com/nrke3eLPQf26imJCpJo0_DSC_0207%20(1).jpg",
+        "filename": "DSC_0207 (1).jpg",
+        "size": 126842,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/928RQl0zSgmdR5sJQLrb_small_DSC_0207%20(1).jpg",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/dQMvCKv4Q5CPlEKTxWCw_large_DSC_0207%20(1).jpg",
+            "width": 512,
+            "height": 1097
+          },
+          "full": {
+            "url": "https://dl.airtable.com/f1Kfn9P1Rqm1kwgzIOJd_full_DSC_0207%20(1).jpg",
+            "width": 1097,
+            "height": 2350
+          }
+        }
+      }
+    ],
+    "person": [
+      "rec6WvmQSMI1O6Y4Q"
+    ],
+    "(You can't directly edit this column)": "Dan Chung, AFX Thick & Thin  Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recgBxqF8cMWUZudd": {
+    "createdTime": "2019-01-23T09:05:17.000Z",
+    "id": "recgBxqF8cMWUZudd",
+    "(You can't directly edit this column)": "Brian Lam, AFX Triple T Director",
+    "group": [
+      "recpcyRmEzskH9FWc"
+    ],
+    "person": [
+      "rec3psATzLriQhitj"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recmHFXlhx5Vo14Ri": {
+    "createdTime": "2019-01-23T09:05:23.000Z",
+    "id": "recmHFXlhx5Vo14Ri",
+    "(You can't directly edit this column)": "Bowen Jiang, AFX Triple T Director",
+    "person": [
+      "recq8RkqBw6zQbC7z"
+    ],
+    "group": [
+      "recpcyRmEzskH9FWc"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recioPihw7rvU8LzL": {
+    "createdTime": "2019-01-23T09:05:29.000Z",
+    "id": "recioPihw7rvU8LzL",
+    "(You can't directly edit this column)": "Felix Li, AFX Triple T Director",
+    "person": [
+      "recOWrlg8MLtI8Py2"
+    ],
+    "group": [
+      "recpcyRmEzskH9FWc"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recwCXVXkxDHyjrCs": {
+    "createdTime": "2018-12-01T19:03:12.000Z",
+    "id": "recwCXVXkxDHyjrCs",
+    "group": [
+      "recbo1kdUheKuzZyA"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attkFzWklIwpqWzBB",
+        "url": "https://dl.airtable.com/bD8utUo1RnOe6s8bsFMb_TRISHA%20GIRON%20(1).jpg",
+        "filename": "TRISHA GIRON (1).jpg",
+        "size": 28730,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/hJBv40jMSB6uLRFwvpGU_small_TRISHA%20GIRON%20(1).jpg",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/av7up4xNQmCKTBWIXRr6_large_TRISHA%20GIRON%20(1).jpg",
+            "width": 545,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/nMxG0ZgXQIqreohI0I5C_full_TRISHA%20GIRON%20(1).jpg",
+            "width": 619,
+            "height": 581
+          }
+        }
+      }
+    ],
+    "person": [
+      "recNxGjKy27HT3XML"
+    ],
+    "(You can't directly edit this column)": "Trisha Giron, AFX TV Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recN6aEQCOobedfTj": {
+    "createdTime": "2018-12-01T19:03:21.000Z",
+    "id": "recN6aEQCOobedfTj",
+    "group": [
+      "recbo1kdUheKuzZyA"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attnG9yDVuWmN2xWd",
+        "url": "https://dl.airtable.com/0TMxx7KtTgyXAzQJ8Pev_VIET%20TRUONG.jpg",
+        "filename": "VIET TRUONG.jpg",
+        "size": 48912,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Wn9LXzxMSqwfuLN4VI2Q_small_VIET%20TRUONG.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/FcG5y3rSeyx1sv4XOWS9_large_VIET%20TRUONG.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/dQIuLdwVSGqk3sxOfQVn_full_VIET%20TRUONG.jpg",
+            "width": 640,
+            "height": 640
+          }
+        }
+      }
+    ],
+    "person": [
+      "rechTc6alNI294bLQ"
+    ],
+    "(You can't directly edit this column)": "Viet Truong, AFX TV Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reca9trtKiFbnLClI": {
+    "createdTime": "2019-01-23T07:54:59.000Z",
+    "id": "reca9trtKiFbnLClI",
+    "(You can't directly edit this column)": "Waki Gojo, AFX WE Director",
+    "group": [
+      "recFh3kOglUuzCUQ5"
+    ],
+    "person": [
+      "recD3H9pJTtotbnsk"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec75D8kPvhwlXpfA": {
+    "createdTime": "2019-01-23T08:54:15.000Z",
+    "id": "rec75D8kPvhwlXpfA",
+    "(You can't directly edit this column)": "Wenhao Liao, AFX Wenevur Director",
+    "group": [
+      "rec4u3fK7tUhPyhh7"
+    ],
+    "person": [
+      "recb1hKgi5bRfTlH9"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recnSXMkdzQYryDwY": {
+    "createdTime": "2019-01-23T08:55:13.000Z",
+    "id": "recnSXMkdzQYryDwY",
+    "(You can't directly edit this column)": "Genevieve Tran, AFX Wenevur Director",
+    "person": [
+      "reczNFWgfdbLjCub6"
+    ],
+    "group": [
+      "rec4u3fK7tUhPyhh7"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recqv8o2Z9vTbw3S5": {
+    "createdTime": "2019-01-23T08:55:16.000Z",
+    "id": "recqv8o2Z9vTbw3S5",
+    "(You can't directly edit this column)": "Arthur Liou, AFX Wenevur Director",
+    "person": [
+      "recbcCfd2aMzjtrro"
+    ],
+    "group": [
+      "rec4u3fK7tUhPyhh7"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recyMjzFUvgbthtZs": {
+    "createdTime": "2019-01-23T08:59:21.000Z",
+    "id": "recyMjzFUvgbthtZs",
+    "(You can't directly edit this column)": "Neil Xia, AFX XOK Director",
+    "group": [
+      "reckgPXNmPxGEU0sO"
+    ],
+    "person": [
+      "reczWUDfU2NemTT6H"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recujWACXRAsVWyuI": {
+    "createdTime": "2019-01-23T08:59:42.000Z",
+    "id": "recujWACXRAsVWyuI",
+    "(You can't directly edit this column)": "Keien Ohta, AFX XOK Director",
+    "person": [
+      "recS7tOOGL4jKxWES"
+    ],
+    "group": [
+      "reckgPXNmPxGEU0sO"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZGlXCmLRgC0vSm": {
+    "createdTime": "2019-01-23T08:59:46.000Z",
+    "id": "recZGlXCmLRgC0vSm",
+    "(You can't directly edit this column)": "Chris Kim, AFX XOK Director",
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "group": [
+      "reckgPXNmPxGEU0sO"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
   "recv5f5qOib52MxmG": {
     "createdTime": "2018-12-12T10:53:53.000Z",
     "id": "recv5f5qOib52MxmG",
@@ -18638,74 +23091,164 @@ export let PersonPositions = {
       "team"
     ]
   },
-  "recUEokKatoDRFpsz": {
-    "createdTime": "2018-12-12T23:17:43.000Z",
-    "id": "recUEokKatoDRFpsz",
+  "recyBBQviSqdnft8c": {
+    "createdTime": "2019-01-23T08:41:48.000Z",
+    "id": "recyBBQviSqdnft8c",
+    "(You can't directly edit this column)": "Jeffrey Kurohara, AFX Zero Director",
     "group": [
-      "recDV8rL7zVa2J6l5"
+      "recO1Lw8WksNpencI"
+    ],
+    "person": [
+      "recQtqK3Wp447F4q7"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec2mAsLuuchlWcHn": {
+    "createdTime": "2019-01-23T08:42:06.000Z",
+    "id": "rec2mAsLuuchlWcHn",
+    "(You can't directly edit this column)": "Zoey Kenny, AFX Zero Director",
+    "person": [
+      "recXSiCVLPXdDO5g8"
+    ],
+    "group": [
+      "recO1Lw8WksNpencI"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBLHw7zLuyZc4Zg": {
+    "createdTime": "2019-01-23T08:42:35.000Z",
+    "id": "recBLHw7zLuyZc4Zg",
+    "(You can't directly edit this column)": "Sean Zhu, AFX Zero Director",
+    "group": [
+      "recO1Lw8WksNpencI"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ],
+    "person": [
+      "recxAxAFK4ULZWdyr"
+    ]
+  },
+  "recZXOxCloWinQBWm": {
+    "createdTime": "2019-01-23T08:55:18.000Z",
+    "id": "recZXOxCloWinQBWm",
+    "(You can't directly edit this column)": "Ping Quach, AFX.jpg Director",
+    "group": [
+      "recrzLzveeEhbhDJZ"
+    ],
+    "person": [
+      "recGYjEvMRqWuQabn"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recSSdBjzGt946dea": {
+    "createdTime": "2019-01-23T08:55:27.000Z",
+    "id": "recSSdBjzGt946dea",
+    "(You can't directly edit this column)": "Jaemin Kim, AFX.jpg Director",
+    "person": [
+      "rec4rqgME4ja2gNp7"
+    ],
+    "group": [
+      "recrzLzveeEhbhDJZ"
+    ],
+    "positionTitle": "Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec729ICzYrnaniKz": {
+    "createdTime": "2018-12-12T10:16:31.000Z",
+    "id": "rec729ICzYrnaniKz",
+    "group": [
+      "rec6O0XYNXZk0TUSH"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attdb74vIgrcLxff8",
-        "url": "https://dl.airtable.com/1U6Ft7bzSBGai2kx8zA4_AC%20DELA%20PAZ%20(1).jpg",
-        "filename": "AC DELA PAZ (1).jpg",
-        "size": 42612,
+        "id": "attYh7B630dvajeav",
+        "url": "https://dl.airtable.com/7M5qufRCqnDKEQf1k9cw_JOSH%20FITCH.jpg",
+        "filename": "JOSH FITCH.jpg",
+        "size": 68092,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/0eFQIxHtR4GBS6irey8b_small_AC%20DELA%20PAZ%20(1).jpg",
-            "width": 57,
+            "url": "https://dl.airtable.com/TCZQopncTa2tTAaw80I2_small_JOSH%20FITCH.jpg",
+            "width": 29,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/HHZ5T9F4QHiYmOkNVLoe_large_AC%20DELA%20PAZ%20(1).jpg",
-            "width": 812,
-            "height": 512
+            "url": "https://dl.airtable.com/x2fk80UVTwWWu2eGrIl8_large_JOSH%20FITCH.jpg",
+            "width": 512,
+            "height": 640
           },
           "full": {
-            "url": "https://dl.airtable.com/LXT1l52mRzK08vZVAHkD_full_AC%20DELA%20PAZ%20(1).jpg",
-            "width": 871,
-            "height": 549
+            "url": "https://dl.airtable.com/6kFbXmwbQ8O5w7f6UfxO_full_JOSH%20FITCH.jpg",
+            "width": 750,
+            "height": 937
           }
         }
       }
     ],
     "person": [
-      "rec2nvAlUafPaALoo"
+      "recl8n4nA3VSuwVhG"
     ],
-    "(You can't directly edit this column)": "AC Dela Paz, AFX MAWfia Director",
+    "(You can't directly edit this column)": "Joshua Fitch, AFXsi (N)SFW Director",
     "groupType": [
       "team"
     ]
   },
-  "recP4u0zKITznz1cW": {
-    "createdTime": "2018-12-12T23:19:41.000Z",
-    "id": "recP4u0zKITznz1cW",
+  "recv0StHKySgIjd2X": {
+    "createdTime": "2018-12-12T10:17:25.000Z",
+    "id": "recv0StHKySgIjd2X",
     "group": [
-      "recDV8rL7zVa2J6l5"
+      "rec6O0XYNXZk0TUSH"
+    ],
+    "positionTitle": "Director",
+    "person": [
+      "recijMCIqUe2QR7Ez"
+    ],
+    "(You can't directly edit this column)": "Max Wang, AFXsi (N)SFW Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recsGq7TKmJ1ie15w": {
+    "createdTime": "2018-12-12T10:17:58.000Z",
+    "id": "recsGq7TKmJ1ie15w",
+    "group": [
+      "rec6O0XYNXZk0TUSH"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attbmb0qXWL92F1vV",
-        "url": "https://dl.airtable.com/YP4AU0PoQ2u0KFddsbZi_MICHAEL%20CHEN.jpg",
-        "filename": "MICHAEL CHEN.jpg",
-        "size": 98855,
+        "id": "atttn6W2iMJxPK9gy",
+        "url": "https://dl.airtable.com/oWJrr9PrTVihiAdhbArh_ASHLEY%20SONG.jpg",
+        "filename": "ASHLEY SONG.jpg",
+        "size": 71540,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/qPz7tuNARO6l7P5tQ6Nm_small_MICHAEL%20CHEN.jpg",
+            "url": "https://dl.airtable.com/At7CSYvRmuPSfYmt6m8E_small_ASHLEY%20SONG.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/5ysdYVwbTiSxaqcW2BvH_large_MICHAEL%20CHEN.jpg",
+            "url": "https://dl.airtable.com/gDpYCuiKSy4sBnRBmKqn_large_ASHLEY%20SONG.jpg",
             "width": 512,
             "height": 768
           },
           "full": {
-            "url": "https://dl.airtable.com/Ecu5VD3vRNGL66SQOmC6_full_MICHAEL%20CHEN.jpg",
+            "url": "https://dl.airtable.com/Lxq7wR8ZRe7xjmwkH9uU_full_ASHLEY%20SONG.jpg",
             "width": 640,
             "height": 960
           }
@@ -18713,491 +23256,1014 @@ export let PersonPositions = {
       }
     ],
     "person": [
-      "recvmimrks8m7hMNB"
+      "rece0DANFC7ouQRn4"
     ],
-    "(You can't directly edit this column)": "Michael Chen, AFX MAWfia Director",
+    "(You can't directly edit this column)": "Ashley Song, AFXsi (N)SFW Director",
     "groupType": [
       "team"
     ]
   },
-  "rec9D9NphXY0xYUI1": {
-    "createdTime": "2018-12-12T23:21:47.000Z",
-    "id": "rec9D9NphXY0xYUI1",
+  "recFHUd9aYKQpHLxs": {
+    "createdTime": "2018-12-12T09:57:15.000Z",
+    "id": "recFHUd9aYKQpHLxs",
     "group": [
-      "recDV8rL7zVa2J6l5"
+      "rec8RsWuzGriceaKU"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attICBTbvkcuOUbgY",
-        "url": "https://dl.airtable.com/ouQ4F4OQ2wrtmZtVETgS_WILFRED%20SALACUP.jpg",
-        "filename": "WILFRED SALACUP.jpg",
-        "size": 55211,
-        "type": "image/jpeg",
+        "id": "attT5HPvITYleSQpP",
+        "url": "https://dl.airtable.com/LYc8H1c0SyGJNFNZ0J8s_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+        "filename": "Screen Shot 2018-12-14 at 7.58.23 PM.png",
+        "size": 1437277,
+        "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/2ZEmRtLkTsmI434zu4tp_small_WILFRED%20SALACUP.jpg",
-            "width": 36,
+            "url": "https://dl.airtable.com/oZAF5apsSlKVhdXmUMgB_small_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+            "width": 38,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/qgFG0jIoQUKTkW5UUAOs_large_WILFRED%20SALACUP.jpg",
-            "width": 512,
+            "url": "https://dl.airtable.com/JdcPC3KTR12XzcblVLHT_large_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+            "width": 537,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/BMS7AkX5SyW0KazER80O_full_WILFRED%20SALACUP.jpg",
-            "width": 737,
-            "height": 737
+            "url": "https://dl.airtable.com/sY9YiHTkS7aBxLG7rmIa_full_Screen%20Shot%202018-12-14%20at%207.58.23%20PM.png",
+            "width": 1174,
+            "height": 1120
           }
         }
       }
     ],
     "person": [
-      "recWC7yK5Re53KiVd"
+      "recVwOcszdvg6tMe0"
     ],
-    "(You can't directly edit this column)": "Wilfred Salacup, AFX MAWfia Director",
+    "(You can't directly edit this column)": "Alex Nguyen, AFXsi 4PLAY Director",
     "groupType": [
       "team"
     ]
   },
-  "recQBBV0sNPYKoCxC": {
-    "createdTime": "2018-12-13T08:41:41.000Z",
-    "id": "recQBBV0sNPYKoCxC",
+  "recsYg7ewwRhtLunv": {
+    "createdTime": "2019-01-23T09:24:17.000Z",
+    "id": "recsYg7ewwRhtLunv",
+    "(You can't directly edit this column)": "Andrea Deng, AFXsi Andrenaline ",
     "group": [
-      "recw7gz6Y12j41aTG"
+      "recuSIOZ5KP5kQXs6"
     ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att8JJgRsZzATVUIX",
-        "url": "https://dl.airtable.com/lfozf8yhQZK3KRqX0ZmJ_JOSEPH%20KOO.PNG",
-        "filename": "JOSEPH KOO.PNG",
-        "size": 1062977,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/huRqOmlKR6H0s7GJA7AN_small_JOSEPH%20KOO.PNG",
-            "width": 49,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/BPGnTPn9SRqKaVJFCeDY_large_JOSEPH%20KOO.PNG",
-            "width": 695,
-            "height": 507
-          },
-          "full": {
-            "url": "https://dl.airtable.com/xMP8BgEQHuuJxHI5Ytpw_full_JOSEPH%20KOO.PNG",
-            "width": 695,
-            "height": 507
-          }
-        }
-      }
+    "person": [
+      "recmMWJZAi4BnKpIc"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recu6gj33eIwXoDkw": {
+    "createdTime": "2019-01-23T09:24:46.000Z",
+    "id": "recu6gj33eIwXoDkw",
+    "(You can't directly edit this column)": "Eilan Zeng, AFXsi Andrenaline ",
+    "person": [
+      "recFkYLuczzKZVLYe"
+    ],
+    "group": [
+      "recuSIOZ5KP5kQXs6"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccefpOUbqMOSxGy": {
+    "createdTime": "2019-01-23T09:24:46.000Z",
+    "id": "reccefpOUbqMOSxGy",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi Andrenaline ",
+    "person": [
+      "rec3RLZl3eC9SXHwJ"
+    ],
+    "group": [
+      "recuSIOZ5KP5kQXs6"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccIIXYxE0pEnruu": {
+    "createdTime": "2019-01-23T09:24:54.000Z",
+    "id": "reccIIXYxE0pEnruu",
+    "(You can't directly edit this column)": "Angela Peng, AFXsi Anthm ",
+    "group": [
+      "recfICFVB55oWC78y"
+    ],
+    "person": [
+      "recKP93RYIEZpddjw"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recJw0ISpmIl6IYkZ": {
+    "createdTime": "2019-01-23T09:25:04.000Z",
+    "id": "recJw0ISpmIl6IYkZ",
+    "(You can't directly edit this column)": "Michael Chen, AFXsi Anthm ",
+    "person": [
+      "rec133LBDsx7IXwNn"
+    ],
+    "group": [
+      "recfICFVB55oWC78y"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recjmKYNx9QoSXbYM": {
+    "createdTime": "2019-01-23T09:25:09.000Z",
+    "id": "recjmKYNx9QoSXbYM",
+    "(You can't directly edit this column)": "Nathan Lee, AFXsi Anthm ",
+    "person": [
+      "recQJky3Rrh2rfMVY"
+    ],
+    "group": [
+      "recfICFVB55oWC78y"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "receSQ28JRsvS6hBp": {
+    "createdTime": "2019-01-23T09:25:54.000Z",
+    "id": "receSQ28JRsvS6hBp",
+    "(You can't directly edit this column)": "Michelle Li, AFXsi Bae ",
+    "group": [
+      "recOVpFFYp4LMgN3I"
+    ],
+    "person": [
+      "recuB6j27df5H1aBq"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rece1yf7dk1UvnN4j": {
+    "createdTime": "2019-01-23T09:26:00.000Z",
+    "id": "rece1yf7dk1UvnN4j",
+    "(You can't directly edit this column)": "Christian Cayton, AFXsi Bae ",
+    "person": [
+      "recMwcvipXM9qiwJJ"
+    ],
+    "group": [
+      "recOVpFFYp4LMgN3I"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recfKAOT9quS6rgqN": {
+    "createdTime": "2019-01-23T09:26:07.000Z",
+    "id": "recfKAOT9quS6rgqN",
+    "(You can't directly edit this column)": "Brian Lam, AFXsi Banging ",
+    "person": [
+      "rec3psATzLriQhitj"
+    ],
+    "group": [
+      "recJ3YxwbZ3dMC5gj"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recRi0DzgFo7stxIf": {
+    "createdTime": "2019-01-23T09:26:23.000Z",
+    "id": "recRi0DzgFo7stxIf",
+    "(You can't directly edit this column)": "Yangzi He, AFXsi Banging ",
+    "person": [
+      "recDNBAQC3NwFP4s0"
+    ],
+    "group": [
+      "recJ3YxwbZ3dMC5gj"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recFYnNSNlVjMWSFJ": {
+    "createdTime": "2019-01-23T09:26:27.000Z",
+    "id": "recFYnNSNlVjMWSFJ",
+    "(You can't directly edit this column)": "Qing Wong, AFXsi Banging ",
+    "person": [
+      "recUSz6c3xwIid6LW"
+    ],
+    "group": [
+      "recJ3YxwbZ3dMC5gj"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recom0BVDGyT0facY": {
+    "createdTime": "2019-01-23T09:26:43.000Z",
+    "id": "recom0BVDGyT0facY",
+    "(You can't directly edit this column)": "Alex Xiao, AFXsi Chaos ",
+    "group": [
+      "recuImUmgqu8u1Hlp"
+    ],
+    "person": [
+      "recmUmJyp0N7uFFUR"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recTaBR89Kp603Ukv": {
+    "createdTime": "2019-01-23T09:26:51.000Z",
+    "id": "recTaBR89Kp603Ukv",
+    "(You can't directly edit this column)": "Anne Choi, AFXsi Chaos ",
+    "person": [
+      "recawBRRyZ3KZjmTM"
+    ],
+    "group": [
+      "recuImUmgqu8u1Hlp"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYFIbHXLptq2xSC": {
+    "createdTime": "2019-01-23T09:30:20.000Z",
+    "id": "recYFIbHXLptq2xSC",
+    "(You can't directly edit this column)": "Richard Xu, AFXsi drxp ",
+    "person": [
+      "recKBDLL5lmSDiNTY"
+    ],
+    "group": [
+      "recideyqEsLQVrk6U"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recWwPEXQ3EdQOElG": {
+    "createdTime": "2019-01-23T09:30:57.000Z",
+    "id": "recWwPEXQ3EdQOElG",
+    "(You can't directly edit this column)": "Peggy Shih, AFXsi drxp ",
+    "person": [
+      "recZWKQK0rewWfxJn"
+    ],
+    "group": [
+      "recideyqEsLQVrk6U"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recBtSAYDxf0P2gTU": {
+    "createdTime": "2019-01-23T09:31:03.000Z",
+    "id": "recBtSAYDxf0P2gTU",
+    "(You can't directly edit this column)": "Darius Sparks, AFXsi drxp ",
+    "person": [
+      "rec6IpW9b974hS7Dx"
+    ],
+    "group": [
+      "recideyqEsLQVrk6U"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recsemJBUer80vghF": {
+    "createdTime": "2019-01-23T09:36:06.000Z",
+    "id": "recsemJBUer80vghF",
+    "(You can't directly edit this column)": "Angela Hou, AFXsi Echo ",
+    "group": [
+      "recCbo4tDZZKyEim7"
+    ],
+    "person": [
+      "recAMURcPEdVfdaWy"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec202dM2ysnkSl1L": {
+    "createdTime": "2019-01-23T09:36:24.000Z",
+    "id": "rec202dM2ysnkSl1L",
+    "(You can't directly edit this column)": "Elle Cheung, AFXsi Echo ",
+    "person": [
+      "recPVD1R5MWNRtPXh"
+    ],
+    "group": [
+      "recCbo4tDZZKyEim7"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recZ7IdaqBWgI6VDE": {
+    "createdTime": "2019-01-23T09:26:55.000Z",
+    "id": "recZ7IdaqBWgI6VDE",
+    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON ",
+    "group": [
+      "recw3tPXhSfrR5Tyu"
+    ],
+    "person": [
+      "recCtpyZdi7eNSYLw"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccSr1Z8IOGdvJ6y": {
+    "createdTime": "2019-01-23T09:27:15.000Z",
+    "id": "reccSr1Z8IOGdvJ6y",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON ",
+    "person": [
+      "recyuGtimgWQu1z1r"
+    ],
+    "group": [
+      "recw3tPXhSfrR5Tyu"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recNgRwpxQLGWyLHK": {
+    "createdTime": "2019-01-23T09:27:15.000Z",
+    "id": "recNgRwpxQLGWyLHK",
+    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON ",
+    "person": [
+      "recS7tOOGL4jKxWES"
+    ],
+    "group": [
+      "recw3tPXhSfrR5Tyu"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recEvwsBLGah9oA6h": {
+    "createdTime": "2019-01-23T09:31:11.000Z",
+    "id": "recEvwsBLGah9oA6h",
+    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON ",
+    "group": [
+      "recY8xWazB8UYou9m"
+    ],
+    "person": [
+      "recCtpyZdi7eNSYLw"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recpy3gH8l2nh2IXJ": {
+    "createdTime": "2019-01-23T09:31:30.000Z",
+    "id": "recpy3gH8l2nh2IXJ",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON ",
+    "person": [
+      "recyuGtimgWQu1z1r"
+    ],
+    "group": [
+      "recY8xWazB8UYou9m"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recE84Pg7acHw9jUM": {
+    "createdTime": "2019-01-23T09:31:30.000Z",
+    "id": "recE84Pg7acHw9jUM",
+    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON ",
+    "person": [
+      "recS7tOOGL4jKxWES"
+    ],
+    "group": [
+      "recY8xWazB8UYou9m"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recWyIS4z2kntvCxB": {
+    "createdTime": "2019-01-23T09:25:15.000Z",
+    "id": "recWyIS4z2kntvCxB",
+    "(You can't directly edit this column)": "Joseph Beltran, AFXsi JAM ",
+    "group": [
+      "recE55poWqurXd97D"
+    ],
+    "person": [
+      "reczJvK2iDUHTxNQn"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYtt6bur1ajYJaP": {
+    "createdTime": "2019-01-23T09:25:27.000Z",
+    "id": "recYtt6bur1ajYJaP",
+    "(You can't directly edit this column)": "AC Dela Paz, AFXsi JAM ",
+    "person": [
+      "rec2nvAlUafPaALoo"
+    ],
+    "group": [
+      "recE55poWqurXd97D"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec48BuRv3Je16I2b": {
+    "createdTime": "2019-01-23T09:25:31.000Z",
+    "id": "rec48BuRv3Je16I2b",
+    "(You can't directly edit this column)": "Mahek Modi, AFXsi JAM ",
+    "person": [
+      "recUL5dvQoC8RBPud"
+    ],
+    "group": [
+      "recE55poWqurXd97D"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recPyCFOniZIOUHBr": {
+    "createdTime": "2019-01-23T09:21:29.000Z",
+    "id": "recPyCFOniZIOUHBr",
+    "(You can't directly edit this column)": "Joseph Koo, AFXsi Jokayne ",
+    "group": [
+      "recVFwKwKUXRf3UVn"
     ],
     "person": [
       "recZ4bppVkukHelyx"
     ],
-    "(You can't directly edit this column)": "Joseph Koo, AFX PB&J Director",
     "groupType": [
       "team"
     ]
   },
-  "recnq4kDRyJz9Be2u": {
-    "createdTime": "2018-12-13T08:46:01.000Z",
-    "id": "recnq4kDRyJz9Be2u",
-    "group": [
-      "recw7gz6Y12j41aTG"
+  "recadRqDVmqS8fAXb": {
+    "createdTime": "2019-01-23T09:23:40.000Z",
+    "id": "recadRqDVmqS8fAXb",
+    "(You can't directly edit this column)": "Kyle Feng, AFXsi Jokayne ",
+    "person": [
+      "recxDe7YiXOYFR2ZB"
     ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attDemVnNkqD85evZ",
-        "url": "https://dl.airtable.com/L8Nb2dMbTU2DbQroaEeI_PAUL%20BAIK.PNG",
-        "filename": "PAUL BAIK.PNG",
-        "size": 359631,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/xM9DAHavSwWlmVLSVWLq_small_PAUL%20BAIK.PNG",
-            "width": 32,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/T1iM55JQaOGC2zvVU5aQ_large_PAUL%20BAIK.PNG",
-            "width": 357,
-            "height": 404
-          },
-          "full": {
-            "url": "https://dl.airtable.com/JTBPZkinRTKW1k6YBsVh_full_PAUL%20BAIK.PNG",
-            "width": 357,
-            "height": 404
-          }
-        }
-      }
+    "group": [
+      "recVFwKwKUXRf3UVn"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recPizxfeNVrfh56F": {
+    "createdTime": "2019-01-23T09:23:40.000Z",
+    "id": "recPizxfeNVrfh56F",
+    "(You can't directly edit this column)": "Wayne Zhong, AFXsi Jokayne ",
+    "person": [
+      "recE3qCxpiAekTzGM"
+    ],
+    "group": [
+      "recVFwKwKUXRf3UVn"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recVlMNq8V5m869sT": {
+    "createdTime": "2019-01-23T09:36:52.000Z",
+    "id": "recVlMNq8V5m869sT",
+    "(You can't directly edit this column)": "Richard Qian, AFXsi JuiceBox ",
+    "group": [
+      "recQLC0SGq1JalhZy"
     ],
     "person": [
-      "rec5dF2uKIbQKg9mW"
+      "recsn0BnKo7Y3bhYp"
     ],
-    "(You can't directly edit this column)": "Paul Baik, AFX PB&J Director",
     "groupType": [
       "team"
     ]
   },
-  "recWnw4lEjFRENfyB": {
-    "createdTime": "2018-12-13T08:52:14.000Z",
-    "id": "recWnw4lEjFRENfyB",
-    "group": [
-      "rec6cFEd8SzUBNo9o"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att4XED99Mpzl6QRt",
-        "url": "https://dl.airtable.com/2xak5pnMShO47xP7fsKT_KATIE%20POA.PNG",
-        "filename": "KATIE POA.PNG",
-        "size": 725363,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/jN0fJ2NlRkePWciFfO0Y_small_KATIE%20POA.PNG",
-            "width": 34,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/y7e5mrqAT4yxuZ0BxdQQ_large_KATIE%20POA.PNG",
-            "width": 479,
-            "height": 504
-          },
-          "full": {
-            "url": "https://dl.airtable.com/LhHbxDFQSonJJcbZGivr_full_KATIE%20POA.PNG",
-            "width": 479,
-            "height": 504
-          }
-        }
-      }
-    ],
-    "person": [
-      "recSVi5Qmw4oMyi8u"
-    ],
-    "(You can't directly edit this column)": "Katie Poa, AFX LoWKey Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recJeowLVzxkEnUWP": {
-    "createdTime": "2018-12-13T08:53:41.000Z",
-    "id": "recJeowLVzxkEnUWP",
-    "group": [
-      "rec6cFEd8SzUBNo9o"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att0Wi058al9EqJAJ",
-        "url": "https://dl.airtable.com/iRIeGlPtSbIxunrDrVNd_LOUISA%20ZHANG.PNG",
-        "filename": "LOUISA ZHANG.PNG",
-        "size": 312569,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/aUkwJj0xTVy8Q05vnbzl_small_LOUISA%20ZHANG.PNG",
-            "width": 34,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/sSl1wNp6SPmQbGkwsGCQ_large_LOUISA%20ZHANG.PNG",
-            "width": 469,
-            "height": 497
-          },
-          "full": {
-            "url": "https://dl.airtable.com/IhfQK6fSq2F7tWdjUUNA_full_LOUISA%20ZHANG.PNG",
-            "width": 469,
-            "height": 497
-          }
-        }
-      }
-    ],
-    "person": [
-      "recoXhzEe3CSWpV2b"
-    ],
-    "(You can't directly edit this column)": "Louisa Zhang, AFX LoWKey Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec4SUea9e15uK7OW": {
-    "createdTime": "2018-12-13T08:58:00.000Z",
-    "id": "rec4SUea9e15uK7OW",
-    "group": [
-      "rec6cFEd8SzUBNo9o"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att6i5ytKIVQad2S7",
-        "url": "https://dl.airtable.com/2KVSANi6QkanPjjDDZuJ_WINN%20CUI.PNG",
-        "filename": "WINN CUI.PNG",
-        "size": 560218,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/m0NowSpTcihYGDGYUSKA_small_WINN%20CUI.PNG",
-            "width": 35,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/mDvihiHMQr2WDC8mNP7x_large_WINN%20CUI.PNG",
-            "width": 512,
-            "height": 531
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Gv9EtxS0Rsy8ToDZnwq7_full_WINN%20CUI.PNG",
-            "width": 572,
-            "height": 593
-          }
-        }
-      }
-    ],
+  "rec9Y1MFmVi8QfIQd": {
+    "createdTime": "2019-01-23T09:37:01.000Z",
+    "id": "rec9Y1MFmVi8QfIQd",
+    "(You can't directly edit this column)": "Winn Cui, AFXsi JuiceBox ",
     "person": [
       "reccusci4MPy2I4i4"
     ],
-    "(You can't directly edit this column)": "Winn Cui, AFX LoWKey Director",
+    "group": [
+      "recQLC0SGq1JalhZy"
+    ],
     "groupType": [
       "team"
     ]
   },
-  "recBcvQ75mGgJJezA": {
-    "createdTime": "2018-12-13T09:02:53.000Z",
-    "id": "recBcvQ75mGgJJezA",
+  "rec2n8WBZpYmVBj0r": {
+    "createdTime": "2019-01-23T09:37:04.000Z",
+    "id": "rec2n8WBZpYmVBj0r",
+    "(You can't directly edit this column)": "Jones Ou, AFXsi JuiceBox ",
+    "person": [
+      "recwHkKZx2S6Ys5JU"
+    ],
     "group": [
-      "recXjuWcIV7jHFKTN"
+      "recQLC0SGq1JalhZy"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYZrRek0Rre0fF6": {
+    "createdTime": "2019-01-23T09:28:21.000Z",
+    "id": "recYZrRek0Rre0fF6",
+    "(You can't directly edit this column)": "Emily Tsai, AFXsi KeKeKe ",
+    "group": [
+      "recPKxHOdAfnBkagq"
+    ],
+    "person": [
+      "recLxGorRTNI9I0QS"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recGzgezDFxUmGjL7": {
+    "createdTime": "2019-01-23T09:29:00.000Z",
+    "id": "recGzgezDFxUmGjL7",
+    "(You can't directly edit this column)": "Kathie Tian, AFXsi KeKeKe ",
+    "person": [
+      "rec8WQB0KC7QXPy7z"
+    ],
+    "group": [
+      "recPKxHOdAfnBkagq"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccWuJYTqYQwvHug": {
+    "createdTime": "2019-01-23T09:29:04.000Z",
+    "id": "reccWuJYTqYQwvHug",
+    "(You can't directly edit this column)": "Chris Kim, AFXsi KoJa ",
+    "group": [
+      "recoXVe23XTKANF21"
+    ],
+    "person": [
+      "recluqLVujMSWoHUV"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recKioPJo4yzrzPFA": {
+    "createdTime": "2019-01-23T09:29:12.000Z",
+    "id": "recKioPJo4yzrzPFA",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi KoJa ",
+    "person": [
+      "rec3RLZl3eC9SXHwJ"
+    ],
+    "group": [
+      "recoXVe23XTKANF21"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec0ZpHrzoBFlIZQC": {
+    "createdTime": "2019-01-23T09:25:38.000Z",
+    "id": "rec0ZpHrzoBFlIZQC",
+    "(You can't directly edit this column)": "Kristen Shimoda, AFXsi Kryan ",
+    "group": [
+      "recllo5BKMuqHWrRj"
+    ],
+    "person": [
+      "recIl9U3FDUzztIzq"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recAHXHouINxmzbcY": {
+    "createdTime": "2019-01-23T09:25:44.000Z",
+    "id": "recAHXHouINxmzbcY",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFXsi Kryan ",
+    "person": [
+      "rectcm65MFSWkghJQ"
+    ],
+    "group": [
+      "recllo5BKMuqHWrRj"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recnr7Nkz4t1x0ycE": {
+    "createdTime": "2019-01-23T09:23:43.000Z",
+    "id": "recnr7Nkz4t1x0ycE",
+    "(You can't directly edit this column)": "Natalie Ma, AFXsi Majiang ",
+    "group": [
+      "recOsz2yPhsrLgtpo"
+    ],
+    "person": [
+      "rec64C1WdF2Amk1VV"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recGG94oULenVEgaJ": {
+    "createdTime": "2019-01-23T09:23:51.000Z",
+    "id": "recGG94oULenVEgaJ",
+    "(You can't directly edit this column)": "Teresa Jiang, AFXsi Majiang ",
+    "person": [
+      "recNiTzcOCP8N4x8y"
+    ],
+    "group": [
+      "recOsz2yPhsrLgtpo"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recNZgfUdJGx6tqqT": {
+    "createdTime": "2019-01-23T09:32:33.000Z",
+    "id": "recNZgfUdJGx6tqqT",
+    "(You can't directly edit this column)": "Marisa Liang, AFXsi Micky D's ",
+    "group": [
+      "rec3I7LD5AxwLkwcl"
+    ],
+    "person": [
+      "recWjG5uBm6HmUW47"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recEAEA8wvCkP2tRl": {
+    "createdTime": "2019-01-23T09:32:47.000Z",
+    "id": "recEAEA8wvCkP2tRl",
+    "(You can't directly edit this column)": "Kenny Lu, AFXsi Micky D's ",
+    "person": [
+      "recGolwqfNnS2hDP5"
+    ],
+    "group": [
+      "rec3I7LD5AxwLkwcl"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "reckYjJz1ayV2HMVq": {
+    "createdTime": "2019-01-23T09:32:50.000Z",
+    "id": "reckYjJz1ayV2HMVq",
+    "(You can't directly edit this column)": "David Lee, AFXsi Micky D's ",
+    "person": [
+      "recTqXX6xdgjStuYA"
+    ],
+    "group": [
+      "rec3I7LD5AxwLkwcl"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recXv7wbfOzg6Kmq4": {
+    "createdTime": "2019-01-23T09:33:37.000Z",
+    "id": "recXv7wbfOzg6Kmq4",
+    "(You can't directly edit this column)": "Kirk La, AFXsi Milk ",
+    "group": [
+      "recjmrarPLS2cLFP6"
+    ],
+    "person": [
+      "rec4UfhaS3ZcsKOfU"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recjgzzSANuAhx6pG": {
+    "createdTime": "2019-01-23T09:33:41.000Z",
+    "id": "recjgzzSANuAhx6pG",
+    "(You can't directly edit this column)": "Mark Reed, AFXsi Milk ",
+    "person": [
+      "recOaZV3dVyIjCQX5"
+    ],
+    "group": [
+      "recjmrarPLS2cLFP6"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recsWTKyw1x4jx4zt": {
+    "createdTime": "2019-01-23T09:33:50.000Z",
+    "id": "recsWTKyw1x4jx4zt",
+    "(You can't directly edit this column)": "Wilfred Salacup, AFXsi Milk ",
+    "person": [
+      "recWC7yK5Re53KiVd"
+    ],
+    "group": [
+      "recjmrarPLS2cLFP6"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "rec6TDEsRxOdpUDDB": {
+    "createdTime": "2018-12-12T09:47:03.000Z",
+    "id": "rec6TDEsRxOdpUDDB",
+    "group": [
+      "recpQI3J6HKu6NObe"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attHUBRiPEz1d6vNH",
-        "url": "https://dl.airtable.com/tQT37ogcR16zRaLL7vqU_KAREN%20DING.PNG",
-        "filename": "KAREN DING.PNG",
-        "size": 951176,
+        "id": "attiJpo6Um0DexhKq",
+        "url": "https://dl.airtable.com/9vXYpr8Ro6pGmrT0D7cn_ASHLEY%20SONG.jpg",
+        "filename": "ASHLEY SONG.jpg",
+        "size": 71540,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/9wfawVIFTWu9rl9LAPb0_small_ASHLEY%20SONG.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/opkxaOx0Rz6ku0BMWsR9_large_ASHLEY%20SONG.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/y5LDMpLDQBW6hPFPf4IX_full_ASHLEY%20SONG.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rece0DANFC7ouQRn4"
+    ],
+    "(You can't directly edit this column)": "Ashley Song, AFXsi N/A Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recrhqq26IXzcwk22": {
+    "createdTime": "2018-12-12T09:52:34.000Z",
+    "id": "recrhqq26IXzcwk22",
+    "group": [
+      "recpQI3J6HKu6NObe"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attq8mFABVCU4a3Ya",
+        "url": "https://dl.airtable.com/xatQj1NZT9St2dG21ETy_MAX%20WANG%20(1).jpg",
+        "filename": "MAX WANG (1).jpg",
+        "size": 101265,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/P2Bd9VmhQGW4FF0Qg9EX_small_MAX%20WANG%20(1).jpg",
+            "width": 72,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/AKjsVSnKQDmokdTQd1sK_large_MAX%20WANG%20(1).jpg",
+            "width": 905,
+            "height": 453
+          },
+          "full": {
+            "url": "https://dl.airtable.com/dZ9MjuRCRmezrJ7YybKz_full_MAX%20WANG%20(1).jpg",
+            "width": 905,
+            "height": 453
+          }
+        }
+      }
+    ],
+    "person": [
+      "recijMCIqUe2QR7Ez"
+    ],
+    "(You can't directly edit this column)": "Max Wang, AFXsi N/A Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recodQtvOvN2su3LM": {
+    "createdTime": "2019-01-23T09:36:33.000Z",
+    "id": "recodQtvOvN2su3LM",
+    "(You can't directly edit this column)": "Jinnie Rhee, AFXsi RheeL ",
+    "group": [
+      "recKIT6nxJFIUwaCF"
+    ],
+    "person": [
+      "recnnv2dbvHIZ2dGJ"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recYVKe6hNuwttVk4": {
+    "createdTime": "2019-01-23T09:36:43.000Z",
+    "id": "recYVKe6hNuwttVk4",
+    "(You can't directly edit this column)": "Wendy Lin, AFXsi RheeL ",
+    "person": [
+      "rec63KrMM3KqD5glq"
+    ],
+    "group": [
+      "recKIT6nxJFIUwaCF"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recarIRB5fVvYK0Bd": {
+    "createdTime": "2019-01-23T09:24:03.000Z",
+    "id": "recarIRB5fVvYK0Bd",
+    "(You can't directly edit this column)": "Anita Chan, AFXsi SAN ",
+    "group": [
+      "recUrnBvsEJATCt1Q"
+    ],
+    "person": [
+      "recvERRBhdveDzyAH"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recNsn8aA6zrs8o3D": {
+    "createdTime": "2019-01-23T09:24:14.000Z",
+    "id": "recNsn8aA6zrs8o3D",
+    "(You can't directly edit this column)": "Sierra Feasel, AFXsi SAN ",
+    "person": [
+      "recL6ukxI9XWv5RQx"
+    ],
+    "group": [
+      "recUrnBvsEJATCt1Q"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recPUJmKHlBy18YKn": {
+    "createdTime": "2019-01-23T09:34:05.000Z",
+    "id": "recPUJmKHlBy18YKn",
+    "(You can't directly edit this column)": "Lilian Chen, AFXsi Slumber Party ",
+    "group": [
+      "recn6LlGtFykr0SZo"
+    ],
+    "person": [
+      "recBQkVU3UY4DnEmk"
+    ],
+    "groupType": [
+      "team"
+    ]
+  },
+  "recKefbsymSU2XoQQ": {
+    "createdTime": "2018-11-10T18:42:36.000Z",
+    "id": "recKefbsymSU2XoQQ",
+    "group": [
+      "recn6LlGtFykr0SZo"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attMjQlgtWX3Ewfl8",
+        "url": "https://dl.airtable.com/yXoRFYZRUChSyLzUCtbw_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+        "filename": "Screen Shot 2018-12-14 at 8.02.35 PM.png",
+        "size": 1521838,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/C58VS2iDRW6I14b2xdKs_small_KAREN%20DING.PNG",
+            "url": "https://dl.airtable.com/DWVq47huSigGpUPYIPSf_small_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/BIYQ3CEDSS2WIngnzms6_large_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+            "width": 528,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/QWPxyaPTECm4827dAl9w_full_Screen%20Shot%202018-12-14%20at%208.02.35%20PM.png",
+            "width": 1166,
+            "height": 1130
+          }
+        }
+      }
+    ],
+    "person": [
+      "recVwOcszdvg6tMe0"
+    ],
+    "(You can't directly edit this column)": "Alex Nguyen, AFXsi Slumber Party Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recUMDlSdJPSLOorB": {
+    "createdTime": "2018-11-03T18:35:25.000Z",
+    "id": "recUMDlSdJPSLOorB",
+    "group": [
+      "recJGCk5JPfHJ5nI5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attbfT328oFXJlSj5",
+        "url": "https://dl.airtable.com/2l8YaHaUTM2SI0D4wVZz_EMILY%20ZHANG.jpg",
+        "filename": "EMILY ZHANG.jpg",
+        "size": 82000,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/ywheAXaMT0avzcIJ7XfF_small_EMILY%20ZHANG.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/Bff0V98aQnmxtisF2Fty_large_EMILY%20ZHANG.jpg",
+            "width": 512,
+            "height": 674
+          },
+          "full": {
+            "url": "https://dl.airtable.com/5D6We3TSYyaIJ3xHrzSw_full_EMILY%20ZHANG.jpg",
+            "width": 729,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "rect8pr6b0mWltnRl"
+    ],
+    "(You can't directly edit this column)": "Emily Zhang, AFXsi Smol Chunks Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "reccuIpsZHfgfMdHZ": {
+    "createdTime": "2018-11-10T18:34:38.000Z",
+    "id": "reccuIpsZHfgfMdHZ",
+    "group": [
+      "recJGCk5JPfHJ5nI5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attjofcr6CsQfFI1J",
+        "url": "https://dl.airtable.com/zNzvmatQZy87OJYn8hvc_JENNIFER%20ZHANG.jpg",
+        "filename": "JENNIFER ZHANG.jpg",
+        "size": 73254,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Eo2PBfF1R9Kwpbjp7X7m_small_JENNIFER%20ZHANG.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/DjT91KmWSMq5yOXHljPZ_large_JENNIFER%20ZHANG.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/WbMxRrrkT1amAH1u8RjW_full_JENNIFER%20ZHANG.jpg",
+            "width": 640,
+            "height": 960
+          }
+        }
+      }
+    ],
+    "person": [
+      "recm7CbBymkkW63kg"
+    ],
+    "(You can't directly edit this column)": "Jennifer Zhang, AFXsi Smol Chunks Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "rechMfFiXW6u3hig7": {
+    "createdTime": "2018-11-10T18:34:54.000Z",
+    "id": "rechMfFiXW6u3hig7",
+    "group": [
+      "recJGCk5JPfHJ5nI5"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attxYOpxT7rXnWGqb",
+        "url": "https://dl.airtable.com/dzfJMxOCTvOLaOI3fZPW_JOSEPH%20JIANG.jpg",
+        "filename": "JOSEPH JIANG.jpg",
+        "size": 107256,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/wjCfBP0AS2a2iJmipHnj_small_JOSEPH%20JIANG.jpg",
             "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/u5XD2yOnQjqbJ4iesNXD_large_KAREN%20DING.PNG",
-            "width": 512,
-            "height": 514
-          },
-          "full": {
-            "url": "https://dl.airtable.com/0DyiKTfjQyeDBvsOSofh_full_KAREN%20DING.PNG",
-            "width": 596,
-            "height": 598
-          }
-        }
-      }
-    ],
-    "person": [
-      "recFHoYhUBiV5URhr"
-    ],
-    "(You can't directly edit this column)": "Karen Ding, AFX Ding Dong Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBcgMIqL5c2ymfY": {
-    "createdTime": "2018-12-13T09:04:04.000Z",
-    "id": "recBcgMIqL5c2ymfY",
-    "group": [
-      "recXjuWcIV7jHFKTN"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attyXxcNxtk0xrxby",
-        "url": "https://dl.airtable.com/UUdIxXkIS6uC83ichFSP_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-        "filename": "Lenny Dong, Comp Board - Captain, Fall 2017.jpg",
-        "size": 239226,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/z1oxYPqcRYeqz219a7yq_small_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/MCLW1QxYR5SlI5Dy078V_large_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/6D5i36BPSsSPAr9iHRKf_full_Lenny%20Dong%2C%20Comp%20Board%20-%20Captain%2C%20Fall%202017.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "person": [
-      "recnIIrPMXGlfHFb9"
-    ],
-    "(You can't directly edit this column)": "Lenny Dong, AFX Ding Dong Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec2Awc9Y8XrYeQ7j": {
-    "createdTime": "2018-12-13T09:06:29.000Z",
-    "id": "rec2Awc9Y8XrYeQ7j",
-    "group": [
-      "recgSC5ZaU8HBQbmS"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attrOsvEFlOS9JEQF",
-        "url": "https://dl.airtable.com/jKMjd742RX2apQHZLtZB_TIFFANIE%20ABACAN.PNG",
-        "filename": "TIFFANIE ABACAN.PNG",
-        "size": 1301642,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/WFPnUDkQ8ejRuAxtYnmw_small_TIFFANIE%20ABACAN.PNG",
-            "width": 40,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/uPNa85XfS2KKsiMlCN3K_large_TIFFANIE%20ABACAN.PNG",
-            "width": 571,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Mb6Uj6lSLmxC1Zgrr2wR_full_TIFFANIE%20ABACAN.PNG",
-            "width": 806,
-            "height": 723
-          }
-        }
-      }
-    ],
-    "person": [
-      "recRcjNWpPIB6MhSE"
-    ],
-    "(You can't directly edit this column)": "Tiffanie Abacan, AFX META Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recIMXzS9m8dZ1zjF": {
-    "createdTime": "2018-12-13T09:08:20.000Z",
-    "id": "recIMXzS9m8dZ1zjF",
-    "group": [
-      "recgSC5ZaU8HBQbmS"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attSNvQuWYtEJvfjZ",
-        "url": "https://dl.airtable.com/ygtrZKp7RF6n3vYCQTx1_MENGYAN%20LI.PNG",
-        "filename": "MENGYAN LI.PNG",
-        "size": 588295,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/3QIuoviSNm3H5omX1pyD_small_MENGYAN%20LI.PNG",
-            "width": 51,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/ZxLwbhRRvK0Uckugfem7_large_MENGYAN%20LI.PNG",
-            "width": 597,
-            "height": 422
-          },
-          "full": {
-            "url": "https://dl.airtable.com/HxVy7i2mTlmOZXYqpPUA_full_MENGYAN%20LI.PNG",
-            "width": 597,
-            "height": 422
-          }
-        }
-      }
-    ],
-    "person": [
-      "recCQaNAzI6bTDsQo"
-    ],
-    "(You can't directly edit this column)": "Mengyan Li, AFX META Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recROI9NnR3gpwjS7": {
-    "createdTime": "2018-12-13T09:10:02.000Z",
-    "id": "recROI9NnR3gpwjS7",
-    "group": [
-      "recgSC5ZaU8HBQbmS"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attVuYx9cxMToTRBo",
-        "url": "https://dl.airtable.com/uJttDmQuQTq1Q3LNJXwb_ANTHONY%20NGUYEN.PNG",
-        "filename": "ANTHONY NGUYEN.PNG",
-        "size": 639124,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/WPSwWijESzCd9HxLlb96_small_ANTHONY%20NGUYEN.PNG",
-            "width": 30,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/J2YOkUV3SZGi0TVWApJP_large_ANTHONY%20NGUYEN.PNG",
-            "width": 488,
-            "height": 592
-          },
-          "full": {
-            "url": "https://dl.airtable.com/ixGmzM2QnaqYgOLausLQ_full_ANTHONY%20NGUYEN.PNG",
-            "width": 488,
-            "height": 592
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec0LPC8lZkJZSnkE"
-    ],
-    "(You can't directly edit this column)": "Anthony Nguyen, AFX META Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rechsNxHsvYb4ipgn": {
-    "createdTime": "2018-12-13T09:13:47.000Z",
-    "id": "rechsNxHsvYb4ipgn",
-    "group": [
-      "reclgPwPymHTre39f"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attiovuMMtRDOZuvj",
-        "url": "https://dl.airtable.com/Qmj63CywTI2oABKTvukh_DARIUS%20SPARKS.jpg",
-        "filename": "DARIUS SPARKS.jpg",
-        "size": 146245,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/FL0ZL5tQdeODw0rKvyyU_small_DARIUS%20SPARKS.jpg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/zcXCeufdS4SYYXpH6UgV_large_DARIUS%20SPARKS.jpg",
+            "url": "https://dl.airtable.com/WmXiKPr2RYSexffkhOVn_large_JOSEPH%20JIANG.jpg",
             "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/b4sdETYRcapMPNgPExnv_full_DARIUS%20SPARKS.jpg",
+            "url": "https://dl.airtable.com/HDqg8QBkQuuGdm7v7koK_full_JOSEPH%20JIANG.jpg",
             "width": 960,
             "height": 960
           }
@@ -19205,339 +24271,134 @@ export let PersonPositions = {
       }
     ],
     "person": [
-      "rec6IpW9b974hS7Dx"
+      "recNZcauY6F7F5QL9"
     ],
-    "(You can't directly edit this column)": "Darius Sparks, AFX DJ Director",
+    "(You can't directly edit this column)": "Joseph Jiang, AFXsi Smol Chunks Director",
     "groupType": [
       "team"
     ]
   },
-  "rec6h4qSGHuC5wUWx": {
-    "createdTime": "2018-12-13T09:15:22.000Z",
-    "id": "rec6h4qSGHuC5wUWx",
+  "reciObpc8gPiKo1In": {
+    "createdTime": "2018-12-12T10:40:26.000Z",
+    "id": "reciObpc8gPiKo1In",
     "group": [
-      "reclgPwPymHTre39f"
+      "recFJhX3DlVrqJRRn"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attvGPsqTwh5bFQrA",
-        "url": "https://dl.airtable.com/xDMrw1pFThKrw6YBrdtu_JASON%20BOUATAVANH.PNG",
-        "filename": "JASON BOUATAVANH.PNG",
-        "size": 313299,
-        "type": "image/png",
+        "id": "attJbSaIoLKCHk31Q",
+        "url": "https://dl.airtable.com/Def7NxgQ16e6AxK3kYog_sean%20zhu%20(1).jpg",
+        "filename": "sean zhu (1).jpg",
+        "size": 30543,
+        "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/Lz7D6mTTywRJMtZOkTAR_small_JASON%20BOUATAVANH.PNG",
-            "width": 30,
+            "url": "https://dl.airtable.com/NJxJgHY7QTypfd2EAPGk_small_sean%20zhu%20(1).jpg",
+            "width": 45,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/7SxtZSPQJ6qbOqf54gjr_large_JASON%20BOUATAVANH.PNG",
-            "width": 512,
-            "height": 607
-          },
-          "full": {
-            "url": "https://dl.airtable.com/7ng6Mxl4R0qOWbDWxqe1_full_JASON%20BOUATAVANH.PNG",
-            "width": 550,
-            "height": 652
-          }
-        }
-      }
-    ],
-    "person": [
-      "recb95w3N49Pkc93b"
-    ],
-    "(You can't directly edit this column)": "Jason Bouatavanh, AFX DJ Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec4QdNMnRr5f8Ewe": {
-    "createdTime": "2018-12-13T09:23:30.000Z",
-    "id": "rec4QdNMnRr5f8Ewe",
-    "group": [
-      "recCuEIVaZ2TETp48"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attQub1n6duo2pzJk",
-        "url": "https://dl.airtable.com/H1MKmk8JQGLX6PLJyRxg_NARIA%20QUAZI.PNG",
-        "filename": "NARIA QUAZI.PNG",
-        "size": 839199,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Uzv1hduTzO5psVktTaxl_small_NARIA%20QUAZI.PNG",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/Xto7DfyoTP23XFsl3lvj_large_NARIA%20QUAZI.PNG",
-            "width": 539,
+            "url": "https://dl.airtable.com/avJ1Th4RQQqr5iRCIWue_large_sean%20zhu%20(1).jpg",
+            "width": 634,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/aJzo70VTqjTcxZBsEPew_full_NARIA%20QUAZI.PNG",
-            "width": 629,
-            "height": 597
+            "url": "https://dl.airtable.com/uvEQwCNTMGs3Y40XpAbk_full_sean%20zhu%20(1).jpg",
+            "width": 640,
+            "height": 517
           }
         }
       }
     ],
-    "person": [
-      "rec1nPfEeEIubXT0C"
-    ],
-    "(You can't directly edit this column)": "Naria Quazi, AFX NaLA Director",
+    "(You can't directly edit this column)": "Sean Zhu, AFXsi WaSteD Director",
     "groupType": [
       "team"
+    ],
+    "person": [
+      "recxAxAFK4ULZWdyr"
     ]
   },
-  "recJnf4qYoOoE6qSR": {
-    "createdTime": "2018-12-13T09:28:09.000Z",
-    "id": "recJnf4qYoOoE6qSR",
+  "recnQ9X5cMaRnFV53": {
+    "createdTime": "2018-12-12T10:42:23.000Z",
+    "id": "recnQ9X5cMaRnFV53",
     "group": [
-      "recCuEIVaZ2TETp48"
+      "recFJhX3DlVrqJRRn"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attqs1Mk0GY2Esf3P",
-        "url": "https://dl.airtable.com/N9V4i4a7Rtmpza2Kn4DW_LEO%20ZHANG.PNG",
-        "filename": "LEO ZHANG.PNG",
-        "size": 569879,
-        "type": "image/png",
+        "id": "attK6XjqECe32jJmo",
+        "url": "https://dl.airtable.com/tYDpLQmWTbOUE9QFc336_WHITNEY%20LI.jpg",
+        "filename": "WHITNEY LI.jpg",
+        "size": 91715,
+        "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/R7a6eUshTmuZ4czYUmH6_small_LEO%20ZHANG.PNG",
-            "width": 34,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/cDzvryk3SAaFVGFCvsxc_large_LEO%20ZHANG.PNG",
-            "width": 512,
-            "height": 539
-          },
-          "full": {
-            "url": "https://dl.airtable.com/2CTjvshMTeiJaAZXoTjj_full_LEO%20ZHANG.PNG",
-            "width": 525,
-            "height": 553
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec1SKHcbRCJkp0cO"
-    ],
-    "(You can't directly edit this column)": "Leo Zhang, AFX NaLA Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recAViFCI7lrDQ6Ww": {
-    "createdTime": "2018-12-13T09:29:06.000Z",
-    "id": "recAViFCI7lrDQ6Ww",
-    "group": [
-      "recCuEIVaZ2TETp48"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attG1qWMnDSZ5N92v",
-        "url": "https://dl.airtable.com/Exv4VnQnSecnwtvI2MAu_AIMEE%20PEPPER.PNG",
-        "filename": "AIMEE PEPPER.PNG",
-        "size": 1053546,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/baRrfQMORay253gw7NLf_small_AIMEE%20PEPPER.PNG",
+            "url": "https://dl.airtable.com/wk9s8HPtSjyAjuJdOaqx_small_WHITNEY%20LI.jpg",
             "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/XdnBrd7PSCiSf33JPiyf_large_AIMEE%20PEPPER.PNG",
-            "width": 514,
+            "url": "https://dl.airtable.com/JRpTZmYESJybMaQUeAud_large_WHITNEY%20LI.jpg",
+            "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/qjobhb7XTbasWR6W6ar4_full_AIMEE%20PEPPER.PNG",
-            "width": 695,
-            "height": 692
+            "url": "https://dl.airtable.com/wUlWntBSlSW1vmn1rMAA_full_WHITNEY%20LI.jpg",
+            "width": 960,
+            "height": 960
           }
         }
       }
     ],
     "person": [
-      "recq3sdvy3JjKPWR5"
+      "recDSwdrsXFswCDay"
     ],
-    "(You can't directly edit this column)": "Aimee Pepper, AFX NaLA Director",
+    "(You can't directly edit this column)": "Whitney Li, AFXsi WaSteD Director",
     "groupType": [
       "team"
     ]
   },
-  "recYzJCII8mJFlE4x": {
-    "createdTime": "2018-12-13T09:32:37.000Z",
-    "id": "recYzJCII8mJFlE4x",
+  "recD42sX1oii6b3so": {
+    "createdTime": "2018-12-12T10:43:34.000Z",
+    "id": "recD42sX1oii6b3so",
     "group": [
-      "recakv34dAgvMZqyk"
+      "recFJhX3DlVrqJRRn"
     ],
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attfvNLp834kD6dIO",
-        "url": "https://dl.airtable.com/b3noChSS1yuDfiyG9f01_CHRISTINE%20HO.PNG",
-        "filename": "CHRISTINE HO.PNG",
-        "size": 750831,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/8Q7UVfNaQJaYnw3iEsDU_small_CHRISTINE%20HO.PNG",
-            "width": 34,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/R04onzagQYq0w9fQegAa_large_CHRISTINE%20HO.PNG",
-            "width": 512,
-            "height": 549
-          },
-          "full": {
-            "url": "https://dl.airtable.com/Oc22agPSJ2GyJHJfkLMb_full_CHRISTINE%20HO.PNG",
-            "width": 644,
-            "height": 690
-          }
-        }
-      }
-    ],
-    "person": [
-      "recJu9Hcotxvp8rOT"
-    ],
-    "(You can't directly edit this column)": "Christine Ho, AFX OH Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recNuN2WJyVmC7Na7": {
-    "createdTime": "2018-12-13T09:33:49.000Z",
-    "id": "recNuN2WJyVmC7Na7",
-    "group": [
-      "recakv34dAgvMZqyk"
-    ],
-    "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "att0ciHJjP6L57SDS",
-        "url": "https://dl.airtable.com/48Ap4RAoQ5OUU9USlvab_LENELL%20ORDANZA.PNG",
-        "filename": "LENELL ORDANZA.PNG",
-        "size": 401780,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/UJYlpsFyShef18vkQAGr_small_LENELL%20ORDANZA.PNG",
-            "width": 32,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/9AhvmWbLRqqPma5fJmr7_large_LENELL%20ORDANZA.PNG",
-            "width": 477,
-            "height": 540
-          },
-          "full": {
-            "url": "https://dl.airtable.com/tCZ3poJRgKNSQDBmaXQQ_full_LENELL%20ORDANZA.PNG",
-            "width": 477,
-            "height": 540
-          }
-        }
-      }
-    ],
-    "person": [
-      "recc44dWSzgZKA2RW"
-    ],
-    "(You can't directly edit this column)": "Lenell Ordanza, AFX OH Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec5JRSt82L6ohv75": {
-    "createdTime": "2018-12-18T08:48:51.000Z",
-    "id": "rec5JRSt82L6ohv75",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attRLrFJWm8XFJjGg",
-        "url": "https://dl.airtable.com/eFPnYUHXT228wcx0UQDj_ALICIA%20CHOW%20Spring%202019.jpg",
-        "filename": "ALICIA CHOW Spring 2019.jpg",
-        "size": 176546,
+        "id": "att5N3S6w3Z65CKaC",
+        "url": "https://dl.airtable.com/aWmesPGBTom7L8PmvuXH_DANIEL%20RA.jpg",
+        "filename": "DANIEL RA.jpg",
+        "size": 106498,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/VXFXSaAcQDqKdkGxk7AB_small_ALICIA%20CHOW%20Spring%202019.jpg",
+            "url": "https://dl.airtable.com/IoOODmTdyfZ02JPujQmw_small_DANIEL%20RA.jpg",
             "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/ZBrFHm5cQOmGAe6j9Qwp_large_ALICIA%20CHOW%20Spring%202019.jpg",
-            "width": 512,
-            "height": 773
-          },
-          "full": {
-            "url": "https://dl.airtable.com/8Ee70EljSJmLjwRYZCW6_full_ALICIA%20CHOW%20Spring%202019.jpg",
-            "width": 1224,
-            "height": 1848
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec1LGQN0f3Ylkwo9"
-    ],
-    "(You can't directly edit this column)": "Alicia Chow, AFX Board Spring 2019 Vice Executive",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recCvXCSC466FhdUc": {
-    "createdTime": "2018-12-18T08:51:42.000Z",
-    "id": "recCvXCSC466FhdUc",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attbgHaaZOaickv1R",
-        "url": "https://dl.airtable.com/RyAVmvsR1SLlVKOzNCZn_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-        "filename": "Anthony Chen, Board - Historian, Spring 2018.jpg",
-        "size": 291371,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/Pa6pQ1DkREKfke4ItBMQ_small_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/r7UrDMvSQOyN3JOtDQ3h_large_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
+            "url": "https://dl.airtable.com/NEBCwWsfR1yuHKUwS27O_large_DANIEL%20RA.jpg",
             "width": 512,
             "height": 768
           },
           "full": {
-            "url": "https://dl.airtable.com/CMmeFWmqQWykxHksMGig_full_Anthony%20Chen%2C%20Board%20-%20Historian%2C%20Spring%202018.jpg",
-            "width": 1366,
-            "height": 2048
+            "url": "https://dl.airtable.com/BOxelBoBRoiUnvD3BhaK_full_DANIEL%20RA.jpg",
+            "width": 640,
+            "height": 960
           }
         }
       }
     ],
     "person": [
-      "recuxPPGm6jYZYg8b"
+      "rec8KeceBsdwsLKzT"
     ],
-    "(You can't directly edit this column)": "Anthony Chen, AFX Board Spring 2019 Vice Executive",
+    "(You can't directly edit this column)": "Daniel Ra, AFXsi WaSteD Director",
     "groupType": [
-      "board"
+      "team"
     ]
   },
   "recKY4ZkPFqNTRT39": {
@@ -19585,2627 +24446,167 @@ export let PersonPositions = {
       "team"
     ]
   },
-  "recelflqRNSPaMDIO": {
-    "createdTime": "2019-01-23T07:09:34.000Z",
-    "id": "recelflqRNSPaMDIO",
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Fatale Director",
-    "group": [
-      "recmBZZ61fSUMApWT"
-    ],
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rect0HirGdedYxaUf": {
-    "createdTime": "2019-01-23T07:10:03.000Z",
-    "id": "rect0HirGdedYxaUf",
-    "(You can't directly edit this column)": "Josh Fitch, AFX Fatale Director",
-    "group": [
-      "recmBZZ61fSUMApWT"
-    ],
-    "person": [
-      "recZuxgeAKWZderDL"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec2feBILeEXYOvLY": {
-    "createdTime": "2019-01-23T07:10:49.000Z",
-    "id": "rec2feBILeEXYOvLY",
-    "(You can't directly edit this column)": "Eric Park, AFX Pixels Director",
-    "group": [
-      "recJLwNiZZCkFPrFc"
-    ],
-    "person": [
-      "recOoW1XuWk5rEx9P"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec36LBo4z1hzygmt": {
-    "createdTime": "2019-01-23T07:11:20.000Z",
-    "id": "rec36LBo4z1hzygmt",
-    "(You can't directly edit this column)": "Patrick Chenglo, AFX Pixels Director",
-    "group": [
-      "recJLwNiZZCkFPrFc"
-    ],
-    "person": [
-      "rec2lSmjsrli21EvU"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recEN7TAyHb6fQpmW": {
-    "createdTime": "2019-01-23T07:26:55.000Z",
-    "id": "recEN7TAyHb6fQpmW",
-    "(You can't directly edit this column)": "Andrea Deng, AFX Anemone Director",
-    "group": [
-      "reczhFJVl1odeRHxw"
-    ],
-    "person": [
-      "recmMWJZAi4BnKpIc"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rechyBdG7YJ4twPZH": {
-    "createdTime": "2019-01-23T07:27:38.000Z",
-    "id": "rechyBdG7YJ4twPZH",
-    "(You can't directly edit this column)": "Julia Ting, AFX Anemone Director",
-    "group": [
-      "reczhFJVl1odeRHxw"
-    ],
-    "person": [
-      "recqlH5BSDJwdW67r"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec7JGQCIlMvOAsiA": {
-    "createdTime": "2019-01-23T07:27:58.000Z",
-    "id": "rec7JGQCIlMvOAsiA",
-    "(You can't directly edit this column)": "Serena Chang, AFX Anemone Director",
-    "group": [
-      "reczhFJVl1odeRHxw"
-    ],
-    "positionTitle": "Director",
-    "person": [
-      "recnu7oBVEPmq03vp"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reclew3PBCUrdH2rc": {
-    "createdTime": "2019-01-23T07:29:03.000Z",
-    "id": "reclew3PBCUrdH2rc",
-    "(You can't directly edit this column)": "Sophia Morgan, AFX Anemone Director",
-    "group": [
-      "reczhFJVl1odeRHxw"
-    ],
-    "person": [
-      "recy7KgvvPeMKOaTI"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZonKujt9AoCKdh": {
-    "createdTime": "2019-01-23T07:40:00.000Z",
-    "id": "recZonKujt9AoCKdh",
-    "(You can't directly edit this column)": "Brendon Ho, AFX DaB Director",
-    "group": [
-      "recMmZni3OrOaZeqV"
-    ],
-    "positionTitle": "Director",
-    "person": [
-      "rec4cE7BkSgkq4OmT"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recF2y8cw1D9RQlqE": {
-    "createdTime": "2019-01-23T07:41:36.000Z",
-    "id": "recF2y8cw1D9RQlqE",
-    "(You can't directly edit this column)": "David Moon, AFX DaB Director",
-    "group": [
-      "recMmZni3OrOaZeqV"
-    ],
-    "positionTitle": "Director",
-    "person": [
-      "rec9fE9T87W7gVqhv"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reca9trtKiFbnLClI": {
-    "createdTime": "2019-01-23T07:54:59.000Z",
-    "id": "reca9trtKiFbnLClI",
-    "(You can't directly edit this column)": "Waki Gojo, AFX WE Director",
-    "group": [
-      "recFh3kOglUuzCUQ5"
-    ],
-    "person": [
-      "recD3H9pJTtotbnsk"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recytTDW7ghvx63wj": {
-    "createdTime": "2019-01-23T07:56:18.000Z",
-    "id": "recytTDW7ghvx63wj",
-    "(You can't directly edit this column)": "Angela Gao, AFX 404 Director",
-    "group": [
-      "recEgyVF2HAjF3C1G"
-    ],
-    "person": [
-      "rec8ftmATdmGYdNy9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recvpS96YhydF5Yka": {
-    "createdTime": "2019-01-23T07:57:30.000Z",
-    "id": "recvpS96YhydF5Yka",
-    "(You can't directly edit this column)": "Joseph Jiang, AFX 404 Director",
-    "person": [
-      "recNZcauY6F7F5QL9"
-    ],
-    "positionTitle": "Director",
-    "group": [
-      "recEgyVF2HAjF3C1G"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recKEhsySbDVIeqxh": {
-    "createdTime": "2019-01-23T08:01:06.000Z",
-    "id": "recKEhsySbDVIeqxh",
-    "(You can't directly edit this column)": "Mitchell Srimongkol, AFX 404 Director",
-    "person": [
-      "recxQm9h5yWlwcR63"
-    ],
-    "positionTitle": "Director",
-    "group": [
-      "recEgyVF2HAjF3C1G"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recflGNOxbZXPt4RK": {
-    "createdTime": "2019-01-23T08:02:17.000Z",
-    "id": "recflGNOxbZXPt4RK",
-    "(You can't directly edit this column)": "Wilfred Salacup, AFX 404 Director",
-    "person": [
-      "recWC7yK5Re53KiVd"
-    ],
-    "positionTitle": "Director",
-    "group": [
-      "recEgyVF2HAjF3C1G"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recpMHc2UHOX1UXBf": {
-    "createdTime": "2019-01-23T08:03:58.000Z",
-    "id": "recpMHc2UHOX1UXBf",
-    "(You can't directly edit this column)": "Christine Nguyen, AFX Michi Director",
-    "group": [
-      "recw1DrJjXTJiCxDu"
-    ],
-    "person": [
-      "rec8DTnPeU2YYqWpF"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recIbc0SgPcRJfj9z": {
-    "createdTime": "2019-01-23T08:04:24.000Z",
-    "id": "recIbc0SgPcRJfj9z",
-    "(You can't directly edit this column)": "Michael Ershov, AFX Michi Director",
-    "group": [
-      "recw1DrJjXTJiCxDu"
-    ],
-    "person": [
-      "recYT7OgVVQafOBIB"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYEr1cknU5JGRzu": {
-    "createdTime": "2019-01-23T08:04:45.000Z",
-    "id": "recYEr1cknU5JGRzu",
-    "(You can't directly edit this column)": "Elvin Yang, AFX 7/11 Director",
-    "group": [
-      "recckK4i87e8XMHKx"
-    ],
-    "person": [
-      "reckj8ZdUtGgflWUI"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccBrnBXgk2gMFzu": {
-    "createdTime": "2019-01-23T08:05:30.000Z",
-    "id": "reccBrnBXgk2gMFzu",
-    "(You can't directly edit this column)": "Kevin Fong, AFX 7/11 Director",
-    "group": [
-      "recckK4i87e8XMHKx"
-    ],
-    "person": [
-      "rec4StCAYIM1itLSX"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recXdf0Jbd2LFOABf": {
-    "createdTime": "2019-01-23T08:05:51.000Z",
-    "id": "recXdf0Jbd2LFOABf",
-    "(You can't directly edit this column)": "Sophia Lam, AFX 7/11 Director",
-    "group": [
-      "recckK4i87e8XMHKx"
-    ],
-    "person": [
-      "recDwwS03AO73j2Z4"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyAagZfFqoW6au1": {
-    "createdTime": "2019-01-23T08:06:08.000Z",
-    "id": "recyAagZfFqoW6au1",
-    "(You can't directly edit this column)": "Cina Shahabi, AFX Apocalypse Director",
-    "person": [
-      "recoGBSQHEEWuL1LU"
-    ],
-    "group": [
-      "rec7PS1587tLDisxK"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec6bIZqVXdLQF3wY": {
-    "createdTime": "2019-01-23T08:06:16.000Z",
-    "id": "rec6bIZqVXdLQF3wY",
-    "(You can't directly edit this column)": "Peggy Shih, AFX Apocalypse Director",
-    "person": [
-      "recZWKQK0rewWfxJn"
-    ],
-    "group": [
-      "rec7PS1587tLDisxK"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reciAu568KyUK1CSi": {
-    "createdTime": "2019-01-23T08:06:56.000Z",
-    "id": "reciAu568KyUK1CSi",
-    "(You can't directly edit this column)": "Winn Cui, AFX Apocalypse Director",
-    "person": [
-      "reccusci4MPy2I4i4"
-    ],
-    "group": [
-      "rec7PS1587tLDisxK"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recXEEScYvYBq2wb5": {
-    "createdTime": "2019-01-23T08:16:14.000Z",
-    "id": "recXEEScYvYBq2wb5",
-    "(You can't directly edit this column)": "Cameron Lee, AFX CaDaLys+ Director",
-    "person": [
-      "reclFKTnGDsAIEJmu"
-    ],
-    "group": [
-      "recs4sDRkWSBWVORf"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recFCm06cU2kC2inx": {
-    "createdTime": "2019-01-23T08:35:40.000Z",
-    "id": "recFCm06cU2kC2inx",
-    "(You can't directly edit this column)": "Alyssa Jolene, AFX CaDaLys+ Director",
-    "person": [
-      "rechJ87TWAyGyqo7D"
-    ],
-    "group": [
-      "recs4sDRkWSBWVORf"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recDrByCzdiGEGlCu": {
-    "createdTime": "2019-01-23T08:35:48.000Z",
-    "id": "recDrByCzdiGEGlCu",
-    "(You can't directly edit this column)": "Darius Sparks, AFX CaDaLys+ Director",
-    "person": [
-      "rec6IpW9b974hS7Dx"
-    ],
-    "group": [
-      "recs4sDRkWSBWVORf"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recEtfeJRyfeBD8dO": {
-    "createdTime": "2019-01-23T08:36:09.000Z",
-    "id": "recEtfeJRyfeBD8dO",
-    "(You can't directly edit this column)": "Ryan Barroga, AFX Rogue 2 Director",
-    "person": [
-      "reczfMxHZL2l3qHUm"
-    ],
-    "group": [
-      "recvqz0iaFmQNln9P"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recKjImEWHvOHUAUT": {
-    "createdTime": "2019-01-23T08:36:18.000Z",
-    "id": "recKjImEWHvOHUAUT",
-    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Rogue 2 Director",
-    "person": [
-      "recl0MAVB8URRERpr"
-    ],
-    "group": [
-      "recvqz0iaFmQNln9P"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyko34oM0jvhmaF": {
-    "createdTime": "2019-01-23T08:38:39.000Z",
-    "id": "recyko34oM0jvhmaF",
-    "(You can't directly edit this column)": "AC Dela Paz, AFX Danc Director",
-    "group": [
-      "recIbUE7FZapHgsqw"
-    ],
-    "person": [
-      "rec2nvAlUafPaALoo"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recteBvxQnOFEoRag": {
-    "createdTime": "2019-01-23T08:38:55.000Z",
-    "id": "recteBvxQnOFEoRag",
-    "(You can't directly edit this column)": "Dan Ricciardelli, AFX Danc Director",
-    "person": [
-      "recFHTImw5G3ebb3P"
-    ],
-    "group": [
-      "recIbUE7FZapHgsqw"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBD5V9nti3XtIEu": {
-    "createdTime": "2019-01-23T08:39:00.000Z",
-    "id": "recBD5V9nti3XtIEu",
-    "(You can't directly edit this column)": "Ian Lin, AFX Kindle Director",
-    "group": [
-      "recmnazdxob4GA1U6"
-    ],
-    "person": [
-      "recq899RkpXw3Gvrx"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec8OdR8oBKc2ZAqD": {
-    "createdTime": "2019-01-23T08:39:09.000Z",
-    "id": "rec8OdR8oBKc2ZAqD",
-    "(You can't directly edit this column)": "Keien Ohta, AFX Kindle Director",
-    "person": [
-      "recS7tOOGL4jKxWES"
-    ],
-    "group": [
-      "recmnazdxob4GA1U6"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recC0UCS6w9gAZdiv": {
-    "createdTime": "2019-01-23T08:39:15.000Z",
-    "id": "recC0UCS6w9gAZdiv",
-    "(You can't directly edit this column)": "Neil Xia, AFX Kindle Director",
-    "person": [
-      "reczWUDfU2NemTT6H"
-    ],
-    "group": [
-      "recmnazdxob4GA1U6"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recgctqYeUKIKxvMG": {
-    "createdTime": "2019-01-23T08:39:23.000Z",
-    "id": "recgctqYeUKIKxvMG",
-    "(You can't directly edit this column)": "Mei Mei, AFX Matrix Director",
-    "group": [
-      "receCwoUGQ4WyR8GC"
-    ],
-    "person": [
-      "reci7k75SMLdI0Wjh"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recfI7xh0OyO8vYOD": {
-    "createdTime": "2019-01-23T08:39:30.000Z",
-    "id": "recfI7xh0OyO8vYOD",
-    "(You can't directly edit this column)": "Patrick Lin, AFX Matrix Director",
-    "person": [
-      "recen1WngPBkT2o36"
-    ],
-    "group": [
-      "receCwoUGQ4WyR8GC"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recd9f5nImbEfwIr7": {
-    "createdTime": "2019-01-23T08:39:38.000Z",
-    "id": "recd9f5nImbEfwIr7",
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Matrix Director",
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "group": [
-      "receCwoUGQ4WyR8GC"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recUfH8mr2MsRQmxU": {
-    "createdTime": "2019-01-23T08:39:43.000Z",
-    "id": "recUfH8mr2MsRQmxU",
-    "(You can't directly edit this column)": "Alex Kumamoto, AFX Mushu Director",
-    "group": [
-      "rec5NdqAYrjJvwOZP"
-    ],
-    "person": [
-      "recJBB9QQHpc2Eh40"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recCeQ0OUCu1o0rZz": {
-    "createdTime": "2019-01-23T08:40:02.000Z",
-    "id": "recCeQ0OUCu1o0rZz",
-    "(You can't directly edit this column)": "Michelle Li, AFX Mushu Director",
-    "person": [
-      "recuB6j27df5H1aBq"
-    ],
-    "group": [
-      "rec5NdqAYrjJvwOZP"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recMmLpa0QaOzFF2E": {
-    "createdTime": "2019-01-23T08:40:07.000Z",
-    "id": "recMmLpa0QaOzFF2E",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFX SD Director",
-    "group": [
-      "rec1ugpDp0pDY8B5n"
-    ],
-    "person": [
-      "recyuGtimgWQu1z1r"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBjUwFmyhtxZ10j": {
-    "createdTime": "2019-01-23T08:40:16.000Z",
-    "id": "recBjUwFmyhtxZ10j",
-    "(You can't directly edit this column)": "Sebastian Merz, AFX SD Director",
-    "person": [
-      "recgJodU80L9sVDIF"
-    ],
-    "group": [
-      "rec1ugpDp0pDY8B5n"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recAn9rnvPZ1QPgpM": {
-    "createdTime": "2019-01-23T08:40:48.000Z",
-    "id": "recAn9rnvPZ1QPgpM",
-    "(You can't directly edit this column)": "Jenny Li, AFX SOL Director",
-    "group": [
-      "recZdp9rMOaEl1Jr5"
-    ],
-    "person": [
-      "reclzXp3jh79lnbB0"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recftNKPTVlfyIEvn": {
-    "createdTime": "2019-01-23T08:40:59.000Z",
-    "id": "recftNKPTVlfyIEvn",
-    "(You can't directly edit this column)": "Mitchell Srimongkol, AFX SOL Director",
-    "person": [
-      "recxQm9h5yWlwcR63"
-    ],
-    "group": [
-      "recZdp9rMOaEl1Jr5"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recbqlVdlKLsTuPK1": {
-    "createdTime": "2019-01-23T08:41:06.000Z",
-    "id": "recbqlVdlKLsTuPK1",
-    "(You can't directly edit this column)": "Regina Ongowarsito, AFX SOL Director",
-    "person": [
-      "rec8Q97qlmJeDV3Zb"
-    ],
-    "group": [
-      "recZdp9rMOaEl1Jr5"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recqAOClbFCJ55owo": {
-    "createdTime": "2019-01-23T08:41:24.000Z",
-    "id": "recqAOClbFCJ55owo",
-    "(You can't directly edit this column)": "Chris Kim, AFX SoloQ Director",
-    "group": [
-      "rec919wbpiKahv624"
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyBBQviSqdnft8c": {
-    "createdTime": "2019-01-23T08:41:48.000Z",
-    "id": "recyBBQviSqdnft8c",
-    "(You can't directly edit this column)": "Jeffrey Kurohara, AFX Zero Director",
-    "group": [
-      "recO1Lw8WksNpencI"
-    ],
-    "person": [
-      "recQtqK3Wp447F4q7"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec2mAsLuuchlWcHn": {
-    "createdTime": "2019-01-23T08:42:06.000Z",
-    "id": "rec2mAsLuuchlWcHn",
-    "(You can't directly edit this column)": "Zoey Kenny, AFX Zero Director",
-    "person": [
-      "recXSiCVLPXdDO5g8"
-    ],
-    "group": [
-      "recO1Lw8WksNpencI"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBLHw7zLuyZc4Zg": {
-    "createdTime": "2019-01-23T08:42:35.000Z",
-    "id": "recBLHw7zLuyZc4Zg",
-    "(You can't directly edit this column)": "Sean Zhu, AFX Zero Director",
-    "group": [
-      "recO1Lw8WksNpencI"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ],
-    "person": [
-      "recxAxAFK4ULZWdyr"
-    ]
-  },
-  "recCQHDbZ8KdW1TB0": {
-    "createdTime": "2019-01-23T08:42:43.000Z",
-    "id": "recCQHDbZ8KdW1TB0",
-    "(You can't directly edit this column)": "Christian Cayton, AFX Christallan Director",
-    "group": [
-      "recj61UZTSuECP0t6"
-    ],
-    "person": [
-      "recMwcvipXM9qiwJJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recokRiCa40XjT8tH": {
-    "createdTime": "2019-01-23T08:43:24.000Z",
-    "id": "recokRiCa40XjT8tH",
-    "(You can't directly edit this column)": "Allan Zhao, AFX Christallan Director",
-    "person": [
-      "recVQcKN6hQgQH9zX"
-    ],
-    "group": [
-      "recj61UZTSuECP0t6"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec7Hmnw8b6hpLhsP": {
-    "createdTime": "2019-01-23T08:43:28.000Z",
-    "id": "rec7Hmnw8b6hpLhsP",
-    "(You can't directly edit this column)": "Genevieve Tran, AFX FTFO Director",
-    "group": [
-      "reccK9CEI8KHIjNqI"
-    ],
-    "person": [
-      "reczNFWgfdbLjCub6"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recxeWYT5wwGZ1jxJ": {
-    "createdTime": "2019-01-23T08:43:43.000Z",
-    "id": "recxeWYT5wwGZ1jxJ",
-    "(You can't directly edit this column)": "Mikaela Klein, AFX FTFO Director",
-    "person": [
-      "reclVNKAxBs3D00S5"
-    ],
-    "group": [
-      "reccK9CEI8KHIjNqI"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recsTkVvyHLF0Z0Hq": {
-    "createdTime": "2019-01-23T08:44:00.000Z",
-    "id": "recsTkVvyHLF0Z0Hq",
-    "(You can't directly edit this column)": "Jessica Yu, AFX FTFO Director",
-    "person": [
-      "recwtkyQYyYu7Qx4i"
-    ],
-    "group": [
-      "reccK9CEI8KHIjNqI"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recw0NtLZlq71ISmR": {
-    "createdTime": "2019-01-23T08:44:29.000Z",
-    "id": "recw0NtLZlq71ISmR",
-    "(You can't directly edit this column)": "Michael Chen, AFX 2AM Director",
-    "group": [
-      "recmxbea7C1BBFDLp"
-    ],
-    "person": [
-      "rec133LBDsx7IXwNn"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recCOhW0jh9YsdD6M": {
-    "createdTime": "2019-01-23T08:45:13.000Z",
-    "id": "recCOhW0jh9YsdD6M",
-    "(You can't directly edit this column)": "Amanda Chow, AFX 2AM Director",
-    "person": [
-      "recVm4BZ3jTOdVgz2"
-    ],
-    "group": [
-      "recmxbea7C1BBFDLp"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reco4qEdiSgJa57Iq": {
-    "createdTime": "2019-01-23T08:45:20.000Z",
-    "id": "reco4qEdiSgJa57Iq",
-    "(You can't directly edit this column)": "Brian Lam, AFX Bangzi Director",
-    "group": [
-      "recxcvsKUVdVMwwH2"
-    ],
-    "person": [
-      "rec3psATzLriQhitj"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recooATEwKCYBnAUa": {
-    "createdTime": "2019-01-23T08:45:37.000Z",
-    "id": "recooATEwKCYBnAUa",
-    "(You can't directly edit this column)": "Yangzi He, AFX Bangzi Director",
-    "person": [
-      "recDNBAQC3NwFP4s0"
-    ],
-    "group": [
-      "recxcvsKUVdVMwwH2"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec1HZHoLGdQLhZqj": {
-    "createdTime": "2019-01-23T08:45:43.000Z",
-    "id": "rec1HZHoLGdQLhZqj",
-    "(You can't directly edit this column)": "Arthur Liou, AFX CIA Director",
-    "group": [
-      "recWQ51TQMht31tXx"
-    ],
-    "person": [
-      "recbcCfd2aMzjtrro"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recaxisKlEkcXH5CR": {
-    "createdTime": "2019-01-23T08:45:49.000Z",
-    "id": "recaxisKlEkcXH5CR",
-    "(You can't directly edit this column)": "Chris Kim, AFX CIA Director",
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "group": [
-      "recWQ51TQMht31tXx"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recTtVK53vyTnkqQM": {
-    "createdTime": "2019-01-23T08:45:53.000Z",
-    "id": "recTtVK53vyTnkqQM",
-    "(You can't directly edit this column)": "Ingrid Hong, AFX CIA Director",
-    "person": [
-      "reck3YhyVFHzYvWyp"
-    ],
-    "group": [
-      "recWQ51TQMht31tXx"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec47QSX3FEI3IOUS": {
-    "createdTime": "2019-01-23T08:46:00.000Z",
-    "id": "rec47QSX3FEI3IOUS",
-    "(You can't directly edit this column)": "Michael Chen, AFX DAWN Director",
-    "group": [
-      "rec9ZMvxY0pFx4SJP"
-    ],
-    "person": [
-      "recvmimrks8m7hMNB"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZz165njKINk3zI": {
-    "createdTime": "2019-01-23T08:47:55.000Z",
-    "id": "recZz165njKINk3zI",
-    "(You can't directly edit this column)": "Queena Xu, AFX DAWN Director",
-    "person": [
-      "recm9GGNQwNn3Y0uG"
-    ],
-    "group": [
-      "rec9ZMvxY0pFx4SJP"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "receKSpUI0bKXLEtM": {
-    "createdTime": "2019-01-23T08:48:02.000Z",
-    "id": "receKSpUI0bKXLEtM",
-    "(You can't directly edit this column)": "Alex Kwon, AFX iKON Director",
-    "group": [
-      "recjOCoNs1GbR2Bq4"
-    ],
-    "person": [
-      "recCtpyZdi7eNSYLw"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec795ZVHOzQXXID2": {
-    "createdTime": "2019-01-23T08:48:11.000Z",
-    "id": "rec795ZVHOzQXXID2",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFX iKON Director",
-    "person": [
-      "recyuGtimgWQu1z1r"
-    ],
-    "group": [
-      "recjOCoNs1GbR2Bq4"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recuX4WN2Vo3DehfB": {
-    "createdTime": "2019-01-23T08:48:15.000Z",
-    "id": "recuX4WN2Vo3DehfB",
-    "(You can't directly edit this column)": "Keien Ohta, AFX iKON Director",
-    "person": [
-      "recS7tOOGL4jKxWES"
-    ],
-    "group": [
-      "recjOCoNs1GbR2Bq4"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec0xKgz6Wer2qKtX": {
-    "createdTime": "2019-01-23T08:48:22.000Z",
-    "id": "rec0xKgz6Wer2qKtX",
-    "(You can't directly edit this column)": "Jeffrey Kurohara, AFX JK Crew Director",
-    "group": [
-      "recTkNeHVUzN3bmtJ"
-    ],
-    "person": [
-      "recQtqK3Wp447F4q7"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccnnzBpK1AyICcC": {
-    "createdTime": "2019-01-23T08:48:32.000Z",
-    "id": "reccnnzBpK1AyICcC",
-    "(You can't directly edit this column)": "Jingting Wu, AFX JK Crew Director",
-    "person": [
-      "recY3sl2dCG9KGAT7"
-    ],
-    "group": [
-      "recTkNeHVUzN3bmtJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYu2tOs42p4XGLE": {
-    "createdTime": "2019-01-23T08:48:42.000Z",
-    "id": "recYu2tOs42p4XGLE",
-    "(You can't directly edit this column)": "Kevyn Niu, AFX JK Crew Director",
-    "person": [
-      "recOmLL2mZ7VvkjmY"
-    ],
-    "group": [
-      "recTkNeHVUzN3bmtJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recupsLparQjxVcLt": {
-    "createdTime": "2019-01-23T08:48:50.000Z",
-    "id": "recupsLparQjxVcLt",
-    "(You can't directly edit this column)": "Noah Kim, AFX NoProblem Director",
-    "group": [
-      "recfY6t1K5Sh39hj8"
-    ],
-    "person": [
-      "recoUieEa0cjfU9U2"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recXSGsagoBIgMFV1": {
-    "createdTime": "2019-01-23T08:49:10.000Z",
-    "id": "recXSGsagoBIgMFV1",
-    "(You can't directly edit this column)": "Paul Baik, AFX NoProblem Director",
-    "person": [
-      "rec5dF2uKIbQKg9mW"
-    ],
-    "group": [
-      "recfY6t1K5Sh39hj8"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recmTBay03ARrwYwm": {
-    "createdTime": "2019-01-23T08:49:15.000Z",
-    "id": "recmTBay03ARrwYwm",
-    "(You can't directly edit this column)": "Andrea Deng, AFX ASKII Director",
-    "group": [
-      "recmTznhu8LJQiMZA"
-    ],
-    "person": [
-      "recmMWJZAi4BnKpIc"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec0fhOiuDhPvkohZ": {
-    "createdTime": "2019-01-23T08:49:37.000Z",
-    "id": "rec0fhOiuDhPvkohZ",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFX ASKII Director",
-    "person": [
-      "rec3RLZl3eC9SXHwJ"
-    ],
-    "group": [
-      "recmTznhu8LJQiMZA"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recj6iZrKTyIOF0ED": {
-    "createdTime": "2019-01-23T08:49:41.000Z",
-    "id": "recj6iZrKTyIOF0ED",
-    "(You can't directly edit this column)": "Serena Chang, AFX ASKII Director",
-    "person": [
-      "recnu7oBVEPmq03vp"
-    ],
-    "group": [
-      "recmTznhu8LJQiMZA"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccwc62xpKuWljUd": {
-    "createdTime": "2019-01-23T08:49:45.000Z",
-    "id": "reccwc62xpKuWljUd",
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Jelly Director",
-    "group": [
-      "reconkBMRGiRxRfeN"
-    ],
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reckfJfQymudtsnLI": {
-    "createdTime": "2019-01-23T08:49:52.000Z",
-    "id": "reckfJfQymudtsnLI",
-    "(You can't directly edit this column)": "Nelson Chen, AFX Jelly Director",
-    "person": [
-      "recVYyxv8eiSHTrNH"
-    ],
-    "group": [
-      "reconkBMRGiRxRfeN"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recvbzMN5cpL1AOq5": {
-    "createdTime": "2019-01-23T08:49:57.000Z",
-    "id": "recvbzMN5cpL1AOq5",
-    "(You can't directly edit this column)": "Edward Fang, AFX LIT Director",
-    "group": [
-      "recRYZjFxEnNWMVMm"
-    ],
-    "person": [
-      "recjGRqqBNGiVC604"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recFXp8rzhPZjETKs": {
-    "createdTime": "2019-01-23T08:50:03.000Z",
-    "id": "recFXp8rzhPZjETKs",
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX LIT Director",
-    "person": [
-      "recn9QkB6vln1iqIG"
-    ],
-    "group": [
-      "recRYZjFxEnNWMVMm"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZ8esGyjFp2QqhB": {
-    "createdTime": "2019-01-23T08:50:08.000Z",
-    "id": "recZ8esGyjFp2QqhB",
-    "(You can't directly edit this column)": "Trisha Giron, AFX LIT Director",
-    "person": [
-      "recNxGjKy27HT3XML"
-    ],
-    "group": [
-      "recRYZjFxEnNWMVMm"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec66ocK4tWPfNtDW": {
-    "createdTime": "2019-01-23T08:50:11.000Z",
-    "id": "rec66ocK4tWPfNtDW",
-    "(You can't directly edit this column)": "Andrew Wang, AFX BMW Director",
-    "group": [
-      "recx1sbhyf2I8cdSo"
-    ],
-    "person": [
-      "rec4fvoJyKAQ1AsVD"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccxxKrMwN6WbrGI": {
-    "createdTime": "2019-01-23T08:50:35.000Z",
-    "id": "reccxxKrMwN6WbrGI",
-    "(You can't directly edit this column)": "Natalie Ma, AFX BMW Director",
-    "person": [
-      "rec64C1WdF2Amk1VV"
-    ],
-    "group": [
-      "recx1sbhyf2I8cdSo"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyk7Nm3WijVUq57": {
-    "createdTime": "2019-01-23T08:50:40.000Z",
-    "id": "recyk7Nm3WijVUq57",
-    "(You can't directly edit this column)": "Albert Weng, AFX $$ Library Director",
-    "group": [
-      "recmGzdylRKshL1l9"
-    ],
-    "person": [
-      "rec9ycYnjZ88dsU32"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recnoY9wnItyapJap": {
-    "createdTime": "2019-01-23T08:51:27.000Z",
-    "id": "recnoY9wnItyapJap",
-    "(You can't directly edit this column)": "Glen Zhou, AFX $$ Library Director",
-    "person": [
-      "recQPj8dfn0udEv5K"
-    ],
-    "group": [
-      "recmGzdylRKshL1l9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec1izG1tYPovom6i": {
-    "createdTime": "2019-01-23T08:51:43.000Z",
-    "id": "rec1izG1tYPovom6i",
-    "(You can't directly edit this column)": "Raymond Truong, AFX $$ Library Director",
-    "person": [
-      "recrLGpI3MihPjAXn"
-    ],
-    "group": [
-      "recmGzdylRKshL1l9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recainx4sDZDZGhiz": {
-    "createdTime": "2019-01-23T08:51:53.000Z",
-    "id": "recainx4sDZDZGhiz",
-    "(You can't directly edit this column)": "AC Dela Paz, AFX Cadanza Director",
-    "group": [
-      "recEY1Pqe6Svv7yy6"
-    ],
-    "person": [
-      "rec2nvAlUafPaALoo"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZpUzq2hWa3MoKI": {
-    "createdTime": "2019-01-23T08:51:58.000Z",
-    "id": "recZpUzq2hWa3MoKI",
-    "(You can't directly edit this column)": "Andy Vendrell, AFX Cadanza Director",
-    "person": [
-      "recyrDnDQgBygPkQK"
-    ],
-    "group": [
-      "recEY1Pqe6Svv7yy6"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec08P4Fziekn7nEN": {
-    "createdTime": "2019-01-23T08:52:05.000Z",
-    "id": "rec08P4Fziekn7nEN",
-    "(You can't directly edit this column)": "Lenell Ordanza, AFX Cadanza Director",
-    "person": [
-      "recc44dWSzgZKA2RW"
-    ],
-    "group": [
-      "recEY1Pqe6Svv7yy6"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recTZdjhGhkVQ2Xiz": {
-    "createdTime": "2019-01-23T08:52:10.000Z",
-    "id": "recTZdjhGhkVQ2Xiz",
-    "(You can't directly edit this column)": "Elissa Lee, AFX EQ Director",
-    "group": [
-      "reczzXpEnRpSu1MGb"
-    ],
-    "person": [
-      "rectyXeaflL5ML6II"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWqgGDe3AIQDII1": {
-    "createdTime": "2019-01-23T08:52:17.000Z",
-    "id": "recWqgGDe3AIQDII1",
-    "(You can't directly edit this column)": "Li Yu, AFX EQ Director",
-    "person": [
-      "recCcQw4yzV9EyHLK"
-    ],
-    "group": [
-      "reczzXpEnRpSu1MGb"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recqdNSGHQyUqgIWD": {
-    "createdTime": "2019-01-23T08:52:24.000Z",
-    "id": "recqdNSGHQyUqgIWD",
-    "(You can't directly edit this column)": "Tifa Shen, AFX EQ Director",
-    "person": [
-      "recB6lx5qZupqApWy"
-    ],
-    "group": [
-      "reczzXpEnRpSu1MGb"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec2FpH0eo29L9LFR": {
-    "createdTime": "2019-01-23T08:52:39.000Z",
-    "id": "rec2FpH0eo29L9LFR",
-    "(You can't directly edit this column)": "Simon Chen, AFX EQ Director",
-    "person": [
-      "reccl1uy2ajMiq1O2"
-    ],
-    "group": [
-      "reczzXpEnRpSu1MGb"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recGUTDB1Uctt8Q4x": {
-    "createdTime": "2019-01-23T08:52:55.000Z",
-    "id": "recGUTDB1Uctt8Q4x",
-    "(You can't directly edit this column)": "Haley Arganbright, AFX Hazie Director",
-    "group": [
-      "recqvVAp0UylCOWbh"
-    ],
-    "person": [
-      "recoV1V3TYXr1QcSl"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recImqGj8sEOj6Ox7": {
-    "createdTime": "2019-01-23T08:53:32.000Z",
-    "id": "recImqGj8sEOj6Ox7",
-    "(You can't directly edit this column)": "Susie Morales, AFX Hazie Director",
-    "person": [
-      "reclc67u4MT3byfuP"
-    ],
-    "group": [
-      "recqvVAp0UylCOWbh"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recKlWmVHM32G2Bgy": {
-    "createdTime": "2019-01-23T08:53:42.000Z",
-    "id": "recKlWmVHM32G2Bgy",
-    "(You can't directly edit this column)": "Jenny Chen, AFX JA! Director",
-    "group": [
-      "recWFnmpAsCMWmsmP"
-    ],
-    "person": [
-      "reccBSwkwjN6WIsfB"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recgmOV5dpR9F2oE4": {
-    "createdTime": "2019-01-23T08:54:05.000Z",
-    "id": "recgmOV5dpR9F2oE4",
-    "(You can't directly edit this column)": "Aileen Zhang, AFX JA! Director",
-    "person": [
-      "recyjhiPOWoth35P0"
-    ],
-    "group": [
-      "recWFnmpAsCMWmsmP"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec75D8kPvhwlXpfA": {
-    "createdTime": "2019-01-23T08:54:15.000Z",
-    "id": "rec75D8kPvhwlXpfA",
-    "(You can't directly edit this column)": "Wenhao Liao, AFX Wenevur Director",
-    "group": [
-      "rec4u3fK7tUhPyhh7"
-    ],
-    "person": [
-      "recb1hKgi5bRfTlH9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recnSXMkdzQYryDwY": {
-    "createdTime": "2019-01-23T08:55:13.000Z",
-    "id": "recnSXMkdzQYryDwY",
-    "(You can't directly edit this column)": "Genevieve Tran, AFX Wenevur Director",
-    "person": [
-      "reczNFWgfdbLjCub6"
-    ],
-    "group": [
-      "rec4u3fK7tUhPyhh7"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recqv8o2Z9vTbw3S5": {
-    "createdTime": "2019-01-23T08:55:16.000Z",
-    "id": "recqv8o2Z9vTbw3S5",
-    "(You can't directly edit this column)": "Arthur Liou, AFX Wenevur Director",
-    "person": [
-      "recbcCfd2aMzjtrro"
-    ],
-    "group": [
-      "rec4u3fK7tUhPyhh7"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZXOxCloWinQBWm": {
-    "createdTime": "2019-01-23T08:55:18.000Z",
-    "id": "recZXOxCloWinQBWm",
-    "(You can't directly edit this column)": "Ping Quach, AFX.jpg Director",
-    "group": [
-      "recrzLzveeEhbhDJZ"
-    ],
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recSSdBjzGt946dea": {
-    "createdTime": "2019-01-23T08:55:27.000Z",
-    "id": "recSSdBjzGt946dea",
-    "(You can't directly edit this column)": "Jaemin Kim, AFX.jpg Director",
-    "person": [
-      "rec4rqgME4ja2gNp7"
-    ],
-    "group": [
-      "recrzLzveeEhbhDJZ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recmtP7sfQi7Ziuqj": {
-    "createdTime": "2019-01-23T08:55:49.000Z",
-    "id": "recmtP7sfQi7Ziuqj",
-    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
-    "group": [
-      "recbySoDTBxJA0xiR"
-    ],
-    "person": [
-      "rec4wvItkd0rSu1w8"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recLBmMBZS3LaiA0N": {
-    "createdTime": "2019-01-23T08:55:57.000Z",
-    "id": "recLBmMBZS3LaiA0N",
-    "(You can't directly edit this column)": "Christina Melissa, AFX The Crew Director",
-    "person": [
-      "recwmwheRF2yAJqEv"
-    ],
-    "group": [
-      "recbySoDTBxJA0xiR"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec5eogmx6uLpKksW": {
-    "createdTime": "2019-01-23T08:56:04.000Z",
-    "id": "rec5eogmx6uLpKksW",
-    "(You can't directly edit this column)": "Catherine Ho, AFX CORE Director",
-    "group": [
-      "recHqabtPu20aZqoa"
-    ],
-    "person": [
-      "recV3gjQK9tysqXw1"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recAopPt86feRMdRk": {
-    "createdTime": "2019-01-23T08:56:50.000Z",
-    "id": "recAopPt86feRMdRk",
-    "(You can't directly edit this column)": "Edward Liu, AFX CORE Director",
-    "person": [
-      "recdtJEnMyxtyD6yQ"
-    ],
-    "group": [
-      "recHqabtPu20aZqoa"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recwwi2RLkqBq1wHs": {
-    "createdTime": "2019-01-23T08:57:00.000Z",
-    "id": "recwwi2RLkqBq1wHs",
-    "(You can't directly edit this column)": "Jessica Shen, AFX CORE Director",
-    "person": [
-      "recV6mEyCtcaHTHVw"
-    ],
-    "group": [
-      "recHqabtPu20aZqoa"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recw3K2TqCIUEkc7Z": {
-    "createdTime": "2019-01-23T08:57:05.000Z",
-    "id": "recw3K2TqCIUEkc7Z",
-    "(You can't directly edit this column)": "Julian Sarafian, AFX CORE Director",
-    "person": [
-      "recAoPcpu3xgw4lfx"
-    ],
-    "group": [
-      "recHqabtPu20aZqoa"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWOmEoFBfSH3sAn": {
-    "createdTime": "2019-01-23T08:57:18.000Z",
-    "id": "recWOmEoFBfSH3sAn",
-    "(You can't directly edit this column)": "Dan Ricciardelli, AFX ORiKi Director",
-    "group": [
-      "recqQW2W4yDgUc14t"
-    ],
-    "person": [
-      "recFHTImw5G3ebb3P"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYsmvxBX4ZQSeAK": {
-    "createdTime": "2019-01-23T08:57:27.000Z",
-    "id": "recYsmvxBX4ZQSeAK",
-    "(You can't directly edit this column)": "Katrina Oshima, AFX ORiKi Director",
-    "person": [
-      "recD6ol6FmNngbj9C"
-    ],
-    "group": [
-      "recqQW2W4yDgUc14t"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rechOIkE9IelO6ns1": {
-    "createdTime": "2019-01-23T08:57:29.000Z",
-    "id": "rechOIkE9IelO6ns1",
-    "(You can't directly edit this column)": "Yesuk Kim, AFX ORiKi Director",
-    "person": [
-      "recZrg3jXnfqWFOs8"
-    ],
-    "group": [
-      "recqQW2W4yDgUc14t"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recTR04pEHL6IERot": {
-    "createdTime": "2019-01-23T08:57:41.000Z",
-    "id": "recTR04pEHL6IERot",
-    "(You can't directly edit this column)": "Arthur Liou, AFX Rawrthur Director",
-    "group": [
-      "recrkeWqUQXCnEhmS"
-    ],
-    "person": [
-      "recbcCfd2aMzjtrro"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyiyuRRND5Fq27W": {
-    "createdTime": "2019-01-23T08:57:47.000Z",
-    "id": "recyiyuRRND5Fq27W",
-    "(You can't directly edit this column)": "Rachel Wu, AFX Rawrthur Director",
-    "person": [
-      "recvJNPS3en8aT5mG"
-    ],
-    "group": [
-      "recrkeWqUQXCnEhmS"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recW4rZuCQuVplGHp": {
-    "createdTime": "2019-01-23T08:58:08.000Z",
-    "id": "recW4rZuCQuVplGHp",
-    "(You can't directly edit this column)": "Joseph Beltran, AFX Ray J Director",
-    "group": [
-      "recHJjowPtJTYf7Yz"
-    ],
-    "person": [
-      "reczJvK2iDUHTxNQn"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recQCeO4WpUHp8XtR": {
-    "createdTime": "2019-01-23T08:58:26.000Z",
-    "id": "recQCeO4WpUHp8XtR",
-    "(You can't directly edit this column)": "Raymond Truong, AFX Ray J Director",
-    "person": [
-      "recrLGpI3MihPjAXn"
-    ],
-    "group": [
-      "recHJjowPtJTYf7Yz"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recivtfQKQEnduwoo": {
-    "createdTime": "2019-01-23T08:58:31.000Z",
-    "id": "recivtfQKQEnduwoo",
-    "(You can't directly edit this column)": "Phillip Chen, AFX Sandwich Director",
-    "group": [
-      "recKEKBMLeBbaNW7V"
-    ],
-    "person": [
-      "reca3cP6MoC29Qpqt"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recnZbOSI6CgE7AXq": {
-    "createdTime": "2019-01-23T08:58:46.000Z",
-    "id": "recnZbOSI6CgE7AXq",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFX Sandwich Director",
-    "person": [
-      "rectcm65MFSWkghJQ"
-    ],
-    "group": [
-      "recKEKBMLeBbaNW7V"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recz00fY9ttm9cTwt": {
-    "createdTime": "2019-01-23T08:58:56.000Z",
-    "id": "recz00fY9ttm9cTwt",
-    "(You can't directly edit this column)": "Sam Kim, AFX Sandwich Director",
-    "person": [
-      "rec7fjkh186JIw19W"
-    ],
-    "group": [
-      "recKEKBMLeBbaNW7V"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recldfWnRyS6oFVWZ": {
-    "createdTime": "2019-01-23T08:58:59.000Z",
-    "id": "recldfWnRyS6oFVWZ",
-    "(You can't directly edit this column)": "Kristen Shimoda, AFX SK Modern Director",
-    "group": [
-      "recyWoEbkZL4aK0JO"
-    ],
-    "person": [
-      "recIl9U3FDUzztIzq"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recOOURdIhNzMputd": {
-    "createdTime": "2019-01-23T08:59:14.000Z",
-    "id": "recOOURdIhNzMputd",
-    "(You can't directly edit this column)": "Sierra Feasel, AFX SK Modern Director",
-    "person": [
-      "recL6ukxI9XWv5RQx"
-    ],
-    "group": [
-      "recyWoEbkZL4aK0JO"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyMjzFUvgbthtZs": {
-    "createdTime": "2019-01-23T08:59:21.000Z",
-    "id": "recyMjzFUvgbthtZs",
-    "(You can't directly edit this column)": "Neil Xia, AFX XOK Director",
-    "group": [
-      "reckgPXNmPxGEU0sO"
-    ],
-    "person": [
-      "reczWUDfU2NemTT6H"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recujWACXRAsVWyuI": {
-    "createdTime": "2019-01-23T08:59:42.000Z",
-    "id": "recujWACXRAsVWyuI",
-    "(You can't directly edit this column)": "Keien Ohta, AFX XOK Director",
-    "person": [
-      "recS7tOOGL4jKxWES"
-    ],
-    "group": [
-      "reckgPXNmPxGEU0sO"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZGlXCmLRgC0vSm": {
-    "createdTime": "2019-01-23T08:59:46.000Z",
-    "id": "recZGlXCmLRgC0vSm",
-    "(You can't directly edit this column)": "Chris Kim, AFX XOK Director",
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "group": [
-      "reckgPXNmPxGEU0sO"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccf6VAD3KDImN4E": {
-    "createdTime": "2019-01-23T09:00:15.000Z",
-    "id": "reccf6VAD3KDImN4E",
-    "(You can't directly edit this column)": "Shawn Han, AFX Han Solo Director",
-    "group": [
-      "recLSvOyDcwTf9G7c"
-    ],
-    "person": [
-      "reciBJu4qsJ1a1S0u"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccFJojUkSdwmxHU": {
-    "createdTime": "2019-01-23T09:00:25.000Z",
-    "id": "reccFJojUkSdwmxHU",
-    "(You can't directly edit this column)": "Felix Li, AFX Kelix Director",
-    "group": [
-      "reccuoGPAleMQ0ToU"
-    ],
-    "person": [
-      "recOWrlg8MLtI8Py2"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recemowZpG6VY4nCf": {
-    "createdTime": "2019-01-23T09:01:42.000Z",
-    "id": "recemowZpG6VY4nCf",
-    "(You can't directly edit this column)": "Kevin Song, AFX Kelix Director",
-    "person": [
-      "recuDgEKZRTQy2RP4"
-    ],
-    "group": [
-      "reccuoGPAleMQ0ToU"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec24nlgQrd4tqRnx": {
-    "createdTime": "2019-01-23T09:01:48.000Z",
-    "id": "rec24nlgQrd4tqRnx",
-    "(You can't directly edit this column)": "Poe Charukesnant, AFX Spork Director",
-    "group": [
-      "reclT38qMHDMCS0UJ"
-    ],
-    "person": [
-      "recj5TJVJQM4DqK6C"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recjUy5Zc9pLPSfHW": {
-    "createdTime": "2019-01-23T09:02:20.000Z",
-    "id": "recjUy5Zc9pLPSfHW",
-    "(You can't directly edit this column)": "Jeanie Jung, AFX Spork Director",
-    "person": [
-      "rece4XUb0OgpT7AQB"
-    ],
-    "group": [
-      "reclT38qMHDMCS0UJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rectYPeSmDUfITCIz": {
-    "createdTime": "2019-01-23T09:02:31.000Z",
-    "id": "rectYPeSmDUfITCIz",
-    "(You can't directly edit this column)": "Mikaela Klein, AFX Spork Director",
-    "person": [
-      "reclVNKAxBs3D00S5"
-    ],
-    "group": [
-      "reclT38qMHDMCS0UJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recD3mJVYrGoCP198": {
-    "createdTime": "2019-01-23T09:02:33.000Z",
-    "id": "recD3mJVYrGoCP198",
-    "(You can't directly edit this column)": "Che Yeon Hyun, AFX Hyphen Director",
-    "group": [
-      "rec3tdZ3T0Dx3MQAg"
-    ],
-    "person": [
-      "recJ19fhtI8ksFlx9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZfwHTo86cKCgXk": {
-    "createdTime": "2019-01-23T09:02:59.000Z",
-    "id": "recZfwHTo86cKCgXk",
-    "(You can't directly edit this column)": "Stephen Pon, AFX Hyphen Director",
-    "person": [
-      "recBIezOE8vYLFQWo"
-    ],
-    "group": [
-      "rec3tdZ3T0Dx3MQAg"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZZdPEKofmImLYj": {
-    "createdTime": "2019-01-23T09:03:11.000Z",
-    "id": "recZZdPEKofmImLYj",
-    "(You can't directly edit this column)": "Krissy Austin, AFX Kriselle Director",
-    "group": [
-      "rec9MWNgbORpsNcE8"
-    ],
-    "person": [
-      "recJZ9nlz1gIrb87c"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recyCb2TBeFlxLdbi": {
-    "createdTime": "2019-01-23T09:03:11.000Z",
-    "id": "recyCb2TBeFlxLdbi",
-    "(You can't directly edit this column)": "Chris Kim, AFX Pusheen Director",
-    "group": [
-      "recPirtCISJXDTV4w"
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recgtZZJ4dn7dawga": {
-    "createdTime": "2019-01-23T09:03:22.000Z",
-    "id": "recgtZZJ4dn7dawga",
-    "(You can't directly edit this column)": "Michelle Li, AFX Kriselle Director",
-    "person": [
-      "recuB6j27df5H1aBq"
-    ],
-    "group": [
-      "rec9MWNgbORpsNcE8"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec1URY9FpGdCqYTd": {
-    "createdTime": "2019-01-23T09:04:31.000Z",
-    "id": "rec1URY9FpGdCqYTd",
-    "(You can't directly edit this column)": "Alyssa Jolene, AFX Pusheen Director",
-    "person": [
-      "rechJ87TWAyGyqo7D"
-    ],
-    "group": [
-      "recPirtCISJXDTV4w"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recx7yKlyuabT5f5M": {
-    "createdTime": "2019-01-23T09:04:34.000Z",
-    "id": "recx7yKlyuabT5f5M",
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Pusheen Director",
-    "person": [
-      "recqZKVLh9MwwoRfn"
-    ],
-    "group": [
-      "recPirtCISJXDTV4w"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recI1TUGPjSqDG6p9": {
-    "createdTime": "2019-01-23T09:04:38.000Z",
-    "id": "recI1TUGPjSqDG6p9",
-    "(You can't directly edit this column)": "Alice Lee, AFX RBFs Director",
-    "group": [
-      "recTFZCC0WkOZ62Wh"
-    ],
-    "person": [
-      "recWzPqCuU8d0RdCK"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recjuDiGi95oFuVne": {
-    "createdTime": "2019-01-23T09:04:52.000Z",
-    "id": "recjuDiGi95oFuVne",
-    "(You can't directly edit this column)": "Michelle Huang, AFX RBFs Director",
-    "person": [
-      "recVat4NkEwrbqvCQ"
-    ],
-    "group": [
-      "recTFZCC0WkOZ62Wh"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec18sVyksgWqAHqQ": {
-    "createdTime": "2019-01-23T09:04:57.000Z",
-    "id": "rec18sVyksgWqAHqQ",
-    "(You can't directly edit this column)": "Amanda Calvo, AFX RBFs Director",
-    "person": [
-      "recP4m0P3NgXgSGgg"
-    ],
-    "group": [
-      "recTFZCC0WkOZ62Wh"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recjXsC2HeeuUPGym": {
-    "createdTime": "2019-01-23T09:05:05.000Z",
-    "id": "recjXsC2HeeuUPGym",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFX Rybread Director",
-    "group": [
-      "rectbeEtWB1NJHFhl"
-    ],
-    "person": [
-      "rectcm65MFSWkghJQ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recgBxqF8cMWUZudd": {
-    "createdTime": "2019-01-23T09:05:17.000Z",
-    "id": "recgBxqF8cMWUZudd",
-    "(You can't directly edit this column)": "Brian Lam, AFX Triple T Director",
-    "group": [
-      "recpcyRmEzskH9FWc"
-    ],
-    "person": [
-      "rec3psATzLriQhitj"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recmHFXlhx5Vo14Ri": {
-    "createdTime": "2019-01-23T09:05:23.000Z",
-    "id": "recmHFXlhx5Vo14Ri",
-    "(You can't directly edit this column)": "Bowen Jiang, AFX Triple T Director",
-    "person": [
-      "recq8RkqBw6zQbC7z"
-    ],
-    "group": [
-      "recpcyRmEzskH9FWc"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recioPihw7rvU8LzL": {
-    "createdTime": "2019-01-23T09:05:29.000Z",
-    "id": "recioPihw7rvU8LzL",
-    "(You can't directly edit this column)": "Felix Li, AFX Triple T Director",
-    "person": [
-      "recOWrlg8MLtI8Py2"
-    ],
-    "group": [
-      "recpcyRmEzskH9FWc"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec9XBnsE2ILD2YrO": {
-    "createdTime": "2019-01-23T09:05:45.000Z",
-    "id": "rec9XBnsE2ILD2YrO",
-    "(You can't directly edit this column)": "Christian Cayton, AFX C2 Director",
-    "group": [
-      "recF4yQ7IPp6e9dXn"
-    ],
-    "person": [
-      "recMwcvipXM9qiwJJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recrviESvy0iRYk3G": {
-    "createdTime": "2019-01-23T09:05:56.000Z",
-    "id": "recrviESvy0iRYk3G",
-    "(You can't directly edit this column)": "Chris Lee, AFX C2 Director",
-    "person": [
-      "recNQnSSq1R8SBkoa"
-    ],
-    "group": [
-      "recF4yQ7IPp6e9dXn"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec4FDB3ipqyD4DAq": {
-    "createdTime": "2019-01-23T09:06:43.000Z",
-    "id": "rec4FDB3ipqyD4DAq",
-    "(You can't directly edit this column)": "Natalie Ma, AFX ESPR Director",
-    "group": [
-      "recOnVahXzC7kYXXp"
-    ],
-    "person": [
-      "rec64C1WdF2Amk1VV"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWOfrlZUWgpmzsj": {
-    "createdTime": "2019-01-23T09:06:56.000Z",
-    "id": "recWOfrlZUWgpmzsj",
-    "(You can't directly edit this column)": "Sky Nite, AFX ESPR Director",
-    "person": [
-      "recqqDXnLWyYJwYio"
-    ],
-    "group": [
-      "recOnVahXzC7kYXXp"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recawk3BnqEty5jE5": {
-    "createdTime": "2019-01-23T09:07:10.000Z",
-    "id": "recawk3BnqEty5jE5",
-    "(You can't directly edit this column)": "Audrey Wu, AFX ACE Director",
-    "group": [
-      "recCwYBuoC4d3UBVf"
-    ],
-    "person": [
-      "recnTpSTLfF4Hu3aM"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recQOklOo0slbtd5Y": {
-    "createdTime": "2019-01-23T09:07:34.000Z",
-    "id": "recQOklOo0slbtd5Y",
-    "(You can't directly edit this column)": "Cathy Yang, AFX ACE Director",
-    "person": [
-      "recrROhFCZ4KFxjAW"
-    ],
-    "group": [
-      "recCwYBuoC4d3UBVf"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recsCe8y1yuojsYWu": {
-    "createdTime": "2019-01-23T09:07:38.000Z",
-    "id": "recsCe8y1yuojsYWu",
-    "(You can't directly edit this column)": "Ella Wang, AFX ACE Director",
-    "person": [
-      "recbC7WmKkTVE3W2Q"
-    ],
-    "group": [
-      "recCwYBuoC4d3UBVf"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recXYNcEF0oqhlYeP": {
-    "createdTime": "2019-01-23T09:07:50.000Z",
-    "id": "recXYNcEF0oqhlYeP",
-    "(You can't directly edit this column)": "Christian Cayton, AFX Christallan Director",
-    "group": [
-      "recI9zyyYVj7U5SBn"
-    ],
-    "person": [
-      "recMwcvipXM9qiwJJ"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec3NPKQ1DBthVIvf": {
-    "createdTime": "2019-01-23T09:08:10.000Z",
-    "id": "rec3NPKQ1DBthVIvf",
-    "(You can't directly edit this column)": "Allan Zhao, AFX Christallan Director",
-    "person": [
-      "recVQcKN6hQgQH9zX"
-    ],
-    "group": [
-      "recI9zyyYVj7U5SBn"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recHZ7oBfbP3ZazKD": {
-    "createdTime": "2019-01-23T09:08:12.000Z",
-    "id": "recHZ7oBfbP3ZazKD",
-    "(You can't directly edit this column)": "Alex Tang, AFX Empire Hearts Director",
-    "group": [
-      "recTp0TOj7NCVeDQp"
-    ],
-    "person": [
-      "rec1f93ALW5SsVGI9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec83L7rGfysXiwe4": {
-    "createdTime": "2019-01-23T09:08:19.000Z",
-    "id": "rec83L7rGfysXiwe4",
-    "(You can't directly edit this column)": "Chloe Lim, AFX Empire Hearts Director",
-    "person": [
-      "recSgFCUTKNbfOcE4"
-    ],
-    "group": [
-      "recTp0TOj7NCVeDQp"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recU5LO2Y6SCSP5s6": {
-    "createdTime": "2019-01-23T09:08:24.000Z",
-    "id": "recU5LO2Y6SCSP5s6",
-    "(You can't directly edit this column)": "Joseph Koo, AFX Jokayne Director",
-    "group": [
-      "rec85mDKYhDXcHY7h"
-    ],
-    "person": [
-      "recZ4bppVkukHelyx"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recl3uqtIPPHNNFor": {
-    "createdTime": "2019-01-23T09:08:39.000Z",
-    "id": "recl3uqtIPPHNNFor",
-    "(You can't directly edit this column)": "Kyle Feng, AFX Jokayne Director",
-    "person": [
-      "recxDe7YiXOYFR2ZB"
-    ],
-    "group": [
-      "rec85mDKYhDXcHY7h"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recJhTEJYJRSjYdxW": {
-    "createdTime": "2019-01-23T09:08:43.000Z",
-    "id": "recJhTEJYJRSjYdxW",
-    "(You can't directly edit this column)": "Wayne Zhong, AFX Jokayne Director",
-    "person": [
-      "recE3qCxpiAekTzGM"
-    ],
-    "group": [
-      "rec85mDKYhDXcHY7h"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recSkG4AalO1lIZHQ": {
-    "createdTime": "2019-01-23T09:08:51.000Z",
-    "id": "recSkG4AalO1lIZHQ",
-    "(You can't directly edit this column)": "Felix Li, AFX Kelix Director",
-    "group": [
-      "recCvlKgKNpcMfw5i"
-    ],
-    "person": [
-      "recOWrlg8MLtI8Py2"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWtijlVXUHehRjZ": {
-    "createdTime": "2019-01-23T09:10:59.000Z",
-    "id": "recWtijlVXUHehRjZ",
-    "(You can't directly edit this column)": "Kevin Song, AFX Kelix Director",
-    "person": [
-      "recuDgEKZRTQy2RP4"
-    ],
-    "group": [
-      "recCvlKgKNpcMfw5i"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "reciymkEMLOU1t7sG": {
-    "createdTime": "2019-01-23T09:11:01.000Z",
-    "id": "reciymkEMLOU1t7sG",
-    "(You can't directly edit this column)": "Stephen Pon, AFX LePon Director",
-    "group": [
-      "recO91b2wy6XN4g0J"
-    ],
-    "person": [
-      "recBIezOE8vYLFQWo"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recmUDgbC3uNf673M": {
-    "createdTime": "2019-01-23T09:11:06.000Z",
-    "id": "recmUDgbC3uNf673M",
-    "(You can't directly edit this column)": "Nathan Lee, AFX LePon Director",
-    "person": [
-      "recQJky3Rrh2rfMVY"
-    ],
-    "group": [
-      "recO91b2wy6XN4g0J"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recikhUt28QUmjeRg": {
-    "createdTime": "2019-01-23T09:11:11.000Z",
-    "id": "recikhUt28QUmjeRg",
-    "(You can't directly edit this column)": "Rose Liu, AFX Roselli Director",
-    "group": [
-      "rectC2LirGhN0EAgz"
-    ],
-    "person": [
-      "recwOSsrMv9Cq1PHs"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recJgktWrZdA5HYnB": {
-    "createdTime": "2019-01-23T09:11:22.000Z",
-    "id": "recJgktWrZdA5HYnB",
-    "(You can't directly edit this column)": "Elli Haugen, AFX Roselli Director",
-    "person": [
-      "reclCRAzsGQV4Gddq"
-    ],
-    "group": [
-      "rectC2LirGhN0EAgz"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recScFTZrcPPDaWtz": {
-    "createdTime": "2019-01-23T09:11:29.000Z",
-    "id": "recScFTZrcPPDaWtz",
-    "(You can't directly edit this column)": "Aileen Zhang, AFX The Crew Director",
-    "group": [
-      "recrlyY7O3XM43HG9"
-    ],
-    "person": [
-      "recyjhiPOWoth35P0"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZ6VLdQDNiWuCrY": {
-    "createdTime": "2019-01-23T09:11:40.000Z",
-    "id": "recZ6VLdQDNiWuCrY",
-    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
-    "person": [
-      "rec4wvItkd0rSu1w8"
-    ],
-    "group": [
-      "recrlyY7O3XM43HG9"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recd2OuBeOaXf6SSX": {
-    "createdTime": "2019-01-23T09:11:42.000Z",
-    "id": "recd2OuBeOaXf6SSX",
-    "(You can't directly edit this column)": "Daniel He, AFX Dandrew Director",
-    "group": [
-      "recYrzpMstDdoQ9fv"
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec5oZ5Lk7ecUGGhL": {
-    "createdTime": "2019-01-23T09:11:50.000Z",
-    "id": "rec5oZ5Lk7ecUGGhL",
-    "(You can't directly edit this column)": "Andrew Lee, AFX Dandrew Director",
-    "person": [
-      "recBPtE9xYnXjdgb4"
-    ],
-    "group": [
-      "recYrzpMstDdoQ9fv"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recPPnKy4M1GAwVJS": {
-    "createdTime": "2019-01-23T09:11:54.000Z",
-    "id": "recPPnKy4M1GAwVJS",
-    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
-    "group": [
-      "recDlM5I54yBFMaFU"
-    ],
+  "recoKxV2bk6pdT1Pk": {
+    "createdTime": "2019-01-23T09:29:14.000Z",
+    "id": "recoKxV2bk6pdT1Pk",
+    "(You can't directly edit this column)": "Aloysius Makalinao, AFXTRM ",
     "person": [
-      "rec4wvItkd0rSu1w8"
+      "recKhL3n61NCyDpK3"
     ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recIk8eJAMKCNJq7M": {
-    "createdTime": "2019-01-23T09:12:14.000Z",
-    "id": "recIk8eJAMKCNJq7M",
-    "(You can't directly edit this column)": "Felix Li, AFX Kelix Director",
-    "group": [
-      "recZYfUHmHt1ksKh0"
-    ],
-    "person": [
-      "recOWrlg8MLtI8Py2"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBRzg1nQRrAaScm": {
-    "createdTime": "2019-01-23T09:12:26.000Z",
-    "id": "recBRzg1nQRrAaScm",
-    "(You can't directly edit this column)": "Kevin Song, AFX Kelix Director",
-    "person": [
-      "recuDgEKZRTQy2RP4"
-    ],
-    "group": [
-      "recZYfUHmHt1ksKh0"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recTIIv90HDZjQgne": {
-    "createdTime": "2019-01-23T09:12:27.000Z",
-    "id": "recTIIv90HDZjQgne",
-    "(You can't directly edit this column)": "Daniel He, AFX MadHouse U Director",
-    "group": [
-      "recifKY7DcH1RxaMP"
-    ],
-    "person": [
-      "recfLsiC7955V83ri"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recIJmkmRf5CFMJOX": {
-    "createdTime": "2019-01-23T09:12:35.000Z",
-    "id": "recIJmkmRf5CFMJOX",
-    "(You can't directly edit this column)": "Eric Kim, AFX MadHouse U Director",
-    "person": [
-      "recp0NmQKxjcdlu8w"
-    ],
-    "group": [
-      "recifKY7DcH1RxaMP"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recj70p48W8ZQSSPj": {
-    "createdTime": "2019-01-23T09:12:39.000Z",
-    "id": "recj70p48W8ZQSSPj",
-    "(You can't directly edit this column)": "Jenny Chen, AFX Sunny Director",
     "group": [
-      "rec6BXmACvsC1lo0O"
-    ],
-    "person": [
-      "reccBSwkwjN6WIsfB"
+      "rec0CkXoH2GWsRqI9"
     ],
-    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recJh5rb6oAp8EAHY": {
-    "createdTime": "2019-01-23T09:12:47.000Z",
-    "id": "recJh5rb6oAp8EAHY",
-    "(You can't directly edit this column)": "Surmayee Tetarbe, AFX Sunny Director",
+  "recbTh9069guX5GSd": {
+    "createdTime": "2019-01-23T09:30:03.000Z",
+    "id": "recbTh9069guX5GSd",
+    "(You can't directly edit this column)": "Miguel Francisco, AFXTRM ",
     "person": [
-      "recv47ketfwyrgVAn"
+      "rec3nLDI7cIWqW4WX"
     ],
-    "group": [
-      "rec6BXmACvsC1lo0O"
-    ],
-    "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recqA78oJaWoFlv8t": {
-    "createdTime": "2019-01-23T09:13:09.000Z",
-    "id": "recqA78oJaWoFlv8t",
-    "(You can't directly edit this column)": "Felix Li, AFX The Projects Director",
     "group": [
-      "recdWaEaTltCKbrFW"
-    ],
-    "person": [
-      "recOWrlg8MLtI8Py2"
+      "rec0CkXoH2GWsRqI9"
     ],
-    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recAACzGXUpL5q9bD": {
-    "createdTime": "2019-01-23T09:13:27.000Z",
-    "id": "recAACzGXUpL5q9bD",
-    "(You can't directly edit this column)": "Peter Joo, AFX The Projects Director",
+  "recWSUiRJu5R8tjas": {
+    "createdTime": "2019-01-23T09:30:09.000Z",
+    "id": "recWSUiRJu5R8tjas",
+    "(You can't directly edit this column)": "Vienna Harvey, AFXTRM ",
     "person": [
-      "recDIsGqeSw8ITxfc"
+      "recKEtpg4RpNSO3kN"
     ],
     "group": [
-      "recdWaEaTltCKbrFW"
+      "rec0CkXoH2GWsRqI9"
     ],
-    "positionTitle": "Director",
     "groupType": [
       "team"
     ]
   },
-  "recSiyfXj7YKorw9Z": {
-    "createdTime": "2019-01-23T09:13:36.000Z",
-    "id": "recSiyfXj7YKorw9Z",
-    "(You can't directly edit this column)": "Ping Quach, AFX The Projects Director",
-    "person": [
-      "recGYjEvMRqWuQabn"
-    ],
+  "reciTQZrpjz6GPY0E": {
+    "createdTime": "2018-12-01T19:02:43.000Z",
+    "id": "reciTQZrpjz6GPY0E",
     "group": [
-      "recdWaEaTltCKbrFW"
+      "recvYtPBSrT8l3Oel"
     ],
     "positionTitle": "Director",
-    "groupType": [
-      "team"
-    ]
-  },
-  "recSK898dj7khZdYW": {
-    "createdTime": "2019-01-23T09:13:40.000Z",
-    "id": "recSK898dj7khZdYW",
-    "(You can't directly edit this column)": "Andrew Lee, AFX Rosandré Director",
-    "group": [
-      "recagqbNsnSE97SSL"
+    "picture": [
+      {
+        "id": "attaicv7IFKtFX3ML",
+        "url": "https://dl.airtable.com/5lMlQk96RpO4ClETwlBg_Copy%20of%20JULIE%20LIU.jpg",
+        "filename": "Copy of JULIE LIU.jpg",
+        "size": 187109,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/Q4CuOsAhTa2bmOOR32H1_small_Copy%20of%20JULIE%20LIU.jpg",
+            "width": 46,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/VWpqA7hoRYqTfgkabIM2_large_Copy%20of%20JULIE%20LIU.jpg",
+            "width": 660,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/OcJBUJBzRVWlfmnCEnHP_full_Copy%20of%20JULIE%20LIU.jpg",
+            "width": 1237,
+            "height": 960
+          }
+        }
+      }
     ],
     "person": [
-      "recBPtE9xYnXjdgb4"
+      "recWXNq71YJeR9DzG"
     ],
-    "positionTitle": "Director",
+    "(You can't directly edit this column)": "Julie Liu , AFXXX Director",
     "groupType": [
       "team"
     ]
   },
-  "recYN87Md9apn7kDs": {
-    "createdTime": "2019-01-23T09:14:10.000Z",
-    "id": "recYN87Md9apn7kDs",
-    "(You can't directly edit this column)": "Rose Liu, AFX Rosandré Director",
-    "person": [
-      "recwOSsrMv9Cq1PHs"
-    ],
+  "recvJU1WJLwEMjjp9": {
+    "createdTime": "2018-12-01T19:03:00.000Z",
+    "id": "recvJU1WJLwEMjjp9",
     "group": [
-      "recagqbNsnSE97SSL"
+      "recvYtPBSrT8l3Oel"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att9fgWfFTFNpiOPL",
+        "url": "https://dl.airtable.com/EEzreGlJTIWySEYD3nh8_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+        "filename": "Copy of KATHERINE BIGELOW (1).jpg",
+        "size": 60885,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/fSghR8JFQCUyaY7HlwRC_small_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/5fcfs91eRySXJ9sDHT9Z_large_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+            "width": 516,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/qKJmnK7TaKKWuBXQJB1j_full_Copy%20of%20KATHERINE%20BIGELOW%20(1).jpg",
+            "width": 640,
+            "height": 635
+          }
+        }
+      }
+    ],
+    "person": [
+      "recSfTGr4IXt0DH41"
+    ],
+    "(You can't directly edit this column)": "Katherine Bigelow, AFXXX Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recwMSrRTOGB90NW7": {
+    "createdTime": "2018-12-01T19:03:05.000Z",
+    "id": "recwMSrRTOGB90NW7",
+    "group": [
+      "recvYtPBSrT8l3Oel"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attLuwnxfQyfeTIXc",
+        "url": "https://dl.airtable.com/1uENnGCITIKDsiX8zLjQ_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+        "filename": "Copy of BRANDON PARK COY.jpg",
+        "size": 107229,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/1I6xPuTQQ7aGfIgHsBNj_small_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/QtJoRIfTYKvyVdq242Qy_large_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+            "width": 623,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/zMtzeTLSR6iNCkRBKPzc_full_Copy%20of%20BRANDON%20PARK%20COY.jpg",
+            "width": 1041,
+            "height": 856
+          }
+        }
+      }
+    ],
+    "person": [
+      "recYmFqa9v3or2Cp3"
+    ],
+    "(You can't directly edit this column)": "Brandon Park Coy, AFXXX Director",
     "groupType": [
       "team"
     ]
@@ -22328,2410 +24729,6 @@ export let PersonPositions = {
     "positionTitle": "Director",
     "groupType": [
       "team"
-    ]
-  },
-  "recPyCFOniZIOUHBr": {
-    "createdTime": "2019-01-23T09:21:29.000Z",
-    "id": "recPyCFOniZIOUHBr",
-    "(You can't directly edit this column)": "Joseph Koo, AFXsi Jokayne ",
-    "group": [
-      "recVFwKwKUXRf3UVn"
-    ],
-    "person": [
-      "recZ4bppVkukHelyx"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recadRqDVmqS8fAXb": {
-    "createdTime": "2019-01-23T09:23:40.000Z",
-    "id": "recadRqDVmqS8fAXb",
-    "(You can't directly edit this column)": "Kyle Feng, AFXsi Jokayne ",
-    "person": [
-      "recxDe7YiXOYFR2ZB"
-    ],
-    "group": [
-      "recVFwKwKUXRf3UVn"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recPizxfeNVrfh56F": {
-    "createdTime": "2019-01-23T09:23:40.000Z",
-    "id": "recPizxfeNVrfh56F",
-    "(You can't directly edit this column)": "Wayne Zhong, AFXsi Jokayne ",
-    "person": [
-      "recE3qCxpiAekTzGM"
-    ],
-    "group": [
-      "recVFwKwKUXRf3UVn"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recnr7Nkz4t1x0ycE": {
-    "createdTime": "2019-01-23T09:23:43.000Z",
-    "id": "recnr7Nkz4t1x0ycE",
-    "(You can't directly edit this column)": "Natalie Ma, AFXsi Majiang ",
-    "group": [
-      "recOsz2yPhsrLgtpo"
-    ],
-    "person": [
-      "rec64C1WdF2Amk1VV"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recGG94oULenVEgaJ": {
-    "createdTime": "2019-01-23T09:23:51.000Z",
-    "id": "recGG94oULenVEgaJ",
-    "(You can't directly edit this column)": "Teresa Jiang, AFXsi Majiang ",
-    "person": [
-      "recNiTzcOCP8N4x8y"
-    ],
-    "group": [
-      "recOsz2yPhsrLgtpo"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recarIRB5fVvYK0Bd": {
-    "createdTime": "2019-01-23T09:24:03.000Z",
-    "id": "recarIRB5fVvYK0Bd",
-    "(You can't directly edit this column)": "Anita Chan, AFXsi SAN ",
-    "group": [
-      "recUrnBvsEJATCt1Q"
-    ],
-    "person": [
-      "recvERRBhdveDzyAH"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recNsn8aA6zrs8o3D": {
-    "createdTime": "2019-01-23T09:24:14.000Z",
-    "id": "recNsn8aA6zrs8o3D",
-    "(You can't directly edit this column)": "Sierra Feasel, AFXsi SAN ",
-    "person": [
-      "recL6ukxI9XWv5RQx"
-    ],
-    "group": [
-      "recUrnBvsEJATCt1Q"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recsYg7ewwRhtLunv": {
-    "createdTime": "2019-01-23T09:24:17.000Z",
-    "id": "recsYg7ewwRhtLunv",
-    "(You can't directly edit this column)": "Andrea Deng, AFXsi Andrenaline ",
-    "group": [
-      "recuSIOZ5KP5kQXs6"
-    ],
-    "person": [
-      "recmMWJZAi4BnKpIc"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccefpOUbqMOSxGy": {
-    "createdTime": "2019-01-23T09:24:46.000Z",
-    "id": "reccefpOUbqMOSxGy",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi Andrenaline ",
-    "person": [
-      "rec3RLZl3eC9SXHwJ"
-    ],
-    "group": [
-      "recuSIOZ5KP5kQXs6"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recu6gj33eIwXoDkw": {
-    "createdTime": "2019-01-23T09:24:46.000Z",
-    "id": "recu6gj33eIwXoDkw",
-    "(You can't directly edit this column)": "Eilan Zeng, AFXsi Andrenaline ",
-    "person": [
-      "recFkYLuczzKZVLYe"
-    ],
-    "group": [
-      "recuSIOZ5KP5kQXs6"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccIIXYxE0pEnruu": {
-    "createdTime": "2019-01-23T09:24:54.000Z",
-    "id": "reccIIXYxE0pEnruu",
-    "(You can't directly edit this column)": "Angela Peng, AFXsi Anthm ",
-    "group": [
-      "recfICFVB55oWC78y"
-    ],
-    "person": [
-      "recKP93RYIEZpddjw"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recJw0ISpmIl6IYkZ": {
-    "createdTime": "2019-01-23T09:25:04.000Z",
-    "id": "recJw0ISpmIl6IYkZ",
-    "(You can't directly edit this column)": "Michael Chen, AFXsi Anthm ",
-    "person": [
-      "rec133LBDsx7IXwNn"
-    ],
-    "group": [
-      "recfICFVB55oWC78y"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recjmKYNx9QoSXbYM": {
-    "createdTime": "2019-01-23T09:25:09.000Z",
-    "id": "recjmKYNx9QoSXbYM",
-    "(You can't directly edit this column)": "Nathan Lee, AFXsi Anthm ",
-    "person": [
-      "recQJky3Rrh2rfMVY"
-    ],
-    "group": [
-      "recfICFVB55oWC78y"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWyIS4z2kntvCxB": {
-    "createdTime": "2019-01-23T09:25:15.000Z",
-    "id": "recWyIS4z2kntvCxB",
-    "(You can't directly edit this column)": "Joseph Beltran, AFXsi JAM ",
-    "group": [
-      "recE55poWqurXd97D"
-    ],
-    "person": [
-      "reczJvK2iDUHTxNQn"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYtt6bur1ajYJaP": {
-    "createdTime": "2019-01-23T09:25:27.000Z",
-    "id": "recYtt6bur1ajYJaP",
-    "(You can't directly edit this column)": "AC Dela Paz, AFXsi JAM ",
-    "person": [
-      "rec2nvAlUafPaALoo"
-    ],
-    "group": [
-      "recE55poWqurXd97D"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec48BuRv3Je16I2b": {
-    "createdTime": "2019-01-23T09:25:31.000Z",
-    "id": "rec48BuRv3Je16I2b",
-    "(You can't directly edit this column)": "Mahek Modi, AFXsi JAM ",
-    "person": [
-      "recUL5dvQoC8RBPud"
-    ],
-    "group": [
-      "recE55poWqurXd97D"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec0ZpHrzoBFlIZQC": {
-    "createdTime": "2019-01-23T09:25:38.000Z",
-    "id": "rec0ZpHrzoBFlIZQC",
-    "(You can't directly edit this column)": "Kristen Shimoda, AFXsi Kryan ",
-    "group": [
-      "recllo5BKMuqHWrRj"
-    ],
-    "person": [
-      "recIl9U3FDUzztIzq"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recAHXHouINxmzbcY": {
-    "createdTime": "2019-01-23T09:25:44.000Z",
-    "id": "recAHXHouINxmzbcY",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFXsi Kryan ",
-    "person": [
-      "rectcm65MFSWkghJQ"
-    ],
-    "group": [
-      "recllo5BKMuqHWrRj"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "receSQ28JRsvS6hBp": {
-    "createdTime": "2019-01-23T09:25:54.000Z",
-    "id": "receSQ28JRsvS6hBp",
-    "(You can't directly edit this column)": "Michelle Li, AFXsi Bae ",
-    "group": [
-      "recOVpFFYp4LMgN3I"
-    ],
-    "person": [
-      "recuB6j27df5H1aBq"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rece1yf7dk1UvnN4j": {
-    "createdTime": "2019-01-23T09:26:00.000Z",
-    "id": "rece1yf7dk1UvnN4j",
-    "(You can't directly edit this column)": "Christian Cayton, AFXsi Bae ",
-    "person": [
-      "recMwcvipXM9qiwJJ"
-    ],
-    "group": [
-      "recOVpFFYp4LMgN3I"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recfKAOT9quS6rgqN": {
-    "createdTime": "2019-01-23T09:26:07.000Z",
-    "id": "recfKAOT9quS6rgqN",
-    "(You can't directly edit this column)": "Brian Lam, AFXsi Banging ",
-    "person": [
-      "rec3psATzLriQhitj"
-    ],
-    "group": [
-      "recJ3YxwbZ3dMC5gj"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recRi0DzgFo7stxIf": {
-    "createdTime": "2019-01-23T09:26:23.000Z",
-    "id": "recRi0DzgFo7stxIf",
-    "(You can't directly edit this column)": "Yangzi He, AFXsi Banging ",
-    "person": [
-      "recDNBAQC3NwFP4s0"
-    ],
-    "group": [
-      "recJ3YxwbZ3dMC5gj"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recFYnNSNlVjMWSFJ": {
-    "createdTime": "2019-01-23T09:26:27.000Z",
-    "id": "recFYnNSNlVjMWSFJ",
-    "(You can't directly edit this column)": "Qing Wong, AFXsi Banging ",
-    "person": [
-      "recUSz6c3xwIid6LW"
-    ],
-    "group": [
-      "recJ3YxwbZ3dMC5gj"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recom0BVDGyT0facY": {
-    "createdTime": "2019-01-23T09:26:43.000Z",
-    "id": "recom0BVDGyT0facY",
-    "(You can't directly edit this column)": "Alex Xiao, AFXsi Chaos ",
-    "group": [
-      "recuImUmgqu8u1Hlp"
-    ],
-    "person": [
-      "recmUmJyp0N7uFFUR"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recTaBR89Kp603Ukv": {
-    "createdTime": "2019-01-23T09:26:51.000Z",
-    "id": "recTaBR89Kp603Ukv",
-    "(You can't directly edit this column)": "Anne Choi, AFXsi Chaos ",
-    "person": [
-      "recawBRRyZ3KZjmTM"
-    ],
-    "group": [
-      "recuImUmgqu8u1Hlp"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recZ7IdaqBWgI6VDE": {
-    "createdTime": "2019-01-23T09:26:55.000Z",
-    "id": "recZ7IdaqBWgI6VDE",
-    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON ",
-    "group": [
-      "recw3tPXhSfrR5Tyu"
-    ],
-    "person": [
-      "recCtpyZdi7eNSYLw"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccSr1Z8IOGdvJ6y": {
-    "createdTime": "2019-01-23T09:27:15.000Z",
-    "id": "reccSr1Z8IOGdvJ6y",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON ",
-    "person": [
-      "recyuGtimgWQu1z1r"
-    ],
-    "group": [
-      "recw3tPXhSfrR5Tyu"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recNgRwpxQLGWyLHK": {
-    "createdTime": "2019-01-23T09:27:15.000Z",
-    "id": "recNgRwpxQLGWyLHK",
-    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON ",
-    "person": [
-      "recS7tOOGL4jKxWES"
-    ],
-    "group": [
-      "recw3tPXhSfrR5Tyu"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYZrRek0Rre0fF6": {
-    "createdTime": "2019-01-23T09:28:21.000Z",
-    "id": "recYZrRek0Rre0fF6",
-    "(You can't directly edit this column)": "Emily Tsai, AFXsi KeKeKe ",
-    "group": [
-      "recPKxHOdAfnBkagq"
-    ],
-    "person": [
-      "recLxGorRTNI9I0QS"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recGzgezDFxUmGjL7": {
-    "createdTime": "2019-01-23T09:29:00.000Z",
-    "id": "recGzgezDFxUmGjL7",
-    "(You can't directly edit this column)": "Kathie Tian, AFXsi KeKeKe ",
-    "person": [
-      "rec8WQB0KC7QXPy7z"
-    ],
-    "group": [
-      "recPKxHOdAfnBkagq"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reccWuJYTqYQwvHug": {
-    "createdTime": "2019-01-23T09:29:04.000Z",
-    "id": "reccWuJYTqYQwvHug",
-    "(You can't directly edit this column)": "Chris Kim, AFXsi KoJa ",
-    "group": [
-      "recoXVe23XTKANF21"
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recKioPJo4yzrzPFA": {
-    "createdTime": "2019-01-23T09:29:12.000Z",
-    "id": "recKioPJo4yzrzPFA",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi KoJa ",
-    "person": [
-      "rec3RLZl3eC9SXHwJ"
-    ],
-    "group": [
-      "recoXVe23XTKANF21"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recoKxV2bk6pdT1Pk": {
-    "createdTime": "2019-01-23T09:29:14.000Z",
-    "id": "recoKxV2bk6pdT1Pk",
-    "(You can't directly edit this column)": "Aloysius Makalinao, AFXTRM ",
-    "person": [
-      "recKhL3n61NCyDpK3"
-    ],
-    "group": [
-      "rec0CkXoH2GWsRqI9"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recbTh9069guX5GSd": {
-    "createdTime": "2019-01-23T09:30:03.000Z",
-    "id": "recbTh9069guX5GSd",
-    "(You can't directly edit this column)": "Miguel Francisco, AFXTRM ",
-    "person": [
-      "rec3nLDI7cIWqW4WX"
-    ],
-    "group": [
-      "rec0CkXoH2GWsRqI9"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWSUiRJu5R8tjas": {
-    "createdTime": "2019-01-23T09:30:09.000Z",
-    "id": "recWSUiRJu5R8tjas",
-    "(You can't directly edit this column)": "Vienna Harvey, AFXTRM ",
-    "person": [
-      "recKEtpg4RpNSO3kN"
-    ],
-    "group": [
-      "rec0CkXoH2GWsRqI9"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYFIbHXLptq2xSC": {
-    "createdTime": "2019-01-23T09:30:20.000Z",
-    "id": "recYFIbHXLptq2xSC",
-    "(You can't directly edit this column)": "Richard Xu, AFXsi drxp ",
-    "person": [
-      "recKBDLL5lmSDiNTY"
-    ],
-    "group": [
-      "recideyqEsLQVrk6U"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWwPEXQ3EdQOElG": {
-    "createdTime": "2019-01-23T09:30:57.000Z",
-    "id": "recWwPEXQ3EdQOElG",
-    "(You can't directly edit this column)": "Peggy Shih, AFXsi drxp ",
-    "person": [
-      "recZWKQK0rewWfxJn"
-    ],
-    "group": [
-      "recideyqEsLQVrk6U"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBtSAYDxf0P2gTU": {
-    "createdTime": "2019-01-23T09:31:03.000Z",
-    "id": "recBtSAYDxf0P2gTU",
-    "(You can't directly edit this column)": "Darius Sparks, AFXsi drxp ",
-    "person": [
-      "rec6IpW9b974hS7Dx"
-    ],
-    "group": [
-      "recideyqEsLQVrk6U"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recEvwsBLGah9oA6h": {
-    "createdTime": "2019-01-23T09:31:11.000Z",
-    "id": "recEvwsBLGah9oA6h",
-    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON ",
-    "group": [
-      "recY8xWazB8UYou9m"
-    ],
-    "person": [
-      "recCtpyZdi7eNSYLw"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recpy3gH8l2nh2IXJ": {
-    "createdTime": "2019-01-23T09:31:30.000Z",
-    "id": "recpy3gH8l2nh2IXJ",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON ",
-    "person": [
-      "recyuGtimgWQu1z1r"
-    ],
-    "group": [
-      "recY8xWazB8UYou9m"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recE84Pg7acHw9jUM": {
-    "createdTime": "2019-01-23T09:31:30.000Z",
-    "id": "recE84Pg7acHw9jUM",
-    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON ",
-    "person": [
-      "recS7tOOGL4jKxWES"
-    ],
-    "group": [
-      "recY8xWazB8UYou9m"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recNZgfUdJGx6tqqT": {
-    "createdTime": "2019-01-23T09:32:33.000Z",
-    "id": "recNZgfUdJGx6tqqT",
-    "(You can't directly edit this column)": "Marisa Liang, AFXsi Micky D's ",
-    "group": [
-      "rec3I7LD5AxwLkwcl"
-    ],
-    "person": [
-      "recWjG5uBm6HmUW47"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recViKzBr2OFHDJGm": {
-    "createdTime": "2019-01-23T09:32:39.000Z",
-    "id": "recViKzBr2OFHDJGm",
-    "(You can't directly edit this column)": "James Chen, AFX Board Spring 2019 Executive Director",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Executive Director",
-    "picture": [
-      {
-        "id": "attyZi0lMxgMKoIvz",
-        "url": "https://dl.airtable.com/.attachments/74a6dffbc6362989e671093a1bf06b13/8e33bd39/JamesChen_SP19.PNG",
-        "filename": "James Chen_SP19.PNG",
-        "size": 686343,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/711bae1fa07ab71dfa1d9907466f74c5/4f69b258",
-            "width": 39,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/158da71907384d51c0dcf251da6624ed/63c17fc7",
-            "width": 553,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7ecf333133f77a959759d9f577db8aa3/0921883b",
-            "width": 628,
-            "height": 581
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recIrcS0iqZm0deBi"
-    ]
-  },
-  "recEAEA8wvCkP2tRl": {
-    "createdTime": "2019-01-23T09:32:47.000Z",
-    "id": "recEAEA8wvCkP2tRl",
-    "(You can't directly edit this column)": "Kenny Lu, AFXsi Micky D's ",
-    "person": [
-      "recGolwqfNnS2hDP5"
-    ],
-    "group": [
-      "rec3I7LD5AxwLkwcl"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reckYjJz1ayV2HMVq": {
-    "createdTime": "2019-01-23T09:32:50.000Z",
-    "id": "reckYjJz1ayV2HMVq",
-    "(You can't directly edit this column)": "David Lee, AFXsi Micky D's ",
-    "person": [
-      "recTqXX6xdgjStuYA"
-    ],
-    "group": [
-      "rec3I7LD5AxwLkwcl"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recXv7wbfOzg6Kmq4": {
-    "createdTime": "2019-01-23T09:33:37.000Z",
-    "id": "recXv7wbfOzg6Kmq4",
-    "(You can't directly edit this column)": "Kirk La, AFXsi Milk ",
-    "group": [
-      "recjmrarPLS2cLFP6"
-    ],
-    "person": [
-      "rec4UfhaS3ZcsKOfU"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recjgzzSANuAhx6pG": {
-    "createdTime": "2019-01-23T09:33:41.000Z",
-    "id": "recjgzzSANuAhx6pG",
-    "(You can't directly edit this column)": "Mark Reed, AFXsi Milk ",
-    "person": [
-      "recOaZV3dVyIjCQX5"
-    ],
-    "group": [
-      "recjmrarPLS2cLFP6"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recsWTKyw1x4jx4zt": {
-    "createdTime": "2019-01-23T09:33:50.000Z",
-    "id": "recsWTKyw1x4jx4zt",
-    "(You can't directly edit this column)": "Wilfred Salacup, AFXsi Milk ",
-    "person": [
-      "recWC7yK5Re53KiVd"
-    ],
-    "group": [
-      "recjmrarPLS2cLFP6"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recPUJmKHlBy18YKn": {
-    "createdTime": "2019-01-23T09:34:05.000Z",
-    "id": "recPUJmKHlBy18YKn",
-    "(You can't directly edit this column)": "Lilian Chen, AFXsi Slumber Party ",
-    "group": [
-      "recn6LlGtFykr0SZo"
-    ],
-    "person": [
-      "recBQkVU3UY4DnEmk"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYBZzq6mh4bytz6": {
-    "createdTime": "2019-01-23T09:35:35.000Z",
-    "id": "recYBZzq6mh4bytz6",
-    "(You can't directly edit this column)": "Aram Cariaga, AFX Board Spring 2019 PR Marketing",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "rec5PngUNZtGzO6Oj"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attWudNOWo0Ia8dNm",
-        "url": "https://dl.airtable.com/.attachments/f65940d7b42b5c916afd7bb7d14245c5/5f4e0d29/AramCariaga.PNG",
-        "filename": "Aram Cariaga.PNG",
-        "size": 635958,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/39db0a466ec2ffbeeed3f6a2001b0255/b33f1455",
-            "width": 37,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/dbbff46ae18247f96baf7ebe63337b56/4f04f5ab",
-            "width": 523,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/adff9586c7b353a96dab46b31ef7a5a2/f81bfeb6",
-            "width": 600,
-            "height": 587
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recsemJBUer80vghF": {
-    "createdTime": "2019-01-23T09:36:06.000Z",
-    "id": "recsemJBUer80vghF",
-    "(You can't directly edit this column)": "Angela Hou, AFXsi Echo ",
-    "group": [
-      "recCbo4tDZZKyEim7"
-    ],
-    "person": [
-      "recAMURcPEdVfdaWy"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec202dM2ysnkSl1L": {
-    "createdTime": "2019-01-23T09:36:24.000Z",
-    "id": "rec202dM2ysnkSl1L",
-    "(You can't directly edit this column)": "Elle Cheung, AFXsi Echo ",
-    "person": [
-      "recPVD1R5MWNRtPXh"
-    ],
-    "group": [
-      "recCbo4tDZZKyEim7"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recodQtvOvN2su3LM": {
-    "createdTime": "2019-01-23T09:36:33.000Z",
-    "id": "recodQtvOvN2su3LM",
-    "(You can't directly edit this column)": "Jinnie Rhee, AFXsi RheeL ",
-    "group": [
-      "recKIT6nxJFIUwaCF"
-    ],
-    "person": [
-      "recnnv2dbvHIZ2dGJ"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recYVKe6hNuwttVk4": {
-    "createdTime": "2019-01-23T09:36:43.000Z",
-    "id": "recYVKe6hNuwttVk4",
-    "(You can't directly edit this column)": "Wendy Lin, AFXsi RheeL ",
-    "person": [
-      "rec63KrMM3KqD5glq"
-    ],
-    "group": [
-      "recKIT6nxJFIUwaCF"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recVlMNq8V5m869sT": {
-    "createdTime": "2019-01-23T09:36:52.000Z",
-    "id": "recVlMNq8V5m869sT",
-    "(You can't directly edit this column)": "Richard Qian, AFXsi JuiceBox ",
-    "group": [
-      "recQLC0SGq1JalhZy"
-    ],
-    "person": [
-      "recsn0BnKo7Y3bhYp"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec9Y1MFmVi8QfIQd": {
-    "createdTime": "2019-01-23T09:37:01.000Z",
-    "id": "rec9Y1MFmVi8QfIQd",
-    "(You can't directly edit this column)": "Winn Cui, AFXsi JuiceBox ",
-    "person": [
-      "reccusci4MPy2I4i4"
-    ],
-    "group": [
-      "recQLC0SGq1JalhZy"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec2n8WBZpYmVBj0r": {
-    "createdTime": "2019-01-23T09:37:04.000Z",
-    "id": "rec2n8WBZpYmVBj0r",
-    "(You can't directly edit this column)": "Jones Ou, AFXsi JuiceBox ",
-    "person": [
-      "recwHkKZx2S6Ys5JU"
-    ],
-    "group": [
-      "recQLC0SGq1JalhZy"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recRkQLF96YOyEOgU": {
-    "createdTime": "2019-01-23T09:37:11.000Z",
-    "id": "recRkQLF96YOyEOgU",
-    "(You can't directly edit this column)": "Catherine Kim, AFX Board Spring 2019 PR Marketing",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "rectfFRuhhALqkANb"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attJeJRzY23sLJsUq",
-        "url": "https://dl.airtable.com/.attachments/fdc8d819c88a745a92b000448ac88d1a/1c4e9d91/CatherineKim.PNG",
-        "filename": "Catherine Kim.PNG",
-        "size": 575560,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7ff8199e9d8321f38cc355d7aefa6abd/1ec4f351",
-            "width": 34,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f8a213883494fcf17111968f93f2b212/86c0c7fb",
-            "width": 456,
-            "height": 481
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/26d904b66c1c4a278961adf1cde64fb3/748215a0",
-            "width": 456,
-            "height": 481
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recmaUo3R45HoMNid": {
-    "createdTime": "2019-01-23T09:38:51.000Z",
-    "id": "recmaUo3R45HoMNid",
-    "(You can't directly edit this column)": "Avril Lu, AFX Board Spring 2019 PR Marketing",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "rech80bOAS9SLOVlp"
-    ],
-    "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attJcrfCNIMAjdN4v",
-        "url": "https://dl.airtable.com/.attachments/386db0610fc6d35b0de3da975a874aa5/363a049d/AvrilLu.PNG",
-        "filename": "Avril Lu.PNG",
-        "size": 695086,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2b40f2e8ac7917442b65449b506d99cb/28eec350",
-            "width": 39,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e6dfb340ff8739c540fa3c87133ee531/f32a5b0f",
-            "width": 556,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f139c2ed4da1e40c3694be259813551e/18d740d4",
-            "width": 559,
-            "height": 515
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recl9R7y99PMhmHDW": {
-    "createdTime": "2019-01-23T09:39:34.000Z",
-    "id": "recl9R7y99PMhmHDW",
-    "(You can't directly edit this column)": "Chris Kim, AFX Christoria ",
-    "group": [
-      "rechL3W2Vi7wov83L"
-    ],
-    "person": [
-      "recluqLVujMSWoHUV"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recV0D4c9roitEuFm": {
-    "createdTime": "2019-01-23T09:39:41.000Z",
-    "id": "recV0D4c9roitEuFm",
-    "(You can't directly edit this column)": "Victoria Du, AFX Christoria ",
-    "person": [
-      "recwFJemNLcX2Xhhp"
-    ],
-    "group": [
-      "rechL3W2Vi7wov83L"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recbx2A3DbTzdZuHV": {
-    "createdTime": "2019-01-23T09:39:50.000Z",
-    "id": "recbx2A3DbTzdZuHV",
-    "(You can't directly edit this column)": "Angela Hou, AFX Allies ",
-    "group": [
-      "rec6qXkPYRtQRgQts"
-    ],
-    "person": [
-      "recAMURcPEdVfdaWy"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recIN5s4uBwQ6dOxF": {
-    "createdTime": "2019-01-23T09:40:07.000Z",
-    "id": "recIN5s4uBwQ6dOxF",
-    "(You can't directly edit this column)": "Julie Han, AFX Allies ",
-    "person": [
-      "recfATGKemUjdLR40"
-    ],
-    "group": [
-      "rec6qXkPYRtQRgQts"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recBTDrdwNmiS1zzF": {
-    "createdTime": "2019-01-23T09:40:32.000Z",
-    "id": "recBTDrdwNmiS1zzF",
-    "(You can't directly edit this column)": "Raymond Ly, AFX Allies ",
-    "person": [
-      "recIYQtBmhphqbdin"
-    ],
-    "group": [
-      "rec6qXkPYRtQRgQts"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec5NUxm8X43YPPGF": {
-    "createdTime": "2019-01-23T09:40:45.000Z",
-    "id": "rec5NUxm8X43YPPGF",
-    "(You can't directly edit this column)": "Aimee Pepper, AFX Allies ",
-    "person": [
-      "recq3sdvy3JjKPWR5"
-    ],
-    "group": [
-      "rec6qXkPYRtQRgQts"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recNgZWyyPOXb5mgl": {
-    "createdTime": "2019-01-23T09:40:59.000Z",
-    "id": "recNgZWyyPOXb5mgl",
-    "(You can't directly edit this column)": "Kristina Kim, AFX Board Spring 2019 PR Design",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "reciwV9t8iRXJBYK5"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attOCWnMAgEBeecrc",
-        "url": "https://dl.airtable.com/.attachments/a0fdd18fa8795d24a6397fb1b89982a3/9a78d8ad/KristinaKim.PNG",
-        "filename": "Kristina Kim.PNG",
-        "size": 650303,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/39bc8e31d57399b11ed28370b42b3002/ed0f0666",
-            "width": 40,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/68bf63387f695e5970d72cc4349eae5e/de1387eb",
-            "width": 550,
-            "height": 501
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fb5d3343708500ec2e618796aa9c8741/e9e83f12",
-            "width": 550,
-            "height": 501
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recady1hl0WeVTArd": {
-    "createdTime": "2019-01-23T09:41:00.000Z",
-    "id": "recady1hl0WeVTArd",
-    "(You can't directly edit this column)": "Timothy Corpuz, AFX ATP ",
-    "person": [
-      "recdPZJ6n8RJnb4Q3"
-    ],
-    "group": [
-      "rec0VciUnJmJJ6oeD"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recbPeoVw9V8yiawh": {
-    "createdTime": "2019-01-23T09:41:51.000Z",
-    "id": "recbPeoVw9V8yiawh",
-    "(You can't directly edit this column)": "Christopher Lau, AFX BigBrother ",
-    "group": [
-      "recaZjoItED6gXEdr"
-    ],
-    "groupType": [
-      "team"
-    ],
-    "person": [
-      "recFnSfjcdECqcAGQ"
-    ]
-  },
-  "recHnwA6CcDq0B93X": {
-    "createdTime": "2019-01-23T09:41:54.000Z",
-    "id": "recHnwA6CcDq0B93X",
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Desert Thirst ",
-    "group": [
-      "recH77oO4ipgKWSO7"
-    ],
-    "person": [
-      "recVwOcszdvg6tMe0"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recUJ72D7F53TYKxw": {
-    "createdTime": "2019-01-23T09:41:54.000Z",
-    "id": "recUJ72D7F53TYKxw",
-    "(You can't directly edit this column)": "Andy Vendrell, AFX Eyecandy ",
-    "group": [
-      "recYKZTGxchrDzELp"
-    ],
-    "person": [
-      "recyrDnDQgBygPkQK"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recGxHeywW4g1tysW": {
-    "createdTime": "2019-01-23T09:41:54.000Z",
-    "id": "recGxHeywW4g1tysW",
-    "(You can't directly edit this column)": "Joseph Jiang, AFX JEM ",
-    "group": [
-      "rec7OSPyLVxDKm2sV"
-    ],
-    "person": [
-      "recNZcauY6F7F5QL9"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "reck5ZeOVual7zqh3": {
-    "createdTime": "2019-01-23T09:41:54.000Z",
-    "id": "reck5ZeOVual7zqh3",
-    "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 ",
-    "group": [
-      "recRWachvE4BArxyb"
-    ],
-    "person": [
-      "reccafHTuCCMGDH5i"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recDbdHsHwEQ963t5": {
-    "createdTime": "2019-01-23T09:41:54.000Z",
-    "id": "recDbdHsHwEQ963t5",
-    "(You can't directly edit this column)": "Peggy Shih, AFX Technicality ",
-    "group": [
-      "recV24mdNgq8HICTK"
-    ],
-    "person": [
-      "recZWKQK0rewWfxJn"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recWUcmDSetpLNBxG": {
-    "createdTime": "2019-01-23T09:42:30.000Z",
-    "id": "recWUcmDSetpLNBxG",
-    "(You can't directly edit this column)": "Daniel Morales, AFX Board Spring 2019 PR Design",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attWemfEe40dXbRXf",
-        "url": "https://dl.airtable.com/.attachments/b58bf23bf2f44fc0f6b1f591085e0aa4/54d0d844/DanielMorales.PNG",
-        "filename": "Daniel Morales.PNG",
-        "size": 449666,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5cb802c97c913dddb599175700b45409/aea5e24b",
-            "width": 44,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4d56d5a00ba36d749754b9856a743642/5fba9282",
-            "width": 628,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/24725ee196a5caf396c5a9a14e50c8f7/9a23703f",
-            "width": 665,
-            "height": 542
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recJNRrxnWZBsrpZD"
-    ]
-  },
-  "rec8oiFxUXIYcl1ZV": {
-    "createdTime": "2019-01-23T09:42:34.000Z",
-    "id": "rec8oiFxUXIYcl1ZV",
-    "(You can't directly edit this column)": "Bryan Lov, AFX BigBrother ",
-    "person": [
-      "recoKBUH3YF9e3iBQ"
-    ],
-    "group": [
-      "recaZjoItED6gXEdr"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "rec8FjekR65k5yXkL": {
-    "createdTime": "2019-01-23T09:42:38.000Z",
-    "id": "rec8FjekR65k5yXkL",
-    "(You can't directly edit this column)": "Gilbert Lin, AFX BigBrother ",
-    "person": [
-      "reczPIesm1yNS5tFx"
-    ],
-    "group": [
-      "recaZjoItED6gXEdr"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recET3Ze0kERobis7": {
-    "createdTime": "2019-01-23T09:43:07.000Z",
-    "id": "recET3Ze0kERobis7",
-    "(You can't directly edit this column)": "Anna Dai Feng, AFX Desert Thirst ",
-    "person": [
-      "recxNAoG50eOCH61C"
-    ],
-    "group": [
-      "recH77oO4ipgKWSO7"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recCQZoaBvk8TLQ9G": {
-    "createdTime": "2019-01-23T09:43:19.000Z",
-    "id": "recCQZoaBvk8TLQ9G",
-    "(You can't directly edit this column)": "Jonathan Ting, AFX Desert Thirst ",
-    "person": [
-      "recjsSvAoZikr9uL8"
-    ],
-    "group": [
-      "recH77oO4ipgKWSO7"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recjj5eE0qZevBtKz": {
-    "createdTime": "2019-01-23T09:43:46.000Z",
-    "id": "recjj5eE0qZevBtKz",
-    "(You can't directly edit this column)": "Emily Duan, AFX JEM ",
-    "person": [
-      "recewxgeWZNfLIGqF"
-    ],
-    "group": [
-      "rec7OSPyLVxDKm2sV"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recl8L4sBNPKZAtbQ": {
-    "createdTime": "2019-01-23T09:43:51.000Z",
-    "id": "recl8L4sBNPKZAtbQ",
-    "(You can't directly edit this column)": "Michael Chu, AFX JEM ",
-    "person": [
-      "reclpX3jvpv0V44dl"
-    ],
-    "group": [
-      "rec7OSPyLVxDKm2sV"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recSgN3IK2uBmT6bC": {
-    "createdTime": "2019-01-23T09:44:08.000Z",
-    "id": "recSgN3IK2uBmT6bC",
-    "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 ",
-    "person": [
-      "recDPvXZ08hFkxLMT"
-    ],
-    "group": [
-      "recRWachvE4BArxyb"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recvH5KV3bFsqtcbV": {
-    "createdTime": "2019-01-23T09:44:12.000Z",
-    "id": "recvH5KV3bFsqtcbV",
-    "(You can't directly edit this column)": "Devin Balcorta, AFX Board Spring 2019 PR Design",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recQsJ6PIFgKl7vXv"
-    ],
-    "positionTitle": "PR Design",
-    "picture": [
-      {
-        "id": "attG8AZEpNXjHki5I",
-        "url": "https://dl.airtable.com/.attachments/35a2ab88428c0468df045bd18facc80f/24c44deb/DevinBalcorta.PNG",
-        "filename": "Devin Balcorta.PNG",
-        "size": 531472,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/905d2b011b938303a20e5315057b7e8c/b959cc53",
-            "width": 31,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/04533d801e1296bafdc19ea1b41fa864/9fb09a05",
-            "width": 447,
-            "height": 513
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/68ceb0f52b9ce67d4cc77153f4054c34/67d2ac48",
-            "width": 447,
-            "height": 513
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recMgA1tjWR6Ow0gV": {
-    "createdTime": "2019-01-23T09:44:19.000Z",
-    "id": "recMgA1tjWR6Ow0gV",
-    "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 ",
-    "person": [
-      "rec4fP4DTUKs50r8Q"
-    ],
-    "group": [
-      "recRWachvE4BArxyb"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recMxD6S3cVd6WWEN": {
-    "createdTime": "2019-01-23T09:44:30.000Z",
-    "id": "recMxD6S3cVd6WWEN",
-    "(You can't directly edit this column)": "Allan Chin, AFX Technicality ",
-    "person": [
-      "reczNCgWr62mxFmPe"
-    ],
-    "group": [
-      "recV24mdNgq8HICTK"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recaw2QlP9MfjwOEA": {
-    "createdTime": "2019-01-23T09:44:37.000Z",
-    "id": "recaw2QlP9MfjwOEA",
-    "(You can't directly edit this column)": "Angela Gao, AFX Technicality ",
-    "person": [
-      "rec8ftmATdmGYdNy9"
-    ],
-    "group": [
-      "recV24mdNgq8HICTK"
-    ],
-    "groupType": [
-      "team"
-    ]
-  },
-  "recJ3rzKEfYHamndo": {
-    "createdTime": "2019-01-23T09:45:50.000Z",
-    "id": "recJ3rzKEfYHamndo",
-    "(You can't directly edit this column)": "Ianna Zhu, AFX Board Spring 2019 Finance Chair",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recV4m6m6ThdDkwuh"
-    ],
-    "picture": [
-      {
-        "id": "attNG3dzJTdWg7YeD",
-        "url": "https://dl.airtable.com/.attachments/8f57d3cdbcbbaf39b73540a2b2ddc050/23233538/IANNAZHU.PNG",
-        "filename": "IANNA ZHU.PNG",
-        "size": 452337,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/148a883b7a5143050420ebb3c36bba9c/b8100acd",
-            "width": 37,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e38b76d370d04ffbdf94abc80763be1e/5b12cf23",
-            "width": 522,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/15babb190b5641c24d083c1a41a36708/666122bc",
-            "width": 532,
-            "height": 522
-          }
-        }
-      }
-    ],
-    "positionTitle": "Finance Chair",
-    "groupType": [
-      "board"
-    ]
-  },
-  "rec6hG8wqoQ9PShxV": {
-    "createdTime": "2019-01-23T09:46:48.000Z",
-    "id": "rec6hG8wqoQ9PShxV",
-    "(You can't directly edit this column)": "Christina Liu, AFX Board Spring 2019 Finance Chair",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recjq9Be1pQNI9wp6"
-    ],
-    "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "atteAxa0V4ZWhbNHl",
-        "url": "https://dl.airtable.com/.attachments/01ac777035ba56848d0b493c8f01528e/0494e2b5/ChristinaLiu.PNG",
-        "filename": "Christina Liu.PNG",
-        "size": 1341901,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3630d7b00932ad00d55b7090ac9eeaac/87985ce1",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8a9db0f4816b67245ed36dbee99f8395/e0241404",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/13316c0ceaaadb6df8687c3c04354a9a/e7c2b8b1",
-            "width": 774,
-            "height": 774
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recc1FX1cEeEiJj2c": {
-    "createdTime": "2019-01-23T09:48:28.000Z",
-    "id": "recc1FX1cEeEiJj2c",
-    "(You can't directly edit this column)": "Soo Rim Choi, AFX Board Spring 2019 Vice Executive",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attWuVdHPVFKwVKYG",
-        "url": "https://dl.airtable.com/.attachments/81abd957c89bf346eefd5d71b7495b77/6c6a0503/soorimchoi.PNG",
-        "filename": "soo rim choi.PNG",
-        "size": 625931,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0f027219c95aef51df4941c0503595fe/d05411c4",
-            "width": 43,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b3d2544d460243b912d4d534490f8c1f/cce364e8",
-            "width": 575,
-            "height": 484
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cac5f409fecc69d504fd86aa1008c5e4/425e47fa",
-            "width": 575,
-            "height": 484
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recqzbrK1cnXPa5Wd"
-    ]
-  },
-  "rec99vna3ALAxmi5V": {
-    "createdTime": "2019-01-23T09:52:46.000Z",
-    "id": "rec99vna3ALAxmi5V",
-    "(You can't directly edit this column)": "Audrey Ma, AFX Board Spring 2019 External Events",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recf995EWbN2zqqw9"
-    ],
-    "positionTitle": "External Events",
-    "picture": [
-      {
-        "id": "atthOA6YsDqi9hz5j",
-        "url": "https://dl.airtable.com/.attachments/0da15ead531b2b96a8e953cda9b133f0/935c3bf4/AUDREYMA.PNG",
-        "filename": "AUDREY MA.PNG",
-        "size": 622986,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/13a96f2c7db22b28c4a07faf2b065bca/855ef091",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ecc93f8589f790f2385bf77452ec0b28/81bc0eb8",
-            "width": 545,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f0bc9761b39844e08afa06a7b03931f9/1e2f08ae",
-            "width": 600,
-            "height": 564
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recdNje3L0FwwrZ6h": {
-    "createdTime": "2019-01-23T09:55:12.000Z",
-    "id": "recdNje3L0FwwrZ6h",
-    "(You can't directly edit this column)": "Tom Cheah, AFX Board Spring 2019 External Events",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "rectG3gNwTYTDJyMk"
-    ],
-    "positionTitle": "External Events",
-    "picture": [
-      {
-        "id": "attX9olfnxWPd8NnJ",
-        "url": "https://dl.airtable.com/.attachments/ace396cff1b382a6f40d5abef38797b7/00643280/TOMCHEAH.PNG",
-        "filename": "TOM CHEAH.PNG",
-        "size": 322388,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8d72648edf428ab468489a28f98438fe/3c86d747",
-            "width": 42,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/686b0c31d94715bf7146e0ed65ac78eb/7a6242d4",
-            "width": 538,
-            "height": 461
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ba0949a73b620f40ce46e3076c7cacc3/965cc2d9",
-            "width": 538,
-            "height": 461
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recHjgOSa4AAY4uYv": {
-    "createdTime": "2019-01-23T09:56:11.000Z",
-    "id": "recHjgOSa4AAY4uYv",
-    "(You can't directly edit this column)": "Vincent Young, AFX Board Spring 2019 Internal Events",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "rece3KN1RqpPjW1ji"
-    ],
-    "positionTitle": "Internal Events",
-    "picture": [
-      {
-        "id": "att1yEiTMh7bsqIhM",
-        "url": "https://dl.airtable.com/.attachments/1071bf660c242322e9d2e155ca11e5c0/86406091/VINCENTYOUNG.PNG",
-        "filename": "VINCENT YOUNG.PNG",
-        "size": 399183,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95df55a9d39a700ddea076e59b7bbf6f/e4761941",
-            "width": 41,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e31e39ddbd9067c82adec35dfdad543d/d1cfd377",
-            "width": 540,
-            "height": 473
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a50861b2745ca0a93bbbac0c7ce989e5/5d231c20",
-            "width": 540,
-            "height": 473
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recQYq1pCbaDuXJ0X": {
-    "createdTime": "2019-01-23T09:58:25.000Z",
-    "id": "recQYq1pCbaDuXJ0X",
-    "(You can't directly edit this column)": "Jocelyn Li, AFX Board Spring 2019 Internal Events",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recITyMjlJVynPXWE"
-    ],
-    "picture": [
-      {
-        "id": "attvN1XpJtqTjRi7I",
-        "url": "https://dl.airtable.com/.attachments/8a1633e65a7478586ab7a4010bf84b67/9f0f6e3d/JOCELYNLI.PNG",
-        "filename": "JOCELYN LI.PNG",
-        "size": 233742,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d8feb9ae18ef8f263c29ae38dd2de376/d5787b0d",
-            "width": 37,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/762657f8c24234318bd3f3fb43b1f12b/fc06dd55",
-            "width": 438,
-            "height": 430
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b42b98ba0c43aca1ee099f8c4a87fbf8/07b8f805",
-            "width": 438,
-            "height": 430
-          }
-        }
-      }
-    ],
-    "positionTitle": "Internal Events",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recxdI2uKwcwth6cq": {
-    "createdTime": "2019-01-23T10:00:06.000Z",
-    "id": "recxdI2uKwcwth6cq",
-    "(You can't directly edit this column)": "Chantal Herrera, AFX Board Spring 2019 Comp Artistics",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Comp Artistics",
-    "picture": [
-      {
-        "id": "attxVVQfhNbGoNYSh",
-        "url": "https://dl.airtable.com/.attachments/58f524cf5c31e3aab5091af0cf99f0b8/e3860dcc/chantalherrera.PNG",
-        "filename": "chantal herrera.PNG",
-        "size": 773092,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f6c7daff2da98da006ef6cc203acd6a6/3436bb27",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/82da75aaa39ec57b0dbc55a1ea24e7ca/39e636bf",
-            "width": 512,
-            "height": 515
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bd21d80a60f96cae8c8ef357335c6800/7af6cd08",
-            "width": 580,
-            "height": 583
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recDphJDWcMIkCW3k"
-    ]
-  },
-  "recm74OmPs8Xnmesv": {
-    "createdTime": "2019-01-23T10:03:57.000Z",
-    "id": "recm74OmPs8Xnmesv",
-    "(You can't directly edit this column)": "Jae Lee, AFX Board Spring 2019 Comp Artistics",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recXME9BEEMbuAZ88"
-    ],
-    "positionTitle": "Comp Artistics",
-    "picture": [
-      {
-        "id": "attPTFas98oUkipjI",
-        "url": "https://dl.airtable.com/.attachments/1ee5e175a68776ff720557c90d0a8350/c0958c1c/JAELEE.PNG",
-        "filename": "JAE LEE.PNG",
-        "size": 715751,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bbf94472f1196cada06c7dad37368e5d/316c6de9",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bcdefc51a0968237ec327f41333466ea/521bbe83",
-            "width": 512,
-            "height": 514
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/32272c8898da04001d3b9d9a5dc3349d/f7cdc9b5",
-            "width": 657,
-            "height": 659
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recUF0m1fnsJjDDbG": {
-    "createdTime": "2019-01-23T10:05:25.000Z",
-    "id": "recUF0m1fnsJjDDbG",
-    "(You can't directly edit this column)": "Keita Yada, AFX Board Spring 2019 Comp Captain",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "attAXO9LXZrcEMXam",
-        "url": "https://dl.airtable.com/.attachments/0f5059f27f059179de59586840d92165/40e5b5cb/KEITAYADA.PNG",
-        "filename": "KEITA YADA.PNG",
-        "size": 305421,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/70f6df2d8b853f7d9700d976b798572a/90e744d8",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6f6d44e1a5e0bb8d35a629446f6ec8b3/581a2780",
-            "width": 414,
-            "height": 394
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6af0770fdfd5a45a178d5b0177b29a74/bbbe18ee",
-            "width": 414,
-            "height": 394
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recXg1KTKckQDUF8R"
-    ]
-  },
-  "rec5dpFUtiqc2Nxfq": {
-    "createdTime": "2019-01-23T10:07:02.000Z",
-    "id": "rec5dpFUtiqc2Nxfq",
-    "(You can't directly edit this column)": "Cheryl Chen, AFX Board Spring 2019 Comp Captain",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Comp Captain",
-    "picture": [
-      {
-        "id": "att7rlHPkZnjj6ZgJ",
-        "url": "https://dl.airtable.com/.attachments/cf6a2a668aa1410194e201c1311c82cf/192d40eb/CHERYLCHENsp19.PNG",
-        "filename": "CHERYL CHENsp19.PNG",
-        "size": 491344,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c2f7bbabb2b2d0b74424ac4e756ebff8/1496524b",
-            "width": 45,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/156dc769caf3cc0e4e9d030d134dae72/c28b5940",
-            "width": 533,
-            "height": 425
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5b7e1bc38b497270c80e1a3718f2a4f3/fdca34a1",
-            "width": 533,
-            "height": 425
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "reczZGBDJP1tLF0A9"
-    ]
-  },
-  "recu49LhYydCexH5V": {
-    "createdTime": "2019-01-23T10:08:44.000Z",
-    "id": "recu49LhYydCexH5V",
-    "(You can't directly edit this column)": "Christopher Lau, AFX Board Spring 2019 Comp Artistic Assistants",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recFnSfjcdECqcAGQ"
-    ],
-    "positionTitle": "Comp Artistic Assistants",
-    "picture": [
-      {
-        "id": "att9L1BF5hfHaVlhC",
-        "url": "https://dl.airtable.com/.attachments/63ee14be58fca8fb8edfdd5caf8016b4/82d0a718/christopherlausp19.PNG",
-        "filename": "christopher lausp19.PNG",
-        "size": 481803,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/88d5ee1e69ad2d6cfabc0cb09c2b5eb2/f5c83eb7",
-            "width": 31,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/eecbe877c23864ffe84d94c30b76522a/d3b9e540",
-            "width": 408,
-            "height": 473
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e975988c5e543d895063979b692eb1f7/bfb9cbe3",
-            "width": 408,
-            "height": 473
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recv7yGUjDRbHmfRi": {
-    "createdTime": "2019-01-23T10:10:33.000Z",
-    "id": "recv7yGUjDRbHmfRi",
-    "(You can't directly edit this column)": "Kimisato Wago, AFX Board Spring 2019 Comp Artistic Assistants",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recbLl6SZnCF4EEQM"
-    ],
-    "positionTitle": "Comp Artistic Assistants",
-    "picture": [
-      {
-        "id": "attlMgLvpdPSrPbdE",
-        "url": "https://dl.airtable.com/.attachments/17b0597eecfb21cf260a00436432248d/29aafabf/KIMISATOWAGO.PNG",
-        "filename": "KIMISATO WAGO.PNG",
-        "size": 542295,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5e8bb54f6bfefb309041a1d9d2a5f452/15656e8f",
-            "width": 31,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/882f1b0dd0ec0f186b83f19d8d884bed/e7b2559f",
-            "width": 451,
-            "height": 517
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ec60b05ed5121d99e0d9eb8d71816e65/b59895b7",
-            "width": 451,
-            "height": 517
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recVHEkdtMhGkktbl": {
-    "createdTime": "2019-01-23T10:12:29.000Z",
-    "id": "recVHEkdtMhGkktbl",
-    "(You can't directly edit this column)": "Gillian Norton, AFX Board Spring 2019 Comp Communications",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recrCXKgcIxYaIw9t"
-    ],
-    "positionTitle": "Comp Communications",
-    "picture": [
-      {
-        "id": "attRASyYjyjt0a611",
-        "url": "https://dl.airtable.com/.attachments/84d8b300bfdee0d195bc77de490a1117/14e76354/gillynortonsp19.PNG",
-        "filename": "gilly nortonsp19.PNG",
-        "size": 858279,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8ae4dcda487aa4ae6f24c5d7c78788c4/770a0e52",
-            "width": 37,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a888dde37c55efd8cd071e6ccb4aaf6f/eef6e154",
-            "width": 529,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6be4272ee14f3405fe0b2982c31554d0/1e196bff",
-            "width": 711,
-            "height": 688
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recFRGY1sKa4CGLPl": {
-    "createdTime": "2019-01-23T10:17:03.000Z",
-    "id": "recFRGY1sKa4CGLPl",
-    "(You can't directly edit this column)": "Jacob Ngo, AFX Board Spring 2019 Reach Chair",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "positionTitle": "Reach Chair",
-    "picture": [
-      {
-        "id": "attRrpugtuMoctNKU",
-        "url": "https://dl.airtable.com/.attachments/80a4e5873362c7b90e64436f0c44c317/63e867fe/JACOBNGOsp19.PNG",
-        "filename": "JACOB NGOsp19.PNG",
-        "size": 352391,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2263b4b8c47594b6789b2d661585b684/7f9cd862",
-            "width": 47,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/88014660402161966e32a4887f0050df/9384aba7",
-            "width": 505,
-            "height": 390
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/37294a70eaee7af3ea87ae550dc6fbd3/ed09796e",
-            "width": 505,
-            "height": 390
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recGThjgxlEJ9Xy0B"
-    ]
-  },
-  "recq9doPobhYkSvWs": {
-    "createdTime": "2019-01-23T10:18:14.000Z",
-    "id": "recq9doPobhYkSvWs",
-    "(You can't directly edit this column)": "Aaron Luu, AFX Board Spring 2019 Reach Chair",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recfrPQiNc0YqwgKE"
-    ],
-    "positionTitle": "Reach Chair",
-    "picture": [
-      {
-        "id": "att1SkKU7mBEGCkXH",
-        "url": "https://dl.airtable.com/.attachments/609c9bec29ef4908f33b159ba043a924/4e9880fa/AARONLUUsp19.PNG",
-        "filename": "AARON LUUsp19.PNG",
-        "size": 532101,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bc3f568e63835dc33b167d59d3c7f508/10506889",
-            "width": 35,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/eaab465c6667f3885e7a8c3c78271862/cc496b50",
-            "width": 512,
-            "height": 528
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d416e951f3679deec9024f97661ad7d1/6c6903ef",
-            "width": 517,
-            "height": 533
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recsZvnfTMM6gFdUe": {
-    "createdTime": "2019-01-23T10:19:52.000Z",
-    "id": "recsZvnfTMM6gFdUe",
-    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX Board Spring 2019 Historian",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recPDr5UZ2SVyny8z"
-    ],
-    "positionTitle": "Historian",
-    "picture": [
-      {
-        "id": "attl7c1rTUkivx06K",
-        "url": "https://dl.airtable.com/.attachments/7128c5a600175407354dabe41ee3cc6d/3296618a/LORENZODELACRUZsp19.PNG",
-        "filename": "LORENZO DELA CRUZ sp19.PNG",
-        "size": 463745,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7a3bdeb42a1a5d9faf86e2bca6a58a40/986727a0",
-            "width": 42,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/36f5ae0707cb87940a0c9c792b8c132a/5973fd9b",
-            "width": 538,
-            "height": 458
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/578cd4d3fce1b076efae8ba281ee5083/00595f78",
-            "width": 538,
-            "height": 458
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recinfNDuuPUDUuL9": {
-    "createdTime": "2019-01-23T10:21:35.000Z",
-    "id": "recinfNDuuPUDUuL9",
-    "(You can't directly edit this column)": "Sheldon Chen, AFX Board Spring 2019 Tech Committee Lead",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recLFDbA5iq2o2spW"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attVUkjinRcaJC01l",
-        "url": "https://dl.airtable.com/.attachments/93257d93634f52987675c432345b52bd/88bb710a/SHELDONCHEN_sp19.PNG",
-        "filename": "SHELDONCHEN_sp19.PNG",
-        "size": 711754,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fdb57f3dd686ff57ac5ce2430d003033/f9f31165",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5af3c4ace75ad7336b4aab11e4f05dd8/8a439826",
-            "width": 512,
-            "height": 518
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e76d156b64494e7d17e6ce1b2a7fbea5/fe86723a",
-            "width": 512,
-            "height": 518
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recnkQrby76a2c32K": {
-    "createdTime": "2019-01-23T10:22:49.000Z",
-    "id": "recnkQrby76a2c32K",
-    "(You can't directly edit this column)": "Catherine Chi, AFX Board Spring 2019 Tech Committee Lead",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recYuBaHxO4CUhAYJ"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attF5ae8er1WaRjnD",
-        "url": "https://dl.airtable.com/.attachments/0f38e0e9006a06d200e74a63e5aa0ba0/7d99a7c6/CATHERINECHIsp19.PNG",
-        "filename": "CATHERINE CHI sp19.PNG",
-        "size": 710801,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7b1be57e2b6f5d7f21abeb7cb3d7d145/9e920a2a",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6194dd8081e2f938019db5b3e540028e/a07783a7",
-            "width": 543,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ebaec4d2bdd1e3abd15a6fbb6ac2b39a/6c676fc6",
-            "width": 660,
-            "height": 622
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recOroH8p46ZXRYlP": {
-    "createdTime": "2019-01-23T10:23:52.000Z",
-    "id": "recOroH8p46ZXRYlP",
-    "(You can't directly edit this column)": "Michelle Fan, AFX Board Spring 2019 Tech Committee Lead",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "rec5tje5u3gnnZkCt"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attKgESiVFCZ5OHsn",
-        "url": "https://dl.airtable.com/.attachments/7f0af1477e0616b1e9ad58fa9327b47e/b68e5611/MICHELLEFAN.PNG",
-        "filename": "MICHELLE FAN.PNG",
-        "size": 462044,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/37d54ec35c77f59c99ba936798f8485c/088be7d8",
-            "width": 41,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/242a31c611b6d727d304cd822df64ab4/eef67371",
-            "width": 522,
-            "height": 461
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ad7bb0765c124393754c6196c5bcb002/80b11f55",
-            "width": 522,
-            "height": 461
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recyIMjEtC5oVuACA": {
-    "createdTime": "2019-01-23T10:25:09.000Z",
-    "id": "recyIMjEtC5oVuACA",
-    "(You can't directly edit this column)": "Allison Yeh, AFX Board Spring 2019 Tech Committee Lead",
-    "group": [
-      "recPf7ywA4liEHRje"
-    ],
-    "person": [
-      "recOsaLxSlFNFMefC"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attfzP6fyD0apFIbw",
-        "url": "https://dl.airtable.com/.attachments/3e174c5007c22c70b1de164b10eccd98/2f6a3814/ALLISONYEHsp19.PNG",
-        "filename": "ALLISON YEHsp19.PNG",
-        "size": 903642,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/26b0421a06fde3521726e14a7598eff0/7f9cae3a",
-            "width": 41,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/99783a87f698be3f760c1c320f8f260e/1a24c58f",
-            "width": 578,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/04983d1c6f6a5c67a3f276edab52574d/b17ef750",
-            "width": 680,
-            "height": 602
-          }
-        }
-      }
-    ],
-    "groupType": [
-      "board"
-    ]
-  },
-  "recec2glh67SHUU54": {
-    "createdTime": "2019-01-23T10:26:47.000Z",
-    "id": "recec2glh67SHUU54",
-    "(You can't directly edit this column)": "Catherine Chi, AFX Board Summer/Fall 2018 Tech Committee Lead",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "groupType": [
-      "board"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attUcmhasVJt4DMB0",
-        "url": "https://dl.airtable.com/.attachments/2a01894d4880b14dc8070bb9c1237ca1/9bf36832/CATHERINECHIsp18.PNG",
-        "filename": "CATHERINE CHI sp18.PNG",
-        "size": 816919,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c55135d44de2411382ff9382651660cb/238cc52c",
-            "width": 38,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1bbe5a843573d0f5466b39684146e5e9/531d7164",
-            "width": 542,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5da7f1ece759a8b98aa36e85ff92e85e/be82663d",
-            "width": 725,
-            "height": 685
-          }
-        }
-      }
-    ],
-    "person": [
-      "recYuBaHxO4CUhAYJ"
-    ]
-  },
-  "recouVVTZfD8ikRTO": {
-    "createdTime": "2019-01-23T10:27:51.000Z",
-    "id": "recouVVTZfD8ikRTO",
-    "(You can't directly edit this column)": "Allison Yeh, AFX Board Summer/Fall 2018 Tech Committee Lead",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "groupType": [
-      "board"
-    ],
-    "person": [
-      "recONuMtdPaTegXlB"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attfzP6fyD0apFIbw",
-        "url": "https://dl.airtable.com/.attachments/3e174c5007c22c70b1de164b10eccd98/2f6a3814/ALLISONYEHsp19.PNG",
-        "filename": "ALLISON YEHsp19.PNG",
-        "size": 903642,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/26b0421a06fde3521726e14a7598eff0/7f9cae3a",
-            "width": 41,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/99783a87f698be3f760c1c320f8f260e/1a24c58f",
-            "width": 578,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/04983d1c6f6a5c67a3f276edab52574d/b17ef750",
-            "width": 680,
-            "height": 602
-          }
-        }
-      }
-    ]
-  },
-  "recTnun7fDTNAbinL": {
-    "createdTime": "2019-01-23T10:28:32.000Z",
-    "id": "recTnun7fDTNAbinL",
-    "(You can't directly edit this column)": "Michelle Fan, AFX Board Summer/Fall 2018 Tech Committee Lead",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "groupType": [
-      "board"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attKgESiVFCZ5OHsn",
-        "url": "https://dl.airtable.com/.attachments/7f0af1477e0616b1e9ad58fa9327b47e/b68e5611/MICHELLEFAN.PNG",
-        "filename": "MICHELLE FAN.PNG",
-        "size": 462044,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/37d54ec35c77f59c99ba936798f8485c/088be7d8",
-            "width": 41,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/242a31c611b6d727d304cd822df64ab4/eef67371",
-            "width": 522,
-            "height": 461
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ad7bb0765c124393754c6196c5bcb002/80b11f55",
-            "width": 522,
-            "height": 461
-          }
-        }
-      }
-    ],
-    "person": [
-      "rec5tje5u3gnnZkCt"
-    ]
-  },
-  "recyjkm1cPMUEdizT": {
-    "createdTime": "2019-01-23T10:30:15.000Z",
-    "id": "recyjkm1cPMUEdizT",
-    "(You can't directly edit this column)": "Sean Zhu, AFX Board Summer/Fall 2018 Tech Committee Lead",
-    "group": [
-      "recacbKTL0BnOU1WC"
-    ],
-    "groupType": [
-      "board"
-    ],
-    "positionTitle": "Tech Committee Lead",
-    "picture": [
-      {
-        "id": "attuSUi44hVGVy4f5",
-        "url": "https://dl.airtable.com/.attachments/a2662fede6a260d9db0e77bdb32a29e8/43e89d65/SEANZHUsp19.PNG",
-        "filename": "SEAN ZHUsp19.PNG",
-        "size": 895237,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/20263a8351df40d86b77dacd5eb458cf/d17b9608",
-            "width": 35,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5ed7be29f22d04c15c5a0df2b3ab3b9c/02aa83e0",
-            "width": 512,
-            "height": 524
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8eddcbd6448714e74c1758f3f97be69c/1bfe2a01",
-            "width": 629,
-            "height": 644
-          }
-        }
-      }
-    ],
-    "person": [
-      "recxAxAFK4ULZWdyr"
     ]
   }
 }
