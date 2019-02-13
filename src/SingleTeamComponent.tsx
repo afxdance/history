@@ -41,7 +41,12 @@ export class SingleTeamComponent extends React.Component<any> {
             src={team.teamPicture[0].thumbnails.large.url}
           />
         ) : (
-          <img className="team--img" src="afx2.png" height={200} />
+          <img
+            className="team--img"
+            src="afx2.png"
+            height={200}
+            style={{ opacity: 0.5 }}
+          />
         )}
         <div className="team--directors">{directorsList}</div>
 
