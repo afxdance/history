@@ -42,8 +42,8 @@ export interface PersonPosition {
 
   // Custom columns
   picture?: Attachment[];
-  person: string[];
-  group: string[];
+  personIds: string[];
+  groupIds: string[];
   positionTitle: string;
   [x: string]: any;
 }

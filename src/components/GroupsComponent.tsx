@@ -53,7 +53,7 @@ function personPositionSortKey(personPosition: PersonPosition) {
     titleKey = ("00000" + titleKey).slice(-5);
   }
 
-  let person = Data.People[personPosition.person[0]];
+  let person = Data.People[personPosition.personIds[0]];
 
   return titleKey + person.name;
 }

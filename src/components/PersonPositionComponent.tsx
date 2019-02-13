@@ -1,5 +1,5 @@
-import { HoverWrapperComponent } from "src/components/HoverWrapperComponent";
 import * as React from "react";
+import { HoverWrapperComponent } from "src/components/HoverWrapperComponent";
 import { PersonComponent } from "src/components/PersonComponent";
 import * as AFX from "src/data/data";
 import { PersonPosition } from "src/data/types";
@@ -9,7 +9,7 @@ export class PersonPositionComponent extends React.Component<any> {
   public render() {
     let personPosition: PersonPosition = this.props.personPosition;
     let personComp = (
-      <PersonComponent person={AFX.People[personPosition.person[0]]} />
+      <PersonComponent person={AFX.People[personPosition.personIds[0]]} />
     );
 
     // TODO: convert to ternary ? operators :

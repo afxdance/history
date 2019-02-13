@@ -1,7 +1,7 @@
 import * as React from "react";
+import { HoverWrapperComponent } from "src/components/HoverWrapperComponent";
 import * as Data from "src/data/data";
 import { Group, Person } from "src/data/types";
-import { HoverWrapperComponent } from "src/components/HoverWrapperComponent";
 
 // One box in the grid of teams, containing team names, directors, team picture and performance link
 export class SingleTeamComponent extends React.Component<any> {
@@ -14,7 +14,8 @@ export class SingleTeamComponent extends React.Component<any> {
       for (let directorIdx in team.positionIds) {
         let directorKey = team.positionIds[directorIdx];
         let pp = Data.PersonPositions[directorKey];
-        let dirPersonKey: string = Data.PersonPositions[directorKey].person[0];
+        let dirPersonKey: string =
+          Data.PersonPositions[directorKey].personIds[0];
         let directorPerson: Person = Data.People[dirPersonKey];
         directorsList.push(
           <HoverWrapperComponent pp={pp}>

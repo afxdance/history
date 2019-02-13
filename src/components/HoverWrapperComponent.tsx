@@ -15,22 +15,24 @@ export class HoverWrapperComponent extends React.Component<
   HoverWrapperComponentProp,
   HoverWrapperComponentState
 > {
-  state = {
+  public state = {
     newAdjustedLeft: undefined,
   };
 
   public readjust = () => {
     console.log("readjust");
 
-    var elem = this.refs.HoverRef as Element;
-    if (!elem) return;
+    let elem = this.refs.HoverRef as Element;
+    if (!elem) {
+      return;
+    }
 
     this.setState(
       {
         newAdjustedLeft: undefined,
       },
       () => {
-        var position = elem.getBoundingClientRect();
+        let position = elem.getBoundingClientRect();
         if (position.right > window.innerWidth) {
           this.setState({
             newAdjustedLeft: window.innerWidth - position.right,
@@ -57,7 +59,7 @@ export class HoverWrapperComponent extends React.Component<
     // if (this.props.pp == null) {
     //   console.log("NEED NULL CHECK");
     // }
-    const personID = pp.person[0];
+    const personID = pp.personIds[0];
 
     const person = AFX.People[personID];
 
@@ -75,7 +77,7 @@ export class HoverWrapperComponent extends React.Component<
       }
 
       // group name
-      const groupID = personPos.group[0];
+      const groupID = personPos.groupIds[0];
       const groupName = AFX.Groups[groupID].name;
 
       let semester = "TEMP";
