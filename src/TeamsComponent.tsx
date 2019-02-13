@@ -1,5 +1,7 @@
+import * as lodash from "lodash";
 import * as React from "react";
 import * as Data from "src/data/data";
+import { Group } from "src/data/types";
 import { DisplayUtility } from "./DisplayUtility";
 import { SingleTeamComponent } from "./SingleTeamComponent";
 
@@ -8,11 +10,13 @@ import { SingleTeamComponent } from "./SingleTeamComponent";
 export class TeamsComponent extends React.Component<any> {
   public render() {
     let teamIds: string[] = this.props.teamIds;
-    let teamComponents: any = [];
-    for (let team in teamIds) {
-      let teamKey: string = teamIds[team];
-      teamComponents.push(<SingleTeamComponent team={Data.Groups[teamKey]} />);
-    }
+    let teams: Group[];
+    teams = teamIds.map(id => Data.Groups[id]);
+    teams = lodash.sortBy(teams, team => team.name);
+
+    let teamComponents = teams.map(team => (
+      <SingleTeamComponent key={team.id} team={team} />
+    ));
 
     // Provide a date to label this group if there teams for this semester, based on the information of the
     // first team in this semester
