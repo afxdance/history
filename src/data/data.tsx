@@ -19167,7 +19167,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "atto8dAFPjwuBggHG",
+        "url": "https://dl.airtable.com/.attachments/438c4b974ba97e3d20855c0960c2c5b5/0acd1b5b/BrianLam.PNG",
+        "filename": "Brian Lam.PNG",
+        "size": 695084,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cb7fceeef1a2d339e808e9ce70430348/0e979ed9",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4a85f6346b06a6824ad5e048a6cd6a3/82625503",
+            "width": 512,
+            "height": 528
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4cee0c97ae723a23e5792e6c20b9fa0e/12b1f019",
+            "width": 541,
+            "height": 558
+          }
+        }
+      }
+    ]
   },
   "recooATEwKCYBnAUa": {
     "createdTime": "2019-01-23T08:45:37.000Z",
@@ -19183,7 +19209,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "attKCTSTMfFDCmp9G",
+        "url": "https://dl.airtable.com/.attachments/b55213e2a719e8752d258c002cf5f73b/913a64c3/YangziHe_1.PNG",
+        "filename": "Yangzi He_1.PNG",
+        "size": 277921,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/34e20556073e38ef2413265c0b7db174/999b4bc9",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/67d9eb5dbaeb324060f84d605fc6feee/3c24eede",
+            "width": 386,
+            "height": 373
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/94b59085a545c27c31beeaee81535f65/9dadbeae",
+            "width": 386,
+            "height": 373
+          }
+        }
+      }
+    ]
   },
   "recbPeoVw9V8yiawh": {
     "createdTime": "2019-01-23T09:41:51.000Z",
@@ -20867,7 +20919,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "attkHpFTOQm5dxkIl",
+        "url": "https://dl.airtable.com/.attachments/99629b0c00e25d2145f374fa1282dbc1/bca36722/GenevieveTran.PNG",
+        "filename": "Genevieve Tran.PNG",
+        "size": 352783,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2b12c96483eb5abc3195b2c2295801cf/8c3529d8",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8160907f6468b6e5f2e7a9922cfb7f37/a86a1d0e",
+            "width": 522,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/56c87d4f92ebde634c56094ffdf803ad/e4a2ae94",
+            "width": 549,
+            "height": 538
+          }
+        }
+      }
+    ]
   },
   "recxeWYT5wwGZ1jxJ": {
     "createdTime": "2019-01-23T08:43:43.000Z",
@@ -21163,7 +21241,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "attEXFauwtwVZ87fO",
+        "url": "https://dl.airtable.com/.attachments/d849b96fd62a5b187e97b610208ce190/f3320f92/AlexKwon_3.PNG",
+        "filename": "Alex Kwon_3.PNG",
+        "size": 318262,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/90b69069f0a5163a4924b2688a2942c2/b8608b8f",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/796c9cb4f7cc29edff0fe4446063c722/788404b9",
+            "width": 520,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7adf1240b023daa82e6630c15b465ce3/29bfb053",
+            "width": 526,
+            "height": 518
+          }
+        }
+      }
+    ]
   },
   "rec795ZVHOzQXXID2": {
     "createdTime": "2019-01-23T08:48:11.000Z",
@@ -24545,7 +24649,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "att7nMBlgZnDUl0EY",
+        "url": "https://dl.airtable.com/.attachments/07d1dad7147498e3864c2de530bcb53a/607b1373/GenevieveTran_2.PNG",
+        "filename": "Genevieve Tran_2.PNG",
+        "size": 736364,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4c7c0444705e9c121f635826fc7b793f/d5a854b3",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/87d80e8a84c4359403f3e1b67127fe90/a63c2a73",
+            "width": 586,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6aff24f262d6817c60282ccbe686c928/5d3ebee0",
+            "width": 731,
+            "height": 639
+          }
+        }
+      }
+    ]
   },
   "recqv8o2Z9vTbw3S5": {
     "createdTime": "2019-01-23T08:55:16.000Z",
@@ -25153,7 +25283,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "atthShCQcQDFg3ltt",
+        "url": "https://dl.airtable.com/.attachments/feb6a6ce0e0b05e3ef6b5c9280ff47e8/ab90fffc/BrianLam_2.PNG",
+        "filename": "Brian Lam_2.PNG",
+        "size": 519328,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/39abafda241154aa1d381d71583159e5/f6f8163a",
+            "width": 39,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c1cb54411758652dbe2e978495bcfcb/181e999c",
+            "width": 528,
+            "height": 487
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e8bc7f9f4f38124c1c8e37c410307688/fb22b9c1",
+            "width": 528,
+            "height": 487
+          }
+        }
+      }
+    ]
   },
   "recRi0DzgFo7stxIf": {
     "createdTime": "2019-01-23T09:26:23.000Z",
@@ -25169,7 +25325,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "attAMyOwIhcyhEU2F",
+        "url": "https://dl.airtable.com/.attachments/b5e66d6181c709b4c5442ee2e08cc6cf/2f31e26d/YangziHe_2.PNG",
+        "filename": "Yangzi He_2.PNG",
+        "size": 633135,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37ca8a832401df6f964308db27424906/922752ac",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/46e59d2924ebdc708c8920526bf7709e/f7cdeb10",
+            "width": 546,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/73fb0b82ac0e3d177b71edc752557e68/7c8903ff",
+            "width": 623,
+            "height": 584
+          }
+        }
+      }
+    ]
   },
   "recFYnNSNlVjMWSFJ": {
     "createdTime": "2019-01-23T09:26:27.000Z",
@@ -25185,7 +25367,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "attqKtgFXEQ1y2Yde",
+        "url": "https://dl.airtable.com/.attachments/d7937820c42911de538ac18ccd615281/b1b07f67/QingWong.PNG",
+        "filename": "Qing Wong.PNG",
+        "size": 251594,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cc7a050b276dcde3190da0a31e4cca94/30c8749f",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7ceb7cfe6c5622a794c1a7713c77bc4b/93ea608b",
+            "width": 414,
+            "height": 405
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f73f93755d06a1975d64ea074b7c7d1/a7d86b8b",
+            "width": 414,
+            "height": 405
+          }
+        }
+      }
+    ]
   },
   "recom0BVDGyT0facY": {
     "createdTime": "2019-01-23T09:26:43.000Z",
@@ -25417,7 +25625,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "attzX9j2Bk89vWtnx",
+        "url": "https://dl.airtable.com/.attachments/7a4d293ca3ddb9762390412228b0e401/2a845f0b/AlexKwon2.PNG",
+        "filename": "Alex Kwon)2.PNG",
+        "size": 370016,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1f030623cc8f6faab87d0ccda140dc32/b40de386",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f4f888ba34de16c15a6c5fcf52c0424/2ca49ea2",
+            "width": 462,
+            "height": 486
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e77ebe4d57e2cdd019a3862084aba6e8/c283b94b",
+            "width": 462,
+            "height": 486
+          }
+        }
+      }
+    ]
   },
   "reccSr1Z8IOGdvJ6y": {
     "createdTime": "2019-01-23T09:27:15.000Z",
@@ -25465,7 +25699,33 @@ export let PersonPositions = {
     "groupType": [
       "team"
     ],
-    "isValid": "OK"
+    "isValid": "OK",
+    "picture": [
+      {
+        "id": "atttbeQURRJRw65W7",
+        "url": "https://dl.airtable.com/.attachments/117af472096eb3d313a825d6a76341ba/3de2111c/AlexKwon.PNG",
+        "filename": "Alex Kwon.PNG",
+        "size": 544906,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/27a908f4e17490ab1fa9b2fdcebebe93/5c5f73c7",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3169361e56749cc2a40800f154ab9250/5c46734b",
+            "width": 522,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/30889f8ae32ed9c2f923d22437b4d8a4/a0b62abe",
+            "width": 655,
+            "height": 642
+          }
+        }
+      }
+    ]
   },
   "recpy3gH8l2nh2IXJ": {
     "createdTime": "2019-01-23T09:31:30.000Z",
