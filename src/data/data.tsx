@@ -413,10 +413,7 @@ export let People = {
     "createdTime": "2018-10-04T02:47:57.000Z",
     "id": "recsIrG39H7oCENrA",
     "name": "Clara Park",
-    "positionIds": [
-      "reccrJOnJTsEoi3Ec"
-    ],
-    "#positionIds": 1
+    "#positionIds": 0
   },
   "recFHTImw5G3ebb3P": {
     "createdTime": "2018-10-18T00:29:31.000Z",
@@ -763,9 +760,10 @@ export let People = {
     "id": "recBiWbxo0ly1HtJS",
     "name": "Jonah Tang",
     "positionIds": [
-      "recV1ZpVswX7PICAt"
+      "recV1ZpVswX7PICAt",
+      "rec3Jmm3aPLJQf4ge"
     ],
-    "#positionIds": 1
+    "#positionIds": 2
   },
   "recZ4bppVkukHelyx": {
     "createdTime": "2018-10-17T22:34:20.000Z",
@@ -1140,10 +1138,7 @@ export let People = {
     "createdTime": "2018-10-04T02:47:47.000Z",
     "id": "rec8Bd60VEzSli6cO",
     "name": "Richard Wu",
-    "positionIds": [
-      "recjT5aFHb5TsnMbd"
-    ],
-    "#positionIds": 1
+    "#positionIds": 0
   },
   "recKBDLL5lmSDiNTY": {
     "createdTime": "2018-10-17T22:58:19.000Z",
@@ -1219,12 +1214,11 @@ export let People = {
     "id": "recxAxAFK4ULZWdyr",
     "name": "Sean Zhu",
     "positionIds": [
-      "recc9EiCmYyLyzfT0",
       "reciObpc8gPiKo1In",
       "recBLHw7zLuyZc4Zg",
       "recyjkm1cPMUEdizT"
     ],
-    "#positionIds": 4
+    "#positionIds": 3
   },
   "recl0MAVB8URRERpr": {
     "createdTime": "2018-10-18T00:30:36.000Z",
@@ -3045,9 +3039,10 @@ export let People = {
     "id": "recDPvXZ08hFkxLMT",
     "name": "Alison Tanubrata",
     "positionIds": [
-      "recSgN3IK2uBmT6bC"
+      "recSgN3IK2uBmT6bC",
+      "recMm7PyNw6042frN"
     ],
-    "#positionIds": 1
+    "#positionIds": 2
   },
   "recQsJ6PIFgKl7vXv": {
     "createdTime": "2019-01-23T09:44:19.000Z",
@@ -3363,15 +3358,6 @@ export let People = {
     ],
     "#positionIds": 1
   },
-  "recGrSfoZNeFqq9yS": {
-    "createdTime": "2019-02-13T02:24:10.000Z",
-    "id": "recGrSfoZNeFqq9yS",
-    "name": "Alison Tanubrata",
-    "positionIds": [
-      "recug5evssA4BD6et"
-    ],
-    "#positionIds": 1
-  },
   "recTOwrco7BUOEMrC": {
     "createdTime": "2019-02-13T02:24:10.000Z",
     "id": "recTOwrco7BUOEMrC",
@@ -3384,17 +3370,6 @@ export let People = {
 }
 
 export let Groups = {
-  "recAlXOGF37p5Qrtk": {
-    "createdTime": "2018-09-28T02:24:41.000Z",
-    "id": "recAlXOGF37p5Qrtk",
-    "name": "AFX Tech Fall 2018",
-    "positionIds": [
-      "recc9EiCmYyLyzfT0",
-      "recjT5aFHb5TsnMbd",
-      "reccrJOnJTsEoi3Ec"
-    ],
-    "type": "board"
-  },
   "recPirtCISJXDTV4w": {
     "createdTime": "2019-01-23T09:04:10.000Z",
     "id": "recPirtCISJXDTV4w",
@@ -6541,6 +6516,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
+    ],
+    "teamPicture": [
+      {
+        "id": "attRTE6Hd3tUXakNC",
+        "url": "https://dl.airtable.com/.attachments/052cc0a253b314b13f3a71bcbf4975c5/51c6deba/RheeL.jpg",
+        "filename": "RheeL.jpg",
+        "size": 93841,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/10ef50d60359061c5bfb8b22cc8411a8/950c59aa",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a8a939e504a9098a4b34e9ce9fee51f3/5237c129",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8cb283b057110ee9fa15afbbaa8b565b/808cf2fe",
+            "width": 1334,
+            "height": 890
+          }
+        }
+      }
     ]
   },
   "recQLC0SGq1JalhZy": {
@@ -6555,12 +6556,38 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
+    ],
+    "teamPicture": [
+      {
+        "id": "attbiBkRRwsDZZtuz",
+        "url": "https://dl.airtable.com/.attachments/07365a327cd6d950213a0e56c259e499/c6414278/Juicebox.jpg",
+        "filename": "Juicebox.jpg",
+        "size": 107918,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/efeb4f96599d7741ffc30f1be741701a/64bd20b3",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8758ef054af5f9ccd1f166fb2ea76920/8e0d7db7",
+            "width": 769,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fd6d7dd4282c9a19af7da427c5a30e9c/49f9a087",
+            "width": 1080,
+            "height": 719
+          }
+        }
+      }
     ]
   },
   "rechL3W2Vi7wov83L": {
     "createdTime": "2019-01-23T09:38:24.000Z",
     "id": "rechL3W2Vi7wov83L",
-    "name": "AFX Christoria",
+    "name": "AFX ChrisToria",
     "positionIds": [
       "recl9R7y99PMhmHDW",
       "recV0D4c9roitEuFm"
@@ -6568,6 +6595,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
+    ],
+    "teamPicture": [
+      {
+        "id": "attyHFbskFHmVmgUZ",
+        "url": "https://dl.airtable.com/.attachments/f747d4dc3c8be2881e00cb5098424a32/4c7128cc/ChrisToria.jpg",
+        "filename": "ChrisToria.jpg",
+        "size": 303185,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c8a2963317555dcd0c3404b2958e30c/b7d1393a",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f65f295f6cd583fdd85c8e3270a5857a/5be259f1",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/50c940618ee0a3bd1a75e44738efd053/b2d68be9",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
     ]
   },
   "rec6qXkPYRtQRgQts": {
@@ -6582,6 +6635,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
+    ],
+    "teamPicture": [
+      {
+        "id": "att9PhDIFehOVHije",
+        "url": "https://dl.airtable.com/.attachments/7a6c79c261b71eb9b205fada20db4ff2/732dd174/AFXAllies.PNG",
+        "filename": "AFX Allies.PNG",
+        "size": 908630,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2faae07865423c017d9b23e5d7575da4/4944c734",
+            "width": 70,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8a5680b7de1b57744539c81c980b5ca0/b58d25cd",
+            "width": 742,
+            "height": 380
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/33b1192a5d7c97db835bafbac806b4e7/a4531aab",
+            "width": 742,
+            "height": 380
+          }
+        }
+      }
     ]
   },
   "rec0VciUnJmJJ6oeD": {
@@ -6595,7 +6674,34 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "teamPicture": [
+      {
+        "id": "attzm0phzD2xmTGza",
+        "url": "https://dl.airtable.com/.attachments/f3f8d6537abf2c2f8e69173eeb599d40/3a03a08d/AFXATP.jpg",
+        "filename": "AFX ATP.jpg",
+        "size": 358718,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f9dbc7341c3c95d13234b95b376acc25/71c0da18",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7ff435052128ca43338dad6daefcd699/6e168867",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ff5bba218dd3b17151e9786c6d95f049/c41a0bee",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=pX2fFt8yzis"
   },
   "recaZjoItED6gXEdr": {
     "createdTime": "2019-01-23T09:38:38.000Z",
@@ -6609,7 +6715,34 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "teamPicture": [
+      {
+        "id": "attxURzcT4niUICCS",
+        "url": "https://dl.airtable.com/.attachments/f1fa52e16cb94dd1d16bcf6cc938d197/97031198/BigBrother.jpg",
+        "filename": "BigBrother.jpg",
+        "size": 708117,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/888f34534b70a91a0af29fc787d6a05d/53d0c150",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b2ae2d79edc5d10b1bf0b927767da0e/9bf75c1a",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/99e836a6954e3932315f4ae7f9a03a23/90fbe499",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_wc7T1f_crg"
   },
   "recH77oO4ipgKWSO7": {
     "createdTime": "2019-01-23T09:38:47.000Z",
@@ -6623,6 +6756,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
+    ],
+    "teamPicture": [
+      {
+        "id": "attGlUdWkAN8dMeRF",
+        "url": "https://dl.airtable.com/.attachments/b9d93f41d22dec204aedfb5b807f279d/cc3a549d/DesertThirst.jpg",
+        "filename": "Desert Thirst.jpg",
+        "size": 552275,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3fcf9b064e8e7f87286d517dffede437/042f5238",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c4ea641b06928746ed51cdb1b849dcfe/26489f64",
+            "width": 911,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/65c1b17430e66746a8c7eb8e4e28fbdc/f94b2b7b",
+            "width": 2048,
+            "height": 1151
+          }
+        }
+      }
     ]
   },
   "recYKZTGxchrDzELp": {
@@ -6635,7 +6794,34 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "teamPicture": [
+      {
+        "id": "attzBcU8d0X9ybbq3",
+        "url": "https://dl.airtable.com/.attachments/f3375c016189af4d292de53dd6890a60/430a757f/Eyecandy.PNG",
+        "filename": "Eyecandy.PNG",
+        "size": 881362,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c962b551a90d3a1db0016c8d70be743/4cc31387",
+            "width": 67,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c4bb4065b3575f0790eabe40f34f5a6e/83412756",
+            "width": 735,
+            "height": 393
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7784b8b940eec8dbcfcfc2e765e0a171/7b7499df",
+            "width": 735,
+            "height": 393
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=NmnHCAgPjH4"
   },
   "rec7OSPyLVxDKm2sV": {
     "createdTime": "2019-01-23T09:38:54.000Z",
@@ -6649,6 +6835,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
+    ],
+    "teamPicture": [
+      {
+        "id": "attgqD8TLF20lE9xl",
+        "url": "https://dl.airtable.com/.attachments/dcd01958a9cf2d3e23b4febaeaaef9d6/40168348/AFXJem.jpg",
+        "filename": "AFX Jem.jpg",
+        "size": 410086,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e67e348b787c6026bded16b70c148f50/eebade70",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f79f14f60ae2e4d2f95046c5b2262dda/aa09fdd6",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2f3da530799b302a53b26d6fb206f282/35515198",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      }
     ]
   },
   "recRWachvE4BArxyb": {
@@ -6663,6 +6875,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
+    ],
+    "teamPicture": [
+      {
+        "id": "attqOIbjhStDRbzRS",
+        "url": "https://dl.airtable.com/.attachments/1cd3a7c75454c4d13fe844d2f6648ab4/6c89c81d/AFXS3.jpg",
+        "filename": "AFX S3.jpg",
+        "size": 137994,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/574cefb4a5d8e25621e8971c4a588b76/5029c25b",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2a11b9fdf1caabc5f31411f4b95a2881/da2be595",
+            "width": 769,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3fff3f5ac840f3e3efc9f03dc8f446b/7d211e7f",
+            "width": 960,
+            "height": 639
+          }
+        }
+      }
     ]
   },
   "recV24mdNgq8HICTK": {
@@ -6677,6 +6915,32 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
+    ],
+    "teamPicture": [
+      {
+        "id": "att61xNw1Z1bbQSpu",
+        "url": "https://dl.airtable.com/.attachments/d4da6d24f69d4473ff7dd86f71ac7a43/cd2a0831/Technicality.jpg",
+        "filename": "Technicality.jpg",
+        "size": 195716,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7ad801c58a94df745adfaf6c9047e3f/e1e6b0ca",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/29503ca98864f98d0fbb8692ea73c912/35adc08b",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0c2ae11d975a1923fe7975aff76f1bb0/e66f4a03",
+            "width": 2048,
+            "height": 1152
+          }
+        }
+      }
     ]
   },
   "recRStEXgCZeq7Ieb": {
@@ -6806,7 +7070,8 @@ export let Groups = {
     "name": "AFX MO",
     "positionIds": [
       "rectlTd1rXE5DTSXz",
-      "rec7aJttlzTYQblrx"
+      "rec7aJttlzTYQblrx",
+      "rec3Jmm3aPLJQf4ge"
     ],
     "type": "team",
     "teamSemesterId": [
@@ -6859,7 +7124,8 @@ export let Groups = {
     "name": "AFX Platinum",
     "positionIds": [
       "recug5evssA4BD6et",
-      "recN9aYiCQ9CYtj38"
+      "recN9aYiCQ9CYtj38",
+      "recMm7PyNw6042frN"
     ],
     "type": "team",
     "teamSemesterId": [
@@ -17391,6 +17657,9 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Sean Zhu, AFX Board Summer/Fall 2018 Tech Committee Lead",
     "groupType": [
       "board"
+    ],
+    "Corrections": [
+      "recJINZEAuMY1g8He"
     ]
   },
   "recQam7kgl8ewGaTj": {
@@ -17758,126 +18027,6 @@ export let PersonPositions = {
       "recn3dcDlodxrX69h"
     ],
     "(You can't directly edit this column)": "Rosemary Hua, AFX Founders 2011-2012 Founder",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recc9EiCmYyLyzfT0": {
-    "createdTime": "2018-10-04T02:47:30.000Z",
-    "id": "recc9EiCmYyLyzfT0",
-    "groupIds": [
-      "recAlXOGF37p5Qrtk"
-    ],
-    "picture": [
-      {
-        "id": "attUbCuqI2AbYhf1h",
-        "url": "https://dl.airtable.com/BECpTCkgTSyeH81ecth2_39939369_2099407156756501_5536017118589353984_o.jpg",
-        "filename": "39939369_2099407156756501_5536017118589353984_o.jpg",
-        "size": 654455,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/rouakvsDSK6qymk0K8io_small_39939369_2099407156756501_5536017118589353984_o.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/a21ovRoHQp8TchdSRmin_large_39939369_2099407156756501_5536017118589353984_o.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/3Nhj0IhPSEGyhDJgmOKx_full_39939369_2099407156756501_5536017118589353984_o.jpg",
-            "width": 1365,
-            "height": 2048
-          }
-        }
-      }
-    ],
-    "personIds": [
-      "recxAxAFK4ULZWdyr"
-    ],
-    "(You can't directly edit this column)": "Sean Zhu, AFX Tech Fall 2018 ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "recjT5aFHb5TsnMbd": {
-    "createdTime": "2018-10-04T02:48:05.000Z",
-    "id": "recjT5aFHb5TsnMbd",
-    "groupIds": [
-      "recAlXOGF37p5Qrtk"
-    ],
-    "picture": [
-      {
-        "id": "attknr8vuv9XPKOM1",
-        "url": "https://dl.airtable.com/U3f3r4hQPGCDvgCpW6yQ_RICHARD%20WU.jpg",
-        "filename": "RICHARD WU.jpg",
-        "size": 363222,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/uRLIe9mYQGS3oZVDjB5e_small_RICHARD%20WU.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/wyPWVRl4RMmHTXKHKNQ2_large_RICHARD%20WU.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/awCmqyRhTQiG1YOn1rz4_full_RICHARD%20WU.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "personIds": [
-      "rec8Bd60VEzSli6cO"
-    ],
-    "(You can't directly edit this column)": "Richard Wu, AFX Tech Fall 2018 ",
-    "groupType": [
-      "board"
-    ]
-  },
-  "reccrJOnJTsEoi3Ec": {
-    "createdTime": "2018-10-04T02:48:26.000Z",
-    "id": "reccrJOnJTsEoi3Ec",
-    "groupIds": [
-      "recAlXOGF37p5Qrtk"
-    ],
-    "picture": [
-      {
-        "id": "att7Pp3tIGNdRUkyE",
-        "url": "https://dl.airtable.com/lLCC4bDESkeEhuNNbQq2_CLARA%20PARK.jpg",
-        "filename": "CLARA PARK.jpg",
-        "size": 226473,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/RkDMP3oxRcOFpdfvQ589_small_CLARA%20PARK.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/GCYyPi8XR0ecabcNgdt8_large_CLARA%20PARK.jpg",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/sIHN9zWrTkCS727DcY9f_full_CLARA%20PARK.jpg",
-            "width": 2048,
-            "height": 1366
-          }
-        }
-      }
-    ],
-    "personIds": [
-      "recsIrG39H7oCENrA"
-    ],
-    "(You can't directly edit this column)": "Clara Park, AFX Tech Fall 2018 ",
     "groupType": [
       "board"
     ]
@@ -18676,6 +18825,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Timothy Corpuz, AFX ATP Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attRqMWdF5m2R6ZzR",
+        "url": "https://dl.airtable.com/.attachments/3a1c6fd6ca1d605117b627a960fdb4c7/62ba507b/TimothyCorpuz.PNG",
+        "filename": "Timothy Corpuz.PNG",
+        "size": 356495,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5f65d415d15889d76f89bd223692aac6/f634fc3f",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b94a2ac78cb2b4e096ae11be7048f605/58e85f58",
+            "width": 512,
+            "height": 530
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d25f7b8c49e6031e590990dba2c8ddbc/aaa0434a",
+            "width": 525,
+            "height": 543
+          }
+        }
+      }
     ]
   },
   "reco4qEdiSgJa57Iq": {
@@ -18762,6 +18937,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Bryan Lov, AFX BigBrother Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attBUHjx4tcbHpwnl",
+        "url": "https://dl.airtable.com/.attachments/f1fcf4b2ca48fe043bf8aa75f486ef83/32d49a44/BryanLov_BB.PNG",
+        "filename": "Bryan Lov_BB.PNG",
+        "size": 356264,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04ec5e0b924251415bace647f0d77854/880ba833",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f6f376e91d26a1b28ca9410aad32c92d/e036ec6a",
+            "width": 584,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5254b82e93677aef3d85c5dad3da4e47/5dacc3d8",
+            "width": 744,
+            "height": 652
+          }
+        }
+      }
     ]
   },
   "rec8FjekR65k5yXkL": {
@@ -18777,6 +18978,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Gilbert Lin, AFX BigBrother Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attdIFt8ZSpZ3MImh",
+        "url": "https://dl.airtable.com/.attachments/877195aefea51bddd69709bd1dd1f26f/2f42617d/GilbertLin.PNG",
+        "filename": "Gilbert Lin.PNG",
+        "size": 490047,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7abb76aaca2d2b2b63eb06ada68ad0a4/731fc515",
+            "width": 43,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c01b4f171207d5ecf802a88993f28eaf/a5bc8809",
+            "width": 546,
+            "height": 457
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/741e7ac4d090ff1de9532045327acdca/eac0dcc5",
+            "width": 546,
+            "height": 457
+          }
+        }
+      }
     ]
   },
   "rec66ocK4tWPfNtDW": {
@@ -19148,9 +19375,35 @@ export let PersonPositions = {
     "personIds": [
       "recluqLVujMSWoHUV"
     ],
-    "(You can't directly edit this column)": "Chris Kim, AFX Christoria Director",
+    "(You can't directly edit this column)": "Chris Kim, AFX ChrisToria Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attGtzSqpXEYgyT7Y",
+        "url": "https://dl.airtable.com/.attachments/22e94faa112774f00bf918542da2a2a0/92ebe4bf/ChrisKim.PNG",
+        "filename": "Chris Kim.PNG",
+        "size": 281493,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a9923043105bcd26808a3d0dbea5da38/fb039cd2",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/546abcaf321a450202dc91d20299e577/64e5f904",
+            "width": 469,
+            "height": 466
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1158a1c4d0315286cf8f54ef75d271ff/49e2bc9e",
+            "width": 469,
+            "height": 466
+          }
+        }
+      }
     ]
   },
   "recV0D4c9roitEuFm": {
@@ -19163,9 +19416,35 @@ export let PersonPositions = {
     "personIds": [
       "recwFJemNLcX2Xhhp"
     ],
-    "(You can't directly edit this column)": "Victoria Du, AFX Christoria Director",
+    "(You can't directly edit this column)": "Victoria Du, AFX ChrisToria Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attKJgOd1wDQFFu1A",
+        "url": "https://dl.airtable.com/.attachments/60185ededd6bf688d1b41fd63ad12fd9/ca2146f4/VictoriaDu.PNG",
+        "filename": "Victoria Du.PNG",
+        "size": 508420,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/45944ca16869e7ec1bd52df26c87ff86/f50a1ac2",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/935e4f133b317cb76da1dbefe7e2a74a/ef5a8262",
+            "width": 530,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/91888d44a4a40995b8fe119a49875d3d/c3862b1d",
+            "width": 541,
+            "height": 523
+          }
+        }
+      }
     ]
   },
   "rec1HZHoLGdQLhZqj": {
@@ -19678,6 +19957,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Anna Dai Feng, AFX Desert Thirst Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "att5AxMcIptBffdhq",
+        "url": "https://dl.airtable.com/.attachments/54be8f83d82d27b552fa8cc2a448d42c/818a16fb/AnnaDaiFeng.PNG",
+        "filename": "Anna Dai Feng.PNG",
+        "size": 596978,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c18c10f58affff0388697875a3013bc2/d3072c62",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dc30d529ad5430f1b450d97470875b97/908819af",
+            "width": 531,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e68e943378b7cdaf3872a6a0668bf910/3d430ca4",
+            "width": 531,
+            "height": 512
+          }
+        }
+      }
     ]
   },
   "recCQZoaBvk8TLQ9G": {
@@ -19693,6 +19998,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Jonathan Ting, AFX Desert Thirst Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attlGwOhgUvQYGoTc",
+        "url": "https://dl.airtable.com/.attachments/013cbc98d83dc71a17fbf9c8ca2b96d8/4728a44e/JonathanTing.PNG",
+        "filename": "Jonathan Ting.PNG",
+        "size": 599099,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ff8d6fc875f5db77f4b5a62e62ceb54b/f010dad9",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0ba570c3a30f83bed29c57352d59dec6/ff366685",
+            "width": 534,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4ee4ddd07c47de87c54c3bd96ed0af8c/0b9762cf",
+            "width": 568,
+            "height": 545
+          }
+        }
+      }
     ]
   },
   "recBcvQ75mGgJJezA": {
@@ -20601,6 +20932,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Emily Duan, AFX JEM Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attfcmDQac3pEf6gf",
+        "url": "https://dl.airtable.com/.attachments/51f8120c2770551be9c823124f5a89c3/a21e2c25/EmilyDuan.PNG",
+        "filename": "Emily Duan.PNG",
+        "size": 697201,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fc5348ae4e498775f1cdc58b1992e64b/e08779be",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3547c7ea0a6adc20289f6fcd72dda313/a99bd057",
+            "width": 512,
+            "height": 516
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1e7a95286671a06b6dc24be971ec6809/45cd7b74",
+            "width": 564,
+            "height": 568
+          }
+        }
+      }
     ]
   },
   "recl8L4sBNPKZAtbQ": {
@@ -20616,6 +20973,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Michael Chu, AFX JEM Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attcJa18787zzYrJL",
+        "url": "https://dl.airtable.com/.attachments/a64d29af0f675f3e274bc922735a7361/4b4f1888/MichaelChu.PNG",
+        "filename": "Michael Chu'.PNG",
+        "size": 203799,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3855dbd0c610676abad88f269a9be708/328b5af0",
+            "width": 30,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/61df94598e9cf318b1d9e7557a7b3a51/1e8d64f6",
+            "width": 344,
+            "height": 412
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/836425052bbea687874f9b269e1eee71/09fe85ef",
+            "width": 344,
+            "height": 412
+          }
+        }
+      }
     ]
   },
   "rec0xKgz6Wer2qKtX": {
@@ -22723,6 +23106,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attwqxFXaQDbuir89",
+        "url": "https://dl.airtable.com/.attachments/a54d7295ac9813a9f82e71f9445f356d/fd3d15f1/JacquelineTsang.PNG",
+        "filename": "Jacqueline Tsang.PNG",
+        "size": 828598,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b31f946362c333fbb08991c82f85fd29/6364e253",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c4c74eff2427708717af05ca8cb75698/dec4b7f0",
+            "width": 512,
+            "height": 531
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7cb550fee65cf79abc394b99ff882519/fb072e7e",
+            "width": 607,
+            "height": 630
+          }
+        }
+      }
     ]
   },
   "recSgN3IK2uBmT6bC": {
@@ -22738,6 +23147,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attBYMOGbttZ1P6QG",
+        "url": "https://dl.airtable.com/.attachments/f201a583ae347f5030030a6b67ba9e73/2eb60666/AlisonTanubrata_S3.PNG",
+        "filename": "Alison Tanubrata_S3.PNG",
+        "size": 598950,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c3244253739bd4789b133105127a2fda/1d6483fa",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8ea790688cdcbfe15dd30e7a5dc7fb9f/1c5fa724",
+            "width": 474,
+            "height": 451
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/621d93b752cd69bdd5dad13c070a6905/61083621",
+            "width": 474,
+            "height": 451
+          }
+        }
+      }
     ]
   },
   "recMgA1tjWR6Ow0gV": {
@@ -22753,6 +23188,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attRLBIcv9H1XORKm",
+        "url": "https://dl.airtable.com/.attachments/388c59a1d62c737796b5002565d42abb/03566a8e/AlyssaGonzaga.PNG",
+        "filename": "Alyssa Gonzaga.PNG",
+        "size": 638217,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ea32ba44f627711e63e68268ae6d984c/257830f6",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e5120673a7586eb6a69fbacabfb5efe4/eb750704",
+            "width": 467,
+            "height": 477
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d675af7d2f874ae527994943825777d7/644b9a71",
+            "width": 467,
+            "height": 477
+          }
+        }
+      }
     ]
   },
   "recivtfQKQEnduwoo": {
@@ -23049,6 +23510,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Peggy Shih, AFX Technicality Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attGSS3S9UxeFmQgI",
+        "url": "https://dl.airtable.com/.attachments/488eaaf453f3700f731ef94c733536a9/c1f4bdff/PeggyShih.PNG",
+        "filename": "Peggy Shih.PNG",
+        "size": 330229,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e624adffa078e328c1a9c08706c7d416/82c98648",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fc08b0fe049e174af012abaa1550e062/5acb9e59",
+            "width": 456,
+            "height": 441
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/81324fdd4edcc0e5c3ab5e669895eafc/2c4096d1",
+            "width": 456,
+            "height": 441
+          }
+        }
+      }
     ]
   },
   "recMxD6S3cVd6WWEN": {
@@ -23064,6 +23551,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Allan Chin, AFX Technicality Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attT4QahSgRlfJPSi",
+        "url": "https://dl.airtable.com/.attachments/2d414f6f4966cdad56d9bf06b9225484/13ff3332/AllanChin.PNG",
+        "filename": "Allan Chin.PNG",
+        "size": 593851,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1035744d0e068c1abb59ca3763c3b513/a6f79caf",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0262f4c7db18d8a9b4e036027568c1a8/06ced295",
+            "width": 496,
+            "height": 478
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8b3c0fac5d102ee6809b407094fbaa5f/3741b820",
+            "width": 496,
+            "height": 478
+          }
+        }
+      }
     ]
   },
   "recaw2QlP9MfjwOEA": {
@@ -23079,6 +23592,32 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Angela Gao, AFX Technicality Director",
     "groupType": [
       "team"
+    ],
+    "picture": [
+      {
+        "id": "attH0RYku4LtlHxrV",
+        "url": "https://dl.airtable.com/.attachments/00fb4599e4e079f56e22b7799bb22ea7/c5419c38/AngelaGao.PNG",
+        "filename": "Angela Gao.PNG",
+        "size": 325409,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f8a863dfd9980624f460b310f2675b72/9b799018",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/59e673e761293f391dd57e289e2f052f/8f9952f3",
+            "width": 490,
+            "height": 432
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2bb56576e31f368350e3eabf93ecc4e5/557a642a",
+            "width": 490,
+            "height": 432
+          }
+        }
+      }
     ]
   },
   "recmtP7sfQi7Ziuqj": {
@@ -24741,6 +25280,32 @@ export let PersonPositions = {
       "recjmrarPLS2cLFP6"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attNqhObCUe28jIaT",
+        "url": "https://dl.airtable.com/.attachments/0ee3e2be9cdb4ad6944fa0bbea4a765a/649ebce9/KirkLa_Milk.PNG",
+        "filename": "Kirk La_Milk.PNG",
+        "size": 661960,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/27f4d5304f63f8045c4cd385b309e2b4/8375888c",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42868871204a7a1427bc05a7a9eba21a/f082246f",
+            "width": 509,
+            "height": 528
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b5cd54dc42a06c72f8fb0c6030a89958/aefbc682",
+            "width": 509,
+            "height": 528
+          }
+        }
+      }
+    ],
     "personIds": [
       "rec4UfhaS3ZcsKOfU"
     ],
@@ -24756,6 +25321,32 @@ export let PersonPositions = {
       "recjmrarPLS2cLFP6"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attNlRe9YRbCejlL8",
+        "url": "https://dl.airtable.com/.attachments/b3d6c735c6aa2741d372bdc6114a7619/9ea63fbf/MarkReed_Milk.PNG",
+        "filename": "Mark Reed_Milk.PNG",
+        "size": 375870,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f69b8b1f58b80ab8067be0317e66d7e/2dbd5532",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d302f680bfe075d50b3cf9c6f8d5d9e5/949a113e",
+            "width": 461,
+            "height": 434
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f8d3bee73397d4cb9cfa253a33691ecc/39072813",
+            "width": 461,
+            "height": 434
+          }
+        }
+      }
+    ],
     "personIds": [
       "recOaZV3dVyIjCQX5"
     ],
@@ -24771,6 +25362,32 @@ export let PersonPositions = {
       "recjmrarPLS2cLFP6"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "att7XpgsAmYfY0q0m",
+        "url": "https://dl.airtable.com/.attachments/b126da560f0f46e81353906b57793164/bcf993cc/WilfredSalacup_Milk.PNG",
+        "filename": "Wilfred Salacup_Milk.PNG",
+        "size": 358309,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/130037f060d1cbe25dbaf4fcf8d7d2c1/0775f34c",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/de608f58d801b8a413dae71fbc8416e9/867dfcc7",
+            "width": 382,
+            "height": 437
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2f7781d0095470c380d2639334653581/51d9c14b",
+            "width": 382,
+            "height": 437
+          }
+        }
+      }
+    ],
     "personIds": [
       "recWC7yK5Re53KiVd"
     ],
@@ -24980,6 +25597,32 @@ export let PersonPositions = {
       "recn6LlGtFykr0SZo"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attj5G21SZLnzhq6K",
+        "url": "https://dl.airtable.com/.attachments/f661b9b2fcb48e34792d0e28a61e40b1/901e541b/LilianChen.PNG",
+        "filename": "Lilian Chen.PNG",
+        "size": 773859,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a68d9480b6e20c983efd9300676123f4/ee85d91e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/537a801dd4e399d0b7f20120a2ec8ae5/4ed14c16",
+            "width": 513,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a5b43f552eb3d03d7d51df4501029a6d/72f771f9",
+            "width": 547,
+            "height": 546
+          }
+        }
+      }
+    ],
     "personIds": [
       "recBQkVU3UY4DnEmk"
     ],
@@ -26724,26 +27367,26 @@ export let PersonPositions = {
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "attQXdmIMB8X6EIc0",
-        "url": "https://dl.airtable.com/.attachments/b5213431ce899ed5205f331599606b07/c0b64721/MaxwellNguyen.PNG",
+        "id": "att4rxFwxURDVY4ZI",
+        "url": "https://dl.airtable.com/.attachments/9b43b5a4092ca211b9728dcee4075adb/1999050c/MaxwellNguyen.PNG",
         "filename": "Maxwell Nguyen.PNG",
-        "size": 1137047,
+        "size": 919123,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bd12093e749d7d3a64fef71b52db94a9/e786454c",
-            "width": 35,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/80e30f1cbe461df39d6fdcad2635530d/846d61ba",
+            "width": 34,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6cca2f5330abde3fc297262a00f56767/7b7eb832",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ac5bf8ff6143f96e750d1c603a6608f1/3b0a3302",
             "width": 512,
-            "height": 529
+            "height": 544
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a19816b0bc46ed6da70c9224e4ac5603/37559e02",
-            "width": 649,
-            "height": 670
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7e5471da50c70545694127f3275443bb/83af37c8",
+            "width": 568,
+            "height": 604
           }
         }
       }
@@ -26994,10 +27637,7 @@ export let PersonPositions = {
         }
       }
     ],
-    "personIds": [
-      "recGrSfoZNeFqq9yS"
-    ],
-    "(You can't directly edit this column)": "Alison Tanubrata, AFX Platinum Director",
+    "(You can't directly edit this column)": ", AFX Platinum Director",
     "groupType": [
       "team"
     ]
@@ -27123,6 +27763,88 @@ export let PersonPositions = {
     "(You can't directly edit this column)": "Marvie Alcaraz, AFX M.A.D. Director",
     "groupType": [
       "team"
+    ]
+  },
+  "rec3Jmm3aPLJQf4ge": {
+    "createdTime": "2019-02-13T08:17:30.000Z",
+    "id": "rec3Jmm3aPLJQf4ge",
+    "groupIds": [
+      "recwgKaikrIi37mzE"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attuGQu3z3Bju8o3x",
+        "url": "https://dl.airtable.com/.attachments/cfbd76f2dbc8bd615e218f37d745132e/5c915302/JonahTang.PNG",
+        "filename": "Jonah Tang.PNG",
+        "size": 902267,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dcd488d0b7b316ee988049755a2cdeab/90cc3a68",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a48ea08c14ee0186e2b999c271e449a2/d18d5daf",
+            "width": 512,
+            "height": 519
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b089a95cb3536511814efe7e1bfabcc0/0326404f",
+            "width": 625,
+            "height": 634
+          }
+        }
+      }
+    ],
+    "personIds": [
+      "recBiWbxo0ly1HtJS"
+    ],
+    "(You can't directly edit this column)": "Jonah Tang, AFX MO Director",
+    "groupType": [
+      "team"
+    ]
+  },
+  "recMm7PyNw6042frN": {
+    "createdTime": "2019-02-13T08:59:39.000Z",
+    "id": "recMm7PyNw6042frN",
+    "(You can't directly edit this column)": "Alison Tanubrata, AFX Platinum Director",
+    "personIds": [
+      "recDPvXZ08hFkxLMT"
+    ],
+    "groupIds": [
+      "recVE43xY4VQvYs7j"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attV9pwaegtE760Q7",
+        "url": "https://dl.airtable.com/.attachments/bf69e1f38650d4625ec1a36c848e6336/025991af/AlisonTanubrata.PNG",
+        "filename": "Alison Tanubrata.PNG",
+        "size": 539828,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/30e65ba9f40f6ba21ade3847c02189e7/cb1a2c36",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/09e962017ed39bbb7fc6fdff4d35f7fe/de1c93bc",
+            "width": 488,
+            "height": 480
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/65c90fc6f6191f7f12321e272fb72e14/52646677",
+            "width": 488,
+            "height": 480
+          }
+        }
+      }
     ]
   }
 }
