@@ -512,6 +512,7 @@ template {
 /* line 27, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
 html {
   font-size: 100.01%;
+  min-width: 800px;
 }
 
 /* line 28, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
@@ -3580,16 +3581,14 @@ strong {
   transition: 0.5s ease;
 }
 
-.vid-padding {
-  padding-bottom: 56.25%;
-}
-
 .video-container {
   width: 100%;
   padding-bottom: 56.25%;
   overflow: hidden;
-  position: fixed;
+  position: sticky;
+  position: -webkit-sticky;
   z-index: -100;
+  top: 0;
 }
 
 .video {
