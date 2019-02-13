@@ -33,8 +33,8 @@ const POSITION_TITLE_ORDER = [
 ];
 
 /**
- * Returns a value of the form
- *   [(index of position title in the array above), (person name)]
+ * Returns a string of the form
+ *   "(index of position title in the array above)(person name)""
  *
  * Used to sort personPositions by title then by person's name.
  */
@@ -46,11 +46,16 @@ function personPositionSortKey(personPosition: PersonPosition) {
   // These positions will appear after all of the ones that are found above.
   if (titleKey === -1) {
     titleKey = personPosition.positionTitle;
+  } else {
+    // Convert the number into string, left-padded with zeros.
+    // (Otherwise, "2" will get sorted after "10".)
+    // https://stackoverflow.com/q/10073699#comment43818360_10073699
+    titleKey = ("00000" + titleKey).slice(-5);
   }
 
   let person = Data.People[personPosition.person[0]];
 
-  return [titleKey, person.name];
+  return titleKey + person.name;
 }
 
 // Used for displaying a single set of board members for a semester
