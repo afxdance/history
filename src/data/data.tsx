@@ -314,9 +314,10 @@ export let People = {
       "recqnIywOC0Vr3Rlc",
       "recOpta8sOgUHtIAv",
       "recf2TJ7oiYZ3ENj7",
-      "recJjiPD0zp7cn6cG"
+      "recJjiPD0zp7cn6cG",
+      "recr0AaFG1kqeWhoy"
     ],
-    "#positionIds": 4
+    "#positionIds": 5
   },
   "recrAtRib7HBEcJB9": {
     "createdTime": "2018-10-17T22:37:47.000Z",
@@ -1155,9 +1156,10 @@ export let People = {
     "id": "recCmof4I4TUVFaZ3",
     "name": "Robert Yu",
     "positionIds": [
-      "recbGFrP03BLwiDTs"
+      "recbGFrP03BLwiDTs",
+      "recmyz5bFTgQVdDGa"
     ],
-    "#positionIds": 1
+    "#positionIds": 2
   },
   "recn3dcDlodxrX69h": {
     "createdTime": "2018-10-17T22:07:11.000Z",
@@ -3366,6 +3368,15 @@ export let People = {
       "recHyKoV3g9xnvw5y"
     ],
     "#positionIds": 1
+  },
+  "recYkAtp1Yz5Fcvif": {
+    "createdTime": "2019-02-13T10:15:44.000Z",
+    "id": "recYkAtp1Yz5Fcvif",
+    "#positionIds": 1,
+    "name": "Kathy Liu",
+    "positionIds": [
+      "recQpyHLkhOFrWiKe"
+    ]
   }
 }
 
@@ -7144,6 +7155,47 @@ export let Groups = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ]
+  },
+  "recc2ItnT2n7d7FrO": {
+    "createdTime": "2019-02-13T10:10:58.000Z",
+    "id": "recc2ItnT2n7d7FrO",
+    "name": "AFX RCK",
+    "positionIds": [
+      "recr0AaFG1kqeWhoy",
+      "recmyz5bFTgQVdDGa",
+      "recQpyHLkhOFrWiKe"
+    ],
+    "type": "team",
+    "teamSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ],
+    "teamPicture": [
+      {
+        "id": "attHmEIgXSi4skMyc",
+        "url": "https://dl.airtable.com/.attachments/797b9fbaef1c86bce978b20c0724b65b/3c27dac8/AFXRCK.PNG",
+        "filename": "AFX RCK.PNG",
+        "size": 786682,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed5122b3a6e423ce69eebd53fbcb2aad/3336dc24",
+            "width": 61,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/091619032784262e26bd9c33ef64b612/dc3664a8",
+            "width": 680,
+            "height": 403
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fe75241bb1a2cf8613d0eb3583787295/0af3cc65",
+            "width": 680,
+            "height": 403
+          }
+        }
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4vnXiJtjmp4"
   }
 }
 
@@ -28920,6 +28972,132 @@ export let PersonPositions = {
       }
     ],
     "isValid": "OK"
+  },
+  "recr0AaFG1kqeWhoy": {
+    "createdTime": "2019-02-13T10:10:48.000Z",
+    "id": "recr0AaFG1kqeWhoy",
+    "(You can't directly edit this column)": "Charmaine Lai, AFX RCK Director",
+    "isValid": "OK",
+    "personIds": [
+      "recnJ1jNx4hdHcs8S"
+    ],
+    "positionTitle": "Director",
+    "groupIds": [
+      "recc2ItnT2n7d7FrO"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "picture": [
+      {
+        "id": "attPfssMD2pIeqKVU",
+        "url": "https://dl.airtable.com/.attachments/e0b9a193a7ac120fcbc1c15cfcb637c1/877508dd/CharmaineLai.PNG",
+        "filename": "Charmaine Lai.PNG",
+        "size": 391597,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d3fd75a384673fd12997587f4f6123f6/1f49fd45",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a1bae3a51d9f26dd2f229c8e034580fe/84573a70",
+            "width": 417,
+            "height": 405
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7bbcade7164dd922c541decacacc8b96/17a5c06a",
+            "width": 417,
+            "height": 405
+          }
+        }
+      }
+    ]
+  },
+  "recmyz5bFTgQVdDGa": {
+    "createdTime": "2019-02-13T10:14:12.000Z",
+    "id": "recmyz5bFTgQVdDGa",
+    "(You can't directly edit this column)": "Robert Yu, AFX RCK Director",
+    "isValid": "OK",
+    "personIds": [
+      "recCmof4I4TUVFaZ3"
+    ],
+    "positionTitle": "Director",
+    "groupIds": [
+      "recc2ItnT2n7d7FrO"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "picture": [
+      {
+        "id": "attexBGnrceeEPgAr",
+        "url": "https://dl.airtable.com/.attachments/bb42fe426d3621f6f7844ad9b2c40bf8/ff6904ee/RobertYu.PNG",
+        "filename": "Robert Yu.PNG",
+        "size": 514420,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9b7e6bdb2053912e72a732c1f1e5905a/48e87708",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbac215bdb800409acceb65ab68c9126/0358dd9e",
+            "width": 518,
+            "height": 489
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42cc4fbc19257f9ee2f85794b5421b46/b11b3e0d",
+            "width": 518,
+            "height": 489
+          }
+        }
+      }
+    ]
+  },
+  "recQpyHLkhOFrWiKe": {
+    "createdTime": "2019-02-13T10:15:51.000Z",
+    "id": "recQpyHLkhOFrWiKe",
+    "(You can't directly edit this column)": "Kathy Liu, AFX RCK Director",
+    "isValid": "OK",
+    "personIds": [
+      "recYkAtp1Yz5Fcvif"
+    ],
+    "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "attyrShgihXV5SCvq",
+        "url": "https://dl.airtable.com/.attachments/7edd9f3f2a8cadde7d9f807e37ff10bb/f441d364/KathyLiu.PNG",
+        "filename": "Kathy Liu.PNG",
+        "size": 1016544,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eb276ab4ad1d589bc4519bd8a649d044/82190e17",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5f8792834154f646cf8399a47a776868/a60dd997",
+            "width": 603,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/659d1b4dde3856a5b62a1ac28152b2f6/ea829a55",
+            "width": 637,
+            "height": 541
+          }
+        }
+      }
+    ],
+    "groupIds": [
+      "recc2ItnT2n7d7FrO"
+    ],
+    "groupType": [
+      "team"
+    ]
   }
 }
 
@@ -29002,7 +29180,8 @@ export let Semesters = {
       "recgGEOokEasFJJkn",
       "recDV8rL7zVa2J6l5",
       "recw7gz6Y12j41aTG",
-      "recokuRWqWHMaWmuE"
+      "recokuRWqWHMaWmuE",
+      "recc2ItnT2n7d7FrO"
     ]
   },
   "recNgq1uYEeYnepMi": {
