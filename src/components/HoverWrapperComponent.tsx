@@ -97,6 +97,24 @@ export class HoverWrapperComponent extends React.Component<
       );
     }
 
+    // TODO: please refactor this to use CSS instead of inline styles
+    ret.push(
+      <div
+        className="rowOfHover"
+        style={{ textAlign: "center", display: "block" }}
+      >
+        Please let us know if any info is incorrect via&nbsp;
+        <a
+          href="https://airtable.com/shrES17bKJ3Xl1r0M"
+          target="_blank"
+          style={{ color: "white", textDecoration: "underline" }}
+        >
+          this form
+        </a>
+        .
+      </div>
+    );
+
     return (
       <span className="HoverWrapper" onMouseEnter={this.readjust}>
         <span className="HoverWrapper-inline">{this.props.children}</span>
