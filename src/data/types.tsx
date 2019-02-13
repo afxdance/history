@@ -45,6 +45,7 @@ export interface PersonPosition {
   personIds: string[];
   groupIds: string[];
   positionTitle: string;
+  sortKey: string;
   [x: string]: any;
 }
 // export let PersonPositions: { [x: string]: PersonPosition };

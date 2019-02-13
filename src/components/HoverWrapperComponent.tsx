@@ -1,6 +1,7 @@
+import * as lodash from "lodash";
 import * as React from "react";
 import * as AFX from "src/data/data";
-import { PersonPosition } from "src/data/types";
+import { Group, Person, PersonPosition, Semester } from "src/data/types";
 
 interface HoverWrapperComponentProp {
   pp: PersonPosition;
@@ -61,15 +62,17 @@ export class HoverWrapperComponent extends React.Component<
     // }
     const personID = pp.personIds[0];
 
-    const person = AFX.People[personID];
+    const person: Person = AFX.People[personID];
 
-    const len = person.positionIds.length;
+    let personPositions: PersonPosition[];
+    personPositions = person.positionIds.map(id => AFX.PersonPositions[id]);
+    personPositions = lodash.sortBy(
+      personPositions,
+      personPosition => personPosition.sortKey
+    );
+    personPositions.reverse();
 
-    for (let i = len - 1; i >= 0; i--) {
-      // Get each personPosition from the person's position IDs
-      const posID = person.positionIds[i];
-      const personPos = AFX.PersonPositions[posID];
-
+    for (let personPos of personPositions) {
       // picture
       let picUrl = "afx2.png";
       if (personPos.picture) {
@@ -80,20 +83,15 @@ export class HoverWrapperComponent extends React.Component<
       const groupID = personPos.groupIds[0];
       const groupName = AFX.Groups[groupID].name;
 
-      let semester = "TEMP";
-
-      // string slicing
-      semester = groupName.replace("AFX Board ", "").replace("AFX Tech ", "");
-
       // position titles
       const posTitle = personPos.positionTitle;
 
       ret.push(
-        <div className="rowOfHover">
+        <div key={personPos.id} className="rowOfHover">
           <div className="pictureHover">
             <img className="infoPicHover" src={picUrl} />
           </div>
-          <div className="infoHover">{semester}</div>
+          <div className="infoHover">{groupName}</div>
           <div className="infoHover">{posTitle}</div>
         </div>
       );
@@ -102,6 +100,7 @@ export class HoverWrapperComponent extends React.Component<
     // TODO: please refactor this to use CSS instead of inline styles
     ret.push(
       <div
+        key="corrections"
         className="rowOfHover"
         style={{ textAlign: "center", display: "block" }}
       >
