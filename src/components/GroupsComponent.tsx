@@ -77,7 +77,7 @@ export class GroupsComponent extends React.Component<any> {
     return (
       <div className="board">
         <div className="semester--title">
-          {DisplayUtility.getSemesterString(group)}
+          {group.name.replace("AFX Board", "")}
         </div>
         {/* <h2 className="board--title">{group.name}</h2> */}
         <div className="board-team--title">Board Members</div>
