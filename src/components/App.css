@@ -3619,6 +3619,7 @@ strong {
 
 .HoverWrapper {
   position: relative;
+  display: inline-block;
 }
 
 .HoverWrapper-content {
