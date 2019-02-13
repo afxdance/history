@@ -16,8 +16,8 @@ export class PersonPositionComponent extends React.Component<any> {
 
     if (personPosition.picture) {
       return (
-        <HoverWrapperComponent pp={personPosition}>
-          <div className="board--member">
+        <div className="board--member">
+          <HoverWrapperComponent pp={personPosition}>
             <img
               className="board--img"
               src={personPosition.picture[0].thumbnails.large.url}
@@ -27,15 +27,15 @@ export class PersonPositionComponent extends React.Component<any> {
 
             <div className="member-info">
               {personComp}
-              <p className="title">{personPosition.positionTitle}</p>
+              <div className="title">{personPosition.positionTitle}</div>
             </div>
-          </div>
-        </HoverWrapperComponent>
+          </HoverWrapperComponent>
+        </div>
       );
     } else {
       return (
-        <HoverWrapperComponent pp={personPosition}>
-          <div className="board--member">
+        <div className="board--member">
+          <HoverWrapperComponent pp={personPosition}>
             <img
               className="board--img"
               src={"https://i.imgur.com/4qcFzdm.png"}
@@ -45,11 +45,11 @@ export class PersonPositionComponent extends React.Component<any> {
             <div className="overlay">
               <div className="member-info">
                 {personComp}
-                <p className="title">{personPosition.positionTitle}</p>
+                <div className="title">{personPosition.positionTitle}</div>
               </div>
             </div>
-          </div>
-        </HoverWrapperComponent>
+          </HoverWrapperComponent>
+        </div>
       );
     }
   }
