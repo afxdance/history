@@ -9,7 +9,7 @@
     ]
   },
   "rules": {
-    "forin": false,
+    "forin": true,
     "interface-name": false,
     "max-classes-per-file": false,
     "member-ordering": false,
