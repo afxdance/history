@@ -10739,26 +10739,26 @@ export let PersonPositions = {
     "sortKey": "2017a",
     "picture": [
       {
-        "id": "attKPTpxkWy0FqPId",
-        "url": "https://dl.airtable.com/7C61UgTMROCgEu9KoPi0_angie.jpg",
-        "filename": "angie.jpg",
-        "size": 231986,
+        "id": "attyxJ9eRoOW55bw4",
+        "url": "https://dl.airtable.com/.attachments/ed7508e79efae553f1cc05cadb60ecab/2f9fe2ed/TrKtF8lSRWgBFH7MrEI8_full_angie.jpg",
+        "filename": "TrKtF8lSRWgBFH7MrEI8_full_angie.jpg",
+        "size": 258060,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/9m1RotTURBSFVgNw1rKU_small_angie.jpg",
-            "width": 27,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f4916083f2703b76dfab4dfbcb9bbfe6/d8dddbe3",
+            "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/5I3PZikPRo2dxH3L0Rqs_large_angie.jpg",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/618b8e41bbb5be248c4d70ac635fa25e/47b9ece1",
             "width": 512,
-            "height": 683
+            "height": 515
           },
           "full": {
-            "url": "https://dl.airtable.com/TrKtF8lSRWgBFH7MrEI8_full_angie.jpg",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5fcff27e322ded478a5abbc73df5b769/eb102a54",
             "width": 1536,
-            "height": 2048
+            "height": 1545
           }
         }
       }
