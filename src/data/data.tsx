@@ -11139,32 +11139,6 @@ export let PersonPositions = {
       "recPWlKgpGEXDmwBI"
     ],
     "positionTitle": "Vice Executive",
-    "picture": [
-      {
-        "id": "attgN8l2HQ1s98hSc",
-        "url": "https://dl.airtable.com/.attachments/6f135f2b2e74fa384ca95016bb11a8f3/efd29d06/ANGIELIAO_FA17.PNG",
-        "filename": "ANGIE LIAO_SP18.PNG",
-        "size": 846327,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cd28e3b4e03a916bd53aec5ec576a6c3/ee64c251",
-            "width": 35,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5054b24ca52036cf8ca59f81acbd3dd2/db4d851d",
-            "width": 512,
-            "height": 523
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/653208bf069fc92461f81f80a9e2f5d9/8aee0247",
-            "width": 523,
-            "height": 534
-          }
-        }
-      }
-    ],
     "personIds": [
       "recGX7657yT6j0Wby"
     ],
@@ -11176,7 +11150,36 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a"
+    "sortKey": "2018a",
+    "Corrections": [
+      "recTY8Jd26nzNrHrK"
+    ],
+    "picture": [
+      {
+        "id": "attc0nxykKh8sn0Tj",
+        "url": "https://dl.airtable.com/.attachments/a5aeca8f8b167139e352bb2cedc9e5f5/e9bd46c4/sp2018.jpg",
+        "filename": "sp2018.jpg",
+        "size": 246195,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7210099598a51dc94a03af4943cba0c5/afd67bce",
+            "width": 56,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bac4dc65147234a7d6468a1b6c888633/77bb4983",
+            "width": 794,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/753fe9f2dbc91111c314f20b5a11fde5/943d88df",
+            "width": 2048,
+            "height": 1320
+          }
+        }
+      }
+    ]
   },
   "recTX06RHpFGNzK9T": {
     "createdTime": "2018-10-17T23:46:48.000Z",
