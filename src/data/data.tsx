@@ -10725,32 +10725,6 @@ export let PersonPositions = {
       "recSb1AY0752pOYe6"
     ],
     "positionTitle": "Outreach Chair",
-    "picture": [
-      {
-        "id": "attxdbLL9gtKPxnBU",
-        "url": "https://dl.airtable.com/YZhdSElRrOIcWzOAh0c2_Angie%20Liao%20-%20Outreach.jpg",
-        "filename": "Angie Liao - Outreach.jpg",
-        "size": 74912,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/MVByze5mSomBWkhh58a1_small_Angie%20Liao%20-%20Outreach.jpg",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/uO4gCJxASQy7rXQLn3yb_large_Angie%20Liao%20-%20Outreach.jpg",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/BmIAcDUcS16FjGSPGFFf_full_Angie%20Liao%20-%20Outreach.jpg",
-            "width": 640,
-            "height": 960
-          }
-        }
-      }
-    ],
     "personIds": [
       "recGX7657yT6j0Wby"
     ],
@@ -10762,7 +10736,33 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a"
+    "sortKey": "2017a",
+    "picture": [
+      {
+        "id": "attKPTpxkWy0FqPId",
+        "url": "https://dl.airtable.com/7C61UgTMROCgEu9KoPi0_angie.jpg",
+        "filename": "angie.jpg",
+        "size": 231986,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/9m1RotTURBSFVgNw1rKU_small_angie.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/5I3PZikPRo2dxH3L0Rqs_large_angie.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/TrKtF8lSRWgBFH7MrEI8_full_angie.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ]
   },
   "recs15zKfmfMsjBgE": {
     "createdTime": "2018-10-17T22:55:29.000Z",
@@ -11142,6 +11142,9 @@ export let PersonPositions = {
     "personIds": [
       "recGX7657yT6j0Wby"
     ],
+    "Corrections": [
+      "recTY8Jd26nzNrHrK"
+    ],
     "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
     "groupType": [
       "board"
@@ -11151,9 +11154,6 @@ export let PersonPositions = {
       "recmdSIsenKNx7Sgq"
     ],
     "sortKey": "2018a",
-    "Corrections": [
-      "recTY8Jd26nzNrHrK"
-    ],
     "picture": [
       {
         "id": "attc0nxykKh8sn0Tj",
@@ -17214,32 +17214,6 @@ export let PersonPositions = {
       "recV60tDu2ac60oV5"
     ],
     "positionTitle": "Finance Chair",
-    "picture": [
-      {
-        "id": "attKPTpxkWy0FqPId",
-        "url": "https://dl.airtable.com/7C61UgTMROCgEu9KoPi0_angie.jpg",
-        "filename": "angie.jpg",
-        "size": 231986,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/9m1RotTURBSFVgNw1rKU_small_angie.jpg",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/5I3PZikPRo2dxH3L0Rqs_large_angie.jpg",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/TrKtF8lSRWgBFH7MrEI8_full_angie.jpg",
-            "width": 1536,
-            "height": 2048
-          }
-        }
-      }
-    ],
     "personIds": [
       "recGX7657yT6j0Wby"
     ],
@@ -17251,7 +17225,33 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c",
+    "picture": [
+      {
+        "id": "attIpdxPdvdHUbLoC",
+        "url": "https://dl.airtable.com/.attachments/73f8927983a690f942015259dc034180/b6b4c240/8aee0247",
+        "filename": "8aee0247",
+        "size": 517549,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8120801cedd6466b8ff4938e0ff0746a/325ee5e5",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d20df9b92a6fbf5c9660c7fd827cd340/4a2672e7",
+            "width": 512,
+            "height": 523
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8be875ca464e3c175c45ba5d557b7ff9/529850fb",
+            "width": 523,
+            "height": 534
+          }
+        }
+      }
+    ]
   },
   "recOpta8sOgUHtIAv": {
     "createdTime": "2018-10-17T23:37:47.000Z",
@@ -17352,22 +17352,6 @@ export let PersonPositions = {
       "recV60tDu2ac60oV5"
     ],
     "positionTitle": "PR Marketing",
-    "personIds": [
-      "recen1WngPBkT2o36"
-    ],
-    "Corrections": [
-      "rec47rPhAFo9QehSP",
-      "rectXcCmp4hwpjxLu"
-    ],
-    "(You can't directly edit this column)": "Patrick Lin, AFX Board Summer/Fall 2017 PR Marketing",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
-    ],
-    "sortKey": "2017c",
     "picture": [
       {
         "id": "att9YJdKLZhRE7dI7",
@@ -17393,7 +17377,23 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recen1WngPBkT2o36"
+    ],
+    "Corrections": [
+      "rec47rPhAFo9QehSP",
+      "rectXcCmp4hwpjxLu"
+    ],
+    "(You can't directly edit this column)": "Patrick Lin, AFX Board Summer/Fall 2017 PR Marketing",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recNgq1uYEeYnepMi"
+    ],
+    "sortKey": "2017c"
   },
   "recKbSLDMtkNmNi57": {
     "createdTime": "2018-10-17T23:29:43.000Z",
@@ -23793,18 +23793,6 @@ export let PersonPositions = {
       "receCwoUGQ4WyR8GC"
     ],
     "positionTitle": "Director",
-    "personIds": [
-      "recen1WngPBkT2o36"
-    ],
-    "(You can't directly edit this column)": "Patrick Lin, AFX Matrix Director",
-    "groupType": [
-      "team"
-    ],
-    "isValid": "OK",
-    "teamSemesterId": [
-      "rec46uOkPIMRT94Yl"
-    ],
-    "sortKey": "2016c",
     "picture": [
       {
         "id": "att3FMNdhioh8yINh",
@@ -23830,7 +23818,19 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recen1WngPBkT2o36"
+    ],
+    "(You can't directly edit this column)": "Patrick Lin, AFX Matrix Director",
+    "groupType": [
+      "team"
+    ],
+    "isValid": "OK",
+    "teamSemesterId": [
+      "rec46uOkPIMRT94Yl"
+    ],
+    "sortKey": "2016c"
   },
   "recd9f5nImbEfwIr7": {
     "createdTime": "2019-01-23T08:39:38.000Z",
@@ -24379,32 +24379,6 @@ export let PersonPositions = {
       "rec4US2ZzOygzmLka"
     ],
     "positionTitle": "Director",
-    "picture": [
-      {
-        "id": "attOHL0vqzVXtiKWN",
-        "url": "https://dl.airtable.com/oWurLuMNQYqwBrqXOtZX_Copy%20of%20ANGIE%20LIAO.jpg",
-        "filename": "Copy of ANGIE LIAO.jpg",
-        "size": 464035,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/rZ1Kj8eEQdKzHhfjsez3_small_Copy%20of%20ANGIE%20LIAO.jpg",
-            "width": 29,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/jMqQ7XgnSvK7XHMFL0rR_large_Copy%20of%20ANGIE%20LIAO.jpg",
-            "width": 512,
-            "height": 640
-          },
-          "full": {
-            "url": "https://dl.airtable.com/WNr8qLuQVKTS8YzoAlwJ_full_Copy%20of%20ANGIE%20LIAO.jpg",
-            "width": 2400,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "personIds": [
       "recGX7657yT6j0Wby"
     ],
@@ -24416,7 +24390,33 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c",
+    "picture": [
+      {
+        "id": "atth2aysyZ0UKwUt4",
+        "url": "https://dl.airtable.com/.attachments/01a0084cfd6115f9041a05fc4eee6bc7/af1240d0/46522778_2445136712168749_5749499889671208960_n.jpg_nc_cat102_nc_ocAQnm1XyIfIyJKx7bn9g4h1rEUQdyEHyH7AsHvAoW8iCzDBcrJXoXGpbvB1a6IHqdupVv2edkMKb0p6ZXP0Sh_q5__nc_htscontent-sjc3-1.xxoh06fadb9c814359e40620ea7f8e0299a9oe5CF69F76",
+        "filename": "46522778_2445136712168749_5749499889671208960_n.jpg?_nc_cat=102&_nc_oc=AQnm1XyIfIyJKx7bn9g4h1rEUQdyEHyH7AsHvAoW8iCzDBcrJXoXGpbvB1a6IHqdupVv2edkMKb0p6ZXP0Sh_q5_&_nc_ht=scontent-sjc3-1.xx&oh=06fadb9c814359e40620ea7f8e0299a9&oe=5CF69F76",
+        "size": 50415,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0cb707d3ed95c17b2ced18b29a0837cb/b3dfcf3f",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1a361ec3632dea80f32b3308a08b3a9/37958548",
+            "width": 769,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b5232e81b6bfaed71c7e0418f2e14818/3fa9d48f",
+            "width": 960,
+            "height": 639
+          }
+        }
+      }
+    ]
   },
   "recJWNvMUiHu2qO3k": {
     "createdTime": "2018-12-01T19:01:40.000Z",
@@ -31725,26 +31725,10 @@ export let PersonPositions = {
   "recCbfSYlgiRL8cxK": {
     "createdTime": "2019-02-14T07:04:23.000Z",
     "id": "recCbfSYlgiRL8cxK",
-    "(You can't directly edit this column)": "Patrick Lin, AFX Board Spring 2017 PR Marketing",
-    "isValid": "OK",
-    "sortKey": "2017a",
-    "personIds": [
-      "recen1WngPBkT2o36"
-    ],
-    "positionTitle": "PR Marketing",
     "groupIds": [
       "recSb1AY0752pOYe6"
     ],
-    "groupType": [
-      "board"
-    ],
-    "boardSemesterId": [
-      "recZUIegVvDgUQVqN"
-    ],
-    "Corrections": [
-      "rec47rPhAFo9QehSP",
-      "recJR9dwFi0mC2uJ8"
-    ],
+    "positionTitle": "PR Marketing",
     "picture": [
       {
         "id": "attyhkpeZ8vzdTojl",
@@ -31770,7 +31754,23 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recen1WngPBkT2o36"
+    ],
+    "Corrections": [
+      "rec47rPhAFo9QehSP",
+      "recJR9dwFi0mC2uJ8"
+    ],
+    "(You can't directly edit this column)": "Patrick Lin, AFX Board Spring 2017 PR Marketing",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recZUIegVvDgUQVqN"
+    ],
+    "sortKey": "2017a"
   }
 }
 
