@@ -1105,9 +1105,10 @@ export let People = {
       "rec16ckDJqJqxrZPg",
       "recePDUmIP5pFEsTc",
       "recfI7xh0OyO8vYOD",
-      "recN9aYiCQ9CYtj38"
+      "recN9aYiCQ9CYtj38",
+      "recCbfSYlgiRL8cxK"
     ],
-    "#positionIds": 4
+    "#positionIds": 5
   },
   "recGYjEvMRqWuQabn": {
     "createdTime": "2018-10-17T22:05:36.000Z",
@@ -3659,7 +3660,8 @@ export let Groups = {
       "recEdqoEkjRTml6xZ",
       "recQ7VUlKsTaz1PA9",
       "rec8ELbYUBDN8u2M9",
-      "recQjFIWuzTruoDx8"
+      "recQjFIWuzTruoDx8",
+      "recCbfSYlgiRL8cxK"
     ],
     "type": "board",
     "boardSemesterId": [
@@ -17347,34 +17349,12 @@ export let PersonPositions = {
       "recV60tDu2ac60oV5"
     ],
     "positionTitle": "PR Marketing",
-    "picture": [
-      {
-        "id": "attJbMzhw41YbYViK",
-        "url": "https://dl.airtable.com/eJ1591MQoapVrWNzxZT6_Patrick%20Lin%20-%20PR%20Marketing.jpg",
-        "filename": "Patrick Lin - PR Marketing.jpg",
-        "size": 41842,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/TLCHQX6TQN2UMEPBu0kq_small_Patrick%20Lin%20-%20PR%20Marketing.jpg",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/koHMqbrSg1E7M4hcBjgQ_large_Patrick%20Lin%20-%20PR%20Marketing.jpg",
-            "width": 770,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/9R7EurVoSd2xBRxnmezE_full_Patrick%20Lin%20-%20PR%20Marketing.jpg",
-            "width": 1203,
-            "height": 800
-          }
-        }
-      }
-    ],
     "personIds": [
       "recen1WngPBkT2o36"
+    ],
+    "Corrections": [
+      "rec47rPhAFo9QehSP",
+      "rectXcCmp4hwpjxLu"
     ],
     "(You can't directly edit this column)": "Patrick Lin, AFX Board Summer/Fall 2017 PR Marketing",
     "groupType": [
@@ -17384,7 +17364,33 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c",
+    "picture": [
+      {
+        "id": "att9YJdKLZhRE7dI7",
+        "url": "https://dl.airtable.com/.attachments/77a702b5cf9b14d5a5d7a652d4b92628/098cc95d/sufa2017.jpg",
+        "filename": "sufa 2017.jpg",
+        "size": 114339,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d043948e5918cc7deb3d52b5772b4f16/237ab0f2",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a4afcb606cb58cdcd56d031a00d37cc1/9e1bdde1",
+            "width": 512,
+            "height": 767
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a2e7de273081a219f44747aba3a77b8/900a0e82",
+            "width": 1367,
+            "height": 2048
+          }
+        }
+      }
+    ]
   },
   "recKbSLDMtkNmNi57": {
     "createdTime": "2018-10-17T23:29:43.000Z",
@@ -23795,7 +23801,33 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c",
+    "picture": [
+      {
+        "id": "att3FMNdhioh8yINh",
+        "url": "https://dl.airtable.com/x5NcoOgYRcuxPkanKaXS_Patrick%20Lin%20-%20Events.jpg",
+        "filename": "Patrick Lin - Events.jpg",
+        "size": 250623,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/nkzND5bRBKEdqm0HEHRs_small_Patrick%20Lin%20-%20Events.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/TREcKwGGQDu4xdPu2Llg_large_Patrick%20Lin%20-%20Events.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/RM0KnpRTXekTqYktiQD0_full_Patrick%20Lin%20-%20Events.jpg",
+            "width": 681,
+            "height": 681
+          }
+        }
+      }
+    ]
   },
   "recd9f5nImbEfwIr7": {
     "createdTime": "2019-01-23T08:39:38.000Z",
@@ -31686,6 +31718,56 @@ export let PersonPositions = {
       "recmdSIsenKNx7Sgq"
     ],
     "sortKey": "2018a"
+  },
+  "recCbfSYlgiRL8cxK": {
+    "createdTime": "2019-02-14T07:04:23.000Z",
+    "id": "recCbfSYlgiRL8cxK",
+    "(You can't directly edit this column)": "Patrick Lin, AFX Board Spring 2017 PR Marketing",
+    "isValid": "OK",
+    "sortKey": "2017a",
+    "personIds": [
+      "recen1WngPBkT2o36"
+    ],
+    "positionTitle": "PR Marketing",
+    "groupIds": [
+      "recSb1AY0752pOYe6"
+    ],
+    "groupType": [
+      "board"
+    ],
+    "boardSemesterId": [
+      "recZUIegVvDgUQVqN"
+    ],
+    "Corrections": [
+      "rec47rPhAFo9QehSP",
+      "recJR9dwFi0mC2uJ8"
+    ],
+    "picture": [
+      {
+        "id": "attyhkpeZ8vzdTojl",
+        "url": "https://dl.airtable.com/.attachments/84fab42a55fcc1802af5d40dfa1656f6/41316387/spring2017.jpg",
+        "filename": "spring 2017.jpg",
+        "size": 169478,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4c2f56c0dbef76ef5aa673b8f1b9ccf7/2d3cb3e1",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8befe6fdcf0039853e92ca1dd80118c1/4dc33c5a",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d95b2dbe62f87a4751926c2f84f5c962/1908cb5f",
+            "width": 1365,
+            "height": 2048
+          }
+        }
+      }
+    ]
   }
 }
 
