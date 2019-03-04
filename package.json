@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/lodash": "^4.14.120",
+    "@types/lodash": "^4.14.121",
     "airtable": "^0.5.7",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
