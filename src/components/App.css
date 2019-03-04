@@ -3668,8 +3668,9 @@ strong {
 }
 
 .infoHover {
-  display: flex;
-  /* flex-direction: column;
+  /*Took out diplay: flex since it was causing alignment issues in dropdown. */
+  /* display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center; */
 }
