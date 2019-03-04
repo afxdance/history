@@ -28,19 +28,24 @@ export class HoverWrapperComponent extends React.Component<
       return;
     }
 
-    this.setState(
-      {
-        newAdjustedLeft: undefined,
-      },
-      () => {
-        let position = elem.getBoundingClientRect();
-        if (position.right > window.innerWidth) {
-          this.setState({
-            newAdjustedLeft: window.innerWidth - position.right,
-          });
-        }
-      }
-    );
+    /* Commented this section out since we wanted center alignment.
+       This section was made when items that were left aligned went
+       off screen. It readjusted items to basically them right aligned.
+       However, with our center alignment(left: -50%) it doesn't really
+       work so we took it out.*/
+    // this.setState(
+    //   {
+    //     newAdjustedLeft: undefined,
+    //   },
+    //   () => {
+    //     let position = elem.getBoundingClientRect();
+    //     if (position.right > window.innerWidth) {
+    //       this.setState({
+    //         newAdjustedLeft: window.innerWidth - position.right,
+    //       });
+    //     }
+    //   }
+    // );
   };
 
   public render() {
@@ -122,7 +127,8 @@ export class HoverWrapperComponent extends React.Component<
         <span
           className="HoverWrapper-content"
           ref="HoverRef"
-          style={{ left: this.state.newAdjustedLeft }}
+          /* Removed since code creating this style aspect is commented out */
+          //   style={{ left: this.state.newAdjustedLeft }}
         >
           <h3>{person.name}</h3>
           {ret}
