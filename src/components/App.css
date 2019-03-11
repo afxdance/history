@@ -3667,6 +3667,11 @@ strong {
   border-radius: 50%;
 }
 
+/* -146 value is just what looked best at the time :/ */
+.team--single .HoverWrapper-content {
+  left: -146px;
+}
+
 /* .infoHover {
   /*Took out diplay: flex since it was causing alignment issues in dropdown. */
   /* display: flex;
