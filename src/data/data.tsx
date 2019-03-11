@@ -3834,7 +3834,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=jiP7yFn-e7M",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "recHUtfGFtTovTeMw": {
     "createdTime": "2019-01-23T08:17:28.000Z",
@@ -3848,7 +3849,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=mAessbkvKeE",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "rec89U7CQbAdA14Ad": {
     "createdTime": "2019-01-23T08:18:00.000Z",
@@ -3862,7 +3864,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=BSYvxqCIWIo",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "recOXMrmfqrI4w81D": {
     "createdTime": "2019-01-23T09:14:47.000Z",
@@ -3876,7 +3879,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=B7T43FOpRE8",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "recZYfUHmHt1ksKh0": {
     "createdTime": "2019-01-23T08:13:14.000Z",
@@ -5909,7 +5913,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recXo2Wr1dwrRK7x7": {
     "createdTime": "2018-10-27T20:31:34.000Z",
@@ -5949,7 +5954,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recjSiKn95KAHbj4A": {
     "createdTime": "2018-10-27T20:31:34.000Z",
@@ -5990,7 +5996,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recgRpBKR0PGtPoaf": {
     "createdTime": "2018-10-27T20:31:53.000Z",
@@ -6029,7 +6036,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=XwH1YV3kHmM",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Project"
   },
   "recjkO7GVv8lcW4bh": {
     "createdTime": "2018-12-01T18:43:01.000Z",
@@ -6070,7 +6078,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=_riEv4JyNSs",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recrBH3L0t7ODa1pJ": {
     "createdTime": "2018-12-01T18:44:28.000Z",
@@ -6110,7 +6119,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=or9lgzCqmAc",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recs4Sdt4z1y0s5eC": {
     "createdTime": "2018-12-01T18:44:41.000Z",
@@ -6150,7 +6160,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=YUH7yPP_Vnk",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "rec4US2ZzOygzmLka": {
     "createdTime": "2018-12-01T18:44:50.000Z",
@@ -6191,7 +6202,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=S0CGA_uPkI8",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recTQ0iPlkF4HQMsV": {
     "createdTime": "2018-12-01T18:44:57.000Z",
@@ -6230,7 +6242,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=mG4rySBb8bM",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recD5q4uJAEPnXQ8x": {
     "createdTime": "2018-12-01T18:45:05.000Z",
@@ -6271,7 +6284,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=KQrZ0q9uNh4",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "rec7bcuYPZkO20JSj": {
     "createdTime": "2018-12-01T18:45:18.000Z",
@@ -6312,7 +6326,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=h5DlVy5m8iM",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recbo1kdUheKuzZyA": {
     "createdTime": "2018-12-01T18:45:28.000Z",
@@ -6352,7 +6367,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=j7ElHgoCvTU",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Project"
   },
   "recvYtPBSrT8l3Oel": {
     "createdTime": "2018-12-01T18:45:37.000Z",
@@ -6393,7 +6409,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=y9avkxOMG3",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recVFwKwKUXRf3UVn": {
     "createdTime": "2019-01-23T09:22:33.000Z",
@@ -6969,7 +6986,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recYZclznD8pqmJv1": {
     "createdTime": "2019-02-13T01:52:44.000Z",
@@ -6982,7 +7000,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recN8Jr8BojBeAvpO": {
     "createdTime": "2019-02-13T01:56:03.000Z",
@@ -6995,7 +7014,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "rec3kclpJYg12aHSI": {
     "createdTime": "2019-02-13T02:00:41.000Z",
@@ -7009,7 +7029,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recyCM6mqK1ywwwkH": {
     "createdTime": "2019-02-13T02:04:44.000Z",
@@ -7022,7 +7043,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recOg68Xg2dioLhpH": {
     "createdTime": "2019-02-13T02:07:47.000Z",
@@ -7076,7 +7098,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recwgKaikrIi37mzE": {
     "createdTime": "2019-02-13T02:26:14.000Z",
@@ -7090,7 +7113,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "receA2zLbg3KNlhVp": {
     "createdTime": "2019-02-13T02:29:39.000Z",
@@ -7103,7 +7127,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recg4L2Ql8B9C6K2r": {
     "createdTime": "2019-02-13T02:31:33.000Z",
@@ -7116,7 +7141,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recg9FXsPIzu23nIw": {
     "createdTime": "2019-02-13T02:34:01.000Z",
@@ -7130,7 +7156,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Project"
   },
   "recVE43xY4VQvYs7j": {
     "createdTime": "2019-02-13T02:38:39.000Z",
@@ -7143,7 +7170,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Project"
   },
   "recCDgbXTdW2RvKWG": {
     "createdTime": "2019-02-13T02:39:50.000Z",
@@ -7156,7 +7184,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Project"
   },
   "recc2ItnT2n7d7FrO": {
     "createdTime": "2019-02-13T10:10:58.000Z",
@@ -10725,18 +10754,6 @@ export let PersonPositions = {
       "recSb1AY0752pOYe6"
     ],
     "positionTitle": "Outreach Chair",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2017 Outreach Chair",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recZUIegVvDgUQVqN"
-    ],
-    "sortKey": "2017a",
     "picture": [
       {
         "id": "attyxJ9eRoOW55bw4",
@@ -10762,7 +10779,19 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2017 Outreach Chair",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recZUIegVvDgUQVqN"
+    ],
+    "sortKey": "2017a"
   },
   "recs15zKfmfMsjBgE": {
     "createdTime": "2018-10-17T22:55:29.000Z",
@@ -11139,21 +11168,6 @@ export let PersonPositions = {
       "recPWlKgpGEXDmwBI"
     ],
     "positionTitle": "Vice Executive",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "Corrections": [
-      "recTY8Jd26nzNrHrK"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recmdSIsenKNx7Sgq"
-    ],
-    "sortKey": "2018a",
     "picture": [
       {
         "id": "attc0nxykKh8sn0Tj",
@@ -11179,7 +11193,22 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "Corrections": [
+      "recTY8Jd26nzNrHrK"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ],
+    "sortKey": "2018a"
   },
   "recTX06RHpFGNzK9T": {
     "createdTime": "2018-10-17T23:46:48.000Z",
@@ -17214,18 +17243,6 @@ export let PersonPositions = {
       "recV60tDu2ac60oV5"
     ],
     "positionTitle": "Finance Chair",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Summer/Fall 2017 Finance Chair",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
-    ],
-    "sortKey": "2017c",
     "picture": [
       {
         "id": "attIpdxPdvdHUbLoC",
@@ -17251,7 +17268,19 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Summer/Fall 2017 Finance Chair",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recNgq1uYEeYnepMi"
+    ],
+    "sortKey": "2017c"
   },
   "recOpta8sOgUHtIAv": {
     "createdTime": "2018-10-17T23:37:47.000Z",
@@ -24379,18 +24408,6 @@ export let PersonPositions = {
       "rec4US2ZzOygzmLka"
     ],
     "positionTitle": "Director",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Nation  Director",
-    "groupType": [
-      "team"
-    ],
-    "isValid": "OK",
-    "teamSemesterId": [
-      "recJ4hDACtEzrRW8f"
-    ],
-    "sortKey": "2018c",
     "picture": [
       {
         "id": "atth2aysyZ0UKwUt4",
@@ -24416,7 +24433,19 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Nation  Director",
+    "groupType": [
+      "team"
+    ],
+    "isValid": "OK",
+    "teamSemesterId": [
+      "recJ4hDACtEzrRW8f"
+    ],
+    "sortKey": "2018c"
   },
   "recJWNvMUiHu2qO3k": {
     "createdTime": "2018-12-01T19:01:40.000Z",

@@ -32,6 +32,7 @@ export interface Group {
   videoUrl?: string; // only for teams
   boardSemesterId?: string[]; // todo: should not be array?
   teamSemesterId?: string[]; // todo: should not be array?
+  level?: string;
 }
 // export let Groups: { [x: string]: Group };
 

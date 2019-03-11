@@ -3667,13 +3667,13 @@ strong {
   border-radius: 50%;
 }
 
-.infoHover {
+/* .infoHover {
   /*Took out diplay: flex since it was causing alignment issues in dropdown. */
   /* display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center; */
-}
+  align-items: center;
+} */
 
 /* .infoHover {
   float: right;
