@@ -31,10 +31,10 @@ export class SingleTeamComponent extends React.Component<any> {
     }
 
     //Getting the level(Project, Training, etc.) in order to display later(if it exists)
-    let teamlvl = "";
-    if (team.level) {
-      teamlvl = "AFX " + team.level + " Team";
-    }
+    // let teamlvl = "";
+    // if (team.level) {
+    //   teamlvl = "AFX " + team.level + " Team";
+    // }
 
     // return a single team element with optional picture displays and video links
     return (
@@ -55,7 +55,7 @@ export class SingleTeamComponent extends React.Component<any> {
           />
         )}
 
-        {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined}
+        {/* {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined} */}
 
         <div className="team--directors">{directorsList}</div>
 

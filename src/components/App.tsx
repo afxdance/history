@@ -4,8 +4,13 @@ import * as AFX from "src/data/data";
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
+import SideBar from "./sidebar";
 
 export class App extends React.Component {
+  showSettings(event: React.MouseEvent) {
+    event.preventDefault();
+  }
+
   public render() {
     let groups: any = [];
     // Go through all semesters (in chronological order) and display respective board members and teams
@@ -20,6 +25,11 @@ export class App extends React.Component {
         // TODO: TeamsComponent, renaming things, string[] mess
       }
     }
-    return <div className="App">{groups}</div>;
+    return (
+      <div className="App">
+        <SideBar />
+        {groups}
+      </div>
+    );
   }
 }

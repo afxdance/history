@@ -14,9 +14,24 @@ export class TeamsComponent extends React.Component<any> {
     teams = teamIds.map(id => Data.Groups[id]);
     teams = lodash.sortBy(teams, team => team.name);
 
-    let teamComponents = teams.map(team => (
-      <SingleTeamComponent key={team.id} team={team} />
-    ));
+    // let teamComponents = teams.map(team => (
+    //   <SingleTeamComponent key={team.id} team={team} />
+    // ));
+
+    let projectTeamComponents = [];
+    let trainingTeamComponents = [];
+    for (let i = 0; i < teams.length; i++) {
+      let team = teams[i];
+      if (team.level == "Training") {
+        trainingTeamComponents.push(
+          <SingleTeamComponent key={team.id} team={team} />
+        );
+      } else if (team.level == "Project") {
+        projectTeamComponents.push(
+          <SingleTeamComponent key={team.id} team={team} />
+        );
+      }
+    }
 
     // Provide a date to label this group if there teams for this semester, based on the information of the
     // first team in this semester
@@ -27,8 +42,11 @@ export class TeamsComponent extends React.Component<any> {
     return (
       <div>
         <div className="semester--title">{dateStr}</div>
-        <div className="board-team--title">Teams</div>
-        <div className="teams">{teamComponents}</div>
+        <div className="board-team--title">Training Teams</div>
+        <div className="teams">{trainingTeamComponents}</div>
+
+        <div className="board-team--title">Project Teams</div>
+        <div className="teams">{projectTeamComponents}</div>
       </div>
     );
   }
