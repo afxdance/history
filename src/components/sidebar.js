@@ -1,24 +1,15 @@
-import React from "react";
 import { slide as Menu } from "react-burger-menu";
+import * as AFX from "src/data/data";
+import * as React from "react";
+import { SemLinkComponent } from "./SemLinkComponent";
 
 export default props => {
-  return (
-    <Menu>
-      <a className="menu-item" href="/">
-        Home
-      </a>
+  let semLinks = [];
+  for (let semKey in AFX.Semesters) {
+    semLinks.push(
+      <SemLinkComponent semester={semKey} onClick={this.onClick} />
+    );
+  }
 
-      <a className="menu-item" href="/burgers">
-        Burgers
-      </a>
-
-      <a className="menu-item" href="/pizzas">
-        Pizzas
-      </a>
-
-      <a className="menu-item" href="/desserts">
-        Desserts
-      </a>
-    </Menu>
-  );
+  return <Menu>{semLinks}</Menu>;
 };

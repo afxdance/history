@@ -3452,6 +3452,9 @@ strong {
   border-top-width: 0px;
   border-right-width: 2px;
   border-left-width: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .team--name {
@@ -3715,6 +3718,9 @@ strong {
 .bm-cross-button {
   height: 24px;
   width: 24px;
+  /* Hard coded values for placeing the close button */
+  left: 120px;
+  top: -320px;
 }
 
 /* Color/shape of close button cross */
@@ -3730,6 +3736,7 @@ strong {
   position: fixed;
   top: 0;
   left: 0;
+  width: 150px;
 }
 
 /* Morph shape necessary with bubble or elastic */
@@ -3748,8 +3755,8 @@ strong {
 }
 
 /* .infoHover {
-  /*Took out diplay: flex since it was causing alignment issues in dropdown. */
-  /* display: flex;
+  /*Took out display: flex since it was causing alignment issues in dropdown. */
+/* display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;

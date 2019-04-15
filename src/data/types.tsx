@@ -58,3 +58,7 @@ export interface Semester {
   boardGroupId?: string[]; // todo: should not be array?
   teamGroupIds?: string[];
 }
+
+export interface App {
+  semKey: string;
+}
