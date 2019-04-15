@@ -50,7 +50,7 @@ export class App extends React.Component<
     // }
     return (
       <div>
-        <p>{this.state.count}</p>
+        {/* <p>{this.state.count}</p> */}
         <SideBar onClick={this.myCallback} />
         {groups}
       </div>

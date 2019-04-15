@@ -9,7 +9,6 @@ export interface SemLinkComponent {
 
 export class SemLinkComponent extends React.Component<{ semester: string }> {
   public click() {
-    console.log(this.props.semester);
     this.onClick(this.props.semester);
   }
 
