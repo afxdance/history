@@ -4,7 +4,7 @@ import * as AFX from "src/data/data";
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
-import SideBar from "./sidebar";
+import { Sidebar } from "./SidebarComponent";
 import { render } from "react-dom";
 
 export interface App {
@@ -51,7 +51,7 @@ export class App extends React.Component<
     return (
       <div>
         {/* <p>{this.state.count}</p> */}
-        <SideBar onClick={this.myCallback} />
+        <Sidebar onClick={this.myCallback} />
         {groups}
       </div>
     );

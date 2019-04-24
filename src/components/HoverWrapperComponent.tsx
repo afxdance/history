@@ -21,8 +21,6 @@ export class HoverWrapperComponent extends React.Component<
   };
 
   public readjust = () => {
-    console.log("readjust");
-
     let elem = this.refs.HoverRef as Element;
     if (!elem) {
       return;
@@ -39,7 +37,7 @@ export class HoverWrapperComponent extends React.Component<
       },
       () => {
         let position = elem.getBoundingClientRect();
-        if (position.right + 50 > window.innerWidth) {
+        if (position.right - 4 > window.innerWidth) {
           this.setState({
             newAdjustedLeft:
               window.innerWidth -
@@ -48,8 +46,8 @@ export class HoverWrapperComponent extends React.Component<
           });
         }
         console.log(position.right);
-        console.log(position.left);
-        console.log(position.right - position.left);
+        console.log(window.innerWidth);
+        console.log((position.right - position.left) / 2);
       }
     );
   };

@@ -4,12 +4,20 @@ import * as AFX from "src/data/data";
 
 export interface SemLinkComponent {
   semester: string;
-  onClick: Function;
+  OnClick: Function;
 }
 
-export class SemLinkComponent extends React.Component<{ semester: string }> {
+export class SemLinkComponent extends React.Component<{
+  semester: string;
+  onClick: Function;
+}> {
+  // constructor(props: any) {
+  //   super(props);
+  //   this.onClick = this.onClick.bind(this);
+  // }
+
   public click() {
-    this.onClick(this.props.semester);
+    this.props.onClick(this.props.semester);
   }
 
   public render() {
@@ -18,18 +26,21 @@ export class SemLinkComponent extends React.Component<{ semester: string }> {
     // Semester codename is year with a letter(Example 2018a)
     let suffix: string = semester.codename.slice(-1);
     let semName: string = "";
-    if (suffix == "a") {
+    if (semester.codename == "2011") {
+      semName = "Founders 2011-2012";
+    } else if (suffix == "a") {
       semName = "Spring " + semester.codename.slice(0, -1);
     } else if (suffix == "b") {
       semName = "Summer " + semester.codename.slice(0, -1);
     } else {
       semName = "Fall " + semester.codename.slice(0, -1);
     }
+
     return (
       <div>
-        <a className="menu-item" href={semKey} onClick={this.click}>
+        <button className="menu-item" onClick={this.click.bind(this)}>
           {semName}
-        </a>
+        </button>
         <br />
       </div>
     );

@@ -3626,6 +3626,7 @@ strong {
 }
 
 .HoverWrapper-content {
+  text-align: center;
   position: absolute;
   z-index: 3000;
   color: white;
@@ -3719,8 +3720,8 @@ strong {
   height: 24px;
   width: 24px;
   /* Hard coded values for placeing the close button */
-  left: 120px;
-  top: -320px;
+  left: 210px !important;
+  top: -1118px !important;
 }
 
 /* Color/shape of close button cross */
@@ -3736,7 +3737,7 @@ strong {
   position: fixed;
   top: 0;
   left: 0;
-  width: 150px;
+  width: 250px;
 }
 
 /* Morph shape necessary with bubble or elastic */
@@ -3747,11 +3748,30 @@ strong {
 /* Wrapper for item list */
 .bm-item-list {
   color: #b8b7ad;
+  /*Added flex spacing so that it looks nice*/
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  /* Felt that last option was a little too close to bottom so readjusted */
+  position: relative;
+  top: -20px;
 }
 
 /* Styling of overlay */
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
+}
+
+button {
+  background: none !important;
+  color: inherit;
+  border: none;
+  padding: 0 !important;
+  font: inherit;
+  /*border is optional*/
+  /* border-bottom: 1px solid #444; */
+  cursor: pointer;
 }
 
 /* .infoHover {
