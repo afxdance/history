@@ -25,6 +25,7 @@ export class SemLinkComponent extends React.Component<{
     let semester: Semester = AFX.Semesters[semKey];
     // Semester codename is year with a letter(Example 2018a)
     let suffix: string = semester.codename.slice(-1);
+    // let year: string = "";
     let semName: string = "";
     if (semester.codename == "2011") {
       semName = "Founders 2011-2012";

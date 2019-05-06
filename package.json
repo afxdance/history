@@ -3,12 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "@types/lodash": "^4.14.120",
-    "@types/react-burger-menu": "^2.2.3",
-=======
     "@types/lodash": "^4.14.121",
->>>>>>> 5ae3f7902119003e0681c319100fd8c807f3b2f9
     "airtable": "^0.5.7",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",

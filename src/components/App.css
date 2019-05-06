@@ -3751,8 +3751,7 @@ strong {
   /*Added flex spacing so that it looks nice*/
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: center;
   /* Felt that last option was a little too close to bottom so readjusted */
   position: relative;
   top: -20px;
@@ -3772,6 +3771,41 @@ button {
   /*border is optional*/
   /* border-bottom: 1px solid #444; */
   cursor: pointer;
+  font-family: "Verdana" sans-serif;
+  font-size: 1em;
+  text-align: left;
+}
+
+.yearItem {
+  padding-bottom: 15px;
+}
+
+.yearButton {
+  font-size: 12pt;
+  cursor: pointer;
+}
+
+.yearButton:hover {
+  color: white;
+}
+
+.yearButton:hover .semLinks {
+  display: block;
+  color: black;
+}
+
+.semLinks {
+  position: relative;
+  left: 60px;
+}
+
+.menuTitle {
+  display: block;
+  color: white;
+  text-align: center;
+  border: none;
+  outline: 0;
+  margin-bottom: 40px;
 }
 
 /* .infoHover {

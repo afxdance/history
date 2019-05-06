@@ -6,20 +6,19 @@ import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
 import { Sidebar } from "./SidebarComponent";
 import { render } from "react-dom";
+import { type } from "os";
 
 export interface App {
   semKey: string;
+  type: string;
 }
 
-export class App extends React.Component<
-  {},
-  { semKey: string; count: number }
-> {
+export class App extends React.Component<{}, { semKey: string; type: string }> {
   constructor(props: any) {
     super(props);
     this.state = {
       semKey: "rec5XKEgTIG4JPqKB",
-      count: 0,
+      type: typeof AFX.Semesters,
     };
   }
 
@@ -30,7 +29,6 @@ export class App extends React.Component<
   public myCallback = (groupID: string) => {
     this.setState({
       semKey: groupID,
-      count: this.state.count + 1,
     });
   };
 
@@ -50,7 +48,7 @@ export class App extends React.Component<
     // }
     return (
       <div>
-        {/* <p>{this.state.count}</p> */}
+        {/* <p>{this.state.type}</p> */}
         <Sidebar onClick={this.myCallback} />
         {groups}
       </div>

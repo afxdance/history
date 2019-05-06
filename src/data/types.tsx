@@ -62,3 +62,10 @@ export interface Semester {
 export interface App {
   semKey: string;
 }
+
+export interface Year {
+  id: string;
+  createdTime: string;
+  semCodename: string[];
+  Name: string;
+}

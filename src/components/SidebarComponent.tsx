@@ -1,8 +1,9 @@
 import { slide as Menu } from "react-burger-menu";
 import * as AFX from "src/data/data";
-import { Semester } from "src/data/types";
+import { Year } from "src/data/types";
 import * as React from "react";
 import { SemLinkComponent } from "./SemLinkComponent";
+import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent";
 
 // export default props => {
 //   let semLinks = [];
@@ -44,9 +45,9 @@ export class Sidebar extends React.Component<
 
   public render() {
     let semLinks = [];
-    for (let semKey of Object.keys(AFX.Semesters)) {
+    for (let year of Object.keys(AFX.Years)) {
       semLinks.push(
-        <SemLinkComponent semester={semKey} onClick={this.props.onClick} />
+        <YearCollapsibleComponent year={year} onClick={this.props.onClick} />
       );
     }
 
@@ -60,6 +61,7 @@ export class Sidebar extends React.Component<
               x
             </button>
           </span> */}
+        <h3 className="menuTitle">Years</h3>
         {semLinks}
       </Menu>
       // </div>
