@@ -17,6 +17,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
   constructor(props: any) {
     super(props);
     this.state = {
+      //TODO: Need to make code so that this selects the most recent semester rather than hard coded
       semKey: "rec5XKEgTIG4JPqKB",
       type: typeof AFX.Semesters,
     };
@@ -26,6 +27,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     event.preventDefault();
   }
 
+  // Method that gets the semester ID of the semester clicked on the side meny
   public myCallback = (groupID: string) => {
     this.setState({
       semKey: groupID,
@@ -48,7 +50,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     // }
     return (
       <div>
-        {/* <p>{this.state.type}</p> */}
         <Sidebar onClick={this.myCallback} />
         {groups}
       </div>

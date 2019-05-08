@@ -8,6 +8,7 @@ export interface YearCollapsibleComponent {
   OnClick: Function;
 }
 
+// Makes the component that makes the year button on the menu. When clicked, it should show all of the semesters in that year.
 export class YearCollapsibleComponent extends React.Component<
   {
     year: string;
@@ -22,6 +23,7 @@ export class YearCollapsibleComponent extends React.Component<
     };
   }
 
+  // This onclick method is for choosing whether or not to display all the semesters in the year.
   public click() {
     this.setState({
       show: !this.state.show,
@@ -31,10 +33,12 @@ export class YearCollapsibleComponent extends React.Component<
   public render() {
     let curYear: Year = AFX.Years[this.props.year];
     let name: string = curYear.Name;
-    console.log(name);
     let semLinks = [];
+    // We iterate through all of the semesters and make the components for them.
+    // We then add them to the list semLinks in order to be displayed.
     for (let semKey of curYear.semCodename) {
       semLinks.push(
+        // this component has an onClick prop in order to send it to all of the sem link components
         <SemLinkComponent semester={semKey} onClick={this.props.onClick} />
       );
     }
@@ -46,6 +50,7 @@ export class YearCollapsibleComponent extends React.Component<
         </button>
         <div
           className="semLinks"
+          // based off of show(a state of this component) we choose to display all of the semLinks or not
           style={this.state.show ? {} : { display: "none" }}
         >
           {semLinks}

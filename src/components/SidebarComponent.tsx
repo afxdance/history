@@ -5,18 +5,7 @@ import * as React from "react";
 import { SemLinkComponent } from "./SemLinkComponent";
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent";
 
-// export default props => {
-//   let semLinks = [];
-//   for (let semKey in AFX.Semesters) {
-//     console.log(this.props.onClick);
-//     semLinks.push(
-//       <SemLinkComponent semester={semKey} onClick={this.props.onClick} />
-//     );
-//   }
-
-//   return <Menu>{semLinks}</Menu>;
-// };
-
+// Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
   onClick: Function;
   closed: boolean;
@@ -37,6 +26,7 @@ export class Sidebar extends React.Component<
     };
   }
 
+  //Use state in order to have the menu disappear when the close button is pushed
   public close() {
     this.setState({
       closed: true,
@@ -44,27 +34,24 @@ export class Sidebar extends React.Component<
   }
 
   public render() {
-    let semLinks = [];
+    // We first iterate through all the years and push the components into the list.
+    let yearLinks = [];
     for (let year of Object.keys(AFX.Years)) {
-      semLinks.push(
+      yearLinks.push(
+        // We have the onclick function passed through the Sidebar component to be sent to the year component.
         <YearCollapsibleComponent year={year} onClick={this.props.onClick} />
       );
     }
 
     console.log(this.closed);
 
+    // We then add the list into the Menu. The library then changes everything into items of the menu.
+    // As a result, when we add the list, it takes every element in the list and makes it into an item.
     return (
-      // <div className="menu" style={this.state.closed ? divStyle : {}}>
       <Menu>
-        {/* <span>
-            <button className="close" onClick={this.close.bind(this)}>
-              x
-            </button>
-          </span> */}
         <h3 className="menuTitle">Years</h3>
-        {semLinks}
+        {yearLinks}
       </Menu>
-      // </div>
     );
   }
 }

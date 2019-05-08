@@ -7,6 +7,7 @@ let Airtable = require("airtable");
 let airtableAccount = new Airtable({ apiKey: "keylB4loiJ2jsLic4" });
 let base = airtableAccount.base("app5gc254OPlaTFG2");
 
+//TODO: Need to change. Currently can only read pages that have custom made view called "Default View"
 async function main() {
   for (let table of [
     "People",
@@ -17,6 +18,7 @@ async function main() {
   ]) {
     recordsById = {};
     // console.log(1);
+    //Right here
     await base(table)
       .select({
         view: "Default View",
