@@ -3448,7 +3448,8 @@ export let Groups = {
     ],
     "type": "board",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ]
   },
   "recefYCYkTSsb9UBW": {
@@ -3503,7 +3504,8 @@ export let Groups = {
     ],
     "type": "board",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ]
   },
   "rec5wYZUm8pLKCX3T": {
@@ -3559,7 +3561,8 @@ export let Groups = {
     ],
     "type": "board",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ]
   },
   "recWYlWdGZIv2Cu5Y": {
@@ -3628,7 +3631,8 @@ export let Groups = {
     ],
     "type": "board",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ]
   },
   "recSb1AY0752pOYe6": {
@@ -3701,7 +3705,8 @@ export let Groups = {
     ],
     "type": "board",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ]
   },
   "recPWlKgpGEXDmwBI": {
@@ -3778,7 +3783,8 @@ export let Groups = {
     ],
     "type": "board",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ]
   },
   "recPf7ywA4liEHRje": {
@@ -3834,7 +3840,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=jiP7yFn-e7M",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "recHUtfGFtTovTeMw": {
     "createdTime": "2019-01-23T08:17:28.000Z",
@@ -3848,7 +3855,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=mAessbkvKeE",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "rec89U7CQbAdA14Ad": {
     "createdTime": "2019-01-23T08:18:00.000Z",
@@ -3862,7 +3870,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=BSYvxqCIWIo",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "recOXMrmfqrI4w81D": {
     "createdTime": "2019-01-23T09:14:47.000Z",
@@ -3876,7 +3885,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=B7T43FOpRE8",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
-    ]
+    ],
+    "level": "Training"
   },
   "recZYfUHmHt1ksKh0": {
     "createdTime": "2019-01-23T08:13:14.000Z",
@@ -4939,7 +4949,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=eRRAXf3sVSU",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recmBZZ61fSUMApWT": {
     "createdTime": "2019-01-23T07:08:28.000Z",
@@ -4953,7 +4964,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=HK6y5AQOdPA",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "reczhFJVl1odeRHxw": {
     "createdTime": "2019-01-23T07:08:43.000Z",
@@ -4969,7 +4981,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=f4FAnWl8Rug",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Project"
   },
   "recMmZni3OrOaZeqV": {
     "createdTime": "2019-01-23T07:09:02.000Z",
@@ -4983,7 +4996,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=K4SoUc_uNF8",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recFh3kOglUuzCUQ5": {
     "createdTime": "2019-01-23T07:09:10.000Z",
@@ -4996,7 +5010,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=1NzNfHQusMQ",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recEgyVF2HAjF3C1G": {
     "createdTime": "2019-01-23T07:09:18.000Z",
@@ -5012,7 +5027,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=ILdB1OQ1ubk",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recw1DrJjXTJiCxDu": {
     "createdTime": "2019-01-23T07:09:28.000Z",
@@ -5026,7 +5042,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=DyR69qhmU3M",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recs4sDRkWSBWVORf": {
     "createdTime": "2019-01-23T07:09:47.000Z",
@@ -5041,7 +5058,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=y_IWu2Cns4E",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Project"
   },
   "recJLwNiZZCkFPrFc": {
     "createdTime": "2019-01-23T07:09:58.000Z",
@@ -5055,7 +5073,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=rIYBZDkmjUk",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recvqz0iaFmQNln9P": {
     "createdTime": "2019-01-23T07:12:26.000Z",
@@ -5069,7 +5088,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=K6ZHjt1D9bc",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Project"
   },
   "recckK4i87e8XMHKx": {
     "createdTime": "2019-01-23T07:12:36.000Z",
@@ -5084,7 +5104,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=6vhM-8YwZRo",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "rec7PS1587tLDisxK": {
     "createdTime": "2019-01-23T07:12:46.000Z",
@@ -5099,7 +5120,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=3lDQpYjaLRA",
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
-    ]
+    ],
+    "level": "Training"
   },
   "recn6LlGtFykr0SZo": {
     "createdTime": "2018-11-03T19:33:26.000Z",
@@ -5139,7 +5161,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=aQ8xPAXTYD0",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "rec6O0XYNXZk0TUSH": {
     "createdTime": "2018-12-12T10:09:59.000Z",
@@ -5180,7 +5203,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=FYufD2RH1LU",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "recooewIvmz1cLLO8": {
     "createdTime": "2018-12-12T10:13:12.000Z",
@@ -5221,7 +5245,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=7jVmUST98vg",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Project"
   },
   "recGRSa5DVs30Mink": {
     "createdTime": "2018-12-12T10:45:24.000Z",
@@ -5262,7 +5287,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=pMTSjEGPsrM",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recokuRWqWHMaWmuE": {
     "createdTime": "2018-12-12T10:03:45.000Z",
@@ -5303,7 +5329,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=u7MdScGMtDQ",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Project"
   },
   "recgGEOokEasFJJkn": {
     "createdTime": "2018-12-12T10:25:00.000Z",
@@ -5343,7 +5370,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=D3XmEXhLA9g",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Project"
   },
   "recWshCGg4xYnnBfP": {
     "createdTime": "2018-12-12T10:54:43.000Z",
@@ -5384,7 +5412,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=nT4vF0g6XRQ",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recDV8rL7zVa2J6l5": {
     "createdTime": "2018-12-12T23:16:16.000Z",
@@ -5425,7 +5454,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=MtGd7kRMnR4",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Project"
   },
   "recw7gz6Y12j41aTG": {
     "createdTime": "2018-12-13T08:42:18.000Z",
@@ -5465,7 +5495,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=MtHGnCZ2I0s",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Project"
   },
   "rec6cFEd8SzUBNo9o": {
     "createdTime": "2018-12-13T08:50:35.000Z",
@@ -5506,7 +5537,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=MImnl5zvt78",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recXjuWcIV7jHFKTN": {
     "createdTime": "2018-12-13T09:01:52.000Z",
@@ -5546,7 +5578,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=OTQ67acrz2c",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recgSC5ZaU8HBQbmS": {
     "createdTime": "2018-12-13T09:05:04.000Z",
@@ -5587,7 +5620,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=tACRaPm0MEk",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "reclgPwPymHTre39f": {
     "createdTime": "2018-12-13T09:12:25.000Z",
@@ -5627,7 +5661,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=sPuyILzF2lo",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recCuEIVaZ2TETp48": {
     "createdTime": "2018-12-13T09:22:52.000Z",
@@ -5668,7 +5703,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=oeo92sLypIg",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recakv34dAgvMZqyk": {
     "createdTime": "2018-12-13T09:30:40.000Z",
@@ -5708,7 +5744,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=pHGbZ6Ayd2A",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recJGCk5JPfHJ5nI5": {
     "createdTime": "2018-11-03T19:26:47.000Z",
@@ -5749,7 +5786,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=t9j945zZfb0",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Training"
   },
   "recpQI3J6HKu6NObe": {
     "createdTime": "2018-12-12T09:45:24.000Z",
@@ -5789,7 +5827,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=b30MsEs2niE",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Project"
   },
   "rec8RsWuzGriceaKU": {
     "createdTime": "2018-12-12T09:56:20.000Z",
@@ -5828,7 +5867,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=_a-zBxi7gpQ",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Project"
   },
   "recFJhX3DlVrqJRRn": {
     "createdTime": "2018-12-12T10:39:49.000Z",
@@ -5869,7 +5909,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=qOvoJuxW5QA",
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Training"
   },
   "recA5CvMHkDs0G0M2": {
     "createdTime": "2018-10-27T20:15:26.000Z",
@@ -5909,7 +5950,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recXo2Wr1dwrRK7x7": {
     "createdTime": "2018-10-27T20:31:34.000Z",
@@ -5949,7 +5991,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recjSiKn95KAHbj4A": {
     "createdTime": "2018-10-27T20:31:34.000Z",
@@ -5990,7 +6033,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=VrUtLZAtkbg",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recgRpBKR0PGtPoaf": {
     "createdTime": "2018-10-27T20:31:53.000Z",
@@ -6029,7 +6073,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=XwH1YV3kHmM",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Project"
   },
   "recjkO7GVv8lcW4bh": {
     "createdTime": "2018-12-01T18:43:01.000Z",
@@ -6070,7 +6115,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=_riEv4JyNSs",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recrBH3L0t7ODa1pJ": {
     "createdTime": "2018-12-01T18:44:28.000Z",
@@ -6110,7 +6156,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=or9lgzCqmAc",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recs4Sdt4z1y0s5eC": {
     "createdTime": "2018-12-01T18:44:41.000Z",
@@ -6150,7 +6197,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=YUH7yPP_Vnk",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "rec4US2ZzOygzmLka": {
     "createdTime": "2018-12-01T18:44:50.000Z",
@@ -6191,7 +6239,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=S0CGA_uPkI8",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recTQ0iPlkF4HQMsV": {
     "createdTime": "2018-12-01T18:44:57.000Z",
@@ -6230,7 +6279,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=mG4rySBb8bM",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recD5q4uJAEPnXQ8x": {
     "createdTime": "2018-12-01T18:45:05.000Z",
@@ -6271,7 +6321,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=KQrZ0q9uNh4",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "rec7bcuYPZkO20JSj": {
     "createdTime": "2018-12-01T18:45:18.000Z",
@@ -6312,7 +6363,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=h5DlVy5m8iM",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recbo1kdUheKuzZyA": {
     "createdTime": "2018-12-01T18:45:28.000Z",
@@ -6352,7 +6404,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=j7ElHgoCvTU",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Project"
   },
   "recvYtPBSrT8l3Oel": {
     "createdTime": "2018-12-01T18:45:37.000Z",
@@ -6393,7 +6446,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=y9avkxOMG3",
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
-    ]
+    ],
+    "level": "Training"
   },
   "recVFwKwKUXRf3UVn": {
     "createdTime": "2019-01-23T09:22:33.000Z",
@@ -6421,7 +6475,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "recideyqEsLQVrk6U": {
     "createdTime": "2019-01-23T09:30:38.000Z",
@@ -6435,7 +6490,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "recY8xWazB8UYou9m": {
     "createdTime": "2019-01-23T09:31:15.000Z",
@@ -6449,7 +6505,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "rec3I7LD5AxwLkwcl": {
     "createdTime": "2019-01-23T09:31:48.000Z",
@@ -6464,7 +6521,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=idIHrsgUYXI",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "recjmrarPLS2cLFP6": {
     "createdTime": "2019-01-23T09:33:25.000Z",
@@ -6478,7 +6536,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ]
+    ],
+    "level": "Training"
   },
   "recCbo4tDZZKyEim7": {
     "createdTime": "2019-01-23T09:35:16.000Z",
@@ -6517,7 +6576,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Training"
   },
   "recKIT6nxJFIUwaCF": {
     "createdTime": "2019-01-23T09:35:29.000Z",
@@ -6556,7 +6616,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Training"
   },
   "recQLC0SGq1JalhZy": {
     "createdTime": "2019-01-23T09:35:36.000Z",
@@ -6596,7 +6657,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
-    ]
+    ],
+    "level": "Training"
   },
   "rechL3W2Vi7wov83L": {
     "createdTime": "2019-01-23T09:38:24.000Z",
@@ -6635,7 +6697,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Project"
   },
   "rec6qXkPYRtQRgQts": {
     "createdTime": "2019-01-23T09:38:31.000Z",
@@ -6675,7 +6738,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "rec0VciUnJmJJ6oeD": {
     "createdTime": "2019-01-23T09:38:38.000Z",
@@ -6715,7 +6779,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=pX2fFt8yzis",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recaZjoItED6gXEdr": {
     "createdTime": "2019-01-23T09:38:38.000Z",
@@ -6756,7 +6821,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=_wc7T1f_crg",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recH77oO4ipgKWSO7": {
     "createdTime": "2019-01-23T09:38:47.000Z",
@@ -6796,7 +6862,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recYKZTGxchrDzELp": {
     "createdTime": "2019-01-23T09:38:53.000Z",
@@ -6835,7 +6902,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=NmnHCAgPjH4",
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "rec7OSPyLVxDKm2sV": {
     "createdTime": "2019-01-23T09:38:54.000Z",
@@ -6875,7 +6943,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recRWachvE4BArxyb": {
     "createdTime": "2019-01-23T09:39:01.000Z",
@@ -6915,7 +6984,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recV24mdNgq8HICTK": {
     "createdTime": "2019-01-23T09:39:23.000Z",
@@ -6955,7 +7025,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
-    ]
+    ],
+    "level": "Training"
   },
   "recRStEXgCZeq7Ieb": {
     "createdTime": "2019-02-13T01:42:53.000Z",
@@ -6967,9 +7038,36 @@ export let Groups = {
       "recIuj85dqQUEWRyx"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "att1m3MBUZ8mobQVy",
+        "url": "https://dl.airtable.com/.attachments/4dddaba568a027de5651a0f98385619a/d25f2217/AFeggs.jpg",
+        "filename": "AFeggs.jpg",
+        "size": 2744852,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2301076b63e377f551cc7ca5c784e000/8d2c1cba",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/026ca5ae28f86535f6dad2308ee78528/766f501b",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0ad38ec1c68eba4a55cd0ea0781f1ac2/67ea5346",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recYZclznD8pqmJv1": {
     "createdTime": "2019-02-13T01:52:44.000Z",
@@ -6980,9 +7078,36 @@ export let Groups = {
       "recHihFAN5TcAwHsZ"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attnXSw6UcEHlwrlL",
+        "url": "https://dl.airtable.com/.attachments/de889553a1ea3ba801485380650715cd/677fcfa0/AFLEX.jpg",
+        "filename": "AFLEX.jpg",
+        "size": 2410553,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9853fe2e935d7e8b7ab5a7881ad9c74f/6b3f67b5",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c4148d40b3eeaf5cb9a647920c475652/fd7bcbe8",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7cde60524ac2a34a0e1b016d83fdfef3/00aa7f83",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recN8Jr8BojBeAvpO": {
     "createdTime": "2019-02-13T01:56:03.000Z",
@@ -6993,9 +7118,36 @@ export let Groups = {
       "recxB4ukzcmkuN2hi"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attvuhUZJTllyZOcE",
+        "url": "https://dl.airtable.com/.attachments/545253aed3fbb612f8d588381d828af6/458a5e4f/AFXEmpathy.jpg",
+        "filename": "AFX Empathy.jpg",
+        "size": 2009248,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b185ef1dd600a3bf43aa3b2c2c9f9c56/c5052f7e",
+            "width": 56,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dc17eb96daa0747845d28464733bf8cb/9d265d14",
+            "width": 795,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/44770c3cf961db1667dee1c4196658e5/feb86e66",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "rec3kclpJYg12aHSI": {
     "createdTime": "2019-02-13T02:00:41.000Z",
@@ -7007,9 +7159,36 @@ export let Groups = {
       "rec7hzCmooUKZdF1v"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attIIFAhp5h285ZsU",
+        "url": "https://dl.airtable.com/.attachments/c81550f6099d5175f558519dd0924979/e98206d2/AFXENVY.jpg",
+        "filename": "AFX ENVY.jpg",
+        "size": 5612515,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/122ffa441f2e7234587c0263d6cfb599/b4ae7c34",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/806c15e055512608f26d1b89190f143f/a90c86c6",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/548072da3ec9f8da6a629c1284911378/fd8597d0",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recyCM6mqK1ywwwkH": {
     "createdTime": "2019-02-13T02:04:44.000Z",
@@ -7020,9 +7199,36 @@ export let Groups = {
       "recPLaJ0mXHfQZF8a"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attUgu71TMHQDn59C",
+        "url": "https://dl.airtable.com/.attachments/964611e9c30f855c78cea5048e6091ea/467e4183/AFXFAME.jpg",
+        "filename": "AFX FAME.jpg",
+        "size": 4816383,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7410582391718bcc074009ea162800b1/264fce00",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ac16bcb8a320ab5bbcad874820a63442/571a86f5",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f756ad4cdfe86b986f84566ef9a559d5/97194e6b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recOg68Xg2dioLhpH": {
     "createdTime": "2019-02-13T02:07:47.000Z",
@@ -7062,7 +7268,8 @@ export let Groups = {
     ],
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   },
   "recdEeLs6iiKupepQ": {
     "createdTime": "2019-02-13T02:22:16.000Z",
@@ -7074,9 +7281,36 @@ export let Groups = {
       "recbrewE6oFJuXvqJ"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "atthc296sSv1ZU51A",
+        "url": "https://dl.airtable.com/.attachments/4cffe392348cbfa6dcebfee0cd9b9f8e/636ea6c1/AFXLUXE.jpg",
+        "filename": "AFX LUXE.jpg",
+        "size": 6167412,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6b98b5b83fd02e66fec925c504e18673/a533a691",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5afea83c20c09a9e20bd5a149e3e9a75/f86bb1ce",
+            "width": 634,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1b15df58adcb268206c0742b6c27b8df/44dfecdf",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recwgKaikrIi37mzE": {
     "createdTime": "2019-02-13T02:26:14.000Z",
@@ -7088,9 +7322,36 @@ export let Groups = {
       "rec3Jmm3aPLJQf4ge"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attREwcVjlJ3CtX1h",
+        "url": "https://dl.airtable.com/.attachments/a29d368ef60a36dfe610b8378c615937/2194817f/AFXMO.jpg",
+        "filename": "AFX MO.jpg",
+        "size": 1807924,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a4f655b1bbf13f223d50a2a3273d740d/44264eba",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b2d42e2f0f4c301703caafa275688ff2/5730b085",
+            "width": 767,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f4c52da78391f533c606ecd8dd671cf7/c456d9ed",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "receA2zLbg3KNlhVp": {
     "createdTime": "2019-02-13T02:29:39.000Z",
@@ -7101,9 +7362,36 @@ export let Groups = {
       "recu4tP2DE8mGfm90"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attthHo75cTg9x8Ho",
+        "url": "https://dl.airtable.com/.attachments/27d3fd7de4f8b23faa2a344fd13c1e4a/544d715b/AFXOUTCAST.jpg",
+        "filename": "AFX OUTCAST.jpg",
+        "size": 15842502,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e4cc4fa4697e91ffd71afd8077c012e5/4c0bef28",
+            "width": 53,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dd3fdac3de1ed5e46d315de00afc805e/85ef91a3",
+            "width": 759,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bb47efa67e755602700c6ecef65e6009/f66af8d1",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recg4L2Ql8B9C6K2r": {
     "createdTime": "2019-02-13T02:31:33.000Z",
@@ -7114,9 +7402,36 @@ export let Groups = {
       "recNYahlTMV5v0DUe"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "atti3PTXzpKpMjR06",
+        "url": "https://dl.airtable.com/.attachments/903768d982558b78591326c248b86569/820f86c9/AFXYEN.jpg",
+        "filename": "AFX YEN.jpg",
+        "size": 17948492,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2022bca56a1db55a135b9f6d08a87ad/b374283d",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/14576ab09cc35fe07b4c7e464e497683/164f8942",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0a20b2ef452f00f3f8dc8ed0aaeeafd1/da7f86f4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Training"
   },
   "recg9FXsPIzu23nIw": {
     "createdTime": "2019-02-13T02:34:01.000Z",
@@ -7128,9 +7443,36 @@ export let Groups = {
       "recUZVbaQFvbNFiFF"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attRkDvTOtNaRcwmp",
+        "url": "https://dl.airtable.com/.attachments/38f09026bc1c33209a9cf50d2f1dfae3/3597dc86/AFX7DS.jpg",
+        "filename": "AFX 7DS.jpg",
+        "size": 1538640,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/27ddb5898d9df3d96033302e79f61041/61bb1a56",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1ff206a1dd456f154fbd9455838e208f/8465a3ea",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dfc5b16accac6ca7ed96ff2342efbc4e/5d30ffda",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Project"
   },
   "recVE43xY4VQvYs7j": {
     "createdTime": "2019-02-13T02:38:39.000Z",
@@ -7141,9 +7483,36 @@ export let Groups = {
       "recMm7PyNw6042frN"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attkW2jR0p8uQqepY",
+        "url": "https://dl.airtable.com/.attachments/f1d3f99946f8fe8b1e8269fe9ce70748/196c8a10/AFXPlatinum.jpg",
+        "filename": "AFX Platinum.jpg",
+        "size": 13969621,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1b54c5da904233cfb8636a0e39bf31b6/c0048ad9",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/63f18bf985f8174de32d8b004ab0e455/e733edd0",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/881deafa1cef2f6af640e79d87718736/e5e1bba6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Project"
   },
   "recCDgbXTdW2RvKWG": {
     "createdTime": "2019-02-13T02:39:50.000Z",
@@ -7154,9 +7523,36 @@ export let Groups = {
       "recHyKoV3g9xnvw5y"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attC4JBH5Y7sRSB49",
+        "url": "https://dl.airtable.com/.attachments/f24b2807a13c2cc990f9aae579989b91/7f5ad3de/AFXMAD.jpg",
+        "filename": "AFX MAD.jpg",
+        "size": 1549754,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9a79863ab536291a38b51c32eccd1c1c/88814d92",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/afb7bda615d021e8b076d2b1bfa3362e/8e2edc7f",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eb22e4afd4b3e065ecb94db8b55a0581/d394b077",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
-    ]
+    ],
+    "level": "Project"
   },
   "recc2ItnT2n7d7FrO": {
     "createdTime": "2019-02-13T10:10:58.000Z",
@@ -7197,7 +7593,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=4vnXiJtjmp4",
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
-    ]
+    ],
+    "level": "Training"
   }
 }
 
@@ -10725,18 +11122,6 @@ export let PersonPositions = {
       "recSb1AY0752pOYe6"
     ],
     "positionTitle": "Outreach Chair",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2017 Outreach Chair",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recZUIegVvDgUQVqN"
-    ],
-    "sortKey": "2017a",
     "picture": [
       {
         "id": "attyxJ9eRoOW55bw4",
@@ -10762,7 +11147,19 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2017 Outreach Chair",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recZUIegVvDgUQVqN"
+    ],
+    "sortKey": "2017a"
   },
   "recs15zKfmfMsjBgE": {
     "createdTime": "2018-10-17T22:55:29.000Z",
@@ -11139,21 +11536,6 @@ export let PersonPositions = {
       "recPWlKgpGEXDmwBI"
     ],
     "positionTitle": "Vice Executive",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "Corrections": [
-      "recTY8Jd26nzNrHrK"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recmdSIsenKNx7Sgq"
-    ],
-    "sortKey": "2018a",
     "picture": [
       {
         "id": "attc0nxykKh8sn0Tj",
@@ -11179,7 +11561,22 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "Corrections": [
+      "recTY8Jd26nzNrHrK"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Spring 2018 Vice Executive",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recmdSIsenKNx7Sgq"
+    ],
+    "sortKey": "2018a"
   },
   "recTX06RHpFGNzK9T": {
     "createdTime": "2018-10-17T23:46:48.000Z",
@@ -13431,9 +13828,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "rec61dgtt7fFuPdUc": {
     "createdTime": "2018-10-17T22:30:41.000Z",
@@ -13477,9 +13875,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recWHyWMs5CQgy6L2": {
     "createdTime": "2018-10-17T22:33:17.000Z",
@@ -13523,9 +13922,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recYinURnABbJOFqe": {
     "createdTime": "2018-10-17T22:33:15.000Z",
@@ -13569,9 +13969,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recUFrFlIpVABapxl": {
     "createdTime": "2018-10-17T22:30:43.000Z",
@@ -13615,9 +14016,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recmv9EMTgBKiRcBw": {
     "createdTime": "2018-10-17T22:30:46.000Z",
@@ -13661,9 +14063,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recxlFvvUfFDj8Hyj": {
     "createdTime": "2018-10-17T22:27:21.000Z",
@@ -13707,9 +14110,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "rec2ArD4zfUhlWKwj": {
     "createdTime": "2018-10-17T22:27:56.000Z",
@@ -13753,9 +14157,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recH2qy05mNoxqz5l": {
     "createdTime": "2018-10-17T22:28:39.000Z",
@@ -13799,9 +14204,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "reccuKlOcC6NdTOwO": {
     "createdTime": "2018-10-17T22:28:43.000Z",
@@ -13845,9 +14251,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "reclq9NGrcGBX4Kik"
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013c"
+    "sortKey": "2013c, 2013b"
   },
   "recWyPZFROrnMhz6W": {
     "createdTime": "2018-10-17T22:12:55.000Z",
@@ -13891,9 +14298,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recTrl8bPc8liK962": {
     "createdTime": "2018-10-17T22:17:23.000Z",
@@ -13937,9 +14345,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recsZh1l7cUmPLqPW": {
     "createdTime": "2018-10-17T22:07:54.000Z",
@@ -13983,9 +14392,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recCYFGpcjEB5aPVa": {
     "createdTime": "2018-10-17T22:18:25.000Z",
@@ -14029,9 +14439,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recAKbFuUkG4O5I3F": {
     "createdTime": "2018-10-17T22:19:57.000Z",
@@ -14075,9 +14486,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recFik0UCmCjnsmAX": {
     "createdTime": "2018-10-17T22:20:23.000Z",
@@ -14121,9 +14533,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recdYsI8CVYMgmLJ4": {
     "createdTime": "2018-10-17T22:21:28.000Z",
@@ -14167,9 +14580,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recdcLCumD1Q3KkNn": {
     "createdTime": "2018-10-17T22:13:32.000Z",
@@ -14213,9 +14627,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recPE6Z2zTr4HPmTD": {
     "createdTime": "2018-10-17T22:14:36.000Z",
@@ -14259,9 +14674,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recy3JKUOpqTV1Jxr": {
     "createdTime": "2018-10-17T22:21:04.000Z",
@@ -14305,9 +14721,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "rec54wo9l7lwIPoDh": {
     "createdTime": "2018-10-17T22:16:53.000Z",
@@ -14351,9 +14768,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recnVPyrNQBtG10yJ": {
     "createdTime": "2018-10-17T22:19:00.000Z",
@@ -14397,9 +14815,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "rec9arrsO6ltYsTa9": {
     "createdTime": "2018-10-17T22:10:24.000Z",
@@ -14443,9 +14862,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recowepyieoCN1uVQ": {
     "createdTime": "2018-10-17T22:17:57.000Z",
@@ -14489,9 +14909,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recWBvRimNr5bCWyI": {
     "createdTime": "2018-10-18T00:24:06.000Z",
@@ -14535,9 +14956,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "rec7h2sY81YQeHgiB": {
     "createdTime": "2018-10-18T00:24:43.000Z",
@@ -14581,9 +15003,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recFneoMUrd7Qitlf": {
     "createdTime": "2018-10-18T00:23:21.000Z",
@@ -14627,9 +15050,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recpoOliHHmwDIBof": {
     "createdTime": "2018-10-18T00:23:44.000Z",
@@ -14673,9 +15097,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recPgnkPYdTsaXuLW": {
     "createdTime": "2018-10-18T00:22:42.000Z",
@@ -14719,9 +15144,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recbm2ludN2zPK0pF"
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014c"
+    "sortKey": "2014c, 2014b"
   },
   "recCTWLDbdrqn2nYJ": {
     "createdTime": "2018-10-17T22:28:35.000Z",
@@ -14765,9 +15191,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recpDL3KDWfgRHxc4": {
     "createdTime": "2018-10-17T22:31:33.000Z",
@@ -14811,9 +15238,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recKCKwCa2KwUjvDm": {
     "createdTime": "2018-10-17T22:34:21.000Z",
@@ -14857,9 +15285,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recCsdE1LTyQrjMBW": {
     "createdTime": "2018-10-17T22:32:05.000Z",
@@ -14903,9 +15332,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recNLqvbB61XluNA8": {
     "createdTime": "2018-10-17T22:34:45.000Z",
@@ -14949,9 +15379,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "rec6POiIFWbnVhXji": {
     "createdTime": "2018-10-17T22:28:34.000Z",
@@ -14995,9 +15426,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "rec8nwJXLJ37OV0rQ": {
     "createdTime": "2018-10-17T22:32:29.000Z",
@@ -15041,9 +15473,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recwIOfNVdHw2rgi9": {
     "createdTime": "2018-10-17T22:28:34.000Z",
@@ -15087,9 +15520,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recKgeJ2ciU7ic8Kr": {
     "createdTime": "2018-10-17T22:33:27.000Z",
@@ -15133,9 +15567,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recxowEgkbgyTq4w4": {
     "createdTime": "2018-10-17T22:35:30.000Z",
@@ -15179,9 +15614,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recBfzJCrlmmV2q5q": {
     "createdTime": "2018-10-17T22:32:53.000Z",
@@ -15225,9 +15661,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "rec59rkeuQcbbDZ7V": {
     "createdTime": "2018-10-17T22:33:54.000Z",
@@ -15271,9 +15708,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "rectJjLvB0uQXlcFA": {
     "createdTime": "2018-10-17T22:35:06.000Z",
@@ -15317,9 +15755,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "reclH2WaVrHdkjc1p": {
     "createdTime": "2018-10-17T22:28:35.000Z",
@@ -15363,9 +15802,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recvQimuy5LNCjCSH": {
     "createdTime": "2018-10-17T22:28:39.000Z",
@@ -15409,9 +15849,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recVhmcmenPkMyFWt": {
     "createdTime": "2018-10-18T00:30:10.000Z",
@@ -15455,9 +15896,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recnJSRWIQMhZbQEs": {
     "createdTime": "2018-10-18T00:27:34.000Z",
@@ -15501,9 +15943,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recLJGgsdMILy5XOd": {
     "createdTime": "2018-10-18T00:29:51.000Z",
@@ -15547,9 +15990,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recXaCCAUDQHqukTy": {
     "createdTime": "2018-10-18T00:30:31.000Z",
@@ -15593,9 +16037,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recY0nIuoOQBEiove"
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015c"
+    "sortKey": "2015c, 2015b"
   },
   "recpJ858d4kQB4EPr": {
     "createdTime": "2018-10-17T22:49:15.000Z",
@@ -15639,9 +16084,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recaKAVUiPS4axGXZ": {
     "createdTime": "2018-10-17T22:50:57.000Z",
@@ -15685,9 +16131,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recSmcBMOj1lx3jUF": {
     "createdTime": "2018-10-17T22:50:21.000Z",
@@ -15731,9 +16178,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "reccYYrL6cPXyeh6H": {
     "createdTime": "2018-10-17T22:51:22.000Z",
@@ -15777,9 +16225,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rechneZNwlBVrMuBv": {
     "createdTime": "2018-10-17T22:44:52.000Z",
@@ -15823,9 +16272,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recGkQe9WXhmJPUn2": {
     "createdTime": "2018-10-17T22:44:52.000Z",
@@ -15869,9 +16319,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec16ckDJqJqxrZPg": {
     "createdTime": "2018-10-17T22:48:55.000Z",
@@ -15915,9 +16366,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recNGBiCiOwgqKOtw": {
     "createdTime": "2018-10-17T22:44:50.000Z",
@@ -15961,9 +16413,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recWSwGnmjnUW7jWa": {
     "createdTime": "2018-10-17T22:44:51.000Z",
@@ -16007,9 +16460,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec8aO9PIE26GJjlU": {
     "createdTime": "2018-10-17T22:44:51.000Z",
@@ -16053,9 +16507,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recgHxVPeQJD7UKwT": {
     "createdTime": "2018-10-17T22:44:49.000Z",
@@ -16099,9 +16554,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recvYMH4qGUQzU6fU": {
     "createdTime": "2018-10-17T22:44:52.000Z",
@@ -16145,9 +16601,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recBWKJ7nZnK49IUI": {
     "createdTime": "2018-10-17T22:50:40.000Z",
@@ -16191,9 +16648,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recTLInL69e8UmYh7": {
     "createdTime": "2018-10-17T22:44:50.000Z",
@@ -16237,9 +16695,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recAuBgjfYB2N5lD4": {
     "createdTime": "2018-10-17T22:48:35.000Z",
@@ -16283,9 +16742,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec2GqsZxdnvsmOMW": {
     "createdTime": "2018-10-17T22:49:57.000Z",
@@ -16329,9 +16789,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec9JZQjQwYloJops": {
     "createdTime": "2018-10-17T22:49:35.000Z",
@@ -16375,9 +16836,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec244XFvK8gGouDq": {
     "createdTime": "2018-10-17T22:44:51.000Z",
@@ -16421,9 +16883,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recZomHaoY9DQQBpn": {
     "createdTime": "2018-10-17T22:44:51.000Z",
@@ -16467,9 +16930,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recPvx31lUvOTMzWI": {
     "createdTime": "2018-10-18T00:34:37.000Z",
@@ -16513,9 +16977,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recA29CYm8ous5YmT": {
     "createdTime": "2018-10-18T00:34:57.000Z",
@@ -16559,9 +17024,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recoz3ryR7fQCDoUq": {
     "createdTime": "2018-10-18T00:35:43.000Z",
@@ -16605,9 +17071,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec7zqZoqYTawHa25": {
     "createdTime": "2018-10-18T00:47:30.000Z",
@@ -16651,9 +17118,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "reculGDwitMiaaY6N": {
     "createdTime": "2018-10-18T00:33:03.000Z",
@@ -16697,9 +17165,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "rec71FUZBo7jrpSqJ": {
     "createdTime": "2018-10-18T00:33:44.000Z",
@@ -16743,9 +17212,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recQafxPMYHX8f1ON": {
     "createdTime": "2018-10-18T00:32:57.000Z",
@@ -16789,9 +17259,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "rec46uOkPIMRT94Yl"
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016c"
+    "sortKey": "2016c, 2016b"
   },
   "recDnBRrmDOgpil2Z": {
     "createdTime": "2018-09-28T02:27:24.000Z",
@@ -16835,9 +17306,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recHuonEXK26KidcQ": {
     "createdTime": "2018-09-29T19:04:52.000Z",
@@ -16881,9 +17353,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recIZvsIUY7Lf3WCZ": {
     "createdTime": "2018-09-28T02:31:20.000Z",
@@ -16927,9 +17400,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "reciXg7xWpz61Vwo6": {
     "createdTime": "2018-09-29T19:10:47.000Z",
@@ -16973,9 +17447,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "rec0tUiDaoQU785n1": {
     "createdTime": "2018-09-29T19:11:01.000Z",
@@ -17019,9 +17494,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recklML4eO8FNCc0Y": {
     "createdTime": "2018-09-29T19:11:17.000Z",
@@ -17065,9 +17541,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recbxMFtISlTjSCWK": {
     "createdTime": "2018-09-29T19:11:29.000Z",
@@ -17111,9 +17588,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recWjLug9n4YvCuex": {
     "createdTime": "2018-09-29T19:11:38.000Z",
@@ -17157,9 +17635,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recYGmt1dDyVGwtoO": {
     "createdTime": "2018-09-29T19:11:56.000Z",
@@ -17203,9 +17682,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recqMnjyPBDVrrStY": {
     "createdTime": "2018-09-29T19:12:04.000Z",
@@ -17214,18 +17694,6 @@ export let PersonPositions = {
       "recV60tDu2ac60oV5"
     ],
     "positionTitle": "Finance Chair",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Board Summer/Fall 2017 Finance Chair",
-    "groupType": [
-      "board"
-    ],
-    "isValid": "OK",
-    "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
-    ],
-    "sortKey": "2017c",
     "picture": [
       {
         "id": "attIpdxPdvdHUbLoC",
@@ -17251,7 +17719,20 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Board Summer/Fall 2017 Finance Chair",
+    "groupType": [
+      "board"
+    ],
+    "isValid": "OK",
+    "boardSemesterId": [
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
+    ],
+    "sortKey": "2017c, 2017b"
   },
   "recOpta8sOgUHtIAv": {
     "createdTime": "2018-10-17T23:37:47.000Z",
@@ -17295,9 +17776,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recNCn5iSCGzeCbGa": {
     "createdTime": "2018-10-17T23:38:35.000Z",
@@ -17341,9 +17823,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recePDUmIP5pFEsTc": {
     "createdTime": "2018-10-17T22:57:39.000Z",
@@ -17391,9 +17874,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recKbSLDMtkNmNi57": {
     "createdTime": "2018-10-17T23:29:43.000Z",
@@ -17437,9 +17921,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recyh95M614yPayiO": {
     "createdTime": "2018-10-17T23:31:42.000Z",
@@ -17483,9 +17968,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recJqvj4x8bg3k1Gb": {
     "createdTime": "2018-10-17T23:33:21.000Z",
@@ -17529,9 +18015,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recN8aZVT9qu9xG9j": {
     "createdTime": "2018-10-17T23:35:22.000Z",
@@ -17575,9 +18062,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recKPisyjQ5ifZENH": {
     "createdTime": "2018-10-17T23:36:34.000Z",
@@ -17621,9 +18109,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recunId6aCRH4Jc2z": {
     "createdTime": "2018-10-17T23:39:13.000Z",
@@ -17667,9 +18156,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "rec8m5xHXr2m62FV4": {
     "createdTime": "2018-10-17T23:40:14.000Z",
@@ -17713,9 +18203,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "rec1fMNZGppXBQW6N": {
     "createdTime": "2018-10-18T00:42:19.000Z",
@@ -17759,9 +18250,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recJ4qaFgB7HGebc7": {
     "createdTime": "2018-10-18T00:44:56.000Z",
@@ -17805,9 +18297,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recOJEHgsz20gcZgQ": {
     "createdTime": "2018-10-18T00:40:04.000Z",
@@ -17851,9 +18344,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recD8ZQSM8cA7PbBW": {
     "createdTime": "2018-10-18T00:41:14.000Z",
@@ -17897,9 +18391,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "rechord0CVTrFiwm9": {
     "createdTime": "2018-10-18T00:37:51.000Z",
@@ -17943,9 +18438,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recNgq1uYEeYnepMi"
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017c"
+    "sortKey": "2017c, 2017b"
   },
   "recW91BcvTt3RoJxB": {
     "createdTime": "2018-10-17T23:59:31.000Z",
@@ -17989,9 +18485,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recJjiPD0zp7cn6cG": {
     "createdTime": "2018-10-18T00:01:32.000Z",
@@ -18035,9 +18532,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recgR8oIWWtpRwQ41": {
     "createdTime": "2018-10-18T00:03:22.000Z",
@@ -18081,9 +18579,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recvvmAiFUt1nQqg3": {
     "createdTime": "2018-10-18T00:04:13.000Z",
@@ -18127,9 +18626,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "rec2TRZwtVni7Qwvf": {
     "createdTime": "2018-10-18T00:04:56.000Z",
@@ -18173,9 +18673,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recFf0bUFGJ0IZ7rg": {
     "createdTime": "2018-10-18T00:13:50.000Z",
@@ -18219,9 +18720,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recTT7RxdkCfw3qOk": {
     "createdTime": "2018-10-18T00:14:33.000Z",
@@ -18265,9 +18767,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recliQv8CcMvX9Lz7": {
     "createdTime": "2018-10-18T00:15:35.000Z",
@@ -18311,9 +18814,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recQBI7hJmK8Dd6qe": {
     "createdTime": "2018-10-18T00:11:21.000Z",
@@ -18357,9 +18861,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recuQShydZMDeFnk8": {
     "createdTime": "2018-10-18T00:12:07.000Z",
@@ -18403,9 +18908,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recDDSSEqMN7mjYIQ": {
     "createdTime": "2018-10-18T00:13:03.000Z",
@@ -18449,9 +18955,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recEx6BW29gbfazMi": {
     "createdTime": "2018-10-18T00:17:03.000Z",
@@ -18495,9 +19002,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recV1ZpVswX7PICAt": {
     "createdTime": "2018-10-18T00:18:07.000Z",
@@ -18541,9 +19049,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "rec9wN29UB9PSc3bX": {
     "createdTime": "2018-10-18T00:05:44.000Z",
@@ -18587,9 +19096,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recjefOkZ4BA9GSdr": {
     "createdTime": "2018-10-18T00:06:51.000Z",
@@ -18633,9 +19143,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recbYs6ty7R081gTL": {
     "createdTime": "2018-10-18T00:07:59.000Z",
@@ -18679,9 +19190,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recLqTEOmtwwffBpb": {
     "createdTime": "2018-10-18T00:08:43.000Z",
@@ -18725,9 +19237,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recmDiq3nYjxVyJde": {
     "createdTime": "2018-10-18T00:09:29.000Z",
@@ -18771,9 +19284,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recEpa6g2eK4kepYU": {
     "createdTime": "2018-10-18T00:18:53.000Z",
@@ -18817,9 +19331,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recqGZOgvSyf9Gphr": {
     "createdTime": "2018-10-18T00:19:35.000Z",
@@ -18863,9 +19378,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recec2glh67SHUU54": {
     "createdTime": "2019-01-23T10:26:47.000Z",
@@ -18909,9 +19425,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recTnun7fDTNAbinL": {
     "createdTime": "2019-01-23T10:28:32.000Z",
@@ -18955,9 +19472,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recyjkm1cPMUEdizT": {
     "createdTime": "2019-01-23T10:30:15.000Z",
@@ -19004,9 +19522,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recQam7kgl8ewGaTj": {
     "createdTime": "2018-10-18T01:03:53.000Z",
@@ -19050,9 +19569,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "reclcIJZgkU1xS7gL": {
     "createdTime": "2018-10-18T01:04:47.000Z",
@@ -19096,9 +19616,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recvOgtgGVK39lPR9": {
     "createdTime": "2018-10-18T01:11:34.000Z",
@@ -19142,9 +19663,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recu64G90wcXnucXb": {
     "createdTime": "2018-10-18T01:06:00.000Z",
@@ -19188,9 +19710,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recBsur5aAWJt0obi": {
     "createdTime": "2018-10-18T01:07:22.000Z",
@@ -19234,9 +19757,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recRQrCsjSiIfgJeF": {
     "createdTime": "2018-10-18T01:10:11.000Z",
@@ -19280,9 +19804,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "recNEQCDVauvqQrk5": {
     "createdTime": "2018-10-17T22:04:44.000Z",
@@ -24379,18 +24904,6 @@ export let PersonPositions = {
       "rec4US2ZzOygzmLka"
     ],
     "positionTitle": "Director",
-    "personIds": [
-      "recGX7657yT6j0Wby"
-    ],
-    "(You can't directly edit this column)": "Angie Liao, AFX Nation  Director",
-    "groupType": [
-      "team"
-    ],
-    "isValid": "OK",
-    "teamSemesterId": [
-      "recJ4hDACtEzrRW8f"
-    ],
-    "sortKey": "2018c",
     "picture": [
       {
         "id": "atth2aysyZ0UKwUt4",
@@ -24416,7 +24929,19 @@ export let PersonPositions = {
           }
         }
       }
-    ]
+    ],
+    "personIds": [
+      "recGX7657yT6j0Wby"
+    ],
+    "(You can't directly edit this column)": "Angie Liao, AFX Nation  Director",
+    "groupType": [
+      "team"
+    ],
+    "isValid": "OK",
+    "teamSemesterId": [
+      "recJ4hDACtEzrRW8f"
+    ],
+    "sortKey": "2018c"
   },
   "recJWNvMUiHu2qO3k": {
     "createdTime": "2018-12-01T19:01:40.000Z",
@@ -30062,9 +30587,10 @@ export let PersonPositions = {
     ],
     "isValid": "OK",
     "boardSemesterId": [
-      "recJ4hDACtEzrRW8f"
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c"
+    "sortKey": "2018c, 2018b"
   },
   "rechsSsuF1cykJjvP": {
     "createdTime": "2019-01-24T09:21:13.000Z",
@@ -31795,6 +32321,9 @@ export let Semesters = {
       "recg9FXsPIzu23nIw",
       "recCDgbXTdW2RvKWG",
       "recVE43xY4VQvYs7j"
+    ],
+    "Year": [
+      "rec88Ubqgi1TjIkh5"
     ]
   },
   "recJ4hDACtEzrRW8f": {
@@ -31818,12 +32347,18 @@ export let Semesters = {
       "recvYtPBSrT8l3Oel",
       "recgRpBKR0PGtPoaf",
       "recbo1kdUheKuzZyA"
+    ],
+    "Year": [
+      "rec2l7SezVyfCEDbA"
     ]
   },
   "recQyG9LRNGj3oJL9": {
     "createdTime": "2018-11-03T19:27:13.000Z",
     "id": "recQyG9LRNGj3oJL9",
     "codename": "2018b",
+    "boardGroupId": [
+      "recacbKTL0BnOU1WC"
+    ],
     "teamGroupIds": [
       "recJGCk5JPfHJ5nI5",
       "recpQI3J6HKu6NObe",
@@ -31832,6 +32367,9 @@ export let Semesters = {
       "recCbo4tDZZKyEim7",
       "recKIT6nxJFIUwaCF",
       "recQLC0SGq1JalhZy"
+    ],
+    "Year": [
+      "rec2l7SezVyfCEDbA"
     ]
   },
   "recmdSIsenKNx7Sgq": {
@@ -31855,6 +32393,9 @@ export let Semesters = {
       "recw7gz6Y12j41aTG",
       "recokuRWqWHMaWmuE",
       "recc2ItnT2n7d7FrO"
+    ],
+    "Year": [
+      "rec2l7SezVyfCEDbA"
     ]
   },
   "recNgq1uYEeYnepMi": {
@@ -31876,12 +32417,18 @@ export let Semesters = {
       "recV24mdNgq8HICTK",
       "recooewIvmz1cLLO8",
       "rechL3W2Vi7wov83L"
+    ],
+    "Year": [
+      "recvEpeQjsXVXA0gP"
     ]
   },
   "recd2QXLEA5yJeKlX": {
     "createdTime": "2018-11-03T19:33:50.000Z",
     "id": "recd2QXLEA5yJeKlX",
     "codename": "2017b",
+    "boardGroupId": [
+      "recV60tDu2ac60oV5"
+    ],
     "teamGroupIds": [
       "rec0CkXoH2GWsRqI9",
       "recideyqEsLQVrk6U",
@@ -31890,6 +32437,9 @@ export let Semesters = {
       "recjmrarPLS2cLFP6",
       "rec6O0XYNXZk0TUSH",
       "recn6LlGtFykr0SZo"
+    ],
+    "Year": [
+      "recvEpeQjsXVXA0gP"
     ]
   },
   "recZUIegVvDgUQVqN": {
@@ -31912,6 +32462,9 @@ export let Semesters = {
       "reczhFJVl1odeRHxw",
       "recs4sDRkWSBWVORf",
       "recvqz0iaFmQNln9P"
+    ],
+    "Year": [
+      "recvEpeQjsXVXA0gP"
     ]
   },
   "rec46uOkPIMRT94Yl": {
@@ -31932,12 +32485,18 @@ export let Semesters = {
       "recO1Lw8WksNpencI",
       "recI9zyyYVj7U5SBn",
       "reccK9CEI8KHIjNqI"
+    ],
+    "Year": [
+      "recyPAa54naGiKUbh"
     ]
   },
   "recoIdMWmnZ8Khgdz": {
     "createdTime": "2019-01-23T07:50:46.000Z",
     "id": "recoIdMWmnZ8Khgdz",
     "codename": "2016b",
+    "boardGroupId": [
+      "reck4OThY5wJJLrfc"
+    ],
     "teamGroupIds": [
       "recOVpFFYp4LMgN3I",
       "recJ3YxwbZ3dMC5gj",
@@ -31945,6 +32504,9 @@ export let Semesters = {
       "recw3tPXhSfrR5Tyu",
       "recPKxHOdAfnBkagq",
       "recoXVe23XTKANF21"
+    ],
+    "Year": [
+      "recyPAa54naGiKUbh"
     ]
   },
   "recCb5r44adqba2uh": {
@@ -31966,6 +32528,9 @@ export let Semesters = {
       "recx1sbhyf2I8cdSo",
       "reconkBMRGiRxRfeN",
       "recRYZjFxEnNWMVMm"
+    ],
+    "Year": [
+      "recyPAa54naGiKUbh"
     ]
   },
   "recY0nIuoOQBEiove": {
@@ -31984,17 +32549,26 @@ export let Semesters = {
       "rec4u3fK7tUhPyhh7",
       "recrzLzveeEhbhDJZ",
       "recbySoDTBxJA0xiR"
+    ],
+    "Year": [
+      "recwC4ZkPxEkxX4uu"
     ]
   },
   "recmhzP4aHP54XrIy": {
     "createdTime": "2019-01-23T07:51:03.000Z",
     "id": "recmhzP4aHP54XrIy",
     "codename": "2015b",
+    "boardGroupId": [
+      "recBUiPZV1HCyrITE"
+    ],
     "teamGroupIds": [
       "recuSIOZ5KP5kQXs6",
       "recfICFVB55oWC78y",
       "recE55poWqurXd97D",
       "recllo5BKMuqHWrRj"
+    ],
+    "Year": [
+      "recwC4ZkPxEkxX4uu"
     ]
   },
   "recciR1KW7mB2Xl9Q": {
@@ -32015,6 +32589,9 @@ export let Semesters = {
       "recLSvOyDcwTf9G7c",
       "reccuoGPAleMQ0ToU",
       "reclT38qMHDMCS0UJ"
+    ],
+    "Year": [
+      "recwC4ZkPxEkxX4uu"
     ]
   },
   "recbm2ludN2zPK0pF": {
@@ -32033,15 +32610,24 @@ export let Semesters = {
       "recpcyRmEzskH9FWc",
       "recF4yQ7IPp6e9dXn",
       "recOnVahXzC7kYXXp"
+    ],
+    "Year": [
+      "recLqfUtNPG9Qcy3S"
     ]
   },
   "recApj4OON4ph8eu5": {
     "createdTime": "2019-01-19T20:20:09.000Z",
     "id": "recApj4OON4ph8eu5",
     "codename": "2014b",
+    "boardGroupId": [
+      "recvLyVuB39eaBWUG"
+    ],
     "teamGroupIds": [
       "recOsz2yPhsrLgtpo",
       "recUrnBvsEJATCt1Q"
+    ],
+    "Year": [
+      "recLqfUtNPG9Qcy3S"
     ]
   },
   "rec7OSoLcUa7AXoRj": {
@@ -32061,6 +32647,9 @@ export let Semesters = {
       "recCwYBuoC4d3UBVf",
       "recO91b2wy6XN4g0J",
       "rectC2LirGhN0EAgz"
+    ],
+    "Year": [
+      "recLqfUtNPG9Qcy3S"
     ]
   },
   "reclq9NGrcGBX4Kik": {
@@ -32077,14 +32666,23 @@ export let Semesters = {
       "recdWaEaTltCKbrFW",
       "recagqbNsnSE97SSL",
       "recifKY7DcH1RxaMP"
+    ],
+    "Year": [
+      "reca4AQIWIvbnKUcj"
     ]
   },
   "recqLFTMOEFuuNmkV": {
     "createdTime": "2019-01-23T09:22:58.000Z",
     "id": "recqLFTMOEFuuNmkV",
     "codename": "2013b",
+    "boardGroupId": [
+      "rec7AuUevOSkKy0wb"
+    ],
     "teamGroupIds": [
       "recVFwKwKUXRf3UVn"
+    ],
+    "Year": [
+      "reca4AQIWIvbnKUcj"
     ]
   },
   "recNoD9Wx0WqCgYfo": {
@@ -32099,6 +32697,9 @@ export let Semesters = {
       "recHUtfGFtTovTeMw",
       "rec89U7CQbAdA14Ad",
       "recOXMrmfqrI4w81D"
+    ],
+    "Year": [
+      "reca4AQIWIvbnKUcj"
     ]
   },
   "rec940RvbrFn1Y5cD": {
@@ -32107,6 +32708,88 @@ export let Semesters = {
     "codename": "2011",
     "boardGroupId": [
       "recs2aRRotZKq6Lvm"
+    ],
+    "Year": [
+      "recku2ZI7ezdSZzf5"
+    ]
+  }
+}
+
+export let Years = {
+  "rec88Ubqgi1TjIkh5": {
+    "createdTime": "2019-04-29T04:09:57.000Z",
+    "id": "rec88Ubqgi1TjIkh5",
+    "Name": "2019",
+    "semCodename": [
+      "rec5XKEgTIG4JPqKB"
+    ]
+  },
+  "rec2l7SezVyfCEDbA": {
+    "createdTime": "2019-04-29T04:09:57.000Z",
+    "id": "rec2l7SezVyfCEDbA",
+    "Name": "2018",
+    "semCodename": [
+      "recJ4hDACtEzrRW8f",
+      "recQyG9LRNGj3oJL9",
+      "recmdSIsenKNx7Sgq"
+    ]
+  },
+  "recvEpeQjsXVXA0gP": {
+    "createdTime": "2019-04-29T04:09:57.000Z",
+    "id": "recvEpeQjsXVXA0gP",
+    "Name": "2017",
+    "semCodename": [
+      "recNgq1uYEeYnepMi",
+      "recd2QXLEA5yJeKlX",
+      "recZUIegVvDgUQVqN"
+    ]
+  },
+  "recyPAa54naGiKUbh": {
+    "createdTime": "2019-04-29T04:10:55.000Z",
+    "id": "recyPAa54naGiKUbh",
+    "Name": "2016",
+    "semCodename": [
+      "rec46uOkPIMRT94Yl",
+      "recoIdMWmnZ8Khgdz",
+      "recCb5r44adqba2uh"
+    ]
+  },
+  "recwC4ZkPxEkxX4uu": {
+    "createdTime": "2019-04-29T04:10:55.000Z",
+    "id": "recwC4ZkPxEkxX4uu",
+    "Name": "2015",
+    "semCodename": [
+      "recY0nIuoOQBEiove",
+      "recmhzP4aHP54XrIy",
+      "recciR1KW7mB2Xl9Q"
+    ]
+  },
+  "recLqfUtNPG9Qcy3S": {
+    "createdTime": "2019-04-29T04:10:56.000Z",
+    "id": "recLqfUtNPG9Qcy3S",
+    "Name": "2014",
+    "semCodename": [
+      "recbm2ludN2zPK0pF",
+      "recApj4OON4ph8eu5",
+      "rec7OSoLcUa7AXoRj"
+    ]
+  },
+  "reca4AQIWIvbnKUcj": {
+    "createdTime": "2019-04-29T04:11:02.000Z",
+    "id": "reca4AQIWIvbnKUcj",
+    "Name": "2013",
+    "semCodename": [
+      "reclq9NGrcGBX4Kik",
+      "recqLFTMOEFuuNmkV",
+      "recNoD9Wx0WqCgYfo"
+    ]
+  },
+  "recku2ZI7ezdSZzf5": {
+    "createdTime": "2019-04-29T04:11:02.000Z",
+    "id": "recku2ZI7ezdSZzf5",
+    "Name": "2011-2012",
+    "semCodename": [
+      "rec940RvbrFn1Y5cD"
     ]
   }
 }

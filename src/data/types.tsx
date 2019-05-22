@@ -32,6 +32,7 @@ export interface Group {
   videoUrl?: string; // only for teams
   boardSemesterId?: string[]; // todo: should not be array?
   teamSemesterId?: string[]; // todo: should not be array?
+  level?: string;
 }
 // export let Groups: { [x: string]: Group };
 
@@ -56,4 +57,15 @@ export interface Semester {
   codename: string;
   boardGroupId?: string[]; // todo: should not be array?
   teamGroupIds?: string[];
+}
+
+export interface App {
+  semKey: string;
+}
+
+export interface Year {
+  id: string;
+  createdTime: string;
+  semCodename: string[];
+  Name: string;
 }
