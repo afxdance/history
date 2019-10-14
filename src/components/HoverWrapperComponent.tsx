@@ -9,6 +9,7 @@ interface HoverWrapperComponentProp {
 
 interface HoverWrapperComponentState {
   newAdjustedLeft: number | undefined;
+  newAdjustedBottom: string | undefined;
 }
 
 // prop = personposition
@@ -18,6 +19,7 @@ export class HoverWrapperComponent extends React.Component<
 > {
   public state = {
     newAdjustedLeft: undefined,
+    newAdjustedBottom: undefined,
   };
 
   public readjust = () => {
@@ -44,10 +46,12 @@ export class HoverWrapperComponent extends React.Component<
               position.right -
               (position.right - position.left) / 2,
           });
+        } else if (position.bottom > window.innerHeight) {
+          console.log("adjusting bottom");
+          this.setState({
+            newAdjustedBottom: "100%",
+          });
         }
-        console.log(position.right);
-        console.log(window.innerWidth);
-        console.log((position.right - position.left) / 2);
       }
     );
   };
@@ -128,15 +132,18 @@ export class HoverWrapperComponent extends React.Component<
     return (
       <span className="HoverWrapper" onMouseEnter={this.readjust}>
         <span className="HoverWrapper-inline">{this.props.children}</span>
-        <span
+        <div
           className="HoverWrapper-content"
           ref="HoverRef"
           /* Removed since code creating this style aspect is commented out */
-          style={{ left: this.state.newAdjustedLeft }}
+          style={{
+            left: this.state.newAdjustedLeft,
+            bottom: this.state.newAdjustedBottom,
+          }}
         >
           <h3>{person.name}</h3>
           {ret}
-        </span>
+        </div>
       </span>
     );
   }
