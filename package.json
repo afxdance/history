@@ -31,5 +31,11 @@
     "@types/react-dom": "^16.0.8",
     "prettier": "1.14.3",
     "typescript": "^3.1.1"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
