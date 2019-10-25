@@ -1,10 +1,12 @@
 import * as React from "react";
 import { GroupsComponent } from "src/components/GroupsComponent";
+import { Route, Link, BrowserRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
 import { Sidebar } from "./SidebarComponent";
+import { Searchbar } from "./SearchbarComponent";
 import { render } from "react-dom";
 import { type } from "os";
 
@@ -49,10 +51,13 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     }
     // }
     return (
-      <div>
-        <Sidebar onClick={this.myCallback} />
-        {groups}
-      </div>
+      <Router>
+        <div>
+          <Sidebar onClick={this.myCallback} />
+          <Searchbar onClick={this.myCallback} />
+          {groups}
+        </div>
+      </Router>
     );
   }
 }
