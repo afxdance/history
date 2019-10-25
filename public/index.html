@@ -17,7 +17,7 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132986363-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'UA-132986363-1');
@@ -26,21 +26,21 @@
 
   <!-- begin Fullstory -->
   <script>
-  window['_fs_debug'] = false;
-  window['_fs_host'] = 'fullstory.com';
-  window['_fs_org'] = 'JDKAC';
-  window['_fs_namespace'] = 'FS';
-  (function(m,n,e,t,l,o,g,y){
-      if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
-      g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
-      o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
-      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
-      g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
-      g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
-      g.consent=function(a){g("consent",!arguments.length||a)};
-      g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
-      g.clearUserCookie=function(){};
-  })(window,document,window['_fs_namespace'],'script','user');
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'fullstory.com';
+    window['_fs_org'] = 'JDKAC';
+    window['_fs_namespace'] = 'FS';
+    (function (m, n, e, t, l, o, g, y) {
+      if (e in m) { if (m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); } return; }
+      g = m[e] = function (a, b, s) { g.q ? g.q.push([a, b, s]) : g._api(a, b, s); }; g.q = [];
+      o = n.createElement(t); o.async = 1; o.src = 'https://' + _fs_host + '/s/fs.js';
+      y = n.getElementsByTagName(t)[0]; y.parentNode.insertBefore(o, y);
+      g.identify = function (i, v, s) { g(l, { uid: i }, s); if (v) g(l, v, s) }; g.setUserVars = function (v, s) { g(l, v, s) }; g.event = function (i, v, s) { g('event', { n: i, p: v }, s) };
+      g.shutdown = function () { g("rec", !1) }; g.restart = function () { g("rec", !0) };
+      g.consent = function (a) { g("consent", !arguments.length || a) };
+      g.identifyAccount = function (i, v) { o = 'account'; v = v || {}; v.acctId = i; g(o, v) };
+      g.clearUserCookie = function () { };
+    })(window, document, window['_fs_namespace'], 'script', 'user');
   </script>
   <!-- end Fullstory -->
 
@@ -61,7 +61,8 @@
 </head>
 
 <div class="video-container">
-  <div class="video" controls loop><iframe src="https://www.youtube.com/embed/videoseries?list=PLOZ8paoFrGJ3bfiM2Oa1yGNC04WccuF9b&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;mute=1&amp;autoplay=1&amp;loop=1&amp;Version=3&amp;start=5"
+  <div class="video" controls loop><iframe
+      src="https://www.youtube.com/embed/videoseries?list=PLOZ8paoFrGJ3bfiM2Oa1yGNC04WccuF9b&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;mute=1&amp;autoplay=1&amp;loop=1&amp;Version=3&amp;start=5"
       width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe></div>
   <div class="video-overlay-background"></div>
   <div class="video-overlay">
@@ -98,11 +99,9 @@
   </div>
   <div class="border"></div>
 </div>
+<div id="app"></div>
 
-<!--
-    Add static things here. React will display these things as is.
-    id="root" displays the react code
-  -->
+<!-- Add static things here. React will display these things as is. id="root" displays the react code -->
 
 <!-- <div class="main">
   <div class="banner">
