@@ -7,6 +7,7 @@ import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
 import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
+import { IndividualComponent } from "./IndividualComponent";
 import { render } from "react-dom";
 import { type } from "os";
 
@@ -54,8 +55,13 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
       <Router>
         <div>
           <Sidebar onClick={this.myCallback} />
-          <Searchbar onClick={this.myCallback} />
-          {groups}
+          <Route exact={true} path="/" render={() => (
+            <div>
+              {/* <Searchbar onClick={this.myCallback} /> */}
+              {groups}
+            </div>
+          )} />
+          <Route path="/persons/:name" component={IndividualComponent} />
         </div>
       </Router>
     );

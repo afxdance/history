@@ -26,7 +26,9 @@ export class IndividualComponent extends React.Component<any> {
     // let personPositionComponents = searchedPerson.map(person)
     return (
       <div>
-        <h1>{params.name}</h1>
+        {ids && (
+          <h1>{ids}</h1>
+        )}
       </div>
     );
   }
