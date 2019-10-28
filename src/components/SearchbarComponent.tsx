@@ -7,6 +7,11 @@ export class Searchbar extends React.Component<
   constructor(props: any) {
     super(props);
   }
+  public render() {
+    return (
+      <FilteredList />
+    );
+  }
 }
 
 var createReactClass = require('create-react-class');
@@ -64,5 +69,3 @@ var List = createReactClass({
     )
   }
 });
-
-ReactDOM.render(<FilteredList />, document.getElementById('app'));
