@@ -1,5 +1,8 @@
 import * as React from "react";
 import * as ReactDOM from 'react-dom';
+import { Person } from "src/data/types"
+import * as Data from "src/data/data";
+import * as AFX from "src/data/data";
 
 export class Searchbar extends React.Component<
   { onClick: Function }
@@ -22,20 +25,18 @@ var FilteredList = createReactClass({
       return item.toLowerCase().search(
         event.target.value.toLowerCase()) !== -1;
     });
+    for (var item in updatedList) {
+      console.log(item);
+    }
     this.setState({ items: updatedList });
   },
   getInitialState: function () {
+    var initialItems: string[] = [];
+    for (var person in Data.People) {
+      initialItems.push(Data.People[person]["name"]);
+    }
     return {
-      initialItems: [
-        "Apples",
-        "Broccoli",
-        "Chicken",
-        "Duck",
-        "Eggs",
-        "Fish",
-        "Granola",
-        "Hash Browns"
-      ],
+      initialItems,
       items: []
     }
   },
