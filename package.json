@@ -15,6 +15,7 @@
     "lodash": "^4.17.11",
     "mini-create-react-context": "^0.3.2",
     "parcel": "^1.12.4",
+    "query-string": "^6.8.3",
     "react": "^16.10.2",
     "react-burger-menu": "^2.6.8",
     "react-dom": "^16.10.2",
