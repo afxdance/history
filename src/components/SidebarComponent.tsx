@@ -5,6 +5,14 @@ import * as React from "react";
 import { SemLinkComponent } from "./SemLinkComponent";
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent";
 
+//New Imports (for now)
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faHome, faBriefcase, faPaperPlane, faQuestion, faImage, faCopy } from '@fortawesome/free-solid-svg-icons';
+import "./App.css"; //imported to access specifications for sidebar
+import { NavItem, NavLink, Nav } from 'reactstrap';
+import classNames from "classnames";
+
+
 // Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
   onClick: Function;
@@ -18,7 +26,8 @@ const divStyle = {
 export class Sidebar extends React.Component<
   { onClick: Function },
   { closed: boolean }
-> {
+  > {
+
   constructor(props: any) {
     super(props);
     this.state = {
@@ -48,10 +57,28 @@ export class Sidebar extends React.Component<
     // We then add the list into the Menu. The library then changes everything into items of the menu.
     // As a result, when we add the list, it takes every element in the list and makes it into an item.
     return (
-      <Menu>
-        <h3 className="menuTitle">Years</h3>
-        {yearLinks}
-      </Menu>
+      <div className="sidebar">
+        <div className="sidebar-header">
+          <span color="info" style={{ color: '#fff' }}>&times;</span>
+          <h3>Bootstrap Sidebar</h3>
+        </div>
+        <div className="side-menu">
+          <Nav vertical className="list-unstyled pb-3">
+            <p>Dummy Heading</p>
+            <NavItem>
+              <FontAwesomeIcon icon={faBriefcase} className="mr-2" />About
+            </NavItem>
+          </Nav>
+        </div>
+      </div >
+
+
+
+      // <Menu>
+      //   <h3 className="menuTitle">Years</h3>
+      //   {yearLinks}
+      // </Menu>
     );
+
   }
 }

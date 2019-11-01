@@ -3,14 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
+    "@types/classnames": "^2.2.9",
     "@types/lodash": "^4.14.121",
-    "airtable": "^0.5.7",
+    "@types/react-burger-menu": "^2.2.5",
+    "@types/reactstrap": "^8.0.5",
+    "airtable": "^0.7.1",
+    "ajv": "^6.10.2",
     "gh-pages": "^2.0.1",
-    "lodash": "^4.17.11",
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15",
     "react": "^16.5.2",
     "react-burger-menu": "^2.6.8",
     "react-dom": "^16.5.2",
-    "react-scripts-ts": "3.1.0"
+    "react-scripts-ts": "3.1.0",
+    "reactstrap": "^8.1.1"
   },
   "scripts": {
     "start": "react-scripts-ts start",
@@ -22,11 +31,11 @@
   },
   "devDependencies": {
     "@types/jest": "^23.3.3",
-    "@types/node": "^10.11.4",
+    "@types/node": "^10.14.22",
     "@types/react": "^16.4.14",
     "@types/react-dom": "^16.0.8",
     "prettier": "1.14.3",
-    "typescript": "^3.1.1"
+    "typescript": "^3.6.4"
   },
   "browserslist": [
     ">0.2%",
