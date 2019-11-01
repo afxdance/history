@@ -25,9 +25,6 @@ var FilteredList = createReactClass({
       return item.toLowerCase().search(
         event.target.value.toLowerCase()) !== -1;
     });
-    for (var item in updatedList) {
-      console.log(item);
-    }
     this.setState({ items: updatedList });
   },
   getInitialState: function () {
@@ -40,15 +37,13 @@ var FilteredList = createReactClass({
       items: []
     }
   },
-  componentWillMount: function () {
-    this.setState({ items: this.state.initialItems })
-  },
+
   render: function () {
     return (
       <div className="filter-list">
         <form>
           <fieldset className="form-group">
-            <input type="text" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
+            <input type="text" id="searchbar" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
           </fieldset>
         </form>
         <List items={this.state.items} />
@@ -63,7 +58,7 @@ var List = createReactClass({
       <ul className="list-group">
         {
           this.props.items.map(function (item: any) {
-            return <li className="list-group-item" data-category={item} key={item}>{item}</li>
+            return <li className="list-group-item" data-category={item}>{item}</li>
           })
         }
       </ul>
