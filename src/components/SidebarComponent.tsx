@@ -57,7 +57,7 @@ export class Sidebar extends React.Component<
     // We then add the list into the Menu. The library then changes everything into items of the menu.
     // As a result, when we add the list, it takes every element in the list and makes it into an item.
     return (
-      <div className="sidebar">
+      <div id="sidebar" className="sidebar">
         <div className="sidebar-header">
           <span color="info" style={{ color: '#fff' }}>&times;</span>
           <h3>Bootstrap Sidebar</h3>

@@ -3812,8 +3812,11 @@ button {
     SIDEBAR STYLE
 ----------------------------------------------------- */
 .sidebar {
-  min-width: 250px;
-  max-width: 250px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 250px;
+  height: 100%;
   background: #7386D5;
   color: #fff;
   margin-left: -250px;
@@ -3887,86 +3890,18 @@ li a.dropdown-toggle::after {
   background: #3A4C99;
 }
 
-/* ---------------------------------------------------
-    CONTENT STYLE FOR THE UPDATED SIDEBAR
------------------------------------------------------ */
-.sidebar {
-  min-width: 250px;
-  max-width: 250px;
-  background: #7386D5;
+.togglebutton {
   color: #fff;
-  margin-left: -250px;
-  transition: all 0.5s;
-}
-
-.sidebar.is-open {
-  margin-left: 0;
-  transition: .5s;
-}
-
-
-.sidebar-header {
-  background: #6d7fcc;
-}
-
-.sidebar-header h3{
-  color: #fff;
-  padding: 1em;
-}
-
-.sidebar ul p {
-    color: #fff;
-    padding: 10px;
-}
-
-.menu-open {
-  background: #6d7fcc;
-}
-
-.nav-item:hover {
-    color: #7386D5;
-    background: #fff;
-}
-
-.items-menu {
-  color: #fff;
-  background: #6d7fcc;
-}
-
-li a.dropdown-toggle::after {
-    display: inline-flex;
-    position: relative;
-    left: 60%;
-    top: 10%
-}
-
-.sidebar-header > span {
-    position: relative;
-    float: right;
-    margin: .5em;
-    font-size: 2rem;
-    cursor: pointer;
-    display: none;
-}
-.side-menu {
-  height: calc(100vh - 130px);
-  overflow-y: scroll;
-}
-
-.side-menu::-webkit-scrollbar {
+  position: fixed;
+  left: 10px;
+  top: 20px;
   width: 10px;
+  height: 15px;
 }
 
-.side-menu::-webkit-scrollbar-thumb {
-  background: #5466B3;
-  border-radius: 3px;
+.big-icon {
+  font-size: 16px;
 }
-
-.side-menu::-webkit-scrollbar-thumb:hover {
-  background: #3A4C99;
-}
-
-
 
 
 /* .infoHover {

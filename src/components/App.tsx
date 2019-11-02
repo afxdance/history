@@ -5,6 +5,9 @@ import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
 import { Sidebar } from "./SidebarComponent";
+import { Button } from "reactstrap";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAlignLeft } from '@fortawesome/free-solid-svg-icons';
 import { render } from "react-dom";
 import { type } from "os";
 
@@ -34,6 +37,15 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     });
   };
 
+
+  //Toggle method for the sidebar toggle function
+  public openNav = () => {
+    var sidebar = document.getElementById("sidebar");
+    if (sidebar != null) {
+      sidebar.style.marginLeft = "0px";
+    }
+  };
+
   public render() {
     let groups: any = [];
     // Go through all semesters (in chronological order) and display respective board members and teams
@@ -51,6 +63,9 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     return (
       <div>
         <Sidebar onClick={this.myCallback} />
+        <Button className='togglebutton' onClick={this.openNav}>
+          <FontAwesomeIcon className='big-icon' icon={faAlignLeft} />
+        </Button>
         {groups}
       </div>
     );
