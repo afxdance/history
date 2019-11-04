@@ -47,7 +47,7 @@ var FilteredList = createReactClass({
         <div className="filter-list">
           <form action="/persons" method="get">
             <fieldset className="form-group">
-              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
+              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
             </fieldset>
           </form>
           <List items={this.state.items} />
@@ -58,7 +58,7 @@ var FilteredList = createReactClass({
         <div className="filter-list">
           <form action="/persons" method="get">
             <fieldset className="form-group">
-              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
+              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
             </fieldset>
           </form>
         </div>
