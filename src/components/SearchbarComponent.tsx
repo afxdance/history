@@ -4,6 +4,8 @@ import { Person } from "src/data/types"
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
+var searchBarText = "";
+
 export class Searchbar extends React.Component<
   { onClick: Function }
   > {
@@ -20,6 +22,7 @@ export class Searchbar extends React.Component<
 var createReactClass = require('create-react-class');
 var FilteredList = createReactClass({
   filterList: function (event: any) {
+    searchBarText = event.target.value;
     var updatedList = this.state.initialItems;
     updatedList = updatedList.filter(function (item: any) {
       return item.toLowerCase().search(
@@ -39,16 +42,28 @@ var FilteredList = createReactClass({
   },
 
   render: function () {
-    return (
-      <div className="filter-list">
-        <form action="/persons" method="get">
-          <fieldset className="form-group">
-            <input type="text" name="name" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
-          </fieldset>
-        </form>
-        <List items={this.state.items} />
-      </div>
-    );
+    if (searchBarText != "") {
+      return (
+        <div className="filter-list">
+          <form action="/persons" method="get">
+            <fieldset className="form-group">
+              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
+            </fieldset>
+          </form>
+          <List items={this.state.items} />
+        </div>
+      );
+    } else {
+      return (
+        <div className="filter-list">
+          <form action="/persons" method="get">
+            <fieldset className="form-group">
+              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
+            </fieldset>
+          </form>
+        </div>
+      );
+    }
   }
 });
 
