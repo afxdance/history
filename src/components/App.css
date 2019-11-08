@@ -513,6 +513,7 @@ template {
 html {
   font-size: 100.01%;
   min-width: 800px;
+  scroll-behavior: smooth;
 }
 
 /* line 28, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
@@ -3820,6 +3821,17 @@ button {
   float: right;
   width: 50px;
   height: 50px;
+}
+
+a {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#allteams {
+  display: block;
+  text-align: center;
 }
 
 /* .infoHover {

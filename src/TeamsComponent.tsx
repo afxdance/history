@@ -40,13 +40,15 @@ export class TeamsComponent extends React.Component<any> {
       dateStr = DisplayUtility.getSemesterString(Data.Groups[teamIds[0]]);
     }
     return (
-      <div>
+      <div id="allteams">
         <div className="semester--title">{dateStr}</div>
-        <div className="board-team--title">Training Teams</div>
+        <div id="trainingteams" className="board-team--title">Training Teams</div>
         <div className="teams">{trainingTeamComponents}</div>
+        <a href="#top"> Back to Top </a>
 
-        <div className="board-team--title">Project Teams</div>
+        <div id="projectteams" className="board-team--title">Project Teams</div>
         <div className="teams">{projectTeamComponents}</div>
+        <a href="#top"> Back to Top </a>
       </div>
     );
   }
