@@ -42,9 +42,9 @@ var FilteredList = createReactClass({
     return (
       <div className="filter-list">
         <form action="/persons" method="get">
-          <fieldset className="form-group">
-            <input type="text" name="name" className="form-control form-control-lg" placeholder="Search" onChange={this.filterList} />
-          </fieldset>
+          <div className="search-form">
+            <input type="search" name="name" className="form-control" placeholder="Search" onChange={this.filterList} />
+          </div>
         </form>
         <List items={this.state.items} />
       </div>
@@ -58,7 +58,7 @@ var List = createReactClass({
       <ul className="list-group">
         {
           this.props.items.map(function (item: any) {
-            return <li className="list-group-item" data-category={item}>{item}</li>
+            return <ul className="list-group-item" data-category={item}>{item}</ul>
           })
         }
       </ul>
