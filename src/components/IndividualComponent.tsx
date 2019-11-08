@@ -38,8 +38,9 @@ export class IndividualComponent extends React.Component<any> {
       })
     }
     return (
-      <div>
+      <div className="search-results">
         <p className="semester--title">Results for {name}</p>
+        <a id="back-link" href="/">Back to Home</a>
         {personPositionComponents}
       </div>
     );

@@ -3573,7 +3573,7 @@ strong {
   margin-top: 0px;
 }
 
-.overlay {
+/* .overlay {
   position: absolute;
   bottom: 5px;
   background-color: rgba(0, 0, 0, 0.5);
@@ -3582,7 +3582,7 @@ strong {
   width: 100%;
   height: 0;
   transition: 0.5s ease;
-}
+} */
 
 .video-container {
   width: 100%;
@@ -3808,20 +3808,41 @@ button {
   margin-bottom: 40px;
 }
 
+.filter-list {
+  text-align: center;
+  position: relative;
+}
+
 #search {
-  display: block;
   width: 75vw;
   margin-left: 150px;
   height: 25px;
+  font-size: medium;
 }
 
 #searchicon {
-  margin-right: 125px;
-  float: right;
+  position: absolute;
+  top: 10px;
+  right: 125px;
+  /* margin-right: 10px;
+  float: right; */
   width: 50px;
   height: 50px;
 }
 
+.search-results {
+  position: relative;
+  text-align: center;
+  margin-left: 20px;
+  margin-left: 20px
+}
+
+#back-link {
+  position: absolute;
+  font-size: medium;
+  top: 10px;
+  margin-left: 20px;
+}
 /* .infoHover {
   /*Took out display: flex since it was causing alignment issues in dropdown. */
 /* display: flex;

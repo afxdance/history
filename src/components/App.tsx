@@ -55,15 +55,13 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
       <Router>
         <div>
           <Sidebar onClick={this.myCallback} />
-          <Switch>
-            <Route exact path="/" render={() => (
-              <div>
-                <Searchbar onClick={this.myCallback} />
-                {groups}
-              </div>
-            )} />
-            <Route path="/persons" component={IndividualComponent} />
-          </Switch>
+          <Searchbar onClick={this.myCallback} />
+          <Route exact path="/" render={() =>
+            <div>
+              {groups}
+            </div>
+          } />
+          <Route path="/persons" component={IndividualComponent} />
         </div>
       </Router>
     );
