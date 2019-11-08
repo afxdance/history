@@ -47,7 +47,10 @@ var FilteredList = createReactClass({
         <div className="filter-list">
           <form action="/persons" method="get">
             <fieldset className="form-group">
-              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              <div className="input-field">
+                <img id="searchicon" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png"></img>
+                <input type="text" id="search" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              </div>
             </fieldset>
           </form>
           <List items={this.state.items} />
@@ -58,7 +61,10 @@ var FilteredList = createReactClass({
         <div className="filter-list">
           <form action="/persons" method="get">
             <fieldset className="form-group">
-              <input type="text" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              <div className="input-field">
+                <img id="searchicon" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png"></img>
+                <input type="text" id="search" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              </div>
             </fieldset>
           </form>
         </div>
