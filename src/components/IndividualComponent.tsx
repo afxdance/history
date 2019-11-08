@@ -13,7 +13,6 @@ export class IndividualComponent extends React.Component<any> {
     for (var pID in people) {
       let currPerson: Person = people[pID];
       if (currPerson.name.toLowerCase().includes(personName.toLowerCase())) {
-        alert('found ' + currPerson.name);
         posIDs.push(currPerson.positionIds);
       }
     }
@@ -22,6 +21,7 @@ export class IndividualComponent extends React.Component<any> {
   public render() {
     // Stores url parameters in params
     const params = new URLSearchParams(this.props.location.search);
+
     var name = params.get('name');
     let personPositionComponents: any = [];
     if (name != undefined) {
@@ -39,7 +39,7 @@ export class IndividualComponent extends React.Component<any> {
     }
     return (
       <div>
-        <h1>Results for {name}</h1>
+        <p className="semester--title">Results for {name}</p>
         {personPositionComponents}
       </div>
     );

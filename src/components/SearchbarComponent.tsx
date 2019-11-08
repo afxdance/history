@@ -4,6 +4,8 @@ import { Person } from "src/data/types"
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
+var searchBarText = "";
+
 export class Searchbar extends React.Component<
   { onClick: Function }
   > {
@@ -20,6 +22,7 @@ export class Searchbar extends React.Component<
 var createReactClass = require('create-react-class');
 var FilteredList = createReactClass({
   filterList: function (event: any) {
+    searchBarText = event.target.value;
     var updatedList = this.state.initialItems;
     updatedList = updatedList.filter(function (item: any) {
       return item.toLowerCase().search(
@@ -39,16 +42,34 @@ var FilteredList = createReactClass({
   },
 
   render: function () {
-    return (
-      <div className="filter-list">
-        <form action="/persons" method="get">
-          <div className="search-form">
-            <input type="search" name="name" className="form-control" placeholder="Search" onChange={this.filterList} />
-          </div>
-        </form>
-        <List items={this.state.items} />
-      </div>
-    );
+    if (searchBarText != "") {
+      return (
+        <div className="filter-list">
+          <form action="/persons" method="get">
+            <fieldset className="form-group">
+              <div className="input-field">
+                <img id="searchicon" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png"></img>
+                <input type="text" id="search" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              </div>
+            </fieldset>
+          </form>
+          <List items={this.state.items} />
+        </div>
+      );
+    } else {
+      return (
+        <div className="filter-list">
+          <form action="/persons" method="get">
+            <fieldset className="form-group">
+              <div className="input-field">
+                <img id="searchicon" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png"></img>
+                <input type="text" id="search" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      );
+    }
   }
 });
 
