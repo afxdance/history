@@ -9,7 +9,7 @@
     "@types/classnames": "^2.2.9",
     "@types/lodash": "^4.14.121",
     "@types/react-burger-menu": "^2.2.5",
-    "@types/reactstrap": "^8.0.6",
+    "@types/reactstrap": "^8.0.5",
     "airtable": "^0.7.1",
     "ajv": "^6.10.2",
     "gh-pages": "^2.0.1",
