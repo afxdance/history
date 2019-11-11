@@ -115,7 +115,7 @@ hr {
   /* 1 */
   height: 0;
   /* 1 */
-  overflow: visible;
+  overflow-x: hidden;
   /* 2 */
 }
 
@@ -3855,6 +3855,12 @@ button {
   display: block;
   text-align: center;
 }
+
+.search-button:hover {
+  background-color: rgb(211,211,211);
+  font-size: 20px;
+}
+
 
 /* .infoHover {
   /*Took out display: flex since it was causing alignment issues in dropdown. */
