@@ -513,6 +513,7 @@ template {
 html {
   font-size: 100.01%;
   min-width: 800px;
+  scroll-behavior: smooth;
 }
 
 /* line 28, /Users/paullegler/.rvm/gems/ruby-2.2.2/gems/activeadmin-1.1.0/app/assets/stylesheets/active_admin/_typography.scss */
@@ -3841,8 +3842,19 @@ button {
   position: absolute;
   font-size: medium;
   top: 10px;
-  margin-left: 20px;
+  right: 5px;
 }
+a {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#allteams {
+  display: block;
+  text-align: center;
+}
+
 /* .infoHover {
   /*Took out display: flex since it was causing alignment issues in dropdown. */
 /* display: flex;

@@ -56,12 +56,18 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
         <div>
           <Sidebar onClick={this.myCallback} />
           <Searchbar onClick={this.myCallback} />
-          <Route exact path="/" render={() =>
-            <div>
-              {groups}
-            </div>
-          } />
-          <Route path="/persons" component={IndividualComponent} />
+          <hr></hr>
+          <Switch>
+            <Route exact path="/" render={() =>
+              <div className="main">
+                <a href="#boardmembers"> Board Members </a>
+                <a href="#trainingteams"> Training Teams </a>
+                <a href="#projectteams"> Project Teams </a>
+                {groups}
+              </div>
+            } />
+            <Route path="/persons" component={IndividualComponent} />
+          </Switch>
         </div>
       </Router>
     );
