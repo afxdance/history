@@ -65,31 +65,6 @@ export class Sidebar extends React.Component<
     // We then add the list into the Menu. The library then changes everything into items of the menu.
     // As a result, when we add the list, it takes every element in the list and makes it into an item.
     return (
-<<<<<<< HEAD
-      <div id="sidebar" className="sidebar">
-        <div className="sidebar-header">
-          <span color="info" style={{ color: '#fff' }}>&times;</span>
-          <h3 >Years</h3>
-        </div>
-        <div className="side-menu">
-          <Nav vertical className="list-unstyled pb-3">
-            <ul>
-              {yearLinks}
-            </ul>
-            {/* <Menu>
-              {yearLinks}
-            </Menu> */}
-          </Nav>
-        </div>
-      </div >
-
-
-
-      // <Menu>
-      //   <h3 className="menuTitle">Years</h3>
-      //   {yearLinks}
-      // </Menu>
-=======
       <div>
         <Menu
           // noOverlay
@@ -100,7 +75,6 @@ export class Sidebar extends React.Component<
           {yearLinks}
         </Menu>
       </div>
->>>>>>> FAME
     );
   }
 }

@@ -6,15 +6,16 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.6",
-    "@types/lodash": "^4.14.121",
+    "@types/lodash": "^4.14.146",
     "@types/react-burger-menu": "^2.2.5",
+    "@types/reactstrap": "^8.0.6",
     "airtable": "^0.5.7",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "jest": "^24.9.0",
     "lodash": "^4.17.15",
-    "react": "^16.5.2",
-    "react-burger-menu": "^2.6.8",
-    "react-dom": "^16.5.2",
+    "react": "^16.11.0",
+    "react-burger-menu": "^2.6.12",
+    "react-dom": "^16.11.0",
     "react-scripts-ts": "3.1.0",
     "reactstrap": "^8.1.1"
   },
@@ -27,16 +28,15 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.3",
-    "@types/node": "^10.14.22",
-    "@types/react": "^16.4.14",
-    "@types/react-dom": "^16.0.8",
+    "@types/jest": "^23.3.14",
+    "@types/node": "^10.17.5",
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.9.4",
     "prettier": "1.14.3",
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.2"
   },
   "browserslist": [
     ">0.2%",
-    "not dead",
     "not ie <= 11",
     "not op_mini all"
   ]
