@@ -60,9 +60,10 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
           <Switch>
             <Route exact path="/" render={() =>
               <div className="main">
-                <a href="#boardmembers"> Board Members </a>
-                <a href="#trainingteams"> Training Teams </a>
-                <a href="#projectteams"> Project Teams </a>
+                <p id="big-link">
+                  <a href="#trainingteams"> Training Teams &nbsp; &nbsp; &nbsp;</a>
+                  <a href="#projectteams"> Project Teams </a>
+                </p>
                 {groups}
               </div>
             } />
