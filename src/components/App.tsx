@@ -41,8 +41,23 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
   //Toggle method for the sidebar toggle function
   public openNav = () => {
     var sidebar = document.getElementById("sidebar");
-    if (sidebar != null) {
-      sidebar.style.marginLeft = "0px";
+    var doc = document.getElementById("root");
+
+    if (sidebar != null && doc != null) {
+
+      //if the sidebar is open, then shift it to the left and expand root div
+      if (sidebar.style.marginLeft === "0px") {
+        sidebar.style.marginLeft = "-250px";
+        doc.style.marginLeft = "0px";
+        //doc.style.width = "100%";
+
+      } else {
+        sidebar.style.marginLeft = "0px";
+        doc.style.marginLeft = "250px";
+        doc.style.width = "calc(100%-250px)";
+
+      }
+
     }
   };
 

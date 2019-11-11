@@ -15,7 +15,7 @@ interface HoverWrapperComponentState {
 export class HoverWrapperComponent extends React.Component<
   HoverWrapperComponentProp,
   HoverWrapperComponentState
-> {
+  > {
   public state = {
     newAdjustedLeft: undefined,
   };
@@ -45,9 +45,9 @@ export class HoverWrapperComponent extends React.Component<
               (position.right - position.left) / 2,
           });
         }
-        console.log(position.right);
-        console.log(window.innerWidth);
-        console.log((position.right - position.left) / 2);
+        // console.log(position.right);
+        // console.log(window.innerWidth);
+        // console.log((position.right - position.left) / 2);
       }
     );
   };

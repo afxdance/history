@@ -28,6 +28,7 @@ export class Sidebar extends React.Component<
   { closed: boolean }
   > {
 
+
   constructor(props: any) {
     super(props);
     this.state = {
@@ -35,12 +36,13 @@ export class Sidebar extends React.Component<
     };
   }
 
+
   //Use state in order to have the menu disappear when the close button is pushed
-  public close() {
-    this.setState({
-      closed: true,
-    });
-  }
+  // public close() {
+  //   this.setState({
+  //     closed: true,
+  //   });
+  // }
 
   public render() {
     // We first iterate through all the years and push the components into the list.
@@ -60,14 +62,16 @@ export class Sidebar extends React.Component<
       <div id="sidebar" className="sidebar">
         <div className="sidebar-header">
           <span color="info" style={{ color: '#fff' }}>&times;</span>
-          <h3>Bootstrap Sidebar</h3>
+          <h3 >Years</h3>
         </div>
         <div className="side-menu">
           <Nav vertical className="list-unstyled pb-3">
-            <p>Dummy Heading</p>
-            <NavItem>
-              <FontAwesomeIcon icon={faBriefcase} className="mr-2" />About
-            </NavItem>
+            <ul>
+              {yearLinks}
+            </ul>
+            {/* <Menu>
+              {yearLinks}
+            </Menu> */}
           </Nav>
         </div>
       </div >
@@ -79,6 +83,5 @@ export class Sidebar extends React.Component<
       //   {yearLinks}
       // </Menu>
     );
-
   }
 }

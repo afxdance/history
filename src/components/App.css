@@ -3360,6 +3360,8 @@ a:link {
 #root {
   background-color: white;
   z-index: 2;
+  transition: all .5s;
+
 }
 
 .icon {
@@ -3831,6 +3833,7 @@ button {
 
 .sidebar-header {
   background: #6d7fcc;
+  padding-top: 20px;
 }
 
 .sidebar-header h3{
