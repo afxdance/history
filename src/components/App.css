@@ -3717,15 +3717,6 @@ strong {
   background: #373a47;
 }
 
-/* Position and sizing of clickable cross button */
-.bm-cross-button {
-  height: 24px;
-  width: 24px;
-  /* Hard coded values for placeing the close button */
-  left: 210px !important;
-  top: -1118px !important;
-}
-
 /* Color/shape of close button cross */
 .bm-cross {
   background: #bdc3c7;
@@ -3753,7 +3744,7 @@ strong {
   /*Added flex spacing so that it looks nice*/
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   /* Felt that last option was a little too close to bottom so readjusted */
   position: relative;
   top: -20px;
@@ -3802,6 +3793,11 @@ button {
 .semLinks {
   position: relative;
   left: 60px;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  color: white;
 }
 
 .menuTitle {
@@ -3813,105 +3809,19 @@ button {
   margin-bottom: 40px;
 }
 
-/* ---------------------------------------------------
-    SIDEBAR STYLE
------------------------------------------------------ */
-.sidebar {
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  width: 250px;
-  height: 100%;
-  background: #7386D5;
-  color: #fff;
-  margin-left: -250px;
-  transition: all 0.5s;
+.blinker {
+  cursor: pointer;
+  animation: blinker 1.5s linear infinite;
+  display: block;
+  padding-top: 20%;
+  padding-left: 45%;
 }
 
-.sidebar.is-open {
-  margin-left: 0;
-  transition: .5s;
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
-
-
-.sidebar-header {
-  background: #6d7fcc;
-  padding-top: 20px;
-}
-
-.sidebar-header h3{
-  color: #fff;
-  padding: 1em;
-}
-
-.sidebar ul p {
-    color: #fff;
-    padding: 10px;
-}
-
-.menu-open {
-  background: #6d7fcc;
-}
-
-.nav-item:hover {
-    color: #7386D5;
-    background: #fff;
-}
-
-.items-menu {
-  color: #fff;
-  background: #6d7fcc;
-}
-
-li a.dropdown-toggle::after {
-    display: inline-flex;
-    position: relative;
-    left: 60%;
-    top: 10%
-}
-
-.sidebar-header > span {
-    position: relative;
-    float: right;
-    margin: .5em;
-    font-size: 2rem;
-    cursor: pointer;
-    display: none;
-}
-.side-menu {
-  height: calc(100vh - 130px);
-  overflow-y: scroll;
-}
-
-.side-menu::-webkit-scrollbar {
-  width: 10px;
-}
-
-.side-menu::-webkit-scrollbar-thumb {
-  background: #5466B3;
-  border-radius: 3px;
-}
-
-.side-menu::-webkit-scrollbar-thumb:hover {
-  background: #3A4C99;
-}
-
-.togglebutton {
-  color: #fff;
-  position: fixed;
-  left: 10px;
-  top: 20px;
-  width: 10px;
-  height: 15px;
-}
-
-.big-icon {
-  padding: 90%;
-  border-radius: 12px;
-  background-color: #5466B3;
-  font-size: 16px;
-}
-
 
 /* .infoHover {
   /*Took out display: flex since it was causing alignment issues in dropdown. */
