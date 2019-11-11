@@ -3785,6 +3785,9 @@ button {
 .yearButton {
   font-size: 12pt;
   cursor: pointer;
+  outline: none;
+  border: none !important;
+  background: transparent;
 }
 
 .yearButton:hover {
@@ -3903,6 +3906,9 @@ li a.dropdown-toggle::after {
 }
 
 .big-icon {
+  padding: 90%;
+  border-radius: 12px;
+  background-color: #5466B3;
   font-size: 16px;
 }
 
