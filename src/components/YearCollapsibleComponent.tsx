@@ -15,7 +15,7 @@ export class YearCollapsibleComponent extends React.Component<
     onClick: Function;
   },
   { show: boolean }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {

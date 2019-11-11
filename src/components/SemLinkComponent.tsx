@@ -16,6 +16,8 @@ export class SemLinkComponent extends React.Component<{
   // This way we can render the correct semester on the page. Yay!
   public click() {
     this.props.onClick(this.props.semester);
+    const myElement = document.getElementById('top')!;
+    myElement.scrollIntoView();
   }
 
   public render() {
