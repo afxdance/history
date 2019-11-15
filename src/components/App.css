@@ -3549,13 +3549,12 @@ strong {
   object-fit: cover;
   object-position: center;
   border-radius: 50%;
-  transition-property: height;
-  transition-duration: 2s;
-  transition-delay: 5s;
+  transition: all 1s;
 }
 
 .board--img:hover {
   cursor: pointer;
+  transform: scale(1.1);
 }
 
 .member-info {
@@ -3628,6 +3627,7 @@ strong {
 .HoverWrapper {
   position: relative;
   display: inline-block;
+  transition: all 1s 1s;
 }
 
 .HoverWrapper-content {
@@ -3635,11 +3635,13 @@ strong {
   position: absolute;
   z-index: 3000;
   color: white;
-  display: none;
   left: -50%;
   top: 100%;
   background-color: rgba(0, 0, 0, 0.8);
   max-width: 100vw;
+  opacity: 0;
+  visibility: hidden;
+  transition: visibility 0s, opacity 1.5s ease-in;
 }
 
 .HoverWrapper-content h3 {
@@ -3647,7 +3649,8 @@ strong {
 }
 
 .HoverWrapper:hover .HoverWrapper-content {
-  display: inline-block;
+  visibility: visible;
+  opacity: 1;
 }
 
 .icon {
