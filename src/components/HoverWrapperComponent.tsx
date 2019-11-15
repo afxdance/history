@@ -15,12 +15,13 @@ interface HoverWrapperComponentState {
 export class HoverWrapperComponent extends React.Component<
   HoverWrapperComponentProp,
   HoverWrapperComponentState
-> {
+  > {
   public state = {
     newAdjustedLeft: undefined,
   };
 
   public readjust = () => {
+    // Executes function (displays info box) after 1s
     let elem = this.refs.HoverRef as Element;
     if (!elem) {
       return;
