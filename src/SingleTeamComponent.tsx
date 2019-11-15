@@ -7,7 +7,7 @@ import { Group, Person } from "src/data/types";
 export class SingleTeamComponent extends React.Component<any> {
   public render() {
     let team: Group = this.props.team;
-    let directorsList: React.ReactNode[] = ["Directors: "];
+    let directorsList: React.ReactNode[] = [];
 
     // Generate a string of all of the directors
     if (team.positionIds) {
@@ -19,14 +19,21 @@ export class SingleTeamComponent extends React.Component<any> {
         let directorPerson: Person = Data.People[dirPersonKey];
         directorsList.push(
           <HoverWrapperComponent pp={pp}>
+            <img
+              className="board--img"
+              src={pp.picture[0].thumbnails.large.url}
+              width="200px"
+              height="200px"
+            />
+            &nbsp;&nbsp;&nbsp;
             {directorPerson.name}
           </HoverWrapperComponent>
         );
 
         // for the last director, don't add the comma
-        if (parseInt(directorIdx) < team.positionIds.length - 1) {
-          directorsList.push(", ");
-        }
+        //if (parseInt(directorIdx) < team.positionIds.length - 1) {
+        //directorsList.push(", ");
+        //}
       }
     }
 
@@ -47,13 +54,13 @@ export class SingleTeamComponent extends React.Component<any> {
             src={team.teamPicture[0].thumbnails.large.url}
           />
         ) : (
-          <img
-            className="team--img"
-            src="afx2.png"
-            height={200}
-            style={{ opacity: 0.3 }}
-          />
-        )}
+            <img
+              className="team--img"
+              src="afx2.png"
+              height={200}
+              style={{ opacity: 0.3 }}
+            />
+          )}
 
         {/* {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined} */}
 
@@ -68,8 +75,8 @@ export class SingleTeamComponent extends React.Component<any> {
             }
           </div>
         ) : (
-          undefined
-        )}
+            undefined
+          )}
         <div id="team--triangle" />
       </div>
     );

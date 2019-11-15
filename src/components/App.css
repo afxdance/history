@@ -3429,20 +3429,20 @@ strong {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #000000;
+  background-color: #5560ff;
 
   padding-bottom: 16px;
   margin-bottom: 48px;
 }
 
 .team--single {
-  background-color: #333333;
+  background-color: #7999d1;
   color: #ffffff;
 
   padding: 20px;
   margin: 5px 5px 0px 0px;
   flex: 1;
-  min-width: 314px;
+  min-width: 400px;
   min-height: 250px;
 
   /* clip-path: polygon(0% 0%, 0% 100%, 85% 100%, 100% 94%, 100% 0%); */
@@ -3459,21 +3459,19 @@ strong {
 }
 
 .team--name {
-  font-size: 16px;
+  font-size: 20px;
   color: #ffffff;
   text-align: center;
-
-  margin: 12px;
 }
 
 .team--directors {
-  margin: 12px;
-  font-size: 11px;
+  font-size: 16px;
   color: #dddddd;
 }
 
 .team--img {
-  max-width: 240px;
+  max-width: 400px;
+  max-height: 250px;
   margin: 16px;
   filter: drop-shadow(4px 4px 0px #111111);
   opacity: 0.9;
