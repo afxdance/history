@@ -2,6 +2,9 @@ import * as React from "react";
 import { Year } from "src/data/types";
 import * as AFX from "src/data/data";
 import { SemLinkComponent } from "./SemLinkComponent";
+import { Collapse, NavItem, NavLink } from 'reactstrap';
+import classNames from 'classnames';
+
 
 export interface YearCollapsibleComponent {
   year: string;
@@ -15,7 +18,7 @@ export class YearCollapsibleComponent extends React.Component<
     onClick: Function;
   },
   { show: boolean }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -45,16 +48,19 @@ export class YearCollapsibleComponent extends React.Component<
 
     return (
       <div className="yearItem">
-        <button className="yearButton" onClick={this.click.bind(this)}>
-          {name}
-        </button>
-        <div
-          className="semLinks"
-          // based off of show(a state of this component) we choose to display all of the semLinks or not
-          style={this.state.show ? {} : { display: "none" }}
-        >
-          {semLinks}
-        </div>
+        <NavItem onClick={this.click} className={classNames({ 'menu-open': !this.state.show })}/* potentially add color changing prop here*/>
+          <NavLink className='dropdown-toggle'>
+            {name}
+          </NavLink>
+        </NavItem>
+
+        <Collapse isOpen={!this.state.show} navbar className={classNames('items-menu', { 'mb-1': !this.state.show })}>
+          {semLinks.map((semLink, index) => (
+            <NavItem key={index} className='pl-4'>
+              {semLink}
+            </NavItem>
+          ))}
+        </Collapse>
       </div>
     );
   }

@@ -3720,15 +3720,6 @@ strong {
   background: #373a47;
 }
 
-/* Position and sizing of clickable cross button */
-.bm-cross-button {
-  height: 24px;
-  width: 24px;
-  /* Hard coded values for placeing the close button */
-  left: 210px !important;
-  top: -1118px !important;
-}
-
 /* Color/shape of close button cross */
 .bm-cross {
   background: #bdc3c7;
@@ -3756,7 +3747,7 @@ strong {
   /*Added flex spacing so that it looks nice*/
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   /* Felt that last option was a little too close to bottom so readjusted */
   position: relative;
   top: -20px;
@@ -3788,6 +3779,10 @@ button {
 .yearButton {
   font-size: 12pt;
   cursor: pointer;
+  outline: none;
+  border: none !important;
+  background: transparent;
+  color: black;
 }
 
 .yearButton:hover {
@@ -3802,6 +3797,11 @@ button {
 .semLinks {
   position: relative;
   left: 60px;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  color: white;
 }
 
 .menuTitle {
@@ -3813,6 +3813,13 @@ button {
   margin-bottom: 40px;
 }
 
+.blinker {
+  cursor: pointer;
+  animation: blinker 1.5s linear infinite;
+  display: block;
+  padding-top: 20%;
+  padding-left: 45%;
+}
 /* ---------------------------------------------------
     SIDEBAR STYLE
 ----------------------------------------------------- */
@@ -3910,6 +3917,11 @@ li a.dropdown-toggle::after {
   border-radius: 12px;
   background-color: #5466B3;
   font-size: 16px;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
 
 
