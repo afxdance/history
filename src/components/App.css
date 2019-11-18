@@ -3782,6 +3782,7 @@ button {
   outline: none;
   border: none !important;
   background: transparent;
+  color: black;
 }
 
 .yearButton:hover {
@@ -3819,6 +3820,97 @@ button {
   padding-top: 20%;
   padding-left: 45%;
 }
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+.sidebar {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 250px;
+  height: 100%;
+  background: #7386D5;
+  color: #fff;
+  margin-left: -250px;
+  transition: all 0.5s;
+}
+
+.sidebar.is-open {
+  margin-left: 0;
+  transition: .5s;
+}
+
+
+.sidebar-header {
+  background: #6d7fcc;
+  padding-top: 20px;
+}
+
+.sidebar-header h3{
+  color: #fff;
+  padding: 1em;
+}
+
+.sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+.menu-open {
+  background: #6d7fcc;
+}
+
+.nav-item:hover {
+    color: #7386D5;
+    background: #fff;
+}
+
+.items-menu {
+  color: #fff;
+  background: #6d7fcc;
+}
+
+li a.dropdown-toggle::after {
+    display: inline-flex;
+    position: relative;
+    left: 60%;
+    top: 10%
+}
+
+.sidebar-header > span {
+    position: relative;
+    float: right;
+    margin: .5em;
+    font-size: 2rem;
+    cursor: pointer;
+    display: none;
+}
+.side-menu {
+  height: calc(100vh - 130px);
+  overflow-y: scroll;
+}
+
+.side-menu::-webkit-scrollbar {
+  width: 10px;
+}
+
+.side-menu::-webkit-scrollbar-thumb {
+  background: #5466B3;
+  border-radius: 3px;
+}
+
+.side-menu::-webkit-scrollbar-thumb:hover {
+  background: #3A4C99;
+}
+
+.togglebutton {
+  color: #fff;
+  position: fixed;
+  left: 10px;
+  top: 20px;
+  width: 10px;
+  height: 15px;
+}
 
 .big-icon {
   padding: 90%;
@@ -3826,12 +3918,20 @@ button {
   background-color: #5466B3;
   font-size: 16px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e8262c1c6fa4dcf322f2d3a1feeb1f92f850527
 @keyframes blinker {
   50% {
     opacity: 0;
   }
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1e8262c1c6fa4dcf322f2d3a1feeb1f92f850527
 /* .infoHover {
   /*Took out display: flex since it was causing alignment issues in dropdown. */
 /* display: flex;
