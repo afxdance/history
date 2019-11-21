@@ -44,9 +44,9 @@ export class SemLinkComponent extends React.Component<{
     // explicitly. Do this with this.methodName.bind(this) like below.
     return (
       <div>
-        <button className="menu-item" onClick={this.click.bind(this)}>
+        <a className="menu-item" onClick={this.click.bind(this)}>
           {semName}
-        </button>
+        </a>
         <br />
       </div>
     );

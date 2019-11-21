@@ -8,6 +8,9 @@ import "./App.css";
 import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
+import { Button } from "reactstrap";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAlignLeft } from '@fortawesome/free-solid-svg-icons';
 import { render } from "react-dom";
 import { type } from "os";
 
@@ -35,6 +38,30 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     this.setState({
       semKey: groupID,
     });
+  };
+
+
+  //Toggle method for the sidebar toggle function
+  public openNav = () => {
+    var sidebar = document.getElementById("sidebar");
+    var doc = document.getElementById("root");
+
+    if (sidebar != null && doc != null) {
+
+      //if the sidebar is open, then shift it to the left and expand root div
+      if (sidebar.style.marginLeft === "0px") {
+        sidebar.style.marginLeft = "-250px";
+        doc.style.marginLeft = "0px";
+        //doc.style.width = "100%";
+
+      } else {
+        sidebar.style.marginLeft = "0px";
+        doc.style.marginLeft = "250px";
+        doc.style.width = "calc(100%-250px)";
+
+      }
+
+    }
   };
 
   public render() {

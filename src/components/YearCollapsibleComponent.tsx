@@ -45,9 +45,9 @@ export class YearCollapsibleComponent extends React.Component<
 
     return (
       <div className="yearItem">
-        <button className="yearButton" onClick={this.click.bind(this)}>
+        <a className="yearButton" onClick={this.click.bind(this)}>
           {name}
-        </button>
+        </a>
         <div
           className="semLinks"
           // based off of show(a state of this component) we choose to display all of the semLinks or not
