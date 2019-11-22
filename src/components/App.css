@@ -3918,20 +3918,11 @@ li a.dropdown-toggle::after {
   background-color: #5466B3;
   font-size: 16px;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 1e8262c1c6fa4dcf322f2d3a1feeb1f92f850527
 @keyframes blinker {
   50% {
     opacity: 0;
   }
 }
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 1e8262c1c6fa4dcf322f2d3a1feeb1f92f850527
 /* .infoHover {
   /*Took out display: flex since it was causing alignment issues in dropdown. */
 /* display: flex;

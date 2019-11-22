@@ -78,8 +78,12 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     return (
       <div>
         <Sidebar onClick={this.myCallback} />
+        <Button className='togglebutton' onClick={this.openNav}>
+          <FontAwesomeIcon className='big-icon' icon={faAlignLeft} />
+        </Button>
         {groups}
       </div>
+
     );
   }
 }
