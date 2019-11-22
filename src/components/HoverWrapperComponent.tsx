@@ -47,11 +47,6 @@ export class HoverWrapperComponent extends React.Component<
               position.right -
               (position.right - position.left) / 2,
           });
-        } else if (position.bottom > window.innerHeight) {
-          console.log("adjusting bottom");
-          this.setState({
-            newAdjustedBottom: "100%",
-          });
         }
       }
     );
