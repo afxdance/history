@@ -10,7 +10,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHome, faBriefcase, faPaperPlane, faQuestion, faImage, faCopy } from '@fortawesome/free-solid-svg-icons';
 import "./App.css"; //imported to access specifications for sidebar
 import { NavItem, NavLink, Nav } from 'reactstrap';
-import classNames from "classnames";
 
 
 // Side menu component mainly made by the library react-burger-menu
