@@ -83,6 +83,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
         </Button>
         {groups}
       </div>
+
     );
   }
 }
