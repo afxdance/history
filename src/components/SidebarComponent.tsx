@@ -58,11 +58,11 @@ export class Sidebar extends React.Component<
       <div id="sidebar" className="sidebar">
         <div className="sidebar-header">
           <span color="info" style={{ color: '#fff' }}>&times;</span>
-          <h3 className='sidebar-header-text'>Years</h3>
+          <h3 className='sidebar-header-text'>AFX History</h3>
         </div>
         <div className="side-menu">
           <Nav vertical className="list-unstyled pb-3">
-            <ul style={{ listStyleType: 'none' }}>
+            <ul style={{ listStyleType: 'none', padding: 0 }}>
               {yearLinks}
             </ul>
             {/* <Menu>
