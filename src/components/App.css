@@ -3800,8 +3800,14 @@ button {
   cursor: pointer;
 }
 
+.menu-item{
+  font-family: 'Garamond';
+  font-size: 0.9em;
+}
+
 .menu-item:hover {
   color: white;
+  cursor: pointer;
 }
 
 .menuTitle {
@@ -3849,6 +3855,12 @@ button {
 .sidebar-header h3{
   color: #fff;
   padding: 1em;
+  padding-top: 1.7em;
+  padding-left: 1.6em;
+  font-size: 22px;
+  font-family: 'Times New Roman';
+  font-weight: bold;
+
 }
 
 .sidebar ul p {
@@ -3871,10 +3883,10 @@ button {
 }
 
 li a.dropdown-toggle::after {
-    display: inline-flex;
-    position: relative;
-    left: 60%;
-    top: 10%
+  display: inline-flex;
+  position: relative;
+  left: 60%;
+  top: 10%
 }
 
 .sidebar-header > span {

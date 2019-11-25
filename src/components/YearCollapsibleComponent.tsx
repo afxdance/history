@@ -82,7 +82,7 @@ export class YearCollapsibleComponent extends React.Component<
     return (
       <div className="yearItem">
         <NavItem onClick={this.click.bind(this)} >
-          <NavLink className='dropdown-toggle'>
+          <NavLink className='dropdown-toggle' style={{ fontFamily: "Garamond", cursor: 'pointer' }}>
             {name}
           </NavLink>
         </NavItem>

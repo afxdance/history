@@ -18,9 +18,6 @@ export interface Sidebar {
   closed: boolean;
 }
 
-const divStyle = {
-  display: "none",
-};
 
 export class Sidebar extends React.Component<
   { onClick: Function },
@@ -61,11 +58,11 @@ export class Sidebar extends React.Component<
       <div id="sidebar" className="sidebar">
         <div className="sidebar-header">
           <span color="info" style={{ color: '#fff' }}>&times;</span>
-          <h3 >Years</h3>
+          <h3 className='sidebar-header-text'>Years</h3>
         </div>
         <div className="side-menu">
           <Nav vertical className="list-unstyled pb-3">
-            <ul>
+            <ul style={{ listStyleType: 'none' }}>
               {yearLinks}
             </ul>
             {/* <Menu>
