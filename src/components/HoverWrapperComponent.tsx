@@ -8,8 +8,9 @@ interface HoverWrapperComponentProp {
 }
 
 interface HoverWrapperComponentState {
-  newAdjustedLeft: number | undefined;
-  newAdjustedBottom: string | undefined;
+  newAdjustedLeft: any | undefined;
+  newAdjustedRight: any | undefined;
+  newAdjustedTransform: string | undefined;
 }
 
 // prop = personposition
@@ -19,7 +20,8 @@ export class HoverWrapperComponent extends React.Component<
   > {
   public state = {
     newAdjustedLeft: undefined,
-    newAdjustedBottom: undefined,
+    newAdjustedRight: undefined,
+    newAdjustedTransform: undefined,
   };
 
   public readjust = () => {
@@ -29,28 +31,34 @@ export class HoverWrapperComponent extends React.Component<
       return;
     }
 
-    /* Commented this section out since we wanted center alignment.
-       This section was made when items that were left aligned went
-       off screen. It readjusted items to basically them right aligned.
-       However, with our center alignment(left: -50%) it doesn't really
-       work so we took it out.*/
+    /* Callback function for leftmost and rightmost infoboxes
+       Adjusts transform styling on the left side so that the default translate(-50%) doesn't push it off the page
+       */
     this.setState(
       {
         newAdjustedLeft: undefined,
+        newAdjustedTransform: "translate(-50%)"
       },
       () => {
         let position = elem.getBoundingClientRect();
-        if (position.right - 4 > window.innerWidth) {
+
+        if (position.right > window.innerWidth) {
           this.setState({
-            newAdjustedLeft:
-              window.innerWidth -
-              position.right -
-              (position.right - position.left) / 2,
+            newAdjustedRight: 0,
+            newAdjustedLeft: 0,
+            // newAdjustedTransform: "translate(0%)"
+          });
+        }
+        if (position.left < 0) {
+          this.setState({
+            newAdjustedLeft: 0,
+            newAdjustedTransform: "translate(0%)"
           });
         }
       }
     );
   };
+
 
   public render() {
     // Takes in person position component
@@ -126,7 +134,7 @@ export class HoverWrapperComponent extends React.Component<
     );
 
     return (
-      <span className="HoverWrapper" onMouseEnter={this.readjust}>
+      <div className="HoverWrapper" onMouseEnter={this.readjust}>
         <span className="HoverWrapper-inline">{this.props.children}</span>
         <div
           className="HoverWrapper-content"
@@ -134,13 +142,14 @@ export class HoverWrapperComponent extends React.Component<
           /* Removed since code creating this style aspect is commented out */
           style={{
             left: this.state.newAdjustedLeft,
-            bottom: this.state.newAdjustedBottom,
+            right: this.state.newAdjustedRight,
+            transform: this.state.newAdjustedTransform,
           }}
         >
           <h3>{person.name}</h3>
           {ret}
         </div>
-      </span>
+      </div>
     );
   }
 }

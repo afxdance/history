@@ -18,16 +18,19 @@ export class SingleTeamComponent extends React.Component<any> {
           Data.PersonPositions[directorKey].personIds[0];
         let directorPerson: Person = Data.People[dirPersonKey];
         directorsList.push(
-          <HoverWrapperComponent pp={pp}>
-            <img
-              className="board--img"
-              src={pp.picture[0].thumbnails.large.url}
-              width="200px"
-              height="200px"
-            />
-            &nbsp;&nbsp;&nbsp;
+          <div className="director">
             {directorPerson.name}
-          </HoverWrapperComponent>
+            <br></br>
+            <HoverWrapperComponent pp={pp}>
+              <img
+                className="board--img"
+                src={pp.picture[0].thumbnails.large.url}
+                width="200px"
+                height="200px"
+              />
+              &nbsp;&nbsp;&nbsp;
+            </HoverWrapperComponent>
+          </div>
         );
 
         // for the last director, don't add the comma
@@ -64,7 +67,11 @@ export class SingleTeamComponent extends React.Component<any> {
 
         {/* {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined} */}
 
-        <div className="team--directors">{directorsList}</div>
+        <div className="team--directors">
+          <br></br>
+          <h3>Directors</h3>
+          {directorsList}
+        </div>
 
         {team.videoUrl ? (
           <div>

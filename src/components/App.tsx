@@ -79,7 +79,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     }
     // }
     return (
-<<<<<<< HEAD
       <Router>
         <div>
           <Sidebar onClick={this.myCallback} />
@@ -102,12 +101,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
           </Switch>
         </div>
       </Router>
-=======
-      <div>
-        <Sidebar onClick={this.myCallback} />
-        {groups}
-      </div>
->>>>>>> b65802c1e5f60085ca18f3a8a1b8a22c8d0377f3
     );
   }
 }

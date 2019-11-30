@@ -3507,7 +3507,7 @@ strong {
   /* margin-bottom: 60px; */
 }
 
-.board-team--title {
+.team--title {
   /* font-family: "Comic Sans MS", cursive, sans-serif; */
   font-size: 32px;
   text-align: center;
@@ -3628,20 +3628,27 @@ strong {
   display: inline-block;
   transition: all 1s 1s;
 }
-
 .HoverWrapper-content {
-  text-align: center;
-  position: absolute;
-  z-index: 3000;
-  color: white;
-  left: -50%;
-  top: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
-  max-width: 100vw;
-  opacity: 0;
-  visibility: hidden;
-  transition: visibility 0s, opacity 1.5s ease-in;
-}
+    text-align: center;
+    position: absolute;
+    z-index: 3000;
+    color: white;
+    left: 50%;
+    top: 100%;
+    transform: translateX(-50%);
+    max-width: 200%;
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    visibility: hidden;
+    transition: visibility 0s, opacity 1.5s ease-in;
+  }
+
+/* @media screen and (max-width: 682px) {
+  .HoverWrapper-content {
+    left: -146px;
+    max-width: 100%;
+  }
+} */
 
 .HoverWrapper-content h3 {
   color: white;
@@ -3679,9 +3686,10 @@ strong {
 }
 
 /* -146 value is just what looked best at the time :/ */
-.team--single .HoverWrapper-content {
-  left: -146px;
-}
+
+/* .team--single .HoverWrapper-content {
+   left: -146px;
+} */
 
 #page-wrap {
   text-align: center;
