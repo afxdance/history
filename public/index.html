@@ -73,7 +73,7 @@
       <img class="icon" src="afx2.png" alt="Afx2">
     </div>
     <div class="arrow">
-      <img class="down" src="down.png" width="100" height="100" alt="Down">
+      <img class="downArrow" src="down.png" width="100" height="100" alt="Down">
     </div>
   </div>
 </div>
@@ -93,7 +93,7 @@
         fulfilling experiences that will empower them to pass on our philosophies to the greater community. </span>
     </div>
   </div>
-  <div class="social-media">
+  <div class="social-mediaz">
     <a href="https://www.facebook.com/AFXdance/">
       <i class="fa fa-facebook" aria-hidden="true"></i>
     </a>
@@ -105,6 +105,20 @@
     </a>
   </div>
   <div class="border"></div>
+  <button class="joinUs" onClick="toggleDiv()">Join Us!</button>
+  <div id="infoDiv">
+    <p>To join AFX, come out to one of the following audition dates. No prior experience is necessary!</p>
+  </div>
+  <script>
+    function toggleDiv() {
+      var x = document.getElementById("infoDiv");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+  </script>
 </div>
 
 <!-- Add static things here. React will display these things as is. id="root" displays the react code -->
@@ -126,7 +140,7 @@
         that will empower them to pass on our philosophies to the greater community. </p>
     </div>
 
-    <div class="social-media">
+    <div class="social-mediaz">
       <a href="https://www.facebook.com/AFXdance/">
         <i class="fa fa-facebook" aria-hidden="true"></i>
       </a>
