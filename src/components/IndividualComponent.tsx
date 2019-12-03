@@ -19,11 +19,12 @@ export class IndividualComponent extends React.Component<any> {
     return posIDs;
   }
   public render() {
-    // Stores url parameters in params
+    // Stores url parameters (?name=" ") in params
     const params = new URLSearchParams(this.props.location.search);
-
     var name = params.get('name');
+
     let personPositionComponents: any = [];
+    
     if (name != undefined) {
       let posIDs = this.findIDs(name);
       posIDs.forEach(ids => {

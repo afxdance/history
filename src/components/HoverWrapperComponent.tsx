@@ -36,8 +36,7 @@ export class HoverWrapperComponent extends React.Component<
        */
     this.setState(
       {
-        newAdjustedLeft: undefined,
-        newAdjustedTransform: "translate(-50%)"
+
       },
       () => {
         let position = elem.getBoundingClientRect();
@@ -45,8 +44,8 @@ export class HoverWrapperComponent extends React.Component<
         if (position.right > window.innerWidth) {
           this.setState({
             newAdjustedRight: 0,
-            newAdjustedLeft: 0,
-            // newAdjustedTransform: "translate(0%)"
+            newAdjustedLeft: "auto",
+            newAdjustedTransform: "translate(0%)"
           });
         }
         if (position.left < 0) {

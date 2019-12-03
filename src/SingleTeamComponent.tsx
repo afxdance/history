@@ -19,8 +19,7 @@ export class SingleTeamComponent extends React.Component<any> {
         let directorPerson: Person = Data.People[dirPersonKey];
         directorsList.push(
           <div className="director">
-            {directorPerson.name}
-            <br></br>
+            <h6>{directorPerson.name}</h6>
             <HoverWrapperComponent pp={pp}>
               <img
                 className="board--img"
