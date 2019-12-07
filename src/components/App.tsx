@@ -49,7 +49,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
       if (sidebar.style.marginLeft === "0px") {
         sidebar.style.marginLeft = "-250px";
         doc.style.marginLeft = "0px";
-        //doc.style.width = "100%";
 
       } else {
         sidebar.style.marginLeft = "0px";

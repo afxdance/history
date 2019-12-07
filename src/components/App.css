@@ -618,21 +618,7 @@ li a.dropdown-toggle::after {
   background: #3A4C99;
 }
 
-.togglebutton {
-  color: #fff;
-  position: fixed;
-  left: 10px;
-  top: 20px;
-  width: 10px;
-  height: 15px;
-}
 
-.big-icon {
-  padding: 90%;
-  border-radius: 12px;
-  background-color: #5466B3;
-  font-size: 16px;
-}
 @keyframes blinker {
   50% {
     opacity: 0;
@@ -674,8 +660,11 @@ li a.dropdown-toggle::after {
 
 .togglebutton {
   background: #7386D5 !important;
-  width: 1.30em;
-  height: 1.75em;
+  width: 2em;
+  height: 2.25em;
+  position: fixed;
+  left: 10px;
+  top: 20px;
 }
 
 
