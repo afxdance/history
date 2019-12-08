@@ -52,7 +52,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
       if (sidebar.style.marginLeft === "0px") {
         sidebar.style.marginLeft = "-250px";
         doc.style.marginLeft = "0px";
-        //doc.style.width = "100%";
 
       } else {
         sidebar.style.marginLeft = "0px";
@@ -83,7 +82,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
         <div>
           <Sidebar onClick={this.myCallback} />
           <Button className='togglebutton' onClick={this.openNav}>
-            <FontAwesomeIcon className='big-icon' icon={faAlignLeft} />
+            <FontAwesomeIcon icon={faAlignLeft} />
           </Button>
           <Searchbar onClick={this.myCallback} />
           <hr></hr>

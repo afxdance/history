@@ -11,6 +11,7 @@
     "@types/react-router-dom": "^5.1.2",
     "@types/reactstrap": "^8.0.6",
     "airtable": "^0.5.7",
+<<<<<<< HEAD
     "create-react-class": "^15.6.3",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
@@ -24,6 +25,16 @@
     "react-native-paper": "^2.16.0",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
+=======
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.1.1",
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15",
+    "react": "^16.11.0",
+    "react-burger-menu": "^2.6.12",
+    "react-collapsible-component": "^1.2.2",
+    "react-dom": "^16.11.0",
+>>>>>>> anke-miles
     "react-scripts-ts": "3.1.0",
     "reactstrap": "^8.1.1"
   },

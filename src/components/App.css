@@ -1,3 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 body {
   font-family: Lato, sans-serif;
   line-height: 1.5;
@@ -131,6 +164,7 @@ strong {
 
 .semester--title {
   font-size: 42px;
+  font-family: Lato, sans-serif;
   font-weight: 600;
   margin-top: 30px;
   color: black;
@@ -407,15 +441,19 @@ button {
 }
 
 .yearItem {
-  padding-bottom: 15px;
+  padding-bottom: 5%;
+  padding-right: 5%;
+  padding-left: 5%;
 }
 
 .yearButton {
   font-size: 12pt;
+  font-family: Lato, sans-serif;
   cursor: pointer;
   outline: none;
   border: none !important;
   background: transparent;
+  color: black;
 }
 
 .yearButton:hover {
@@ -433,8 +471,14 @@ button {
   cursor: pointer;
 }
 
+.menu-item{
+  font-family:  Lato, sans-serif;
+  font-size: 0.9em;
+}
+
 .menu-item:hover {
   color: white;
+  cursor: pointer;
 }
 
 .menuTitle {
@@ -508,6 +552,96 @@ button {
   padding-top: 20%;
   padding-left: 45%;
 }
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+.sidebar {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 250px;
+  height: 100%;
+  background: #7386D5;
+  color: #fff;
+  margin-left: -250px;
+  transition: all 0.5s;
+}
+
+.sidebar.is-open {
+  margin-left: 0;
+  transition: .5s;
+}
+
+
+.sidebar-header {
+  background: #6d7fcc;
+  padding-top: 20px;
+  font-family: Lato, sans-serif;
+}
+
+.sidebar-header h3{
+  color: #fff;
+  padding: 1em;
+  padding-top: 1.7em;
+  padding-left: 1.6em;
+  font-size: 22px;
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+
+}
+
+.sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+.menu-open {
+  background: #6d7fcc;
+}
+
+.nav-item:hover {
+    color: #7386D5;
+    background: #fff;
+}
+
+.items-menu {
+  color: #fff;
+  background: #6d7fcc;
+}
+
+li a.dropdown-toggle::after {
+  display: inline-flex;
+  position: relative;
+  left: 60%;
+  top: 10%
+}
+
+.sidebar-header > span {
+    position: relative;
+    float: right;
+    margin: .5em;
+    font-size: 2rem;
+    cursor: pointer;
+    display: none;
+}
+.side-menu {
+  height: calc(100vh - 130px);
+  overflow-y: scroll;
+}
+
+.side-menu::-webkit-scrollbar {
+  width: 10px;
+}
+
+.side-menu::-webkit-scrollbar-thumb {
+  background: #5466B3;
+  border-radius: 3px;
+}
+
+.side-menu::-webkit-scrollbar-thumb:hover {
+  background: #3A4C99;
+}
+
 
 @keyframes blinker {
   50% {
@@ -534,6 +668,56 @@ button {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
   }
+.content {
+  padding: 20px;
+  margin-left: 0;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+      overflow:  hidden;
+    }
+
+    .content.is-open {
+      margin-left: 100%;
+    }
+
+    .sidebar.is-open {
+      min-width: 100%;
+      max-width: 100%;
+      margin-left: 0;
+      transition: all 0.5s, height 0s;
+    }
+
+    .sidebar.is-open > .sidebar-header span{
+      display: unset;
+    }
+
+    li a.dropdown-toggle::after {
+        display: inline-block;
+        position: relative;
+        left: 68%;
+    }
+}
+
+.togglebutton {
+  background: #7386D5 !important;
+  width: 2em;
+  height: 2.25em;
+  position: fixed;
+  left: 10px;
+  top: 20px;
+}
+
+
+/* .infoHover {
+  /*Took out display: flex since it was causing alignment issues in dropdown. */
+/* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
 
 /*Static arrow to indicate that there is more to the website than the video.*/
 .downArrow {
