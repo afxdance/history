@@ -537,9 +537,9 @@ button {
 
 /*Static arrow to indicate that there is more to the website than the video.*/
 .downArrow {
-  position: relative;
-  top: 250px;
-  right: 710px;
+  position: absolute;
+  top: 75%;
+  left: 47%;
 }
 
 /*Make the arrow disappear when the window is smaller.*/
