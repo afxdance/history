@@ -1,6 +1,6 @@
 import * as React from "react";
 import { GroupsComponent } from "src/components/GroupsComponent";
-import { Route, Switch, BrowserRouter as Router } from "react-router-dom";
+import { Route, Switch, HashRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
