@@ -1,4 +1,5 @@
 import * as React from "react";
+import { Route, HashRouter as Router, Link } from "react-router-dom";
 
 export class SearchButtonComponent extends React.Component<{ name: string }> {
   public render() {
@@ -6,9 +7,10 @@ export class SearchButtonComponent extends React.Component<{ name: string }> {
     var redirectLink = "/persons?name=" + name;
     return (
       <div className="search-button">
-        <a href={redirectLink}>{name}</a>
+        <Router>
+          <Link to={redirectLink}>{name}</Link>
+        </Router>
       </div>
-
     );
   }
 }
