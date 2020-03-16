@@ -82,7 +82,7 @@ export class GroupsComponent extends React.Component<any> {
         {/* <h2 className="board--title">{group.name}</h2> */}
         <div className="board-team--title">Board Members</div>
         <div className="board--row">{personPositionComponents}</div>
-        <p id="big-link"><a href="#top"> Back to Top </a></p>
+        {/* <p id="big-link"><a href="#top"> Back to Top </a></p> */}
       </div>
     );
     // }

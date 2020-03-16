@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Semester } from "src/data/types";
 import * as AFX from "src/data/data";
+import { Link } from "react-router-dom";
 
 export interface SemLinkComponent {
   semester: string;
@@ -44,9 +45,9 @@ export class SemLinkComponent extends React.Component<{
     // explicitly. Do this with this.methodName.bind(this) like below.
     return (
       <div>
-        <a className="menu-item" onClick={this.click.bind(this)}>
+        <Link to="/" className="menu-item" onClick={this.click.bind(this)}>
           {semName}
-        </a>
+        </Link>
         <br />
       </div>
     );
