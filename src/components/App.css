@@ -8,7 +8,8 @@ body {
 
 /*Hyperlink styling.*/
 a,
-a:link {
+a:link,
+Link {
   text-decoration: none;
   color: #3b5998;
 }
@@ -446,9 +447,9 @@ button {
   margin-bottom: 40px;
 }
 
-.filter-list {
-  text-align: center;
+.search-form {
   position: relative;
+  text-align: center;
 }
 
 #search {
@@ -466,11 +467,9 @@ button {
   height: 50px;
 }
 
-.search-results {
-  position: relative;
-  text-align: center;
-  margin-left: 20px;
-  margin-left: 20px
+.search-button:hover {
+  background-color: rgb(211,211,211);
+  font-size: 20px;
 }
 
 #back-link {
@@ -494,12 +493,6 @@ button {
 .director {
   margin-bottom: 10px;
 }
-
-.search-button:hover {
-  background-color: rgb(211,211,211);
-  font-size: 20px;
-}
-
 
 .blinker {
   cursor: pointer;

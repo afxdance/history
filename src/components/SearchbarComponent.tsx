@@ -2,14 +2,12 @@ import * as React from "react";
 import * as ReactDOM from 'react-dom';
 import { Person } from "src/data/types";
 import { SearchButtonComponent } from "./SearchButtonComponent";
+import { Route, HashRouter as Router, Redirect } from "react-router-dom";
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
 var searchBarText = "";
-
-export class Searchbar extends React.Component<
-  { onClick: Function }
-  > {
+export class Searchbar extends React.Component {
   constructor(props: any) {
     super(props);
   }
@@ -54,14 +52,28 @@ var FilteredList = createReactClass({
     }
   },
 
+  // submitForm: function (e: { preventDefault: () => void; }) {
+  //   this.props.history.push('/yeet')
+  // },
+
   render: function () {
+
     return (
-      <div className="filter-list">
-        <form action="/persons" method="get">
+      <div className="search-form">
+        <form onSubmit={(e) => {
+          console.log(this.refs.personName.value);
+          var redirectLink = "/persons?name=" + this.input.value;
+
+          return (
+            <Router>
+              <Redirect to="/persons"></Redirect>
+            </Router>
+          );
+        }}>
           <fieldset className="form-group">
             <div className="input-field">
               <img id="searchicon" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png"></img>
-              <input type="search" id="search" name="name" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
+              <input type="search" id="search" ref="personName" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
             </div>
           </fieldset>
         </form>
@@ -71,6 +83,7 @@ var FilteredList = createReactClass({
   }
 });
 
+// takes list of names from updated list and generates search buttons
 var List = createReactClass({
   render: function () {
     return (

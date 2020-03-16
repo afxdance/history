@@ -24,7 +24,7 @@ export class IndividualComponent extends React.Component<any> {
     var name = params.get('name');
 
     let personPositionComponents: any = [];
-    
+
     if (name != undefined) {
       let posIDs = this.findIDs(name);
       posIDs.forEach(ids => {

@@ -1,10 +1,11 @@
 import * as React from "react";
 import { GroupsComponent } from "src/components/GroupsComponent";
-import { Route, Switch, BrowserRouter as Router } from "react-router-dom";
+import { Route, HashRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
+import { NavBar } from "./NavBarComponent";
 import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
@@ -79,28 +80,29 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     }
     // }
     return (
-      <Router>
-        <div>
-          <Sidebar onClick={this.myCallback} />
-          <Button className='togglebutton' onClick={this.openNav}>
-            <FontAwesomeIcon className='big-icon' icon={faAlignLeft} />
-          </Button>
-          <Searchbar onClick={this.myCallback} />
-          <hr></hr>
-          <Switch>
-            <Route exact path="/" render={() =>
-              <div className="main">
-                <p id="big-link">
-                  <a href="#trainingteams"> Training Teams &nbsp; &nbsp; &nbsp;</a>
-                  <a href="#projectteams"> Project Teams </a>
-                </p>
-                {groups}
-              </div>
-            } />
-            <Route path="/persons" component={IndividualComponent} />
-          </Switch>
-        </div>
-      </Router>
+      <div>
+        <NavBar />
+        <Sidebar onClick={this.myCallback} />
+        <Button className='togglebutton' onClick={this.openNav}>
+          <FontAwesomeIcon className='big-icon' icon={faAlignLeft} />
+        </Button>
+        <Searchbar />
+        <hr></hr>
+
+        <Router>
+          <Route exact path="/" render={() =>
+            <div className="main">
+              <p id="big-link">
+                <a href="#trainingteams"> Training Teams &nbsp; &nbsp; &nbsp;</a>
+                <a href="#projectteams"> Project Teams </a>
+              </p>
+              {groups}
+            </div>
+          } />
+          <Route path="/persons" component={IndividualComponent} />
+        </Router>
+
+      </div>
     );
   }
 }
