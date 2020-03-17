@@ -1,11 +1,11 @@
 import * as React from "react";
 import { GroupsComponent } from "src/components/GroupsComponent";
-import { Route, HashRouter as Router } from "react-router-dom";
+import { Route, Switch, HashRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "src/TeamsComponent";
 import "./App.css";
-import { NavBar } from "./NavBarComponent";
+import { Navigation } from "./NavBarComponent";
 import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
@@ -53,7 +53,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
       if (sidebar.style.marginLeft === "0px") {
         sidebar.style.marginLeft = "-250px";
         doc.style.marginLeft = "0px";
-        //doc.style.width = "100%";
 
       } else {
         sidebar.style.marginLeft = "0px";
@@ -80,29 +79,29 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     }
     // }
     return (
-      <div>
-        <NavBar />
-        <Sidebar onClick={this.myCallback} />
-        <Button className='togglebutton' onClick={this.openNav}>
-          <FontAwesomeIcon className='big-icon' icon={faAlignLeft} />
-        </Button>
-        <Searchbar />
-        <hr></hr>
-
-        <Router>
-          <Route exact path="/" render={() =>
-            <div className="main">
-              <p id="big-link">
-                <a href="#trainingteams"> Training Teams &nbsp; &nbsp; &nbsp;</a>
-                <a href="#projectteams"> Project Teams </a>
-              </p>
-              {groups}
-            </div>
-          } />
-          <Route path="/persons" component={IndividualComponent} />
-        </Router>
-
-      </div>
+      <Router>
+        <div>
+          <Navigation />
+          <Sidebar onClick={this.myCallback} />
+          <Button className='togglebutton' onClick={this.openNav}>
+            <FontAwesomeIcon icon={faAlignLeft} />
+          </Button>
+          <Searchbar />
+          <hr></hr>
+          <Switch>
+            <Route exact path="/" render={() =>
+              <div className="main">
+                <p id="big-link">
+                  <a href="#trainingteams"> Training Teams &nbsp; &nbsp; &nbsp;</a>
+                  <a href="#projectteams"> Project Teams </a>
+                </p>
+                {groups}
+              </div>
+            } />
+            <Route path="/persons" component={IndividualComponent} />
+          </Switch>
+        </div>
+      </Router>
     );
   }
 }
