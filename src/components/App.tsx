@@ -9,6 +9,7 @@ import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
 import { Button } from "reactstrap";
+import { EventsComponent } from './EventsComponent'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAlignLeft } from "@fortawesome/free-solid-svg-icons";
 import { render } from "react-dom";
@@ -79,6 +80,9 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
           <Button className="togglebutton" onClick={this.openNav}>
             <FontAwesomeIcon icon={faAlignLeft} />
           </Button>
+
+          <EventsComponent></EventsComponent>
+
           <Searchbar onClick={this.myCallback} />
           <hr />
           <Switch>
