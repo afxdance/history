@@ -127,6 +127,11 @@ strong {
   border-radius: 3px 3px 3px 3px;
 }
 
+.prev {
+  left: 0;
+  border-radius: 3px 3px 3px 3px;
+}
+
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }

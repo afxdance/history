@@ -51,7 +51,7 @@ export class AboutComponent extends React.Component {
     const lastSlide = slides[slideIndex - 1] as HTMLElement;
     lastSlide.style.display = "block";
     dots[slideIndex - 1].className += " active";
-    setTimeout(() => this.plusSlides(1), 10000); // Change image every 10 seconds
+    setTimeout(() => this.plusSlides(1), 2000); // Change image every 10 seconds
   }
 
   public render() {
