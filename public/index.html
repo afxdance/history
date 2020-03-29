@@ -1,58 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
-<html class="fa-events-icons-ready">
-
-
-<head>
-  <meta charset="utf-8">
-  <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-  <meta name="theme-color" content="#000000">
-  <!--
+  <html class="fa-events-icons-ready">
+    <head>
+      <meta charset="utf-8" />
+      <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+      <meta name="theme-color" content="#000000" />
+      <!--
       manifest.json provides metadata used when your web app is added to the
       homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
     -->
-  <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
-  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+      <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+      <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132986363-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-132986363-1"
+      ></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
 
-    gtag('config', 'UA-132986363-1');
-  </script>
-  <!-- end Google Analytics -->
+        gtag("config", "UA-132986363-1");
+      </script>
+      <!-- end Google Analytics -->
 
-  <!-- begin Fullstory -->
-  <script>
-    window['_fs_debug'] = false;
-    window['_fs_host'] = 'fullstory.com';
-    window['_fs_org'] = 'JDKAC';
-    window['_fs_namespace'] = 'FS';
-    (function (m, n, e, t, l, o, g, y) {
-      if (e in m) { if (m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); } return; }
-      g = m[e] = function (a, b, s) { g.q ? g.q.push([a, b, s]) : g._api(a, b, s); }; g.q = [];
-      o = n.createElement(t); o.async = 1; o.src = 'https://' + _fs_host + '/s/fs.js';
-      y = n.getElementsByTagName(t)[0]; y.parentNode.insertBefore(o, y);
-      g.identify = function (i, v, s) { g(l, { uid: i }, s); if (v) g(l, v, s) }; g.setUserVars = function (v, s) { g(l, v, s) }; g.event = function (i, v, s) { g('event', { n: i, p: v }, s) };
-      g.shutdown = function () { g("rec", !1) }; g.restart = function () { g("rec", !0) };
-      g.consent = function (a) { g("consent", !arguments.length || a) };
-      g.identifyAccount = function (i, v) { o = 'account'; v = v || {}; v.acctId = i; g(o, v) };
-      g.clearUserCookie = function () { };
-    })(window, document, window['_fs_namespace'], 'script', 'user');
-  </script>
-  <!-- end Fullstory -->
+      <!-- begin Fullstory -->
+      <script>
+        window["_fs_debug"] = false;
+        window["_fs_host"] = "fullstory.com";
+        window["_fs_org"] = "JDKAC";
+        window["_fs_namespace"] = "FS";
+        (function(m, n, e, t, l, o, g, y) {
+          if (e in m) {
+            if (m.console && m.console.log) {
+              m.console.log(
+                'FullStory namespace conflict. Please set window["_fs_namespace"].'
+              );
+            }
+            return;
+          }
+          g = m[e] = function(a, b, s) {
+            g.q ? g.q.push([a, b, s]) : g._api(a, b, s);
+          };
+          g.q = [];
+          o = n.createElement(t);
+          o.async = 1;
+          o.src = "https://" + _fs_host + "/s/fs.js";
+          y = n.getElementsByTagName(t)[0];
+          y.parentNode.insertBefore(o, y);
+          g.identify = function(i, v, s) {
+            g(l, { uid: i }, s);
+            if (v) g(l, v, s);
+          };
+          g.setUserVars = function(v, s) {
+            g(l, v, s);
+          };
+          g.event = function(i, v, s) {
+            g("event", { n: i, p: v }, s);
+          };
+          g.shutdown = function() {
+            g("rec", !1);
+          };
+          g.restart = function() {
+            g("rec", !0);
+          };
+          g.consent = function(a) {
+            g("consent", !arguments.length || a);
+          };
+          g.identifyAccount = function(i, v) {
+            o = "account";
+            v = v || {};
+            v.acctId = i;
+            g(o, v);
+          };
+          g.clearUserCookie = function() {};
+        })(window, document, window["_fs_namespace"], "script", "user");
+      </script>
+      <!-- end Fullstory -->
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      <link
+        rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous"
+      />
 
-  <script src="https://use.fontawesome.com/ece40e76f3.js"></script>
-  <link href="https://use.fontawesome.com/ece40e76f3.css" media="all" rel="stylesheet">
+      <script src="https://use.fontawesome.com/ece40e76f3.js"></script>
+      <link
+        href="https://use.fontawesome.com/ece40e76f3.css"
+        media="all"
+        rel="stylesheet"
+      />
 
-  <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400" rel="stylesheet">
-  <!--
+      <link
+        href="https://fonts.googleapis.com/css?family=Lato:100,300,400"
+        rel="stylesheet"
+      />
+      <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
       Only files inside the `public` folder can be referenced from the HTML.
@@ -61,95 +109,91 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-  <title>AFX Dance</title>
-</head>
+      <title>AFX Dance</title>
+    </head>
 
-<body>
-  <script>
-    window.fbAsyncInit = function () {
-      FB.init({
-        appId: '1609348955907740',
-        xfbml: true,
-        version: 'v6.0'
-      });
-      FB.AppEvents.logPageView();
-    };
+    <body>
+      <div class="video-container">
+        <div class="video" controls loop>
+          <iframe
+            src="https://www.youtube.com/embed/videoseries?list=PLOZ8paoFrGJ3bfiM2Oa1yGNC04WccuF9b&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;mute=1&amp;autoplay=1&amp;loop=1&amp;Version=3&amp;start=5"
+            width="100%"
+            height="100%"
+            frameborder="0"
+            allowfullscreen=""
+          ></iframe>
+        </div>
+        <div class="video-overlay-background"></div>
+        <div class="video-overlay">
+          <div class="center-container">
+            <img class="icon" src="afx2.png" alt="Afx2" />
+          </div>
+          <div class="arrow">
+            <img
+              class="downArrow"
+              src="down.png"
+              width="100"
+              height="100"
+              alt="Down"
+            />
+          </div>
+        </div>
+      </div>
 
-    (function (d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) { return; }
-      js = d.createElement(s); js.id = id;
-      js.src = "https://connect.facebook.net/en_US/sdk.js";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+      <div id="top" class="main">
+        <div class="about">
+          <div class="about--text">
+            <span>
+              <strong>AFX Dance</strong> is a hip hop/urban dance group founded
+              by Ping Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to
+              give dancers an opportunity to grow.
+            </span>
 
+            <span>
+              Our name, <strong>A</strong>spirations, <strong>F</strong>amily,
+              e<strong>X</strong>perience reflects our philosophy of creating a
+              family environment for dancers to build up the confidence and
+              support to reach new heights. We offer teams for beginner,
+              intermediate, and competitive levels and we hope to provide
+              dancers, with new fulfilling experiences that will empower them to
+              pass on our philosophies to the greater community.
+            </span>
+          </div>
+        </div>
+        <div class="social-mediaz">
+          <a href="https://www.facebook.com/AFXdance/">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.instagram.com/afxdance/">
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.youtube.com/channel/UCfqDntI9j7VESB0fNgw9Yog">
+            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+          </a>
+        </div>
+        <div class="border"></div>
+        <button class="joinUs" onClick="toggleDiv()">Join Us!</button>
+        <div id="infoDiv">
+          <p>
+            To join AFX, come out to one of the following audition dates. No
+            prior experience is necessary!
+          </p>
+        </div>
+        <script>
+          function toggleDiv() {
+            var x = document.getElementById("infoDiv");
+            if (x.style.display === "none") {
+              x.style.display = "block";
+            } else {
+              x.style.display = "none";
+            }
+          }
+        </script>
+      </div>
 
-  </script>
-</body>
+      <!-- Add static things here. React will display these things as is. id="root" displays the react code -->
 
-<div class="video-container">
-  <div class="video" controls loop><iframe
-      src="https://www.youtube.com/embed/videoseries?list=PLOZ8paoFrGJ3bfiM2Oa1yGNC04WccuF9b&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;mute=1&amp;autoplay=1&amp;loop=1&amp;Version=3&amp;start=5"
-      width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe></div>
-  <div class="video-overlay-background"></div>
-  <div class="video-overlay">
-    <div class="center-container">
-      <img class="icon" src="afx2.png" alt="Afx2">
-    </div>
-    <div class="arrow">
-      <img class="downArrow" src="down.png" width="100" height="100" alt="Down">
-    </div>
-  </div>
-</div>
-
-<div id="top" class="main">
-
-  <div class="about">
-    <div class="about--text">
-      <span> <strong>AFX Dance</strong> is a hip hop/urban dance group founded by Ping Quach, Geoffrey Chen, and
-        Rosemary
-        Hua in Fall 2011 to give dancers an opportunity to grow. </span>
-
-      <span> Our name, <strong>A</strong>spirations, <strong>F</strong>amily, e<strong>X</strong>perience reflects
-        our philosophy of creating a family environment for dancers to build up the confidence and support to reach
-        new
-        heights. We offer teams for beginner, intermediate, and competitive levels and we hope to provide dancers,
-        with
-        new
-        fulfilling experiences that will empower them to pass on our philosophies to the greater community. </span>
-    </div>
-  </div>
-  <div class="social-mediaz">
-    <a href="https://www.facebook.com/AFXdance/">
-      <i class="fa fa-facebook" aria-hidden="true"></i>
-    </a>
-    <a href="https://www.instagram.com/afxdance/">
-      <i class="fa fa-instagram" aria-hidden="true"></i>
-    </a>
-    <a href="https://www.youtube.com/channel/UCfqDntI9j7VESB0fNgw9Yog">
-      <i class="fa fa-youtube-play" aria-hidden="true"></i>
-    </a>
-  </div>
-  <div class="border"></div>
-  <button class="joinUs" onClick="toggleDiv()">Join Us!</button>
-  <div id="infoDiv">
-    <p>To join AFX, come out to one of the following audition dates. No prior experience is necessary!</p>
-  </div>
-  <script>
-    function toggleDiv() {
-      var x = document.getElementById("infoDiv");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
-      }
-    }
-  </script>
-</div>
-
-<!-- Add static things here. React will display these things as is. id="root" displays the react code -->
-
-<!-- <div class="main">
+      <!-- <div class="main">
   <div class="banner">
     <img class="icon" src="afx2.png" alt="Afx2">
   </div>
@@ -180,13 +224,11 @@
   </div>
 </div> -->
 
-
-
-<noscript>
-  You need to enable JavaScript to run this app.
-</noscript>
-<div id="root"></div>
-<!--
+      <noscript>
+        You need to enable JavaScript to run this app.
+      </noscript>
+      <div id="root"></div>
+      <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
 
@@ -196,7 +238,32 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+      <!-- <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId: "2542704165952131",
+            xfbml: true,
+            version: "v6.0",
+          });
+        };
 
-
-
+        (function(d, s, id) {
+          var js,
+            fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {
+            return;
+          }
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "https://connect.facebook.net/en_US/sdk.js";
+          fjs.parentNode.insertBefore(js, fjs);
+        })(document, "script", "facebook-jssdk");
+      </script> -->
+      <!-- <script
+        async
+        defer
+        src="https://connect.facebook.net/en_US/sdk.js"
+      ></script> -->
+    </body>
+  </html>
 </html>

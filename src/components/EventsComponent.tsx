@@ -1,6 +1,5 @@
 import * as React from "react";
 
-
 declare global {
   interface Window {
     FB: any;
@@ -8,27 +7,23 @@ declare global {
   }
 }
 
-
 export class EventsComponent extends React.Component {
-
   constructor(props: any) {
     super(props);
-
-
-    { "fields": "description,start_time,end_time,place,cover" },
-    function (response: any) {
-      // Insert your code here
-      console.log(response);
-    }
-    );
   }
 
+  // public loadFbApi() {
+  //   window.FB.api("/me", "GET", { fields: "id,name" }, function(response: any) {
+  //     // Insert your code here
+  //     console.log(response);
+  //   });
+  // }
+
+  // public componentDidMount() {
+  //   this.loadFbApi();
+  // }
 
   public render() {
-    return (<div>
-
-    </div>)
+    return <div> HELLLOO</div>;
   }
-
-
 }
