@@ -1,4 +1,5 @@
 import * as React from "react";
+import { AboutComponent } from "./AboutComponent";
 import { GroupsComponent } from "src/components/GroupsComponent";
 import { Route, Switch, HashRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
@@ -80,31 +81,29 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     // }
     return (
       <div>
+        <AboutComponent />
         <div id="middle">
           <div id="events">
             <h1>EVENTS</h1>
-            <br>
           </div>
+        </div>
+        <div id="bottom">
+          <div id="history">
+            <h1>HISTORY</h1>
+            <Navigation />
+            <Sidebar onClick={this.myCallback} />
+            <Button className='togglebutton' onClick={this.openNav}>
+              <FontAwesomeIcon icon={faAlignLeft} />
+            </Button>
+            <Searchbar />
+            <p id="big-link">
+              <a href="#trainingteams">Training Teams &nbsp; &nbsp; &nbsp;</a>
+              <a href="#projectteams"> Project Teams </a>
+            </p>
+            {groups}
           </div>
-
-          <div id="bottom">
-            <div id="history">
-              <h1>HISTORY</h1>
-              <br>
-                <Navigation />
-                <Sidebar onClick={this.myCallback} />
-                <Button className='togglebutton' onClick={this.openNav}>
-                  <FontAwesomeIcon icon={faAlignLeft} />
-                </Button>
-                <Searchbar />
-                <p id="big-link">
-                  <a href="#trainingteams">Training Teams &nbsp; &nbsp; &nbsp;</a>
-                  <a href="#projectteams"> Project Teams </a>
-                </p>
-                {groups}
-          </div>
-            </div>
-          </div>
+        </div>
+      </div>
     );
   }
 }
