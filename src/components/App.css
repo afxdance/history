@@ -6,6 +6,15 @@ body {
   color: #323537;
 }
 
+.navbar-black {
+  background-color: black;
+  color: white;
+}
+
+.navbar-black .navbar-nav .nav-link {
+  color: white;
+}
+
 /*Hyperlink styling.*/
 a,
 a:link,
@@ -577,10 +586,6 @@ button {
   display: block;
   padding-top: 20%;
   padding-left: 45%;
-}
-
-.gen-nav {
-  top: 0;
 }
 
 /* ---------------------------------------------------
