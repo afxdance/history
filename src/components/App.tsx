@@ -85,11 +85,14 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
         <div id="middle">
           <div id="events">
             <h1>EVENTS</h1>
+            <br></br>
           </div>
         </div>
+
         <div id="bottom">
           <div id="history">
             <h1>HISTORY</h1>
+            <br></br>
             <Navigation />
             <Sidebar onClick={this.myCallback} />
             <Button className='togglebutton' onClick={this.openNav}>
