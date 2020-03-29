@@ -85,7 +85,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
         <div id="middle">
           <div id="events">
             <h1>EVENTS</h1>
-<<<<<<< HEAD
             <br></br>
           </div>
         </div>
@@ -107,26 +106,6 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
             {groups}
           </div>
         </div>
-=======
-          </div>
-        </div>
-        <div id="bottom">
-          <div id="history">
-            <h1>HISTORY</h1>
-            <Navigation />
-            <Sidebar onClick={this.myCallback} />
-            <Button className='togglebutton' onClick={this.openNav}>
-              <FontAwesomeIcon icon={faAlignLeft} />
-            </Button>
-            <Searchbar />
-            <p id="big-link">
-              <a href="#trainingteams">Training Teams &nbsp; &nbsp; &nbsp;</a>
-              <a href="#projectteams"> Project Teams </a>
-            </p>
-            {groups}
-          </div>
-        </div>
->>>>>>> c07d6978f700faa685c2d7f61a3586baa43f83ff
       </div>
     );
   }
