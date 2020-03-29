@@ -79,7 +79,6 @@
 </div>
 
 <div id="top" class="main">
-
   <div id="about">
     <div class="heading">
       <h1>ABOUT</h1>
@@ -87,19 +86,19 @@
     <br>
 
     <div id="slideshow">
-      <div class="mySlides fade">
+      <div class="mySlides">
         <img
           src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/83158448_2429000047204624_2334159853150273536_o.png?_nc_cat=111&_nc_sid=6e5ad9&_nc_ohc=DOyHHeDMf9AAX-RZVYj&_nc_ht=scontent-lax3-2.xx&oh=08f81810a42c3d4f37873fcf0b95335f&oe=5E9C64EE"
           width=100% />
       </div>
 
-      <div class="mySlides fade">
+      <div class="mySlides">
         <img
-          src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/83158448_2429000047204624_2334159853150273536_o.png?_nc_cat=111&_nc_sid=6e5ad9&_nc_ohc=DOyHHeDMf9AAX-RZVYj&_nc_ht=scontent-lax3-2.xx&oh=08f81810a42c3d4f37873fcf0b95335f&oe=5E9C64EE"
+          src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/82893166_2429012740536688_5495804662646833152_o.jpg?_nc_cat=107&_nc_sid=6e5ad9&_nc_ohc=NsJxCc37FwQAX9u9ASC&_nc_ht=scontent-lax3-2.xx&oh=dbd759e48188e3ab54ccbd78e46252fe&oe=5EA534D6"
           width=100% />
       </div>
 
-      <div class="mySlides fade">
+      <div class="mySlides">
         <img
           src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/83158448_2429000047204624_2334159853150273536_o.png?_nc_cat=111&_nc_sid=6e5ad9&_nc_ohc=DOyHHeDMf9AAX-RZVYj&_nc_ht=scontent-lax3-2.xx&oh=08f81810a42c3d4f37873fcf0b95335f&oe=5E9C64EE"
           width=100% />
@@ -115,6 +114,36 @@
       <span class="dot" onclick="currentSlide(2)"></span>
       <span class="dot" onclick="currentSlide(3)"></span>
     </div>
+    <script>
+      var slideIndex = 1;
+      showSlides(slideIndex);
+
+      // Next/previous controls
+      function plusSlides(n) {
+        showSlides(slideIndex += n);
+      }
+
+      // Thumbnail image controls
+      function currentSlide(n) {
+        showSlides(slideIndex = n);
+      }
+
+      function showSlides(n) {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        if (n > slides.length) { slideIndex = 1 }
+        if (n < 1) { slideIndex = slides.length }
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+      }
+    </script>
     <br><br>
 
     <div class="about--text">
@@ -169,19 +198,6 @@
   </script>
 </div>
 
-<div id="middle">
-  <div id="events">
-    <h1>EVENTS</h1>
-    <br>
-  </div>
-</div>
-
-<div id="bottom" class="main">
-  <div id="history">
-    <h1>HISTORY</h1>
-    <br>
-  </div>
-</div>
 
 <!-- <div class="main">
   <div class="banner">
