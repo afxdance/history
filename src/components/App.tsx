@@ -1,4 +1,5 @@
 import * as React from "react";
+import { AboutComponent } from "./AboutComponent";
 import { GroupsComponent } from "src/components/GroupsComponent";
 import { Route, Switch, HashRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
@@ -79,29 +80,33 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     }
     // }
     return (
-      <Router>
-        <div>
-          <Navigation />
-          <Sidebar onClick={this.myCallback} />
-          <Button className='togglebutton' onClick={this.openNav}>
-            <FontAwesomeIcon icon={faAlignLeft} />
-          </Button>
-          <Searchbar />
-          <hr></hr>
-          <Switch>
-            <Route exact path="/" render={() =>
-              <div className="main">
-                <p id="big-link">
-                  <a href="#trainingteams"> Training Teams &nbsp; &nbsp; &nbsp;</a>
-                  <a href="#projectteams"> Project Teams </a>
-                </p>
-                {groups}
-              </div>
-            } />
-            <Route path="/persons" component={IndividualComponent} />
-          </Switch>
+      <div>
+        <AboutComponent />
+        <div id="middle">
+          <div id="events">
+            <h1>EVENTS</h1>
+            <br></br>
+          </div>
         </div>
-      </Router>
+
+        <div id="bottom">
+          <div id="history">
+            <h1>HISTORY</h1>
+            <br></br>
+            <Navigation />
+            <Sidebar onClick={this.myCallback} />
+            <Button className='togglebutton' onClick={this.openNav}>
+              <FontAwesomeIcon icon={faAlignLeft} />
+            </Button>
+            <Searchbar />
+            <p id="big-link">
+              <a href="#trainingteams">Training Teams &nbsp; &nbsp; &nbsp;</a>
+              <a href="#projectteams"> Project Teams </a>
+            </p>
+            {groups}
+          </div>
+        </div>
+      </div>
     );
   }
 }
