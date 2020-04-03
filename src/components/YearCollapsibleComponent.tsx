@@ -89,7 +89,7 @@ export class YearCollapsibleComponent extends React.Component<
 
 
         <Collapse isOpen={this.state.show} >
-          {semLinks.map((semLink, index) => (
+          {semLinks.map((semLink: any, index: any) => (
             <NavItem key={index} className='pl-4'>
               {semLink}
             </NavItem>

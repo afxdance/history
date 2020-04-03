@@ -28,6 +28,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
       semKey: "rec5XKEgTIG4JPqKB",
       type: typeof AFX.Semesters,
     };
+
   }
 
   showSettings(event: React.MouseEvent) {
@@ -53,6 +54,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
         doc.style.marginLeft = "0px";
       } else {
         sidebar.style.marginLeft = "0px";
+
         doc.style.marginLeft = "250px";
         doc.style.width = "calc(100%-250px)";
       }
@@ -80,6 +82,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
           <Button className="togglebutton" onClick={this.openNav}>
             <FontAwesomeIcon icon={faAlignLeft} />
           </Button>
+
 
           <EventsComponent></EventsComponent>
 

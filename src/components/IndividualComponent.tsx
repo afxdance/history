@@ -27,7 +27,7 @@ export class IndividualComponent extends React.Component<any> {
 
     if (name != undefined) {
       let posIDs = this.findIDs(name);
-      posIDs.forEach(ids => {
+      posIDs.forEach((ids: any) => {
         // Most recent position that the person holds is represented by the last id
         let recentPosition = Data.PersonPositions[ids[ids.length - 1]];
         personPositionComponents.push(
