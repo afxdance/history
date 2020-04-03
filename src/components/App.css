@@ -6,13 +6,20 @@ body {
   color: #323537;
 }
 
-.navbar-black {
+.navbar-custom {
   background-color: black;
+}
+
+.basic-nav-dropdown {
   color: white;
 }
 
-.navbar-black .navbar-nav .nav-link {
+.nav-text {
   color: white;
+}
+
+.nav-dropdown {
+  color: black;
 }
 
 /*Hyperlink styling.*/
