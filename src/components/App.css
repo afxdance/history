@@ -95,10 +95,6 @@ strong {
   margin: auto;
 }
 
-.mySlides {
-  display: none;
-}
-
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -144,19 +140,14 @@ strong {
 }
 
 .fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 @keyframes fade {
-  from {opacity: .4}
+  from {opacity: 0}
   to {opacity: 1}
 }
 
@@ -597,7 +588,7 @@ button {
     SIDEBAR STYLE
 ----------------------------------------------------- */
 .sidebar {
-  /* position: fixed; */
+  position: fixed;
   left: 0px;
   top: 0px;
   width: 250px;
