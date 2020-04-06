@@ -14,11 +14,16 @@ export class Navigation extends React.Component<any> {
   public render() {
     return (
       <Navbar className="navbar-custom" fixed="top" expand="lg">
-      {/* // <Navbar className="gen-nav navbar-dark navbar-black" bg="dark" fixed="top" expand="lg"> */}
+        {/* // <Navbar className="gen-nav navbar-dark navbar-black" bg="dark" fixed="top" expand="lg"> */}
         {/* <img src={icon} alt=""></img> */}
         <Navbar.Brand href="#"><span className="nav-text">AFX Dance</span></Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
         <Navbar.Collapse id="basic-navbar-nav">
+
+          <Nav className="button">
+            <Button>Search</Button>{' '}
+          </Nav>
+
           <Nav className="ml-auto navbar-custom">
             <Nav.Link href="#"><span className="nav-text">About</span></Nav.Link>
             <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
@@ -27,8 +32,10 @@ export class Navigation extends React.Component<any> {
             </NavDropdown>
             <Nav.Link href="#"><span className="nav-text">Events</span></Nav.Link>
           </Nav>
-        </Navbar.Collapse>
-      </Navbar>
+
+        </Navbar.Collapse >
+
+      </Navbar >
     );
   }
 }

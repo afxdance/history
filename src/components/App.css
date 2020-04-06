@@ -6,6 +6,8 @@ body {
   color: #323537;
 }
 
+
+
 .navbar-custom {
   background-color: black;
 }
@@ -20,6 +22,18 @@ body {
 
 .nav-dropdown {
   color: black;
+}
+
+a.nav-dropdown.nav-link {
+  color: black;
+}
+
+.button {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  justify-content: center;
+  width: 100%;
 }
 
 /*Hyperlink styling.*/
@@ -656,6 +670,7 @@ button {
   color: #fff;
   background: #6d7fcc;
 }
+
 
 li a.dropdown-toggle::after {
   display: inline-flex;
