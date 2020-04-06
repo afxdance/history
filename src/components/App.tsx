@@ -66,44 +66,47 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
   };
 
   public render() {
-    let groups: any = [];
+    let board: any = [];
+    let teams: any = [];
     // Go through all semesters (in chronological order) and display respective board members and teams
     // for (let semKey in AFX.Semesters) {
     let currSem: Semester = AFX.Semesters[this.state.semKey];
     let currBoardKey: any = currSem.boardGroupId; // todo: yucky array and any
     if (currBoardKey) {
-      groups.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
+      board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
     }
     if (currSem.teamGroupIds) {
-      groups.push(<TeamsComponent teamIds={currSem.teamGroupIds} />);
+      teams.push(<TeamsComponent teamIds={currSem.teamGroupIds} />);
       // TODO: TeamsComponent, renaming things, string[] mess
     }
     // }
     return (
       <div>
-        <AboutComponent />
+        <div id="top">
+          <AboutComponent />
+        </div>
         <div id="middle">
           <div id="events">
             <h1>EVENTS</h1>
             <br></br>
           </div>
         </div>
-
         <div id="bottom">
           <div id="history">
             <h1>HISTORY</h1>
             <br></br>
             <Navigation />
-            <Sidebar onClick={this.myCallback} />
+            {/* <Sidebar onClick={this.myCallback} />
             <Button className='togglebutton' onClick={this.openNav}>
               <FontAwesomeIcon icon={faAlignLeft} />
-            </Button>
+            </Button> */}
             <Searchbar />
-            <p id="big-link">
-              <a href="#trainingteams">Training Teams &nbsp; &nbsp; &nbsp;</a>
-              <a href="#projectteams"> Project Teams </a>
-            </p>
-            {groups}
+            <div id="board">
+              {board}
+            </div>
+            <div id="teams">
+              {teams}
+            </div>
           </div>
         </div>
       </div>

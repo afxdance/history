@@ -6,21 +6,46 @@ body {
   color: #323537;
 }
 
-.navbar-custom {
-  background-color: black;
+.navbar-custom, .dropdown {
+  background-color: black !important;
+  opacity: 0.75;
 }
 
-.basic-nav-dropdown {
+/* .nav-dropdown{
   color: white;
+  font-weight: bold;
+  background-color: red;
+  background: #2B3E50;
+  box-shadow: none;
+} */
+
+.dropdown-item {
+  background-color: black !important;
 }
 
 .nav-text {
   color: white;
 }
 
-.nav-dropdown {
-  color: black;
+.nav-text:hover {
+  color: grey;
 }
+
+a.nav-link:active {
+  color: grey !important;
+  background-color: black !important;
+}
+
+/* TODO: get rid of dropdown arrow */
+.display-toggle::after {
+  display: none !important;
+}
+
+/* #nav-dropdown1 {
+  color: black;
+  background-color: red;
+
+} */
 
 /*Hyperlink styling.*/
 a,
