@@ -51,7 +51,7 @@ export class AboutComponent extends React.Component {
     const lastSlide = slides[slideIndex - 1] as HTMLElement;
     lastSlide.style.display = "block";
     dots[slideIndex - 1].className += " active";
-    setTimeout(() => this.plusSlides(1), 10000); // Change image every 10 seconds
+    // setTimeout(() => this.showSlides(slideIndex += 1), 5000); // Change image every 10 seconds
   }
 
   public render() {
@@ -62,17 +62,17 @@ export class AboutComponent extends React.Component {
         </div>
         <br></br>
         <div id="slideshow" onLoad={() => this.currentSlide(1)}>
-          <div className="mySlides">
+          <div className="mySlides fade">
             <img
               src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/83158448_2429000047204624_2334159853150273536_o.png?_nc_cat=111&_nc_sid=6e5ad9&_nc_ohc=DOyHHeDMf9AAX-RZVYj&_nc_ht=scontent-lax3-2.xx&oh=08f81810a42c3d4f37873fcf0b95335f&oe=5E9C64EE"
               width="100%" />
           </div>
-          <div className="mySlides">
+          <div className="mySlides fade">
             <img
               src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/82179407_2429012747203354_2801596146294718464_o.jpg?_nc_cat=102&_nc_sid=dd9801&_nc_ohc=S-EGV0t8v4cAX-Yjgh4&_nc_ht=scontent-lax3-1.xx&oh=8686e38408ad27b0da95c3cfeab03bb1&oe=5EA678C1"
               width="100%" />
           </div>
-          <div className="mySlides">
+          <div className="mySlides fade">
             <img
               src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/82893166_2429012740536688_5495804662646833152_o.jpg?_nc_cat=107&_nc_sid=dd9801&_nc_ohc=NsJxCc37FwQAX9u9ASC&_nc_ht=scontent-lax3-2.xx&oh=dbd759e48188e3ab54ccbd78e46252fe&oe=5EA534D6"
               width="100%" />
