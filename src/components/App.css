@@ -6,24 +6,39 @@ body {
   color: #323537;
 }
 
+<<<<<<< HEAD
 
 
 .navbar-custom {
   background-color: black;
+=======
+.navbar-custom, .dropdown {
+  background-color: black !important;
+  opacity: 0.75;
+>>>>>>> 8e400c8e4a732d420ba832444e4cc8c72b82a265
 }
 
-.basic-nav-dropdown {
+/* .nav-dropdown{
   color: white;
+  font-weight: bold;
+  background-color: red;
+  background: #2B3E50;
+  box-shadow: none;
+} */
+
+.dropdown-item {
+  background-color: black !important;
 }
 
 .nav-text {
   color: white;
 }
 
-.nav-dropdown {
-  color: black;
+.nav-text:hover {
+  color: grey;
 }
 
+<<<<<<< HEAD
 a.nav-dropdown.nav-link {
   color: black;
 }
@@ -36,6 +51,24 @@ a.nav-dropdown.nav-link {
   width: 100%;
 }
 
+=======
+a.nav-link:active {
+  color: grey !important;
+  background-color: black !important;
+}
+
+/* TODO: get rid of dropdown arrow */
+.display-toggle::after {
+  display: none !important;
+}
+
+/* #nav-dropdown1 {
+  color: black;
+  background-color: red;
+
+} */
+
+>>>>>>> 8e400c8e4a732d420ba832444e4cc8c72b82a265
 /*Hyperlink styling.*/
 a,
 a:link,
@@ -116,10 +149,6 @@ strong {
   margin: auto;
 }
 
-.mySlides {
-  display: none;
-}
-
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -165,19 +194,14 @@ strong {
 }
 
 .fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 @keyframes fade {
-  from {opacity: .4}
+  from {opacity: 0}
   to {opacity: 1}
 }
 
@@ -618,7 +642,7 @@ button {
     SIDEBAR STYLE
 ----------------------------------------------------- */
 .sidebar {
-  /* position: fixed; */
+  position: fixed;
   left: 0px;
   top: 0px;
   width: 250px;

@@ -13,9 +13,7 @@ import icon from './afx2.png'
 export class Navigation extends React.Component<any> {
   public render() {
     return (
-      <Navbar className="navbar-custom" fixed="top" expand="lg">
-        {/* // <Navbar className="gen-nav navbar-dark navbar-black" bg="dark" fixed="top" expand="lg"> */}
-        {/* <img src={icon} alt=""></img> */}
+      <Navbar collapseOnSelect fixed="top" className="navbar-custom" expand="lg">
         <Navbar.Brand href="#"><span className="nav-text">AFX Dance</span></Navbar.Brand>
         {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
         <Navbar.Collapse id="basic-navbar-nav">
@@ -30,7 +28,7 @@ export class Navigation extends React.Component<any> {
               <NavDropdown.Item href="#"><span className="nav-dropdown">Executive Board</span></NavDropdown.Item>
               <NavDropdown.Item href="#"><span className="nav-dropdown">Teams</span></NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#"><span className="nav-text">Events</span></Nav.Link>
+            <Nav.Link href="#middle"><span className="nav-text">Events</span></Nav.Link>
           </Nav>
 
         </Navbar.Collapse >
@@ -39,10 +37,3 @@ export class Navigation extends React.Component<any> {
     );
   }
 }
-
-
-
-{/* <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
-<NavDropdown.Item href="#"><span className="nav-dropdown">Executive Board</span></NavDropdown.Item>
-<NavDropdown.Item href="#"><span className="nav-dropdown">Teams</span></NavDropdown.Item>
-</NavDropdown> */}
