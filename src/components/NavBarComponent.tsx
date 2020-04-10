@@ -17,11 +17,9 @@ export class Navigation extends React.Component<any> {
         <Navbar.Brand href="#"><span className="nav-text">AFX Dance</span></Navbar.Brand>
         {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
         <Navbar.Collapse id="basic-navbar-nav">
-
           <Nav className="button">
             <Button>Search</Button>{' '}
           </Nav>
-
           <Nav className="ml-auto navbar-custom">
             <Nav.Link href="#"><span className="nav-text">About</span></Nav.Link>
             <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
@@ -30,9 +28,7 @@ export class Navigation extends React.Component<any> {
             </NavDropdown>
             <Nav.Link href="#middle"><span className="nav-text">Events</span></Nav.Link>
           </Nav>
-
         </Navbar.Collapse >
-
       </Navbar >
     );
   }
