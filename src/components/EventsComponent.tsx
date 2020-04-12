@@ -1,5 +1,4 @@
 import * as React from "react";
-// @ts-ignore
 import { Calendar, momentLocalizer } from 'react-big-calendar';
 // @ts-ignore
 import moment from 'moment';
@@ -31,27 +30,26 @@ export class EventsComponent extends React.Component<{}, EventsList> {
      * and then convert that into a never-expiring page access token.
     */
 
-    axios.get("https://graph.facebook.com/" + page_id + "/events?access_token=" + access_token)
+    axios.get("https://graph.facebook.com/" + page_id
+      + "/events?access_token=" + access_token)
       .then(response => {
+
         var eventsList: any[] = [];
+        var eventsCount = 0;
 
-        var count = 0;
         for (let events in response["data"]["data"]) {
-
           var tempEvent = response["data"]["data"][events];
-
-          console.log(tempEvent);
 
           eventsList.push(
             {
-              id: count,
+              id: eventsCount,
               title: tempEvent["description"],
               start: new Date(tempEvent["start_time"]),
               end: new Date(tempEvent["end_time"])
 
             }
           );
-          count += 1;
+          eventsCount += 1;
         }
 
         /** Extract relevant information from eventsList. */
