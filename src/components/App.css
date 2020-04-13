@@ -8,7 +8,7 @@ body {
 
 .navbar-custom, .dropdown {
   background-color: black !important;
-  opacity: 0.75;
+  opacity: 0.9;
 }
 
 /* .nav-dropdown{
@@ -31,11 +31,12 @@ body {
   color: grey;
 }
 
-a.nav-dropdown.nav-link {
+/* a.nav-dropdown.nav-link {
   color: black;
-}
+} */
 
-.button {
+.search-button {
+  display: none;
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
@@ -43,10 +44,10 @@ a.nav-dropdown.nav-link {
   width: 100%;
 }
 
-a.nav-link:active {
+/* a.nav-link:active {
   color: grey !important;
   background-color: black !important;
-}
+} */
 
 /* TODO: get rid of dropdown arrow */
 .display-toggle::after {

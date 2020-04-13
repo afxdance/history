@@ -11,20 +11,21 @@ import icon from './afx2.png'
 // import ReactBootstrapStyle from 'react-bootstrap/s;
 
 export class Navigation extends React.Component<any> {
+
   public render() {
     return (
       <Navbar collapseOnSelect fixed="top" className="navbar-custom" expand="lg">
         <Navbar.Brand href="#"><span className="nav-text">AFX Dance</span></Navbar.Brand>
-        {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="button">
-            <Button>Search</Button>{' '}
+          <Nav className="search-button">
+            <button style={{ display: this.props.searchDisplay ? '' : 'none' }}><span className="nav-text">Search</span></button>
           </Nav>
           <Nav className="ml-auto navbar-custom">
-            <Nav.Link href="#"><span className="nav-text">About</span></Nav.Link>
+            <Nav.Link href="#top"><span className="nav-text">About</span></Nav.Link>
             <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
-              <NavDropdown.Item href="#"><span className="nav-dropdown">Executive Board</span></NavDropdown.Item>
-              <NavDropdown.Item href="#"><span className="nav-dropdown">Teams</span></NavDropdown.Item>
+              <NavDropdown.Item href="#bottom"><span className="nav-text">Executive Board</span></NavDropdown.Item>
+              <NavDropdown.Item href="#"><span className="nav-text">Teams</span></NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#middle"><span className="nav-text">Events</span></Nav.Link>
           </Nav>

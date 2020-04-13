@@ -19,16 +19,41 @@ import { type } from "os";
 export interface App {
   semKey: string;
   type: string;
+  display: any;
 }
 
-export class App extends React.Component<{}, { semKey: string; type: string }> {
+export class App extends React.Component<{}, { semKey: string; type: string; display: any }> {
   constructor(props: any) {
     super(props);
     this.state = {
       //TODO: Need to make code so that this selects the most recent semester rather than hard coded
       semKey: "rec5XKEgTIG4JPqKB",
       type: typeof AFX.Semesters,
+      display: false,
     };
+    this.toggleSearch = this.toggleSearch.bind(this);
+  }
+
+  toggleSearch(e: React.MouseEvent, type: String) {
+    if (type === "enter") {
+      // TODO: append history navbar
+      this.setState({
+        display: true,
+      })
+    }
+    else if (type === "exit") {
+      // Only removes display state if user is still in window
+      if ((e.screenX >= 0 && e.screenX <= window.innerWidth) &&
+        (e.screenY >= 0 && e.screenY <= window.innerHeight)) {
+        this.setState({
+          display: false,
+        })
+      }
+    }
+    else if (type === "check") {
+      // TODO: implement edge case where user scrolls over navbar
+    }
+
   }
 
   showSettings(event: React.MouseEvent) {
@@ -82,6 +107,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
     // }
     return (
       <div>
+        <Navigation searchDisplay={this.state.display} onMouseEnter={e => this.toggleSearch(e, "check")} />
         <div id="top">
           <AboutComponent />
         </div>
@@ -91,11 +117,10 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
             <br></br>
           </div>
         </div>
-        <div id="bottom">
+        <div id="bottom" onMouseEnter={e => this.toggleSearch(e, "enter")} onMouseLeave={e => this.toggleSearch(e, "exit")}>
           <div id="history">
             <h1>HISTORY</h1>
             <br></br>
-            <Navigation />
             {/* <Sidebar onClick={this.myCallback} />
             <Button className='togglebutton' onClick={this.openNav}>
               <FontAwesomeIcon icon={faAlignLeft} />
