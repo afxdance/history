@@ -100,7 +100,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
             <Button className='togglebutton' onClick={this.openNav}>
               <FontAwesomeIcon icon={faAlignLeft} />
             </Button> */}
-            <Searchbar />
+            {/* <Searchbar /> */}
             <div id="board">
               {board}
             </div>
@@ -109,7 +109,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
             </div>
           </div>
         </div>
-      </div>
+      </div >
     );
   }
 }

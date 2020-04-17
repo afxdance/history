@@ -9,6 +9,8 @@ import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import icon from './afx2.png'
 // import ReactBootstrapStyle from 'react-bootstrap/s;
+import { HistoryNav } from './HistoryNavComponent';
+
 
 export class Navigation extends React.Component<any> {
   public render() {
@@ -20,6 +22,7 @@ export class Navigation extends React.Component<any> {
           <Nav className="button">
             <Button>Search</Button>{' '}
           </Nav>
+          <HistoryNav />
           <Nav className="ml-auto navbar-custom">
             <Nav.Link href="#"><span className="nav-text">About</span></Nav.Link>
             <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
