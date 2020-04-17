@@ -107,7 +107,7 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
     // }
     return (
       <div>
-        <Navigation searchDisplay={this.state.display} onMouseEnter={e => this.toggleSearch(e, "check")} />
+        <Navigation searchDisplay={this.state.display} onMouseEnter={(e: React.MouseEvent<Element, MouseEvent>) => this.toggleSearch(e, "check")} />
         <div id="top">
           <AboutComponent />
         </div>
