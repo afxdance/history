@@ -21,46 +21,64 @@ export class EventsComponent extends React.Component<{}, EventsList> {
   }
 
 
+  /** Make a GET request to load the Fb page data into this.state.events.
+   * Is called before the component is mounted. */
   public loadFbApi() {
     const axios = require("axios");
     const page_id = "100384541604731";
-    const access_token = "EAAW3scDWJpwBAHDKW9gZAQDRZAo8B09bWH7qWUl0whL7t2ZBL1FrX0YXmmWCRfZCMNpmaNrzP0hR4YKAw80cWm0tyR6WXBKTONdYgP6UYnlACaTgROwp5BYZBmlZCQkBRuMq8tB0X0sqZAdKY0C6X5BkRzSJ3Y8rFhw7TirtSwuBUMu0Bh2mTnflUW9abZBvqffOWPH0aYKRqwZDZD";
+    const app_id = "1609348955907740";
+    const app_secret = "5b567ecd38da558922b9d70117f94aaa";
 
-    /** We need to convert the short lived access_token above into a long lived access token,
-     * and then convert that into a never-expiring page access token.
+    /** Converted the short lived access_token above into a long lived access token,
+     * and then converted that into a never-expiring page access token. Need to replace this
+     * page access token with the actual AFX Facebook page access token
     */
+    const access_token = "EAAW3scDWJpwBAC2ZCjqfl5lAcZB6W8ljgQCXdCIJ1ktacymV4E4thxEXGUUBknKWQ8IQE59UHR4vZBdDxy2AGpYZBl07fqSQo1ex6hGfplhZApwL9JKdjsuLHB3XtM5CF6FVzN2158Q9H09ZChoViadSrxVqmkijMUczRyZCPxTV5QiUbCk3AUFHCGZBQtYZB6pb4gd6byldswQZDZD";
+    const defaultLink = "https://www.facebook.com/events/";
+
 
     axios.get("https://graph.facebook.com/" + page_id
       + "/events?access_token=" + access_token)
       .then(response => {
+
 
         var eventsList: any[] = [];
         var eventsCount = 0;
 
         for (let events in response["data"]["data"]) {
           var tempEvent = response["data"]["data"][events];
+          var eventID = defaultLink + tempEvent["id"] + "/";
 
           eventsList.push(
             {
               id: eventsCount,
               title: tempEvent["description"],
               start: new Date(tempEvent["start_time"]),
-              end: new Date(tempEvent["end_time"])
+              end: new Date(tempEvent["end_time"]),
+              link: eventID,
+            });
 
-            }
-          );
           eventsCount += 1;
         }
 
-        /** Extract relevant information from eventsList. */
         this.setState({ events: eventsList });
       });
   }
 
+  public handleSelectEvent(event: object) {
+    console.log(event);
+    window.open(event["link"], "_blank");
+  }
+
+
+
+
+  /** Make a GET request to the Facebook Graph API */
   public componentWillMount() {
     this.loadFbApi();
   }
 
+  /** Render the react-big-calendar. */
   public render() {
     const localizer = momentLocalizer(moment);
 
@@ -72,6 +90,8 @@ export class EventsComponent extends React.Component<{}, EventsList> {
           startAccessor="start"
           endAcessor="end"
           style={{ height: 800 }}
+          onSelectEvent={this.handleSelectEvent}
+          popup
         />
       </div>
     )
