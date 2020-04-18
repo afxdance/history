@@ -580,16 +580,30 @@ button {
   margin-bottom: 40px;
 }
 
+/* ---------------------------------------------------
+    HISTORY NAVBAR STYLE
+----------------------------------------------------- */
+.history-nav {
+  display: inline-block;
+}
+
+/* Search Button */
+
 .search-form {
   position: relative;
   text-align: center;
 }
 
 #search {
-  width: 75vw;
-  margin-left: 150px;
+  /* position: absolute; */
+  width: 25vw;
   height: 35px;
   font-size: medium;
+
+  position: fixed;
+  top: 10vh;
+  z-index: 10;
+  right: 10%;
 }
 
 .search-results {
@@ -627,6 +641,18 @@ button {
   display: block;
   padding-top: 20%;
   padding-left: 45%;
+}
+
+/* Year Form */
+.year-form {
+  width: 25vw;
+  height: 35px;
+  font-size: medium;
+
+  position: fixed;
+  top: 10vh;
+  z-index: 10;
+  left: 10%;
 }
 
 /* ---------------------------------------------------
@@ -780,12 +806,16 @@ li a.dropdown-toggle::after {
 }
 
 .togglebutton {
-  background: #7386D5 !important;
-  width: 2em;
-  height: 2.25em;
+  /* background: #7386D5 !important; */
+  /* width: 2em;
+  height: 2.25em; */
   position: fixed;
-  left: 10px;
-  top: 20px;
+  left: 10%;
+  top: 10vh;
+  z-index: 10;
+  width: 25vw;
+  height: 35px;
+  font-size: medium;
 }
 
 
