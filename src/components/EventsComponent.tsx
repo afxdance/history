@@ -33,7 +33,7 @@ export class EventsComponent extends React.Component<{}, EventsList> {
      * and then converted that into a never-expiring page access token. Need to replace this
      * page access token with the actual AFX Facebook page access token
     */
-    const access_token = "EAAW3scDWJpwBAC2ZCjqfl5lAcZB6W8ljgQCXdCIJ1ktacymV4E4thxEXGUUBknKWQ8IQE59UHR4vZBdDxy2AGpYZBl07fqSQo1ex6hGfplhZApwL9JKdjsuLHB3XtM5CF6FVzN2158Q9H09ZChoViadSrxVqmkijMUczRyZCPxTV5QiUbCk3AUFHCGZBQtYZB6pb4gd6byldswQZDZD";
+    const access_token = "EAAW3scDWJpwBAAmnW9EcXkeXtjFwcSCSQrBUVRpZAwFv8wDbxJiG9398swYCaOa9jQFTDvQVSs2G0y6RXC1QedVoKFbgHBoHwPTc6CpEymj33CHh20ZA4LNO34QziKrpqXeLqa28cwDw8EBZCjV1NtZCVk3GvLSwGvIkd7yQVgZDZD";
     const defaultLink = "https://www.facebook.com/events/";
 
 
