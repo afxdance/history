@@ -25,21 +25,23 @@ export class EventsComponent extends React.Component<{}, EventsList> {
    * Is called before the component is mounted. */
   public loadFbApi() {
     const axios = require("axios");
-    const page_id = "100384541604731";
-    const app_id = "1609348955907740";
-    const app_secret = "5b567ecd38da558922b9d70117f94aaa";
+    const page_id = "172807799490538";
+    const app_id = "276259763376716";
+    const app_secret = "c2024208f3c6593f736870ad530d49a0";
 
     /** Converted the short lived access_token above into a long lived access token,
      * and then converted that into a never-expiring page access token. Need to replace this
      * page access token with the actual AFX Facebook page access token
     */
-    const access_token = "EAAW3scDWJpwBAAmnW9EcXkeXtjFwcSCSQrBUVRpZAwFv8wDbxJiG9398swYCaOa9jQFTDvQVSs2G0y6RXC1QedVoKFbgHBoHwPTc6CpEymj33CHh20ZA4LNO34QziKrpqXeLqa28cwDw8EBZCjV1NtZCVk3GvLSwGvIkd7yQVgZDZD";
+    //const afxAccessToken = "EAAD7Qb0P0kwBAEsaCzkVHYTf0nbZCtMQpvUZBTeiQUjV4ewFmuwRIZBa7ctuPLvnN6rakOldIJfahdWTYID8ivewI3BefV5Em4TAFhCskOWbo1NFXjgVTWjthC6myxmA3CPo0rBwGdtJhZA9WKh8uACmSAm1l0oZCwaJ4KWtLLL5LdvI07Okb";
+    const access_token = "EAAD7Qb0P0kwBAHYwl4Wlk4kEOcnhwXGpDgX0fZCy3fsAY7MZAuAWiwEAJys3WDe1QuimzOUlOgfnW1ZC9EJUz8XmubJUfaeoThVPBm6JZCZAWsIwWYZBD7Uu88x4ZCKBnZCIq8oCfq5Ej561UIO7HLQF2vLFyRlyfZCkzKJFehTKvj4YmX4199PGnv8HFQw2Md0adGOvV86WDCeOxtY4cW1fy";
     const defaultLink = "https://www.facebook.com/events/";
 
 
     axios.get("https://graph.facebook.com/" + page_id
       + "/events?access_token=" + access_token)
       .then(response => {
+        console.log(response);
 
 
         var eventsList: any[] = [];
@@ -52,7 +54,7 @@ export class EventsComponent extends React.Component<{}, EventsList> {
           eventsList.push(
             {
               id: eventsCount,
-              title: tempEvent["description"],
+              title: tempEvent["name"],
               start: new Date(tempEvent["start_time"]),
               end: new Date(tempEvent["end_time"]),
               link: eventID,
@@ -91,7 +93,7 @@ export class EventsComponent extends React.Component<{}, EventsList> {
           endAcessor="end"
           style={{ height: 800 }}
           onSelectEvent={this.handleSelectEvent}
-          popup
+          popup={true}
         />
       </div>
     )
