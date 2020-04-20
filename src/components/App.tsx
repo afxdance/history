@@ -95,7 +95,7 @@ export class App extends React.Component<{}, { semKey: string; type: string }> {
           <div id="history">
             <h1>HISTORY</h1>
             <br></br>
-            <Navigation />
+            <Navigation callback={this.myCallback} />
             {/* <Sidebar onClick={this.myCallback} />
             <Button className='togglebutton' onClick={this.openNav}>
               <FontAwesomeIcon icon={faAlignLeft} />

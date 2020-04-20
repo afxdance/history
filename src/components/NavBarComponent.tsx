@@ -11,28 +11,37 @@ import icon from './afx2.png'
 // import ReactBootstrapStyle from 'react-bootstrap/s;
 import { HistoryNav } from './HistoryNavComponent';
 
+export interface Navigation {
+  callback: Function;
+}
 
-export class Navigation extends React.Component<any> {
+export class Navigation extends React.Component<{
+
+  callback: Function;
+}>
+{
   public render() {
     return (
-      <Navbar collapseOnSelect fixed="top" className="navbar-custom" expand="lg">
-        <Navbar.Brand href="#"><span className="nav-text">AFX Dance</span></Navbar.Brand>
-        {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="button">
-            <Button>Search</Button>{' '}
-          </Nav>
-          <HistoryNav />
-          <Nav className="ml-auto navbar-custom">
-            <Nav.Link href="#"><span className="nav-text">About</span></Nav.Link>
-            <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
-              <NavDropdown.Item href="#"><span className="nav-dropdown">Executive Board</span></NavDropdown.Item>
-              <NavDropdown.Item href="#"><span className="nav-dropdown">Teams</span></NavDropdown.Item>
-            </NavDropdown>
-            <Nav.Link href="#middle"><span className="nav-text">Events</span></Nav.Link>
-          </Nav>
-        </Navbar.Collapse >
-      </Navbar >
+      <div id="big-nav">
+        <Navbar collapseOnSelect fixed="top" className="navbar-custom" expand="lg" >
+          <Navbar.Brand href="#"><span className="nav-text">AFX Dance</span></Navbar.Brand>
+          {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
+          <Navbar.Collapse id="basic-navbar-nav">
+            <Nav className="button">
+              <Button>Search</Button>{' '}
+            </Nav>
+            <Nav className="ml-auto navbar-custom">
+              <Nav.Link href="#"><span className="nav-text">About</span></Nav.Link>
+              <NavDropdown alignRight title={<span className="nav-text">People</span>} id="nav-dropdown">
+                <NavDropdown.Item href="#"><span className="nav-dropdown">Executive Board</span></NavDropdown.Item>
+                <NavDropdown.Item href="#"><span className="nav-dropdown">Teams</span></NavDropdown.Item>
+              </NavDropdown>
+              <Nav.Link href="#middle"><span className="nav-text">Events</span></Nav.Link>
+            </Nav>
+          </Navbar.Collapse >
+        </Navbar >
+        <HistoryNav OnClick={this.props.callback} />
+      </div >
     );
   }
 }
