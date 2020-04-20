@@ -68,11 +68,17 @@ export class EventsComponent extends React.Component<{}, EventsList> {
   }
 
   public handleSelectEvent(event: object) {
-    console.log(event);
+
     window.open(event["link"], "_blank");
   }
 
-
+  public Event(event) {
+    return (
+      <div>
+        {event.title}
+      </div>
+    );
+  }
 
 
   /** Make a GET request to the Facebook Graph API */
@@ -93,7 +99,7 @@ export class EventsComponent extends React.Component<{}, EventsList> {
           endAcessor="end"
           style={{ height: 800 }}
           onSelectEvent={this.handleSelectEvent}
-          popup={true}
+
         />
       </div>
     )
