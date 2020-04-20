@@ -376,7 +376,7 @@ strong {
 .HoverWrapper {
   position: relative;
   display: inline-block;
-  transition: all 1s 1s;
+  transition: all 0.5s 0.5s;
 }
 .HoverWrapper-content {
     text-align: center;
@@ -390,7 +390,7 @@ strong {
     background-color: rgba(0, 0, 0, 0.8);
     opacity: 0;
     visibility: hidden;
-    transition: visibility 0s, opacity 1.5s ease-in;
+    transition: visibility 0s, opacity 1.0s ease-in;
   }
 
 /* @media screen and (max-width: 682px) {
@@ -584,7 +584,13 @@ button {
     HISTORY NAVBAR STYLE
 ----------------------------------------------------- */
 .history-nav {
-  display: inline-block;
+  display: block;
+  background-color:black;
+  position: relative;
+  width: 100vw;
+  margin: 0px;
+  top: 5vh;
+  z-index: 3;
 }
 
 /* Search Button */
@@ -648,11 +654,22 @@ button {
   width: 25vw;
   height: 35px;
   font-size: medium;
-
   position: fixed;
   top: 10vh;
   z-index: 10;
   left: 10%;
+}
+
+/* Semester Form*/
+.sem-form {
+  width: 25vw;
+  height: 35px;
+  font-size: medium;
+  position: fixed;
+  top: 10vh;
+  z-index: 10;
+  left: 50%;
+  transform:translateX(-50%);
 }
 
 /* ---------------------------------------------------

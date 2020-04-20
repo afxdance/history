@@ -108,9 +108,9 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
     let normalNav: any = [];
     let historyNav: any = [];
     if (this.state.display) {
-      historyNav.push(<Navigation searchDisplay={this.state.display} />);
+      historyNav.push(<Navigation searchDisplay={this.state.display} callback={this.myCallback} />);
     } else {
-      normalNav.push(<Navigation searchDisplay={this.state.display} />);
+      normalNav.push(<Navigation searchDisplay={this.state.display} callback={this.myCallback} />);
     }
     return (
       <div>
