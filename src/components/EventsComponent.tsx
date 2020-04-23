@@ -34,7 +34,11 @@ export class EventsComponent extends React.Component<{}, EventsList> {
      * page access token with the actual AFX Facebook page access token
     */
     //const afxAccessToken = "EAAD7Qb0P0kwBAEsaCzkVHYTf0nbZCtMQpvUZBTeiQUjV4ewFmuwRIZBa7ctuPLvnN6rakOldIJfahdWTYID8ivewI3BefV5Em4TAFhCskOWbo1NFXjgVTWjthC6myxmA3CPo0rBwGdtJhZA9WKh8uACmSAm1l0oZCwaJ4KWtLLL5LdvI07Okb";
-    const access_token = "EAAD7Qb0P0kwBAHYwl4Wlk4kEOcnhwXGpDgX0fZCy3fsAY7MZAuAWiwEAJys3WDe1QuimzOUlOgfnW1ZC9EJUz8XmubJUfaeoThVPBm6JZCZAWsIwWYZBD7Uu88x4ZCKBnZCIq8oCfq5Ej561UIO7HLQF2vLFyRlyfZCkzKJFehTKvj4YmX4199PGnv8HFQw2Md0adGOvV86WDCeOxtY4cW1fy";
+    //const access_token = "EAAD7Qb0P0kwBAHYwl4Wlk4kEOcnhwXGpDgX0fZCy3fsAY7MZAuAWiwEAJys3WDe1QuimzOUlOgfnW1ZC9EJUz8XmubJUfaeoThVPBm6JZCZAWsIwWYZBD7Uu88x4ZCKBnZCIq8oCfq5Ej561UIO7HLQF2vLFyRlyfZCkzKJFehTKvj4YmX4199PGnv8HFQw2Md0adGOvV86WDCeOxtY4cW1fy";
+
+    /** this token, according to the debugger, should never expire*/
+    const access_token = "EAAD7Qb0P0kwBALdd4bxvgiRn0e2L3ixwpdwJXlOdpe2FWZCcONc95xVBX0YmVLXRAgyjxAwB2YOk38TBI8xn8nkZBvWrcJRJl9hnCiR8bT1cB8x2ZBcqCPwtyn2SCoKjA7ufneuzZBotor8ILFfZBBJtXZB9UR20q2gMQgD7nFycEUoqfow3ft";
+
     const defaultLink = "https://www.facebook.com/events/";
 
 
