@@ -17,6 +17,7 @@ import { faAlignLeft } from '@fortawesome/free-solid-svg-icons';
 import { render } from "react-dom";
 import { type } from "os";
 import { Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import Nav from 'react-bootstrap/Nav';
 
 export interface HistoryNav {
   OnClick: Function;
@@ -116,9 +117,9 @@ export class HistoryNav extends React.Component<{ OnClick: Function; }, { semKey
     }
 
     return (
-      <div className="history-nav" >
+      <div>
         <div className="year-form">
-          <Form>
+          <Form inline>
             <FormGroup>
               <Input type="select" name="select" id="exampleSelect" onChange={(e) => this.displaySems(e)}>
                 {yearLinks}
@@ -127,14 +128,14 @@ export class HistoryNav extends React.Component<{ OnClick: Function; }, { semKey
           </Form>
         </div>
         <div className="sem-form">
-          <Form>
+          <Form inline>
             {this.state.sems}
           </Form>
         </div>
         <div className="search-button">
           <Searchbar />
         </div>
-      </div >
+      </div>
     );
   }
 }

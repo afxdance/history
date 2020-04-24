@@ -65,7 +65,8 @@ export class Navigation extends React.Component<{ searchDisplay: any; callback: 
             </Nav>
           </Navbar.Collapse >
         </Navbar >
-        <div className="history-nav" style={{ display: this.state.displayHistory ? '' : 'none' }}>
+        <br></br>
+        <div style={{ display: this.state.displayHistory ? '' : 'none' }}>
           {historyNav}
         </div>
       </div >

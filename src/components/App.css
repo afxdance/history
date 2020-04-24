@@ -591,6 +591,7 @@ button {
   margin: 0px;
   top: 5vh;
   z-index: 3;
+  overflow: hidden;
 }
 
 /* Search Button */
