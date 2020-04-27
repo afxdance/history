@@ -16,8 +16,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAlignLeft } from '@fortawesome/free-solid-svg-icons';
 import { render } from "react-dom";
 import { type } from "os";
-import { Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import { FormGroup, Label, Input, FormText } from 'reactstrap';
 import Nav from 'react-bootstrap/Nav';
+import Form from 'react-bootstrap/Form';
 
 export interface HistoryNav {
   OnClick: Function;
@@ -52,7 +53,7 @@ export class HistoryNav extends React.Component<{ OnClick: Function; }, { semKey
   displaySems(e: any) {
     let curYear: Year = AFX.Years[e.target.value];
     let semButtons: any = [];
-    semButtons.push(<p>Select a semester</p>)
+    semButtons.push(<span className="nav-text">Select a semester</span>)
     for (let semKey of curYear.semCodename) {
       let semester: Semester = AFX.Semesters[semKey];
       let suffix: string = semester.codename.slice(-1);
@@ -70,12 +71,10 @@ export class HistoryNav extends React.Component<{ OnClick: Function; }, { semKey
         semName = "Fall " + semester.codename.slice(0, -1);
       }
       semButtons.push(
-        <FormGroup check>
-          <Label check>
-            <Input type="radio" name="sem-button" onClick={() => this.update(semKey)} /> {' '}
-            <span className="nav-text">{semName}</span>
-          </Label>
-        </FormGroup>
+        <Form.Check type="radio">
+          <Form.Check.Input type="radio" name="sem-button" onChange={() => this.update(semKey)}/>
+          <Form.Check.Label><span className="nav-text">{semName}</span></Form.Check.Label>
+        </Form.Check>
       )
     }
     this.setState(
@@ -117,23 +116,23 @@ export class HistoryNav extends React.Component<{ OnClick: Function; }, { semKey
     }
 
     return (
-      <div>
-        <div className="year-form">
-          <Form inline>
-            <FormGroup>
-              <Input type="select" name="select" id="exampleSelect" onChange={(e) => this.displaySems(e)}>
-                {yearLinks}
-              </Input>
-            </FormGroup>
-          </Form>
-        </div>
-        <div className="sem-form">
-          <Form inline>
-            {this.state.sems}
-          </Form>
-        </div>
-        <div className="search-button">
-          <Searchbar />
+      <div className="history-nav">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm">
+              <FormGroup>
+                <Input type="select" name="select" id="exampleSelect" onChange={(e) => this.displaySems(e)}>
+                  {yearLinks}
+                </Input>
+              </FormGroup>
+            </div>
+            <div className="col-sm">
+              {this.state.sems}
+            </div>
+            <div className="col-sm">
+              <Searchbar />
+            </div>
+          </div>
         </div>
       </div>
     );

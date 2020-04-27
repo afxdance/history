@@ -586,12 +586,12 @@ button {
 .history-nav {
   display: block;
   background-color:black;
-  position: relative;
   width: 100vw;
   margin: 0px;
-  top: 5vh;
-  z-index: 3;
   overflow: hidden;
+  position: fixed;
+  top: 10vh;
+  z-index: 10;
 }
 
 /* Search Button */
@@ -606,11 +606,8 @@ button {
   width: 25vw;
   height: 35px;
   font-size: medium;
-
-  position: fixed;
-  top: 10vh;
-  z-index: 10;
   right: 10%;
+  display: inline;
 }
 
 .search-results {
@@ -655,10 +652,8 @@ button {
   width: 25vw;
   height: 35px;
   font-size: medium;
-  position: fixed;
-  top: 10vh;
-  z-index: 10;
   left: 10%;
+  display: inline;
 }
 
 /* Semester Form*/
@@ -666,11 +661,9 @@ button {
   width: 25vw;
   height: 35px;
   font-size: medium;
-  position: fixed;
-  top: 10vh;
-  z-index: 10;
   left: 50%;
   transform:translateX(-50%);
+  display: inline;
 }
 
 /* ---------------------------------------------------
@@ -873,4 +866,16 @@ li a.dropdown-toggle::after {
 #infoDiv {
   display: none;
   font-size: 16px;
+}
+
+.no-Search .s-button {
+  display: none;
+}
+
+.no-Search .history-nav {
+  display: none;
+}
+
+.form-group {
+  margin-top: 10px;
 }

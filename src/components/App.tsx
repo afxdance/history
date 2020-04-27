@@ -34,25 +34,42 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
       display: false,
     };
     this.toggleSearch = this.toggleSearch.bind(this);
+    this.checkHistory = this.checkHistory.bind(this);
     this.navRef = React.createRef();
   }
 
-  toggleSearch(e: React.MouseEvent, type: String) {
+  componentDidMount() {
+    window.addEventListener('scroll', this.checkHistory);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.checkHistory);
+  }
+
+  checkHistory() {
+    let windowHeight = window.innerHeight;
+    var history = document.getElementById("bottom")?.getBoundingClientRect();
+    let historyTop = 0;
+    if (history != null) {
+      historyTop = history.top;
+    }
+    if (historyTop <= 0 && this.state.display == false) {
+      this.toggleSearch("enter");
+    } else if (historyTop > 0 && this.state.display == true) {
+      this.toggleSearch("exit");
+    }
+  }
+
+  toggleSearch(type: String) {
     if (type === "enter") {
       this.setState({
         display: true,
       })
     }
     else if (type === "exit") {
-      // Only removes display state if user is still in window
-      // console.log("Mouse coords: ", e.screenX, e.screenY);
-      // console.log("Window coords: ", window.innerWidth, window.innerHeight);
-      if ((e.screenX >= 0 && e.screenX <= window.innerWidth) &&
-        (e.screenY >= 0 && e.screenY <= window.innerHeight)) {
-        this.setState({
-          display: false,
-        })
-      }
+      this.setState({
+        display: false,
+      })
     }
   }
 
@@ -84,9 +101,7 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
         sidebar.style.marginLeft = "0px";
         doc.style.marginLeft = "250px";
         doc.style.width = "calc(100%-250px)";
-
       }
-
     }
   };
 
@@ -105,16 +120,18 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
       // TODO: TeamsComponent, renaming things, string[] mess
     }
 
-    let normalNav: any = [];
-    let historyNav: any = [];
-    if (this.state.display) {
-      historyNav.push(<Navigation searchDisplay={this.state.display} callback={this.myCallback} />);
-    } else {
-      normalNav.push(<Navigation searchDisplay={this.state.display} callback={this.myCallback} />);
-    }
+    // let normalNav: any = [];
+    // let historyNav: any = [];
+    // if (this.state.display) {
+    //   historyNav.push(<Navigation searchDisplay={this.state.display} callback={this.myCallback} />);
+    // } else {
+    //   normalNav.push(<Navigation searchDisplay={this.state.display} callback={this.myCallback} />);
+    // }
     return (
       <div>
-        {normalNav}
+        <div className={this.state.display ? "show-Search" : "no-Search"}>
+          <Navigation callback={this.myCallback} />
+        </div>
         <div id="top">
           <AboutComponent />
         </div>
@@ -124,8 +141,7 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
             <br></br>
           </div>
         </div>
-        <div id="bottom" onMouseEnter={e => this.toggleSearch(e, "enter")} onMouseLeave={e => this.toggleSearch(e, "exit")}>
-          {historyNav}
+        <div id="bottom">
           <div id="history">
             <h1>HISTORY</h1>
             <br></br>
