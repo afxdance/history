@@ -6,11 +6,20 @@ import "react-big-calendar/lib/css/react-big-calendar.css";
 import 'react-big-calendar/lib/sass/styles.scss';
 
 
+/** The EventsComponent interface. The state of
+ * EventsComponent is comprised of a single list that stores
+ * event objects.
+ */
 type EventsList = {
   events: any[]
 }
 
-
+/**
+ * A component that renders a React Big Calendar that displays events posted on
+ * the AFX Official Facebook page. Makes a single GET request using the Axios API
+ * and FB Graph API to retrieve event information directly from the page.
+ * Displays events according to their title and starting/ending time.
+ *  */
 export class EventsComponent extends React.Component<{}, EventsList> {
   constructor(props: any) {
     super(props);
@@ -20,33 +29,28 @@ export class EventsComponent extends React.Component<{}, EventsList> {
     };
   }
 
+  /** Invoked just before mounting occurs. Called before render.  */
+  public componentWillMount() {
+    this.loadFbApi();
+  }
 
-  /** Make a GET request to load the Fb page data into this.state.events.
-   * Is called before the component is mounted. */
+  /** Make a GET request to load the Fb page data into this.state.events. */
   public loadFbApi() {
     const axios = require("axios");
     const page_id = "172807799490538";
-    const app_id = "276259763376716";
-    const app_secret = "c2024208f3c6593f736870ad530d49a0";
 
-    /** Converted the short lived access_token above into a long lived access token,
-     * and then converted that into a never-expiring page access token. Need to replace this
-     * page access token with the actual AFX Facebook page access token
+
+    /** This token, according to the debugger, should never expire.
+     * If the token does not work, debug with https://developers.facebook.com/tools/debug/accesstoken
     */
-    //const afxAccessToken = "EAAD7Qb0P0kwBAEsaCzkVHYTf0nbZCtMQpvUZBTeiQUjV4ewFmuwRIZBa7ctuPLvnN6rakOldIJfahdWTYID8ivewI3BefV5Em4TAFhCskOWbo1NFXjgVTWjthC6myxmA3CPo0rBwGdtJhZA9WKh8uACmSAm1l0oZCwaJ4KWtLLL5LdvI07Okb";
-    //const access_token = "EAAD7Qb0P0kwBAHYwl4Wlk4kEOcnhwXGpDgX0fZCy3fsAY7MZAuAWiwEAJys3WDe1QuimzOUlOgfnW1ZC9EJUz8XmubJUfaeoThVPBm6JZCZAWsIwWYZBD7Uu88x4ZCKBnZCIq8oCfq5Ej561UIO7HLQF2vLFyRlyfZCkzKJFehTKvj4YmX4199PGnv8HFQw2Md0adGOvV86WDCeOxtY4cW1fy";
-
-    /** this token, according to the debugger, should never expire*/
-    const access_token = "EAAD7Qb0P0kwBALdd4bxvgiRn0e2L3ixwpdwJXlOdpe2FWZCcONc95xVBX0YmVLXRAgyjxAwB2YOk38TBI8xn8nkZBvWrcJRJl9hnCiR8bT1cB8x2ZBcqCPwtyn2SCoKjA7ufneuzZBotor8ILFfZBBJtXZB9UR20q2gMQgD7nFycEUoqfow3ft";
-
+    const access_token = atob(process.env.REACT_APP_FB_KEY);
     const defaultLink = "https://www.facebook.com/events/";
 
 
+    /** Make GET request and store information in this component's state. */
     axios.get("https://graph.facebook.com/" + page_id
       + "/events?access_token=" + access_token)
       .then(response => {
-        console.log(response);
-
 
         var eventsList: any[] = [];
         var eventsCount = 0;
@@ -71,24 +75,13 @@ export class EventsComponent extends React.Component<{}, EventsList> {
       });
   }
 
+  /** Event-handling function that is called when a user
+   * clicks on an event.
+   */
   public handleSelectEvent(event: object) {
-
     window.open(event["link"], "_blank");
   }
 
-  public Event(event) {
-    return (
-      <div>
-        {event.title}
-      </div>
-    );
-  }
-
-
-  /** Make a GET request to the Facebook Graph API */
-  public componentWillMount() {
-    this.loadFbApi();
-  }
 
   /** Render the react-big-calendar. */
   public render() {
@@ -103,7 +96,6 @@ export class EventsComponent extends React.Component<{}, EventsList> {
           endAcessor="end"
           style={{ height: 800 }}
           onSelectEvent={this.handleSelectEvent}
-
         />
       </div>
     )
