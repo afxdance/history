@@ -21,12 +21,22 @@ export class SingleTeamComponent extends React.Component<any> {
           <div className="director">
             <h6>{directorPerson.name}</h6>
             <HoverWrapperComponent pp={pp}>
-              <img
-                className="board--img"
-                src={pp.picture[0].thumbnails.large.url}
-                width="200px"
-                height="200px"
-              />
+              {pp.picture ? (
+                <img
+                  className="board--img"
+                  src={pp.picture[0].thumbnails.large.url}
+                  width="200px"
+                  height="200px"
+                />
+              ) : (
+                <img
+                  className="board--img"
+                  src="afx2.png"
+                  width="200px"
+                  height="200px"
+                  style={{ opacity: 0.3 }}
+                />
+              )}
               &nbsp;&nbsp;&nbsp;
             </HoverWrapperComponent>
           </div>
@@ -56,20 +66,20 @@ export class SingleTeamComponent extends React.Component<any> {
             src={team.teamPicture[0].thumbnails.large.url}
           />
         ) : (
-            <img
-              className="team--img"
-              src="afx2.png"
-              height={200}
-              style={{ opacity: 0.3 }}
-            />
-          )}
+          <img
+            className="team--img"
+            src="afx2.png"
+            height={200}
+            style={{ opacity: 0.3 }}
+          />
+        )}
 
         {/* {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined} */}
 
         <div className="team--directors">
-          <br></br>
+          <br />
           <h3>Directors</h3>
-          {directorsList}
+          <div className="director--list">{directorsList}</div>
         </div>
 
         {team.videoUrl ? (
@@ -81,8 +91,8 @@ export class SingleTeamComponent extends React.Component<any> {
             }
           </div>
         ) : (
-            undefined
-          )}
+          undefined
+        )}
         <div id="team--triangle" />
       </div>
     );

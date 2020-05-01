@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Semester } from "src/data/types";
 import * as AFX from "src/data/data";
+import { Button } from "reactstrap";
 
 export interface SemLinkComponent {
   semester: string;
@@ -16,8 +17,11 @@ export class SemLinkComponent extends React.Component<{
   // This way we can render the correct semester on the page. Yay!
   public click() {
     this.props.onClick(this.props.semester);
-    const myElement = document.getElementById('top')!;
-    myElement.scrollIntoView();
+    var elem: HTMLElement | null = document.getElementById("bottom");
+    if (elem) {
+      var topPos = elem.offsetTop;
+      window.scrollTo(0, topPos);
+    }
   }
 
   public render() {
@@ -43,12 +47,13 @@ export class SemLinkComponent extends React.Component<{
     // or the component calling the method. As a result, you have to bind "this" to the method
     // explicitly. Do this with this.methodName.bind(this) like below.
     return (
-      <div>
-        <a className="menu-item" onClick={this.click.bind(this)}>
-          {semName}
-        </a>
-        <br />
-      </div>
+      <Button
+        className="sem-button"
+        // href="#bottom"
+        onClick={this.click.bind(this)}
+      >
+        {semName}
+      </Button>
     );
   }
 }
