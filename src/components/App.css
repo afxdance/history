@@ -4,6 +4,7 @@ body {
   font-size: 72%;
   background: #fff;
   color: #323537;
+  overflow-x: hidden;
 }
 
 .navbar-custom, .dropdown {
@@ -70,7 +71,7 @@ Link {
 
 #history, #about {
   background-color: white;
-  text-align: center;
+  text-align: center;s
   z-index: 2;
   padding-top: 40px;
   padding-bottom: 20px;
@@ -198,10 +199,10 @@ strong {
 
 .teams {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #5560ff;
+  background-color: #f1f1f1;
   padding-bottom: 16px;
   margin-bottom: 48px;
 }
@@ -215,38 +216,59 @@ strong {
 }
 
 .team--single {
-  background-color: #7999d1;
+  /* display: inline; */
+  background-color: #ffffff;
   color: #ffffff;
   padding: 20px;
-  margin: 5px 5px 0px 0px;
+  margin: 5px 0 0 0;
   flex: 1;
   min-width: 400px;
   min-height: 250px;
-  border-color: #3b5998;
+  border-color: #f1f1f1;
   border-style: solid;
   border-bottom-width: 0px;
   border-top-width: 0px;
-  border-right-width: 2px;
+  border-right-width: 0px;
   border-left-width: 0px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
 }
 
 .team--name {
   font-size: 20px;
-  color: #ffffff;
+  color: black;
+  text-align: center;
+  background-color: #f1f1f1;
+  width: 600px;
+  margin: 16px;
+}
+
+.directors{
+  font-size: 20px;
+  color: #000000;
   text-align: center;
 }
 
 .team--directors {
   font-size: 16px;
-  color: #dddddd;
+  color: black;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.team--list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 .team--img {
-  max-width: 400px;
-  max-height: 250px;
+  object-fit: cover;
+  width: 600px;
+  height: 375px;
   margin: 16px;
   filter: drop-shadow(4px 4px 0px #111111);
   opacity: 0.9;
@@ -376,7 +398,7 @@ strong {
 .HoverWrapper {
   position: relative;
   display: inline-block;
-  transition: all 0.5s 0.5s;
+  transition: all 1.0s 1.0s;
 }
 .HoverWrapper-content {
     text-align: center;
@@ -670,6 +692,7 @@ button {
   z-index: 10;
   left: 50%;
   transform:translateX(-50%);
+  color: black;
 }
 
 /* ---------------------------------------------------
@@ -700,7 +723,7 @@ button {
 }
 
 .sidebar-header h3{
-  color: #fff;
+  color: #ddd;
   padding: 1em;
   padding-top: 1.7em;
   padding-left: 1.6em;
