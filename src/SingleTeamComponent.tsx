@@ -21,12 +21,22 @@ export class SingleTeamComponent extends React.Component<any> {
           <div className="director">
             <h6>{directorPerson.name}</h6>
             <HoverWrapperComponent pp={pp}>
-              <img
-                className="board--img"
-                src={pp.picture[0].thumbnails.large.url}
-                width="200px"
-                height="200px"
-              />
+              {pp.picture ? (
+                <img
+                  className="board--img"
+                  src={pp.picture[0].thumbnails.large.url}
+                  width="200px"
+                  height="200px"
+                />
+              ) : (
+                  <img
+                    className="board--img"
+                    src="afx2.png"
+                    width="200px"
+                    height="200px"
+                    style={{ opacity: 0.3 }}
+                  />
+                )}
               &nbsp;&nbsp;&nbsp;
             </HoverWrapperComponent>
           </div>

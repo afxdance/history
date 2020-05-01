@@ -2,7 +2,7 @@ import * as React from "react";
 import { Year } from "src/data/types";
 import * as AFX from "src/data/data";
 import { SemLinkComponent } from "./SemLinkComponent";
-import { NavItem, NavLink, Collapse } from 'reactstrap'
+import { NavItem, NavLink, Collapse } from "reactstrap";
 
 export interface YearCollapsibleComponent {
   year: string;
@@ -16,7 +16,7 @@ export class YearCollapsibleComponent extends React.Component<
     onClick: Function;
   },
   { show: boolean }
-  > {
+> {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -61,8 +61,6 @@ export class YearCollapsibleComponent extends React.Component<
   //   }
   // }
 
-
-
   public render() {
     let curYear: Year = AFX.Years[this.props.year];
     let name: string = curYear.Name;
@@ -76,26 +74,27 @@ export class YearCollapsibleComponent extends React.Component<
       );
     }
 
-
     console.log(this.state.show);
 
     return (
       <div className="yearItem">
-        <NavItem onClick={this.click.bind(this)} >
-          <NavLink className='dropdown-toggle' style={{ fontFamily: "Lato", cursor: 'pointer' }}>
+        <NavItem onClick={this.click.bind(this)}>
+          <NavLink
+            className="dropdown-toggle"
+            style={{ fontFamily: "Lato", cursor: "pointer" }}
+          >
             {name}
           </NavLink>
         </NavItem>
 
-
-        <Collapse isOpen={this.state.show} >
+        <Collapse isOpen={this.state.show}>
           {semLinks.map((semLink, index) => (
-            <NavItem key={index} className='pl-4'>
+            <NavItem key={index} className="pl-4">
               {semLink}
             </NavItem>
           ))}
         </Collapse>
-      </div >
+      </div>
     );
   }
 }
