@@ -21,12 +21,22 @@ export class SingleTeamComponent extends React.Component<any> {
           <div className="director">
             <h6>{directorPerson.name}</h6>
             <HoverWrapperComponent pp={pp}>
-              <img
-                className="board--img"
-                src={pp.picture[0].thumbnails.large.url}
-                width="200px"
-                height="200px"
-              />
+              {pp.picture ? (
+                <img
+                  className="board--img"
+                  src={pp.picture[0].thumbnails.large.url}
+                  width="200px"
+                  height="200px"
+                />
+              ) : (
+                  <img
+                    className="board--img"
+                    src="afx2.png"
+                    width="200px"
+                    height="200px"
+                    style={{ opacity: 0.3 }}
+                  />
+                )}
               &nbsp;&nbsp;&nbsp;
             </HoverWrapperComponent>
           </div>
@@ -48,43 +58,50 @@ export class SingleTeamComponent extends React.Component<any> {
     // return a single team element with optional picture displays and video links
     return (
       <div className={"team--single"}>
-        <div className="team--name">{team.name}</div>
+        <div className="team--left">
+          <div className="team--name">{team.name}</div>
 
-        {team.teamPicture ? (
-          <img
-            className="team--img"
-            src={team.teamPicture[0].thumbnails.large.url}
-          />
-        ) : (
-            <img
-              className="team--img"
-              src="afx2.png"
-              height={200}
-              style={{ opacity: 0.3 }}
-            />
-          )}
-
+          {
+            team.teamPicture ? (
+              <img
+                className="team--img"
+                src={team.teamPicture[0].thumbnails.large.url}
+              />
+            ) : (
+                <img
+                  className="team--img"
+                  src="afx2.png"
+                  height={200}
+                  style={{ opacity: 0.3 }}
+                />
+              )
+          }
+        </div>
         {/* {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined} */}
 
         <div className="team--directors">
+          <div className="director">
+            Directors
+          </div>
           <br></br>
-          <h3>Directors</h3>
-          {directorsList}
+          <div className="team--list"> {directorsList}</div>
         </div>
 
-        {team.videoUrl ? (
-          <div>
-            {
-              <a className="video--link" href={team.videoUrl} target="_blank">
-                Watch {team.name} on YouTube
+        {
+          team.videoUrl ? (
+            <div>
+              {
+                <a className="video--link" href={team.videoUrl} target="_blank">
+                  Watch {team.name} on YouTube
               </a>
-            }
-          </div>
-        ) : (
-            undefined
-          )}
+              }
+            </div>
+          ) : (
+              undefined
+            )
+        }
         <div id="team--triangle" />
-      </div>
+      </div >
     );
   }
 }

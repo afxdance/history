@@ -42,11 +42,14 @@ export class TeamsComponent extends React.Component<any> {
     return (
       <div id="allteams">
         <div className="semester--title">{dateStr}</div>
-        <div id="trainingteams" className="board-team--title">Training Teams</div>
+        <div id="trainingteams" className="board-team--title anchor">
+          Training Teams
+        </div>
         <div className="teams">{trainingTeamComponents}</div>
-        <p id="big-link"><a href="#top"> Back to Top </a></p>
 
-        <div id="projectteams" className="board-team--title">Project Teams</div>
+        <div id="projectteams" className="board-team--title">
+          Project Teams
+        </div>
         <div className="teams">{projectTeamComponents}</div>
       </div>
     );
