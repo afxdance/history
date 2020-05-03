@@ -42,6 +42,10 @@ html {
   width: 100%;
 }
 
+.popup-content {
+  overflow: scroll
+}
+
 /* a.nav-link:active {
   color: grey !important;
   background-color: black !important;
