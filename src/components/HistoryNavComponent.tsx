@@ -29,7 +29,7 @@ export interface HistoryNav {
 export class HistoryNav extends React.Component<
   { OnClick: Function },
   { type: string; sems: any }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -51,7 +51,7 @@ export class HistoryNav extends React.Component<
   }
 
   public render() {
-    let yearLinks = [];
+    let yearLinks: object[] = [];
     yearLinks.push(<option>Select a year</option>);
     for (let year of Object.keys(AFX.Years)) {
       let curYear: Year = AFX.Years[year];

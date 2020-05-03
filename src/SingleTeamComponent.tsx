@@ -18,6 +18,7 @@ export class SingleTeamComponent extends React.Component<any> {
           Data.PersonPositions[directorKey].personIds[0];
         let directorPerson: Person = Data.People[dirPersonKey];
         directorsList.push(
+          pp.picture ?
           <div className="director">
             <h6>{directorPerson.name}</h6>
             <HoverWrapperComponent pp={pp}>
@@ -39,7 +40,19 @@ export class SingleTeamComponent extends React.Component<any> {
                 )}
               &nbsp;&nbsp;&nbsp;
             </HoverWrapperComponent>
-          </div>
+          </div> :
+          <div className="director">
+          <h6>{directorPerson.name}</h6>
+          <HoverWrapperComponent pp={pp}>
+            <img
+              className="board--img"
+              src={"https://i.imgur.com/4qcFzdm.png"}
+              width="200px"
+              height="200px"
+            />
+            &nbsp;&nbsp;&nbsp;
+          </HoverWrapperComponent>
+        </div>
         );
 
         // for the last director, don't add the comma

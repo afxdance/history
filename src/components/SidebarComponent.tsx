@@ -6,11 +6,17 @@ import { SemLinkComponent } from "./SemLinkComponent";
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent";
 
 //New Imports (for now)
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faBriefcase, faPaperPlane, faQuestion, faImage, faCopy } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faHome,
+  faBriefcase,
+  faPaperPlane,
+  faQuestion,
+  faImage,
+  faCopy,
+} from "@fortawesome/free-solid-svg-icons";
 import "./App.css"; //imported to access specifications for sidebar
-import { NavItem, NavLink, Nav } from 'reactstrap';
-
+import { NavItem, NavLink, Nav } from "reactstrap";
 
 // Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
@@ -18,20 +24,16 @@ export interface Sidebar {
   closed: boolean;
 }
 
-
 export class Sidebar extends React.Component<
   { onClick: Function },
   { closed: boolean }
-  > {
-
-
+> {
   constructor(props: any) {
     super(props);
     this.state = {
       closed: false,
     };
   }
-
 
   //Use state in order to have the menu disappear when the close button is pushed
   // public close() {
@@ -42,7 +44,7 @@ export class Sidebar extends React.Component<
 
   public render() {
     // We first iterate through all the years and push the components into the list.
-    let yearLinks = [];
+    let yearLinks: any = [];
     for (let year of Object.keys(AFX.Years)) {
       yearLinks.push(
         // We have the onclick function passed through the Sidebar component to be sent to the year component.
@@ -57,22 +59,20 @@ export class Sidebar extends React.Component<
     return (
       <div id="sidebar" className="sidebar">
         <div className="sidebar-header">
-          <span color="info" style={{ color: '#fff' }}>&times;</span>
-          <h3 className='sidebar-header-text'>AFX History</h3>
+          <span color="info" style={{ color: "#fff" }}>
+            &times;
+          </span>
+          <h3 className="sidebar-header-text">AFX History</h3>
         </div>
         <div className="side-menu">
           <Nav vertical className="list-unstyled pb-3">
-            <ul style={{ listStyleType: 'none', padding: 0 }}>
-              {yearLinks}
-            </ul>
+            <ul style={{ listStyleType: "none", padding: 0 }}>{yearLinks}</ul>
             {/* <Menu>
               {yearLinks}
             </Menu> */}
           </Nav>
         </div>
-      </div >
-
-
+      </div>
 
       // <Menu>
       //   <h3 className="menuTitle">Years</h3>

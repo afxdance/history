@@ -11,8 +11,9 @@ import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
 import { Button } from "reactstrap";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAlignLeft } from '@fortawesome/free-solid-svg-icons';
+import { EventsComponent } from "./EventsComponent";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faAlignLeft } from "@fortawesome/free-solid-svg-icons";
 import { render } from "react-dom";
 import { type } from "os";
 import { HistoryNav } from './HistoryNavComponent';
@@ -109,6 +110,7 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
         <div id="middle" className="anchor">
           <div id="events">
             <h1>EVENTS</h1>
+            <EventsComponent />
             <br></br>
           </div>
         </div>

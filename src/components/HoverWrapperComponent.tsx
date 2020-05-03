@@ -17,7 +17,7 @@ interface HoverWrapperComponentState {
 export class HoverWrapperComponent extends React.Component<
   HoverWrapperComponentProp,
   HoverWrapperComponentState
-  > {
+> {
   public state = {
     newAdjustedLeft: undefined,
     newAdjustedRight: undefined,
@@ -34,30 +34,24 @@ export class HoverWrapperComponent extends React.Component<
     /* Callback function for leftmost and rightmost infoboxes
        Adjusts transform styling on the left side so that the default translate(-50%) doesn't push it off the page
        */
-    this.setState(
-      {
+    this.setState({}, () => {
+      let position = elem.getBoundingClientRect();
 
-      },
-      () => {
-        let position = elem.getBoundingClientRect();
-
-        if (position.right > window.innerWidth) {
-          this.setState({
-            newAdjustedRight: 0,
-            newAdjustedLeft: "auto",
-            newAdjustedTransform: "translate(0%)"
-          });
-        }
-        if (position.left < 0) {
-          this.setState({
-            newAdjustedLeft: 0,
-            newAdjustedTransform: "translate(0%)"
-          });
-        }
+      if (position.right > window.innerWidth) {
+        this.setState({
+          newAdjustedRight: 0,
+          newAdjustedLeft: "auto",
+          newAdjustedTransform: "translate(0%)",
+        });
       }
-    );
+      if (position.left < 0) {
+        this.setState({
+          newAdjustedLeft: 0,
+          newAdjustedTransform: "translate(0%)",
+        });
+      }
+    });
   };
-
 
   public render() {
     // Takes in person position component
@@ -69,7 +63,7 @@ export class HoverWrapperComponent extends React.Component<
     //   <PersonComponent person={AFX.People[personPosition.person[0]]} />
     // );
 
-    const ret = [];
+    const ret: any = [];
     // let id = "recZFzCcA5n9Tuyij";
     // let stooph = AFX.PersonPositions[id];
     const pp: PersonPosition = this.props.pp;

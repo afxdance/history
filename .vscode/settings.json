@@ -9,5 +9,6 @@
   "files.exclude": {
     "build/**": true,
     "docs/**": true
-  }
+  },
+  "git.ignoreLimitWarning": true
 }

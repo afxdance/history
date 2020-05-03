@@ -1,5 +1,5 @@
 import * as React from "react";
-import * as ReactDOM from 'react-dom';
+import * as ReactDOM from "react-dom";
 import { Person } from "src/data/types";
 import { SearchButtonComponent } from "./SearchButtonComponent";
 import { Route, HashRouter as Router, Redirect } from "react-router-dom";
@@ -12,25 +12,24 @@ export class Searchbar extends React.Component {
     super(props);
   }
   public render() {
-    return (
-      <FilteredList />
-    );
+    return <FilteredList />;
   }
 }
 
-var createReactClass = require('create-react-class');
+var createReactClass = require("create-react-class");
 var FilteredList = createReactClass({
   filterList: function (event: any) {
     searchBarText = event.target.value;
+    console.log("The search bar val is " + searchBarText);
     // Reset search bar when there's no input text
     if (searchBarText == "") {
-      this.setState({ items: [] })
-    }
-    else {
+      this.setState({ items: [] });
+    } else {
       var updatedList = this.state.initialItems;
       updatedList = updatedList.filter(function (item: any) {
-        return item.toLowerCase().search(
-          event.target.value.toLowerCase()) !== -1;
+        return (
+          item.toLowerCase().search(event.target.value.toLowerCase()) !== -1
+        );
       });
       // var updatedButtons: any = [];
       // for (let name in updatedList) {
@@ -49,7 +48,7 @@ var FilteredList = createReactClass({
       initialItems,
       items: [],
       // buttonItems: []
-    }
+    };
   },
 
   // submitForm: function (e: { preventDefault: () => void; }) {
@@ -79,7 +78,7 @@ var FilteredList = createReactClass({
         <List items={this.state.items} />
       </div>
     );
-  }
+  },
 });
 
 // takes list of names from updated list and generates search buttons
@@ -87,12 +86,10 @@ var List = createReactClass({
   render: function () {
     return (
       <ul>
-        {
-          this.props.items.map(function (item: any) {
-            return <SearchButtonComponent name={item} />
-          })
-        }
+        {this.props.items.map(function (item: any) {
+          return <SearchButtonComponent name={item} />;
+        })}
       </ul>
-    )
-  }
+    );
+  },
 });

@@ -18,8 +18,8 @@ export class TeamsComponent extends React.Component<any> {
     //   <SingleTeamComponent key={team.id} team={team} />
     // ));
 
-    let projectTeamComponents = [];
-    let trainingTeamComponents = [];
+    let projectTeamComponents: any = [];
+    let trainingTeamComponents: any = [];
     for (let i = 0; i < teams.length; i++) {
       let team = teams[i];
       if (team.level == "Training") {

@@ -11,7 +11,6 @@ export class SearchButtonComponent extends React.Component<{ name: string }> {
           <Link to={redirectLink}>{name}</Link>
         </Router>
       </div>
-
     );
   }
 }

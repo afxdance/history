@@ -1,15 +1,15 @@
 import * as lodash from "lodash";
 import * as React from "react";
 import * as Data from "src/data/data";
-import { Person } from "src/data/types"
-import { PersonPositionComponent } from './PersonPositionComponent'
+import { Person } from "src/data/types";
+import { PersonPositionComponent } from "./PersonPositionComponent";
 import { PersonPosition } from "src/data/types";
 
 export class IndividualComponent extends React.Component<any> {
   // Finds all person ids that match name given
   public findIDs(personName: string) {
-    var posIDs = []
-    var people = Data.People
+    var posIDs: any = [];
+    var people = Data.People;
     for (var pID in people) {
       let currPerson: Person = people[pID];
       if (currPerson.name.toLowerCase().includes(personName.toLowerCase())) {
@@ -21,13 +21,13 @@ export class IndividualComponent extends React.Component<any> {
   public render() {
     // Stores url parameters (?name=" ") in params
     const params = new URLSearchParams(this.props.location.search);
-    var name = params.get('name');
+    var name = params.get("name");
 
     let personPositionComponents: any = [];
 
     if (name != undefined) {
       let posIDs = this.findIDs(name);
-      posIDs.forEach(ids => {
+      posIDs.forEach((ids: any) => {
         // Most recent position that the person holds is represented by the last id
         let recentPosition = Data.PersonPositions[ids[ids.length - 1]];
         personPositionComponents.push(
@@ -36,11 +36,13 @@ export class IndividualComponent extends React.Component<any> {
             personPosition={recentPosition}
           />
         );
-      })
+      });
     }
     return (
       <div className="search-results">
-        <a id="back-link" href="/">Back to Home</a>
+        <a id="back-link" href="/">
+          Back to Home
+        </a>
         <p className="semester--title">Results for {name}</p>
         {personPositionComponents}
       </div>
