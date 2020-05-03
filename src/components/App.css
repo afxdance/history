@@ -96,6 +96,7 @@ strong {
 }
 
 /*Slideshow container */
+
 #slideshow {
   max-width: 1000px;
   position: relative;
@@ -151,9 +152,9 @@ strong {
   animation-duration: 1.5s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
-}
+} */
 
-@keyframes fade {
+/* @keyframes fade {
   from {opacity: 0}
   to {opacity: 1}
 }
@@ -548,6 +549,9 @@ button {
 }
 
 #search {
+  position: fixed;
+  top: 10vh;
+  z-index: 10;
   width: 75vw;
   margin-left: 150px;
   height: 35px;
