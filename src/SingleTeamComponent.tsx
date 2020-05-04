@@ -20,7 +20,7 @@ export class SingleTeamComponent extends React.Component<any> {
         directorsList.push(
           <div className="director">
             <h6>{directorPerson.name}</h6>
-            <HoverWrapperComponent pp={pp}>
+            <HoverWrapperComponent pp={pp} hoverDisplay={true}>
               {pp.picture ? (
                 <img
                   className="board--img"

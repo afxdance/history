@@ -70,6 +70,7 @@ export class GroupsComponent extends React.Component<any> {
       <PersonPositionComponent
         key={personPosition.id}
         personPosition={personPosition}
+        hoverDisplay={true}
       />
     ));
 

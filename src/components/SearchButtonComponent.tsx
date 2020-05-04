@@ -8,7 +8,9 @@ export class SearchButtonComponent extends React.Component<{ name: string }> {
     let name = this.props.name;
     return (
       <Popup trigger={<button className="button"> <span className="nav-text">{name}</span> </button>} modal closeOnDocumentClick>
-        <span><IndividualComponent name={name}></IndividualComponent></span>
+        <span>
+          <IndividualComponent name={name}></IndividualComponent>
+        </span>
       </Popup>
 
     );
