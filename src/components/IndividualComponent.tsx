@@ -20,9 +20,7 @@ export class IndividualComponent extends React.Component<any> {
   }
   public render() {
     // Stores url parameters (?name=" ") in params
-    const params = new URLSearchParams(this.props.location.search);
-    var name = params.get('name');
-
+    var name = this.props.name;
     let personPositionComponents: any = [];
 
     if (name != undefined) {
@@ -38,10 +36,12 @@ export class IndividualComponent extends React.Component<any> {
         );
       })
     }
+    if (personPositionComponents.length == 0) {
+      name = name + " Not Found.";
+    }
     return (
       <div className="search-results">
-        <a id="back-link" href="/">Back to Home</a>
-        <p className="semester--title">Results for {name}</p>
+        <p className="semester--title">{name}</p>
         {personPositionComponents}
       </div>
     );
