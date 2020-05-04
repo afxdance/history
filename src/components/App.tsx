@@ -11,11 +11,11 @@ import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
 import { Button } from "reactstrap";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAlignLeft } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faAlignLeft } from "@fortawesome/free-solid-svg-icons";
 import { render } from "react-dom";
 import { type } from "os";
-import { HistoryNav } from './HistoryNavComponent';
+import { HistoryNav } from "./HistoryNavComponent";
 
 export interface App {
   semKey: string;
@@ -23,7 +23,10 @@ export interface App {
   display: any;
 }
 
-export class App extends React.Component<{}, { semKey: string; type: string; display: any }> {
+export class App extends React.Component<
+  {},
+  { semKey: string; type: string; display: any }
+> {
   navRef: React.RefObject<unknown>;
   constructor(props: any) {
     super(props);
@@ -39,11 +42,11 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
   }
 
   componentDidMount() {
-    window.addEventListener('scroll', this.checkHistory);
+    window.addEventListener("scroll", this.checkHistory);
   }
 
   componentWillUnmount() {
-    window.removeEventListener('scroll', this.checkHistory);
+    window.removeEventListener("scroll", this.checkHistory);
   }
 
   checkHistory() {
@@ -54,6 +57,7 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
       historyTop = history.top;
     }
     if (historyTop <= 0 && this.state.display == false) {
+      console.log("in check history")
       this.toggleSearch("enter");
     } //else if (historyTop > 0 && this.state.display == true) {
     //   this.toggleSearch("exit");
@@ -64,7 +68,7 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
     if (type === "enter") {
       this.setState({
         display: true,
-      })
+      });
     }
     // else if (type === "exit") {
     //   this.setState({
@@ -109,27 +113,23 @@ export class App extends React.Component<{}, { semKey: string; type: string; dis
         <div id="middle" className="anchor">
           <div id="events">
             <h1>EVENTS</h1>
-            <br></br>
+            <br />
           </div>
         </div>
         <div id="bottom" className="anchor">
           <div id="history">
             <h1>HISTORY</h1>
-            <br></br>
+            <br />
             {/* <Sidebar onClick={this.myCallback} />
             <Button className='togglebutton' onClick={this.openNav}>
               <FontAwesomeIcon icon={faAlignLeft} />
             </Button> */}
             {/* <Searchbar /> */}
-            <div id="board">
-              {board}
-            </div>
-            <div id="teams">
-              {teams}
-            </div>
+            <div id="board">{board}</div>
+            <div id="teams">{teams}</div>
           </div>
         </div>
-      </div >
+      </div>
     );
   }
 }

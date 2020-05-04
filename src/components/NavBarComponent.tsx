@@ -18,7 +18,7 @@ export interface Navigation {
 export class Navigation extends React.Component<
   { callback: Function },
   { displayHistory: any }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -34,7 +34,16 @@ export class Navigation extends React.Component<
     });
   }
 
+  calcHeight() {
+    var navBar = document.getElementById("nav-bar");
+    var hist = document.getElementById("history-id");
+    if (navBar && hist) {
+      hist.style.top = (navBar.offsetHeight + 1) + "px";
+    }
+  }
+
   toggleDisplay() {
+    this.calcHeight()
     this.setState({ displayHistory: !this.state.displayHistory });
   }
 
@@ -46,11 +55,13 @@ export class Navigation extends React.Component<
           fixed="top"
           className="navbar-custom"
           expand="lg"
+          variant="dark"
+          id="nav-bar"
         >
           <Navbar.Brand href="#">
             <span className="nav-text">AFX Dance</span>
           </Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={this.toggleFalse} />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto navbar-custom">
               <Nav.Link href="#top" onClick={this.toggleFalse}>
@@ -58,6 +69,11 @@ export class Navigation extends React.Component<
               </Nav.Link>
               <Nav.Link href="#middle" onClick={this.toggleFalse}>
                 <span className="nav-text">Events</span>
+              </Nav.Link>
+              <Nav.Link className="search-button">
+                <button className="s-button" onClick={this.toggleDisplay}>
+                  <span className="nav-text">Search</span>
+                </button>
               </Nav.Link>
               <NavDropdown
                 alignRight
@@ -73,21 +89,18 @@ export class Navigation extends React.Component<
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>
-            <Nav className="search-button">
-              <button className="s-button" onClick={this.toggleDisplay}>
-                <span className="nav-text">Search</span>
-              </button>
-            </Nav>
           </Navbar.Collapse>
-        </Navbar>
+        </Navbar >
         <br />
         <div
           className="history-cont"
-          style={{ display: this.state.displayHistory ? "" : "none" }}
+          style={{
+            display: this.state.displayHistory ? "" : "none"
+          }}
         >
           <HistoryNav OnClick={this.props.callback} />
         </div>
-      </div>
+      </div >
     );
   }
 }
