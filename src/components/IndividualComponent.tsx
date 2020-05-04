@@ -1,15 +1,15 @@
 import * as lodash from "lodash";
 import * as React from "react";
-import * as Data from "src/data/data";
-import { Person } from "src/data/types";
-import { PersonPositionComponent } from "./PersonPositionComponent";
+import * as AFX from "src/data/data";
+import { Person } from "src/data/types"
+import { PersonPositionComponent } from './PersonPositionComponent'
 import { PersonPosition } from "src/data/types";
 
 export class IndividualComponent extends React.Component<any> {
   // Finds all person ids that match name given
   public findIDs(personName: string) {
-    var posIDs: any = [];
-    var people = Data.People;
+    var posIDs: any[] = []
+    var people = AFX.People
     for (var pID in people) {
       let currPerson: Person = people[pID];
       if (currPerson.name.toLowerCase().includes(personName.toLowerCase())) {
@@ -20,30 +20,61 @@ export class IndividualComponent extends React.Component<any> {
   }
   public render() {
     // Stores url parameters (?name=" ") in params
-    const params = new URLSearchParams(this.props.location.search);
-    var name = params.get("name");
-
+    var name = this.props.name;
     let personPositionComponents: any = [];
 
     if (name != undefined) {
       let posIDs = this.findIDs(name);
+      // Mimicking hoverwrappercomponent, but in a static context for popups
       posIDs.forEach((ids: any) => {
         // Most recent position that the person holds is represented by the last id
-        let recentPosition = Data.PersonPositions[ids[ids.length - 1]];
+        let recentPosition = AFX.PersonPositions[ids[ids.length - 1]];
+        const ret: any[] = [];
+        ret.push(<h3>{name}</h3>);
+        ids.forEach(function (id: any) {
+          let personPos: PersonPosition = AFX.PersonPositions[id];
+          // picture
+          let picUrl = "afx2.png";
+          if (personPos.picture) {
+            picUrl = personPos.picture[0].url;
+          }
+          // group name
+          const groupID = personPos.groupIds[0];
+          const groupName = AFX.Groups[groupID].name;
+          // position titles
+          const posTitle = personPos.positionTitle;
+          ret.push(
+            <div key={personPos.id} className="rowOfHover">
+              <div className="pictureHover">
+                <img className="infoPicHover" src={picUrl} />
+              </div>
+              <div className="infoHover">{groupName}</div>
+              <div className="infoHover">{posTitle}</div>
+            </div>
+          );
+        });
         personPositionComponents.push(
-          <PersonPositionComponent
-            key={recentPosition.id}
-            personPosition={recentPosition}
-          />
+          <div className="row">
+            <div className="col-sm">
+              <PersonPositionComponent
+                key={recentPosition.id}
+                personPosition={recentPosition}
+                hoverDisplay={false}
+              />
+            </div>
+            <div className="col-sm">
+              {ret}
+            </div>
+          </div>
         );
       });
     }
+    if (personPositionComponents.length == 0) {
+      name = name + " Not Found.";
+    }
     return (
       <div className="search-results">
-        <a id="back-link" href="/">
-          Back to Home
-        </a>
-        <p className="semester--title">Results for {name}</p>
+        <p className="semester--title container">{name}</p>
         {personPositionComponents}
       </div>
     );

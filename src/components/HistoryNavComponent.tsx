@@ -60,7 +60,7 @@ export class HistoryNav extends React.Component<
     }
 
     return (
-      <div className="history-nav">
+      <div id="history-id" className="history-nav">
         <div className="container">
           <div className="row">
             <div className="col-sm">

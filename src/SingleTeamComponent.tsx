@@ -19,40 +19,40 @@ export class SingleTeamComponent extends React.Component<any> {
         let directorPerson: Person = Data.People[dirPersonKey];
         directorsList.push(
           pp.picture ?
-          <div className="director">
-            <h6>{directorPerson.name}</h6>
-            <HoverWrapperComponent pp={pp}>
-              {pp.picture ? (
+            <div className="director">
+              <h6>{directorPerson.name}</h6>
+              <HoverWrapperComponent pp={pp} hoverDisplay={true}>
+                {pp.picture ? (
+                  <img
+                    className="board--img"
+                    src={pp.picture[0].thumbnails.large.url}
+                    width="200px"
+                    height="200px"
+                  />
+                ) : (
+                    <img
+                      className="board--img"
+                      src="afx2.png"
+                      width="200px"
+                      height="200px"
+                      style={{ opacity: 0.3 }}
+                    />
+                  )}
+              &nbsp;&nbsp;&nbsp;
+            </HoverWrapperComponent>
+            </div> :
+            <div className="director">
+              <h6>{directorPerson.name}</h6>
+              <HoverWrapperComponent pp={pp} hoverDisplay={true}>
                 <img
                   className="board--img"
-                  src={pp.picture[0].thumbnails.large.url}
+                  src={"https://i.imgur.com/4qcFzdm.png"}
                   width="200px"
                   height="200px"
                 />
-              ) : (
-                  <img
-                    className="board--img"
-                    src="afx2.png"
-                    width="200px"
-                    height="200px"
-                    style={{ opacity: 0.3 }}
-                  />
-                )}
-              &nbsp;&nbsp;&nbsp;
-            </HoverWrapperComponent>
-          </div> :
-          <div className="director">
-          <h6>{directorPerson.name}</h6>
-          <HoverWrapperComponent pp={pp}>
-            <img
-              className="board--img"
-              src={"https://i.imgur.com/4qcFzdm.png"}
-              width="200px"
-              height="200px"
-            />
             &nbsp;&nbsp;&nbsp;
           </HoverWrapperComponent>
-        </div>
+            </div>
         );
 
         // for the last director, don't add the comma
@@ -76,10 +76,12 @@ export class SingleTeamComponent extends React.Component<any> {
 
           {
             team.teamPicture ? (
-              <img
-                className="team--img"
-                src={team.teamPicture[0].thumbnails.large.url}
-              />
+              <a className="video--link" href={team.videoUrl} target="_blank" title="Click to watch on Youtube!">
+                <img
+                  className="team--img"
+                  src={team.teamPicture[0].thumbnails.large.url}
+                />
+              </a>
             ) : (
                 <img
                   className="team--img"
@@ -100,7 +102,7 @@ export class SingleTeamComponent extends React.Component<any> {
           <div className="team--list"> {directorsList}</div>
         </div>
 
-        {
+        {/* {
           team.videoUrl ? (
             <div>
               {
@@ -112,7 +114,7 @@ export class SingleTeamComponent extends React.Component<any> {
           ) : (
               undefined
             )
-        }
+        } */}
         <div id="team--triangle" />
       </div >
     );

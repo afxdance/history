@@ -17,7 +17,7 @@ export class PersonPositionComponent extends React.Component<any> {
     if (personPosition.picture) {
       return (
         <div className="board--member">
-          <HoverWrapperComponent pp={personPosition}>
+          <HoverWrapperComponent pp={personPosition} hoverDisplay={this.props.hoverDisplay}>
             <img
               className="board--img"
               src={personPosition.picture[0].thumbnails.large.url}
@@ -35,7 +35,7 @@ export class PersonPositionComponent extends React.Component<any> {
     } else {
       return (
         <div className="board--member">
-          <HoverWrapperComponent pp={personPosition}>
+          <HoverWrapperComponent pp={personPosition} hoverDisplay={this.props.hoverDisplay}>
             <img
               className="board--img"
               src={"https://i.imgur.com/4qcFzdm.png"}

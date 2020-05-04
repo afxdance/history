@@ -6,6 +6,7 @@ import { Route, HashRouter as Router, Redirect } from "react-router-dom";
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
+
 var searchBarText = "";
 export class Searchbar extends React.Component {
   constructor(props: any) {
@@ -31,11 +32,20 @@ var FilteredList = createReactClass({
           item.toLowerCase().search(event.target.value.toLowerCase()) !== -1
         );
       });
+      var newList: any[] = [];
+      updatedList.slice(0, 10).forEach((function (item: any) {
+        newList.push(<SearchButtonComponent name={item}></SearchButtonComponent>)
+        newList.push(<br></br>);
+      }));
+      // for (var item in updatedList.slice(0, 10)) {
+      //     newList.push(<SearchButtonComponent name={item}></SearchButtonComponent>)
+      // }
+
       // var updatedButtons: any = [];
       // for (let name in updatedList) {
       //   updatedButtons.push(<SearchButtonComponent name={name} />)
       // }
-      this.setState({ items: updatedList });
+      this.setState({ items: newList });
     }
   },
   getInitialState: function () {
@@ -59,23 +69,14 @@ var FilteredList = createReactClass({
 
     return (
       <div className="search-form">
-        <form onSubmit={(e) => {
-          console.log(this.refs.personName.value);
-          var redirectLink = "/persons?name=" + this.input.value;
-
-          return (
-            <Router>
-              <Redirect to="/persons"></Redirect>
-            </Router>
-          );
-        }}>
+        <form>
           <fieldset className="form-group">
             <div className="input-field">
               <input type="search" id="search" ref="personName" className="form-control form-control-lg" placeholder="Search for any board member or director" onChange={this.filterList} />
             </div>
           </fieldset>
         </form>
-        <List items={this.state.items} />
+        {this.state.items}
       </div>
     );
   },
