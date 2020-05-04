@@ -4,6 +4,13 @@ body {
   font-size: 72%;
   background: #fff;
   color: #323537;
+}
+
+body,html {
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
   overflow-x: hidden;
 }
 
@@ -36,8 +43,7 @@ html {
 .search-button {
   display: none;
   position: fixed;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 47.5%;
   justify-content: center;
   width: 100%;
 }
@@ -616,7 +622,7 @@ button {
   margin: 0px;
   overflow: hidden;
   position: fixed;
-  top: 57px;
+  /* top: 57px; */
   z-index: 10;
 }
 
@@ -893,6 +899,14 @@ li a.dropdown-toggle::after {
   display: none;
 }
 
+.no-Search .search-button {
+  padding: 0px !important;
+}
+
+.show-Search .search-button {
+  padding: .5rem 1rem;
+}
+
 .no-Search .history-nav {
   display: none;
 }
@@ -933,4 +947,15 @@ li a.dropdown-toggle::after {
 
 #trainingteams {
   padding-bottom: 57px;
+}
+
+/* Media query for search button when menu toggle appears */
+@media screen and (max-width: 990px) {
+.search-button {
+  position: static;
+  left: 0;
+  transform: translateX(0%);
+  width: 100%;
+  /* padding: ; */
+  }
 }

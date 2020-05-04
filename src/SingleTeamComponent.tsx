@@ -63,10 +63,12 @@ export class SingleTeamComponent extends React.Component<any> {
 
           {
             team.teamPicture ? (
-              <img
-                className="team--img"
-                src={team.teamPicture[0].thumbnails.large.url}
-              />
+              <a className="video--link" href={team.videoUrl} target="_blank" title="Click to watch on Youtube!">
+                <img
+                  className="team--img"
+                  src={team.teamPicture[0].thumbnails.large.url}
+                />
+              </a>
             ) : (
                 <img
                   className="team--img"
@@ -87,7 +89,7 @@ export class SingleTeamComponent extends React.Component<any> {
           <div className="team--list"> {directorsList}</div>
         </div>
 
-        {
+        {/* {
           team.videoUrl ? (
             <div>
               {
@@ -99,7 +101,7 @@ export class SingleTeamComponent extends React.Component<any> {
           ) : (
               undefined
             )
-        }
+        } */}
         <div id="team--triangle" />
       </div >
     );

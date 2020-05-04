@@ -29,7 +29,7 @@ export interface HistoryNav {
 export class HistoryNav extends React.Component<
   { OnClick: Function },
   { type: string; sems: any }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -60,7 +60,7 @@ export class HistoryNav extends React.Component<
     }
 
     return (
-      <div className="history-nav">
+      <div id="history-id" className="history-nav">
         <div className="container">
           <div className="row">
             <div className="col-sm">
