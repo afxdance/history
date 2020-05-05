@@ -120,15 +120,15 @@ export class HoverWrapperComponent extends React.Component<
           style={{ textAlign: "center", display: "block" }}
         >
           Please let us know if any info is incorrect via&nbsp;
-        <a
+          <a
             href="https://airtable.com/shrES17bKJ3Xl1r0M"
             target="_blank"
             style={{ color: "white", textDecoration: "underline" }}
           >
             this form
-        </a>
-        .
-      </div>
+          </a>
+          .
+        </div>
       );
     }
     return (
@@ -137,7 +137,6 @@ export class HoverWrapperComponent extends React.Component<
         <div
           className="HoverWrapper-content"
           ref="HoverRef"
-          /* Removed since code creating this style aspect is commented out */
           style={{
             left: this.state.newAdjustedLeft,
             right: this.state.newAdjustedRight,

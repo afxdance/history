@@ -122,11 +122,6 @@ export class App extends React.Component<
           <div id="history">
             <h1>HISTORY</h1>
             <br />
-            {/* <Sidebar onClick={this.myCallback} />
-            <Button className='togglebutton' onClick={this.openNav}>
-              <FontAwesomeIcon icon={faAlignLeft} />
-            </Button> */}
-            {/* <Searchbar /> */}
             <div id="board">{board}</div>
             <div id="teams">{teams}</div>
           </div>

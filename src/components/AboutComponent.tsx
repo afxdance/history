@@ -1,14 +1,13 @@
 import * as React from "react";
-import { CSSProperties } from 'react';
+import { CSSProperties } from "react";
 
 const dotStyle: CSSProperties = {
-  textAlign: 'center'
+  textAlign: "center",
 };
 
 var slideIndex = 1;
 
 export class AboutComponent extends React.Component {
-
   constructor(props: any) {
     super(props);
   }
@@ -24,11 +23,11 @@ export class AboutComponent extends React.Component {
   }
 
   plusSlides(n: number) {
-    this.showSlides(slideIndex += n);
+    this.showSlides((slideIndex += n));
   }
 
   currentSlide(n: number) {
-    this.showSlides(slideIndex = n);
+    this.showSlides((slideIndex = n));
   }
 
   showSlides(n: number) {
@@ -36,10 +35,10 @@ export class AboutComponent extends React.Component {
     var slides: HTMLCollection = document.getElementsByClassName("mySlides");
     var dots = document.getElementsByClassName("dot");
     if (n > slides.length) {
-      slideIndex = 1
+      slideIndex = 1;
     }
     if (n < 1) {
-      slideIndex = slides.length
+      slideIndex = slides.length;
     }
     for (i = 0; i < slides.length; i++) {
       const slide = slides[i] as HTMLElement;
@@ -60,8 +59,8 @@ export class AboutComponent extends React.Component {
         <div className="heading">
           <h1>ABOUT</h1>
         </div>
-        <br></br>
-        <div id="slideshow" onLoad={() => this.currentSlide(1)}>
+        <br />
+        {/* <div id="slideshow" onLoad={() => this.currentSlide(1)}>
           <div className="mySlides fade">
             <img
               src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/82179407_2429012747203354_2801596146294718464_o.jpg?_nc_cat=102&_nc_sid=dd9801&_nc_ohc=S-EGV0t8v4cAX-Yjgh4&_nc_ht=scontent-lax3-1.xx&oh=8686e38408ad27b0da95c3cfeab03bb1&oe=5EA678C1"
@@ -86,52 +85,73 @@ export class AboutComponent extends React.Component {
           <span className="dot" onClick={() => this.currentSlide(2)}></span>
           <span className="dot" onClick={() => this.currentSlide(3)}></span>
         </div>
-        <br></br>
+        <br></br> */}
 
         <div className="about--text">
-          <span> <strong>AFX Dance</strong> is a hip hop/urban dance group founded by Ping Quach, Geoffrey Chen, and
-            Rosemary Hua in Fall 2011 to give dancers an opportunity to grow. </span>
+          <span>
+            {" "}
+            <strong>AFX Dance</strong> is a hip hop/urban dance group founded by
+            Ping Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to give
+            dancers an opportunity to grow.{" "}
+          </span>
 
-          <span> Our name, <strong>A</strong>spirations, <strong>F</strong>amily, e<strong>X</strong>perience reflects
-            our philosophy of creating a family environment for dancers to build up the confidence and support to reach new
-            heights. We offer teams for beginner, intermediate, and competitive levels and we hope to provide dancers, with
-            new fulfilling experiences that will empower them to pass on our philosophies to the greater community. </span>
+          <span>
+            {" "}
+            Our name, <strong>A</strong>
+            spirations, <strong>F</strong>
+            amily, e<strong>X</strong>
+            perience reflects our philosophy of creating a family environment
+            for dancers to build up the confidence and support to reach new
+            heights. We offer teams for beginner, intermediate, and competitive
+            levels and we hope to provide dancers, with new fulfilling
+            experiences that will empower them to pass on our philosophies to
+            the greater community.{" "}
+          </span>
 
-          <br></br>
+          <br />
 
-          <span>AFX Dance comprises of multiple Project and Training level teams along with our organization's own
-            competitive hip-hop/urban dance team (AFX Competition).</span>
+          <span>
+            AFX Dance comprises of multiple Project and Training level teams
+            along with our organization's own competitive hip-hop/urban dance
+            team (AFX Competition).
+          </span>
 
-          <br></br>
+          <br />
 
-          <span><strong>Awards:</strong>
-            <br></br>
+          <span>
+            <strong>Awards:</strong>
+            <br />
             <i>AFX Competition Team:</i>
-            <br></br>
+            <br />
             Montage 2014: 3rd Place
-            <br></br>
+            <br />
             Montage 2015: 2nd Place
-            <br></br>
-            Collab NorCal 2019: 2nd Place</span>
+            <br />
+            Collab NorCal 2019: 2nd Place
+          </span>
         </div>
         <div className="social-mediaz">
           <a href="https://www.facebook.com/AFXdance/">
-            <i className="fa fa-facebook" aria-hidden="true"></i>
+            <i className="fa fa-facebook" aria-hidden="true" />
           </a>
           <a href="https://www.instagram.com/afxdance/">
-            <i className="fa fa-instagram" aria-hidden="true"></i>
+            <i className="fa fa-instagram" aria-hidden="true" />
           </a>
           <a href="https://www.youtube.com/channel/UCfqDntI9j7VESB0fNgw9Yog">
-            <i className="fa fa-youtube-play" aria-hidden="true"></i>
+            <i className="fa fa-youtube-play" aria-hidden="true" />
           </a>
         </div>
-        <div className="border"></div>
-        <button className="joinUs" onClick={this.toggleDiv}>Join Us!</button>
+        <div className="border" />
+        <button className="joinUs" onClick={this.toggleDiv}>
+          Join Us!
+        </button>
         <div id="infoDiv">
-          <p>To join AFX, come out to one of the following audition dates. No prior experience is necessary!</p>
+          <p>
+            To join AFX, come out to one of the following audition dates. No
+            prior experience is necessary!
+          </p>
         </div>
       </div>
-
     );
   }
 }

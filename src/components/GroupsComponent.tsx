@@ -80,7 +80,6 @@ export class GroupsComponent extends React.Component<any> {
         <div className="semester--title">
           {group.name.replace("AFX Board", "")}
         </div>
-        {/* <h2 className="board--title">{group.name}</h2> */}
         <div className="board-team--title">Board Members</div>
         <div className="board--row">{personPositionComponents}</div>
       </div>
