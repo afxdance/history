@@ -39,6 +39,15 @@ export class Navigation extends React.Component<
     var hist = document.getElementById("history-id");
     if (navBar && hist) {
       hist.style.top = navBar.offsetHeight + 1 + "px";
+      var dropdown: HTMLCollectionOf<
+        HTMLElement
+      > = document.getElementsByClassName("dropdown-menu") as HTMLCollectionOf<
+        HTMLElement
+      >;
+      if (dropdown && dropdown[0] && window.innerWidth <= 990) {
+        hist.style.top =
+          navBar.offsetHeight - dropdown[0].offsetHeight + 1 + "px";
+      }
     }
   }
 
