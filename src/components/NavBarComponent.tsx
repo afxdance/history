@@ -18,7 +18,7 @@ export interface Navigation {
 export class Navigation extends React.Component<
   { callback: Function },
   { displayHistory: any }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -94,7 +94,7 @@ export class Navigation extends React.Component<
                 onClick={this.toggleFalse}
               >
                 <NavDropdown.Item href="#bottom">
-                  <span className="nav-text">Executive Board</span>
+                  <span className="nav-text">Board</span>
                 </NavDropdown.Item>
                 <NavDropdown.Item href="#trainingteams">
                   <span className="nav-text">Teams</span>
