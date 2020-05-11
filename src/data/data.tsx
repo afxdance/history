@@ -41194,6 +41194,14 @@ export let Semesters = {
 }
 
 export let Years = {
+  "rec4GgvXbtSvuQiW9": {
+    "createdTime": "2020-02-27T00:19:23.000Z",
+    "id": "rec4GgvXbtSvuQiW9",
+    "Name": "2020",
+    "semCodename": [
+      "rec4GaaU2uP8FRfw3"
+    ]
+  },
   "rec88Ubqgi1TjIkh5": {
     "createdTime": "2019-04-29T04:09:57.000Z",
     "id": "rec88Ubqgi1TjIkh5",
@@ -41271,14 +41279,5 @@ export let Years = {
     "semCodename": [
       "rec940RvbrFn1Y5cD"
     ]
-  },
-  "rec4GgvXbtSvuQiW9": {
-    "createdTime": "2020-02-27T00:19:23.000Z",
-    "id": "rec4GgvXbtSvuQiW9",
-    "Name": "2020",
-    "semCodename": [
-      "rec4GaaU2uP8FRfw3"
-    ]
   }
 }
-

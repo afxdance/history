@@ -33,7 +33,7 @@ export class App extends React.Component<
     super(props);
     this.state = {
       //TODO: Need to make code so that this selects the most recent semester rather than hard coded
-      semKey: "rec5XKEgTIG4JPqKB",
+      semKey: "rec4GaaU2uP8FRfw3",
       type: typeof AFX.Semesters,
       display: false,
     };
