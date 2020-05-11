@@ -3,8 +3,8 @@
 // See the README in this folder for more info!
 let Airtable = require("airtable");
 
-// let airtableAccount = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY });
-let airtableAccount = new Airtable({ apiKey: "keylB4loiJ2jsLic4" });
+let airtableAccount = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY });
+// let airtableAccount = new Airtable({ apiKey: "keylB4loiJ2jsLic4" });
 let base = airtableAccount.base("app5gc254OPlaTFG2");
 
 //TODO: Need to change. Currently can only read pages that have custom made view called "Default View"
