@@ -90,9 +90,9 @@ export class AboutComponent extends React.Component {
         <div className="about--text">
           <span>
             {" "}
-            <strong>AFX Dance</strong> is a hip hop/urban dance group founded by
-            Ping Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to give
-            dancers an opportunity to grow.{" "}
+            <strong>AFX Dance</strong> is a hip hop dance group founded by Ping
+            Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to give dancers
+            an opportunity to grow.{" "}
           </span>
 
           <span>
@@ -112,8 +112,8 @@ export class AboutComponent extends React.Component {
 
           <span>
             AFX Dance comprises of multiple Project and Training level teams
-            along with our organization's own competitive hip-hop/urban dance
-            team (AFX Competition).
+            along with our organization's own competitive hip-hop dance team
+            (AFX Competition).
           </span>
 
           <br />
