@@ -5,7 +5,7 @@ import { Route, Switch, HashRouter as Router } from "react-router-dom";
 import * as AFX from "src/data/data";
 import { Year } from "src/data/types";
 import { Semester } from "src/data/types";
-import { TeamsComponent } from "src/TeamsComponent";
+import { TeamsComponent } from "src/components/TeamsComponent";
 import "./App.css";
 import { Navigation } from "./NavBarComponent";
 import { Sidebar } from "./SidebarComponent";
