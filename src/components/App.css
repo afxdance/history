@@ -328,6 +328,7 @@ strong {
   width: 172px;
   display: inline-block;
   margin: 24px;
+  vertical-align: top;
 }
 .board--member:hover .overlay {
   height: 34%;
