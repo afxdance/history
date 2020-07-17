@@ -16,7 +16,7 @@ export class YearCollapsibleComponent extends React.Component<
     onClick: Function;
   },
   { show: boolean }
-  > {
+> {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -70,7 +70,7 @@ export class YearCollapsibleComponent extends React.Component<
     for (let semKey of curYear.semCodename) {
       semLinks.push(
         // this component has an onClick prop in order to send it to all of the sem link components
-        <SemLinkComponent semester={semKey} onClick={this.props.onClick} />
+        <SemLinkComponent semKey={semKey} />
       );
     }
 
