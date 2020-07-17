@@ -45,7 +45,6 @@ export const SemLinkComponent: React.FC<SemLinkComponent> = ({ semKey }) => {
   return (
     <Button
       className="sem-button"
-      // href="#bottom"
       onClick={onClick}
     >
       {semName}
