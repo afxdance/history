@@ -10,6 +10,5 @@ export const SearchButtonComponent: React.FC<{ name: string }> = ({ name }) => {
         <IndividualComponent name={name}></IndividualComponent>
       </span>
     </Popup>
-    // <IndividualComponent name={name} />
   );
 }
