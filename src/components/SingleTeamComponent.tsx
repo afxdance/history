@@ -4,10 +4,8 @@ import * as Data from "src/data/data";
 import { Group, Person } from "src/data/types";
 
 
-export const SingleTeamComponent: React.FC<any> = (props) => {
-  let team: Group = props.team;
+export const SingleTeamComponent: React.FC<{ team: Group }> = ({ team }) => {
   let directorsList: React.ReactNode[] = [];
-
   // Generate a string of all of the directors
   if (team.positionIds) {
     for (let directorIdx in team.positionIds) {
@@ -53,19 +51,9 @@ export const SingleTeamComponent: React.FC<any> = (props) => {
         </HoverWrapperComponent>
           </div>
       );
-
-      // for the last director, don't add the comma
-      //if (parseInt(directorIdx) < team.positionIds.length - 1) {
-      //directorsList.push(", ");
-      //}
     }
   }
 
-  //Getting the level(Project, Training, etc.) in order to display later(if it exists)
-  // let teamlvl = "";
-  // if (team.level) {
-  //   teamlvl = "AFX " + team.level + " Team";
-  // }
 
   // return a single team element with optional picture displays and video links
   return (
@@ -91,7 +79,6 @@ export const SingleTeamComponent: React.FC<any> = (props) => {
             )
         }
       </div>
-      {/* {teamlvl ? <div className="team--level"> {teamlvl} </div> : undefined} */}
 
       <div className="team--directors">
         <div className="director">
@@ -101,6 +88,7 @@ export const SingleTeamComponent: React.FC<any> = (props) => {
         <div className="team--list"> {directorsList}</div>
       </div>
 
+      {/** IS THIS SUPPOSED TO BE HERE*/}
       {/* {
         team.videoUrl ? (
           <div>
