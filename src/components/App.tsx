@@ -7,7 +7,6 @@ import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 import "./App.css";
 import { Navigation } from "./NavBarComponent";
-import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
 import { Button } from "reactstrap";

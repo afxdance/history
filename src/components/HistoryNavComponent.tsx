@@ -8,7 +8,6 @@ import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 import "./App.css";
 import { Navigation } from "./NavBarComponent";
-import { Sidebar } from "./SidebarComponent";
 import { Searchbar } from "./SearchbarComponent";
 import { IndividualComponent } from "./IndividualComponent";
 import { Button } from "reactstrap";
@@ -26,64 +25,56 @@ export interface HistoryNav {
   OnClick: Function;
 }
 
-export class HistoryNav extends React.Component<
-  { OnClick: Function },
-  { type: string; sems: any }
-  > {
-  constructor(props: any) {
-    super(props);
-    this.state = {
-      //TODO: Need to make code so that this selects the most recent semester rather than hard coded
-      type: typeof AFX.Semesters,
-      sems: null,
-    };
-  }
+//TODO: Get rid of OnClick and get function from context.
+export const HistoryNav: React.FC<{ OnClick: Function }> = ({ OnClick }) => {
 
-  displaySems(e: any) {
+  const [type, setType] = React.useState(typeof AFX.Semesters);
+  const [sems, setSems] = React.useState(null);
+
+
+  const displaySems = (e: any) => {
     let curYear: Year = AFX.Years[e.target.value];
     let semButtons: any = [];
     for (let semKey of curYear.semCodename) {
       semButtons.push(
-        <SemLinkComponent semester={semKey} onClick={this.props.OnClick} />
+        <SemLinkComponent semester={semKey} onClick={OnClick} />
       );
     }
-    this.setState({ sems: semButtons });
+    setSems(semButtons);
   }
 
-  public render() {
-    let yearLinks: object[] = [];
-    yearLinks.push(<option>Select a year</option>);
-    for (let year of Object.keys(AFX.Years)) {
-      let curYear: Year = AFX.Years[year];
-      let name: string = curYear.Name;
-      yearLinks.push(<option value={year}>{name}</option>);
-    }
+  let yearLinks: object[] = [];
+  yearLinks.push(<option>Select a year</option>);
+  for (let year of Object.keys(AFX.Years)) {
+    let curYear: Year = AFX.Years[year];
+    let name: string = curYear.Name;
+    yearLinks.push(<option value={year}>{name}</option>);
+  }
 
-    return (
-      <div id="history-id" className="history-nav">
-        <div className="container">
-          <div className="row">
-            <div className="col-sm">
-              <FormGroup>
-                <Input
-                  type="select"
-                  name="select"
-                  id="exampleSelect"
-                  onChange={e => this.displaySems(e)}
-                >
-                  {yearLinks}
-                </Input>
-              </FormGroup>
-            </div>
-            <ButtonGroup className="col-sm sem-col">
-              <div className="sem-container">{this.state.sems}</div>
-            </ButtonGroup>
-            <div className="col-sm">
-              <Searchbar />
-            </div>
+  return (
+    <div id="history-id" className="history-nav">
+      <div className="container">
+        <div className="row">
+          <div className="col-sm">
+            <FormGroup>
+              <Input
+                type="select"
+                name="select"
+                id="exampleSelect"
+                onChange={e => displaySems(e)}
+              >
+                {yearLinks}
+              </Input>
+            </FormGroup>
+          </div>
+          <ButtonGroup className="col-sm sem-col">
+            <div className="sem-container">{sems}</div>
+          </ButtonGroup>
+          <div className="col-sm">
+            <Searchbar />
           </div>
         </div>
       </div>
-    );
-  }
+    </div>
+  );
 }
