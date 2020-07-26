@@ -5,7 +5,11 @@ import * as AFX from "src/data/data";
 import { PersonPosition } from "src/data/types";
 
 // Displays a single member of board, including their picture, and a PersonComponent
-export function PersonPositionComponent(props) {
+export const PersonPositionComponent: React.FC<{
+  key: any, personPosition: PersonPosition,
+  hoverDisplay: boolean
+}> = (props) => {
+
   let personPosition: PersonPosition = props.personPosition;
   let personComp = (
     <PersonComponent person={AFX.People[personPosition.personIds[0]]} />
