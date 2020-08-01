@@ -7,102 +7,82 @@ import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
 var searchBarText = "";
-export class Searchbar extends React.Component {
-  constructor(props: any) {
-    super(props);
-  }
-  public render() {
-    return <FilteredList />;
-  }
+export const Searchbar: React.FC = () => {
+  return <FilteredList />;
 }
 
-var createReactClass = require("create-react-class");
-var FilteredList = createReactClass({
-  filterList: function(event: any) {
+const FilteredList: React.FC = () => {
+  const initNames: string[] = [];
+  const initButtons: React.Component[] = [];
+  const [buttons, setButtons] = React.useState(initButtons);
+  const [names, setNames] = React.useState(initNames);
+
+  function filterList(event: React.ChangeEvent<HTMLInputElement>) {
     searchBarText = event.target.value;
     console.log("The search bar val is " + searchBarText);
-    // Reset search bar when there's no input text
+    // Reset search bar whe there's no input text
     if (searchBarText == "") {
-      this.setState({ items: [] });
+      setButtons([]);
     } else {
-      var updatedList = this.state.initialItems;
-      updatedList = updatedList.filter(function(item: any) {
+      setInitialState();
+      var updatedList = names.filter(function (name: string) {
         return (
-          item.toLowerCase().search(event.target.value.toLowerCase()) !== -1
+          name.toLowerCase().search(event.target.value.toLowerCase()) !== -1
         );
       });
       var newList: any[] = [];
-      updatedList.slice(0, 10).forEach(function(item: any) {
+      updatedList.slice(0, 10).forEach(function (item: string) {
         newList.push(<SearchButtonComponent name={item} />);
         newList.push(<br />);
       });
-      // for (var item in updatedList.slice(0, 10)) {
-      //     newList.push(<SearchButtonComponent name={item}></SearchButtonComponent>)
-      // }
-
-      // var updatedButtons: any = [];
-      // for (let name in updatedList) {
-      //   updatedButtons.push(<SearchButtonComponent name={name} />)
-      // }
-      this.setState({ items: newList });
+      setButtons(newList);
     }
-  },
-  getInitialState: function() {
-    var initialItems: any[] = [];
+  };
+
+  function setInitialState() {
+    var initialItems: string[] = [];
     for (var person in Data.People) {
       var name = Data.People[person]["name"];
       initialItems.push(name);
     }
-    return {
-      initialItems,
-      items: [],
-      // buttonItems: []
-    };
-  },
-  checkEnter: function(event: any) {
+    setNames(initialItems);
+  };
+
+  function checkEnter(event: any) {
     var code = event.keyCode ? event.keyCode : event.which;
     if (code == 13) {
       event.preventDefault();
     }
-  },
+  };
 
-  // submitForm: function (e: { preventDefault: () => void; }) {
-  //   this.props.history.push('/yeet')
-  // },
+  return (
+    <div className="search-form">
+      <form>
+        <fieldset className="form-group">
+          <div className="input-field">
+            <input
+              type="search"
+              id="search"
+              className="form-control form-control-lg"
+              placeholder="Search for any board member or director"
+              onChange={filterList}
+              onKeyPress={checkEnter}
+            />
+          </div>
+        </fieldset>
+      </form>
+      {buttons}
+    </div>
+  )
+};
 
-  render: function() {
-    return (
-      <div className="search-form">
-        <form>
-          <fieldset className="form-group">
-            <div className="input-field">
-              <input
-                type="search"
-                id="search"
-                ref="personName"
-                className="form-control form-control-lg"
-                placeholder="Search for any board member or director"
-                onChange={this.filterList}
-                onKeyPress={this.checkEnter}
-              />
-            </div>
-          </fieldset>
-        </form>
-        {this.state.items}
-      </div>
-    );
-  },
-});
-
-// takes list of names from updated list and generates search buttons
-var List = createReactClass({
-  render: function() {
-    return (
-      <ul>
-        {this.props.items.map(function(item: any) {
-          return <SearchButtonComponent name={item} />;
-        })}
-      </ul>
-    );
-  },
-});
+// takes list of names from updated list and generates search buttons'
+const List: React.FC<{ items: [] }> = ({ items }) => {
+  return (
+    <ul>
+      {items.map(function (item: any) {
+        return <SearchButtonComponent name={item} />;
+      })}
+    </ul>
+  );
+}

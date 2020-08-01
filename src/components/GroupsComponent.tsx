@@ -59,31 +59,27 @@ function personPositionSortKey(personPosition: PersonPosition) {
 }
 
 // Used for displaying a single set of board members for a semester
-export class GroupsComponent extends React.Component<any> {
-  public render() {
-    let group: Group = this.props.group;
-    let personPositionIds = group.positionIds || [];
-    let personPositions: PersonPosition[];
-    personPositions = personPositionIds.map(id => Data.PersonPositions[id]);
-    personPositions = lodash.sortBy(personPositions, personPositionSortKey);
-    let personPositionComponents = personPositions.map(personPosition => (
-      <PersonPositionComponent
-        key={personPosition.id}
-        personPosition={personPosition}
-        hoverDisplay={true}
-      />
-    ));
+export const GroupsComponent: React.FC<{ group: Group }> = ({ group }) => {
+  let personPositionIds = group.positionIds || [];
+  let personPositions: PersonPosition[];
+  personPositions = personPositionIds.map(id => Data.PersonPositions[id]);
+  personPositions = lodash.sortBy(personPositions, personPositionSortKey);
+  let personPositionComponents = personPositions.map(personPosition => (
+    <PersonPositionComponent
+      key={personPosition.id}
+      personPosition={personPosition}
+      hoverDisplay={true}
+    />
+  ));
 
-    // No longer displays group.name -- instead we display the semesters, and then the board and team labels
-    return (
-      <div id="boardmembers" className="board">
-        <div className="semester--title">
-          {group.name.replace("AFX Board", "")}
-        </div>
-        <div className="board-team--title">Board Members</div>
-        <div className="board--row">{personPositionComponents}</div>
+  // No longer displays group.name -- instead we display the semesters, and then the board and team labels
+  return (
+    <div id="boardmembers" className="board">
+      <div className="semester--title">
+        {group.name.replace("AFX Board", "")}
       </div>
-    );
-    // }
-  }
+      <div className="board-team--title">Board Members</div>
+      <div className="board--row">{personPositionComponents}</div>
+    </div>
+  );
 }

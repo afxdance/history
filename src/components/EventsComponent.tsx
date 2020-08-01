@@ -12,7 +12,7 @@ import "react-big-calendar/lib/sass/styles.scss";
  * and FB Graph API to retrieve event information directly from the page.
  * Displays events according to their title and starting/ending time.
  *  */
-export function EventsComponent(props) {
+export const EventsComponent: React.FC = () => {
   const [events, setEvents] = React.useState([]);
   const localizer = momentLocalizer(moment);
 
@@ -29,8 +29,6 @@ export function EventsComponent(props) {
     </div>
   );
 }
-
-
 /** Event-handling function that is called when a user
  * clicks on an event.
  */
