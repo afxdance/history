@@ -11,14 +11,7 @@ import icon from "./afx2.png";
 // import ReactBootstrapStyle from 'react-bootstrap/s;
 import { HistoryNav } from "./HistoryNavComponent";
 
-export interface Navigation {
-  callback: Function;
-}
-
-export class Navigation extends React.Component<
-  { callback: Function },
-  { displayHistory: any }
-  > {
+export class Navigation extends React.Component<{}, { displayHistory: any }> {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -110,7 +103,7 @@ export class Navigation extends React.Component<
             display: this.state.displayHistory ? "" : "none",
           }}
         >
-          <HistoryNav OnClick={this.props.callback} />
+          <HistoryNav />
         </div>
       </div>
     );
