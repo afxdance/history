@@ -28,7 +28,6 @@ export const SemLinkComponent: React.FC<SemLinkComponent> = ({ semKey }) => {
   const semester: Semester = AFX.Semesters[semKey];
   // Semester codename is year with a letter(Example 2018a)
   const suffix: string = semester.codename.slice(-1);
-  // let year: string = "";
   let semName: string = "";
   // Using string slicing in order to see how we can make the names for the button.
   // tbh should research if there is a better way to do this.
@@ -43,10 +42,7 @@ export const SemLinkComponent: React.FC<SemLinkComponent> = ({ semKey }) => {
   }
 
   return (
-    <Button
-      className="sem-button"
-      onClick={onClick}
-    >
+    <Button className="sem-button" onClick={onClick}>
       {semName}
     </Button>
   );

@@ -5,12 +5,12 @@ import { AboutComponent } from "./AboutComponent";
 import { EventsComponent } from 'src/components/EventsComponent';
 import { GroupsComponent } from "src/components/GroupsComponent";
 import { Navigation } from "./NavBarComponent";
-import { SemProvider, useSem } from 'src/hooks/use-sem';
+import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 
 export const App: React.FC<{}> = () => {
-  const {currentSemKey} = useSem()
+  const { currentSemKey } = useSem()
   const [ display, toggleDisplayVisible ] = React.useState(false)
 
   const checkHistory = React.useCallback(() => {
@@ -24,10 +24,12 @@ export const App: React.FC<{}> = () => {
 
   let board: any = [];
   let teams: any = [];
-  // Go through all semesters (in chronological order) and display respective board members and teams
-  // for (let semKey in AFX.Semesters) {
+
   const currSem: Semester = AFX.Semesters[currentSemKey || "rec4GaaU2uP8FRfw3"];
-  const currBoardKey: any = currSem.boardGroupId; // todo: yucky array and any
+
+  const currBoardKey: any = currSem.boardGroupId;
+  // todo: yucky array and any
+
   if (currBoardKey) {
     board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
   }
@@ -38,10 +40,14 @@ export const App: React.FC<{}> = () => {
 
   React.useEffect(() => {
     window.addEventListener("scroll", checkHistory);
+
+    return (() => {
+      window.removeEventListener("scroll", checkHistory)
+    })
   }, [])
 
   return (
-    <SemProvider>
+    <React.Fragment>
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation/>
       </div>
@@ -63,6 +69,6 @@ export const App: React.FC<{}> = () => {
           <div id="teams">{teams}</div>
         </div>
       </div>
-    </SemProvider>
+    </React.Fragment>
   );
 }
