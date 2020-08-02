@@ -5,7 +5,7 @@ import Nav from "react-bootstrap/Nav";
 import { HistoryNav } from "./HistoryNavComponent";
 
 // TODO: get rid of callback when we get Alice's code
-export const Navigation: React.FC<{ callback: Function }> = ({ callback }) => {
+export const Navigation: React.FC = () => {
   const [displayHistory, setDisplayHistory] = React.useState<boolean>(false);
 
   function toggleFalse() {
@@ -93,7 +93,7 @@ export const Navigation: React.FC<{ callback: Function }> = ({ callback }) => {
           display: displayHistory ? "" : "none",
         }}
       >
-        <HistoryNav OnClick={callback} />
+        <HistoryNav />
       </div>
     </div>
   );

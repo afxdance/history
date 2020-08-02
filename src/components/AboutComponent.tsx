@@ -5,7 +5,7 @@ const dotStyle: CSSProperties = {
   textAlign: "center",
 };
 
-var slideIndex = 1;
+let slideIndex = 1;
 
 export const AboutComponent: React.FC = () => {
 
@@ -28,9 +28,9 @@ export const AboutComponent: React.FC = () => {
   }
 
   const showSlides = (n: number) => {
-    var i;
-    var slides: HTMLCollection = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
+    let i;
+    let slides: HTMLCollection = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
     if (n > slides.length) {
       slideIndex = 1;
     }
