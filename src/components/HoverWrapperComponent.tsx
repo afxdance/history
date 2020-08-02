@@ -38,7 +38,6 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
   };
 
   const ret: any = [];
-  const personPos: PersonPosition = props.pp;
   const personID = props.pp.personIds[0];
 
   const person: Person = AFX.People[personID];
