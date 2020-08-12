@@ -343,6 +343,7 @@ strong {
   object-position: center;
   border-radius: 50%;
   transition: all 1s;
+  background-color: black;
 }
 
 .board--img:hover {

@@ -38,7 +38,7 @@ const POSITION_TITLE_ORDER = [
  *
  * Used to sort personPositions by title then by person's name.
  */
-function personPositionSortKey(personPosition: PersonPosition) {
+const personPositionSortKey = (personPosition: PersonPosition) => {
   let titleKey: string | number;
   titleKey = POSITION_TITLE_ORDER.indexOf(personPosition.positionTitle);
 
