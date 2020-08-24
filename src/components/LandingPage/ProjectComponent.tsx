@@ -63,6 +63,8 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
               <a
                 href="https://forms.gle/L2SzZcsQKZv3JFpC8"
                 style={{ textAlign: "center", marginTop: "15px" }}
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Apply!
               </a>

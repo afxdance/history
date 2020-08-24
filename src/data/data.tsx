@@ -41793,7 +41793,33 @@ export let TechPeople = {
     "project": [
       "recE0mCwHo0OWHgOb"
     ],
-    "position": "Project Lead"
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "att4xtIcxwkLvqTVs",
+        "url": "https://dl.airtable.com/.attachments/e7adbb2b083b2454f7ba2e68365350ba/2b7a1f94/117784904_669802350318541_6573557462793228997_n.jpg",
+        "filename": "117784904_669802350318541_6573557462793228997_n.jpg",
+        "size": 57596,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca44b0e36497023d0c4d854f0ca27ab6/0904fc8f",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0536f7312cc19ff0b42a95d90464e1e9/e3490568",
+            "width": 512,
+            "height": 595
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/095eca8ba251839d51be48c2b407fba1/3be4db7d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
   },
   "recq1VpYYHjIbS3bz": {
     "createdTime": "2020-08-12T01:37:38.000Z",

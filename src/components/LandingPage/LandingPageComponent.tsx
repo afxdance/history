@@ -33,13 +33,14 @@ export const LandingComponent: React.FC<{}> = ({}) => {
             alignItems: "center",
           }}
         >
-          <button
-            type="submit"
-            formAction="https://forms.gle/L2SzZcsQKZv3JFpC8"
-            className="apply-button"
+          <a
+            href="https://forms.gle/L2SzZcsQKZv3JFpC8"
+            style={{ textDecoration: "none" }}
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            Apply Now!
-          </button>
+            <button className="apply-button">Apply Now!</button>
+          </a>
           Due: 9/12 at 11:59 PM
         </div>
       </div>
