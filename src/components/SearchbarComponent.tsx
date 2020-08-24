@@ -6,19 +6,16 @@ import { Route, HashRouter as Router, Redirect } from "react-router-dom";
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
-let searchBarText = "";
 export const Searchbar: React.FC = () => {
   return <FilteredList />;
 }
 
 const FilteredList: React.FC = () => {
-  const initNames: string[] = [];
   const [buttons, setButtons] = React.useState<string[]>([]);
   const [names, setNames] = React.useState<string[]>([]);
 
   const filterList = (event: React.ChangeEvent<HTMLInputElement>) => {
-    searchBarText = event.target.value;
-    console.log("The search bar val is " + searchBarText);
+    let searchBarText = event.target.value;
     // Reset search bar whe there's no input text
     if (searchBarText == "") {
       setButtons([]);
@@ -74,14 +71,3 @@ const FilteredList: React.FC = () => {
     </div>
   )
 };
-
-// takes list of names from updated list and generates search buttons'
-const List: React.FC<{ items: [] }> = ({ items }) => {
-  return (
-    <ul>
-      {items.map((item: any) => {
-        return <SearchButtonComponent name={item} />;
-      })}
-    </ul>
-  );
-}

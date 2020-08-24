@@ -1,7 +1,7 @@
 import * as lodash from "lodash";
 import * as React from "react";
 import * as AFX from "src/data/data";
-import { Group, Person, PersonPosition, Semester } from "src/data/types";
+import { Person, PersonPosition } from "src/data/types";
 
 interface HoverWrapperComponentProp {
   pp: PersonPosition;
