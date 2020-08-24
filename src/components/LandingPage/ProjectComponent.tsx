@@ -49,10 +49,25 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
         <h2 className="project-h1">{header}</h2>
         <div className="project-description">
           {description}
-          {isCommittee? <div style={{display: "flex", flexDirection: "column", margin: "15px 0px"}}>
-            We are recruiting this semester for the projects listed below. If you are interested, apply here:
-            <a href="#" style={{textAlign:"center", marginTop: "15px"}}>http://apply</a>
-          </div> : null}
+          {isCommittee ? (
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                margin: "15px 0px",
+              }}
+            >
+              We are recruiting this semester for the projects listed below. The
+              applications are due 9/12 at 11:59 PM. If you are interested,
+              apply here:
+              <a
+                href="https://forms.gle/L2SzZcsQKZv3JFpC8"
+                style={{ textAlign: "center", marginTop: "15px" }}
+              >
+                Apply!
+              </a>
+            </div>
+          ) : null}
         </div>
       </div>
       <div style={{ margin: "30px" }}>

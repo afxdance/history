@@ -25,9 +25,22 @@ export const LandingComponent: React.FC<{}> = ({}) => {
         <div>{techSections.slice(1)}</div>
         <h1 style={{ margin: "25px" }}>Interested?</h1>
         <div
-          style={{ display: "flex", justifyContent: "center", margin: "30px" }}
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            margin: "30px",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
         >
-          <button className="apply-button">Apply Now!</button>
+          <button
+            type="submit"
+            formAction="https://forms.gle/L2SzZcsQKZv3JFpC8"
+            className="apply-button"
+          >
+            Apply Now!
+          </button>
+          Due: 9/12 at 11:59 PM
         </div>
       </div>
     </Popup>
