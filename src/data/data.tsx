@@ -4094,7 +4094,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Training"
   },
   "recs2aRRotZKq6Lvm": {
     "createdTime": "2018-10-17T21:52:32.000Z",
@@ -4600,7 +4601,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=IeYXWWrtLX0",
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
-    ]
+    ],
+    "level": "Training"
   },
   "rec6BXmACvsC1lo0O": {
     "createdTime": "2019-01-23T08:13:23.000Z",
@@ -4614,14 +4616,16 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=gnNYunNe0Us",
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
-    ]
+    ],
+    "level": "Training"
   },
   "recDlM5I54yBFMaFU": {
     "createdTime": "2019-01-23T08:13:36.000Z",
     "id": "recDlM5I54yBFMaFU",
     "name": "AFX The Crew",
     "positionIds": [
-      "recPPnKy4M1GAwVJS"
+      "recPPnKy4M1GAwVJS",
+      "recScFTZrcPPDaWtz"
     ],
     "type": "team",
     "videoUrl": "https://www.youtube.com/watch?v=-8Tb8zzlFys",
@@ -4688,7 +4692,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=dgLp6AIY00w",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Training"
   },
   "recj61UZTSuECP0t6": {
     "createdTime": "2019-01-23T08:06:50.000Z",
@@ -4702,7 +4707,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=UfAqqPTRdyU",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Training"
   },
   "rec85mDKYhDXcHY7h": {
     "createdTime": "2019-01-23T08:06:57.000Z",
@@ -4717,22 +4723,23 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=3UxWBHh12sA",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Training"
   },
   "recrlyY7O3XM43HG9": {
     "createdTime": "2019-01-23T08:07:10.000Z",
     "id": "recrlyY7O3XM43HG9",
     "name": "AFX The Crew",
     "positionIds": [
-      "recScFTZrcPPDaWtz",
-      "recZ6VLdQDNiWuCrY"
+      "recZ6VLdQDNiWuCrY",
+      "recScFTZrcPPDaWtz"
     ],
     "type": "team",
     "videoUrl": "https://www.youtube.com/watch?v=IYE188bfz_A",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
-    "level": "Training "
+    "level": "Project"
   },
   "recCvlKgKNpcMfw5i": {
     "createdTime": "2019-01-23T08:07:26.000Z",
@@ -4761,7 +4768,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=v_VrY_9v_lk",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Project"
   },
   "recCwYBuoC4d3UBVf": {
     "createdTime": "2019-01-23T08:07:41.000Z",
@@ -4776,7 +4784,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=W8zIzW_BtBo",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Training"
   },
   "recO91b2wy6XN4g0J": {
     "createdTime": "2019-01-23T08:07:48.000Z",
@@ -4790,7 +4799,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=Plqi_HzOMBI",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Training"
   },
   "rectC2LirGhN0EAgz": {
     "createdTime": "2019-01-23T08:07:57.000Z",
@@ -4804,7 +4814,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=WD_anU37QdI",
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
-    ]
+    ],
+    "level": "Training"
   },
   "recOsz2yPhsrLgtpo": {
     "createdTime": "2019-01-23T08:03:55.000Z",
@@ -4845,7 +4856,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=84e-zrhSX-Y",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Training"
   },
   "recOnVahXzC7kYXXp": {
     "createdTime": "2019-01-23T07:46:10.000Z",
@@ -4859,7 +4871,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=khyFiN4Hv-Y",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Project"
   },
   "recF4yQ7IPp6e9dXn": {
     "createdTime": "2019-01-23T07:46:18.000Z",
@@ -4873,7 +4886,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=QILYP9nG0E4",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Project"
   },
   "recpcyRmEzskH9FWc": {
     "createdTime": "2019-01-23T07:46:41.000Z",
@@ -4888,7 +4902,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=MyGW4vaeTbs",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Training"
   },
   "rec9MWNgbORpsNcE8": {
     "createdTime": "2019-01-23T07:46:50.000Z",
@@ -4902,7 +4917,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=aOrxV3Zelxc",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Training"
   },
   "recTFZCC0WkOZ62Wh": {
     "createdTime": "2019-01-23T07:47:07.000Z",
@@ -4917,7 +4933,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=lizK1cDDFZE",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Training"
   },
   "rec3tdZ3T0Dx3MQAg": {
     "createdTime": "2019-01-23T09:02:51.000Z",
@@ -4930,7 +4947,8 @@ export let Groups = {
     "type": "team",
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
-    ]
+    ],
+    "level": "Training"
   },
   "recqQW2W4yDgUc14t": {
     "createdTime": "2019-01-23T07:40:18.000Z",
@@ -5253,7 +5271,8 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=CHgbUNJ3ZM0",
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
-    ]
+    ],
+    "level": "Project"
   },
   "recWFnmpAsCMWmsmP": {
     "createdTime": "2019-01-23T07:35:22.000Z",
@@ -5905,8 +5924,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=aQ8xPAXTYD0",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "rec6O0XYNXZk0TUSH": {
     "createdTime": "2018-12-12T10:09:59.000Z",
@@ -5947,8 +5965,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=FYufD2RH1LU",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "recooewIvmz1cLLO8": {
     "createdTime": "2018-12-12T10:13:12.000Z",
@@ -7220,8 +7237,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=MLOygMNrWfw",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "recideyqEsLQVrk6U": {
     "createdTime": "2019-01-23T09:30:38.000Z",
@@ -7236,8 +7252,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=1_lg7I5cJnY",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "recY8xWazB8UYou9m": {
     "createdTime": "2019-01-23T09:31:15.000Z",
@@ -7252,8 +7267,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=TqjWFY14CF4",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "rec3I7LD5AxwLkwcl": {
     "createdTime": "2019-01-23T09:31:48.000Z",
@@ -7268,8 +7282,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=idIHrsgUYXI",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "recjmrarPLS2cLFP6": {
     "createdTime": "2019-01-23T09:33:25.000Z",
@@ -7284,8 +7297,7 @@ export let Groups = {
     "videoUrl": "https://www.youtube.com/watch?v=tKOQEFVHoJE",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
-    ],
-    "level": "Training"
+    ]
   },
   "recCbo4tDZZKyEim7": {
     "createdTime": "2019-01-23T09:35:16.000Z",
@@ -8669,6 +8681,32 @@ export let Groups = {
       "recrR4y1gHe8cKGWA"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attCVG7WfFDbjjOUV",
+        "url": "https://dl.airtable.com/.attachments/94f7684bb9b9360f718ab1e68cdbf8a3/ecc50ba9/ito.jpg",
+        "filename": "ito.jpg",
+        "size": 10739562,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d7413b591ea8478fef0d5d88625aaf17/020bb593",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/193f0be99a5eb7c1b05bdc18de657f01/da62fba3",
+            "width": 765,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a657c01c21b3d36f5429eb2e7bb05cb1/f3b7afd8",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=AbJCG9cEhY4",
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
@@ -9303,6 +9341,32 @@ export let Groups = {
       "recbKAWSyK9HMh73R"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attr2kxZwQ2wLaSSd",
+        "url": "https://dl.airtable.com/.attachments/13e38fde7aa82153273fb26f9553b802/329faa05/IMG_7789.jpg",
+        "filename": "IMG_7789.jpg",
+        "size": 1146613,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f7d52833089bdd010ef12a08c1987ace/020d3121",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bbfa9a38c4433e3b8522a34349d22e24/ac304038",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/48571c5f3bdb63b95f7b8c85b8a08c06/d2845e34",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9316,6 +9380,32 @@ export let Groups = {
       "rec6K3KbqxS3JT3JA"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attPkUrMHDlc7FLGd",
+        "url": "https://dl.airtable.com/.attachments/9363cb5602f63cdf35477722a4a2b780/1c430d89/92369513_733830184020199_4207643326607785984_n.jpg",
+        "filename": "92369513_733830184020199_4207643326607785984_n.jpg",
+        "size": 808021,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/daa5ad4372c45caad7a19f0280b97e8b/2f7120ee",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a6cc59997b8dbe8580d309100685dd58/d92f28e4",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5342aec8f1b7fe75213ffe976b5e52b8/ff17cbb9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9330,6 +9420,32 @@ export let Groups = {
       "rec5Px0R7YFqwdcWn"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attczlv4FJewqg2UF",
+        "url": "https://dl.airtable.com/.attachments/c9d05f849b0569afcdca2e39c206502f/40199d02/95509581_166468301427806_4220783555711598592_n.jpg",
+        "filename": "95509581_166468301427806_4220783555711598592_n.jpg",
+        "size": 778335,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/35541cfb88281806866ad9fb4c58a503/c7dff402",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/32dd328c8a300c025fe568102c63e201/c80291d2",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/19f6d3c3f2e90b6d082a7985013e71b5/af4ef5a9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9385,6 +9501,32 @@ export let Groups = {
       "rec82yijgd8fQTqBR"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attcXxb7m5cYTqVnd",
+        "url": "https://dl.airtable.com/.attachments/1b93d59bce1050bce997aa0a9fe9f38f/801071cf/103465927_2939686119591610_5356991979796731747_n.jpg",
+        "filename": "103465927_2939686119591610_5356991979796731747_n.jpg",
+        "size": 661077,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f56a50acd4d26e1b9067f31db24cdb5f/d5ff384d",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c7d8be9feb836c73fc35a3c27f2f3dea/0fd06dec",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c0b1eba3c13b38848b7469c88d1b7042/3f5c8853",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9441,6 +9583,32 @@ export let Groups = {
       "rechIunAWBaNzBUlS"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attobiQfbxhxy6s5F",
+        "url": "https://dl.airtable.com/.attachments/7d577eef12838f68433261f3c64fe746/fe1b5eb2/96300318_2867513123356579_1867757405878616064_n.jpg",
+        "filename": "96300318_2867513123356579_1867757405878616064_n.jpg",
+        "size": 53607,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0cbec9f8dccdec04711030164cac44e5/1f0b94db",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec1dd50c02b9adb8219606cd8e699549/f6c13641",
+            "width": 637,
+            "height": 474
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4cf41a87918d31eb500215bea6dc27cf/36a2351a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9457,6 +9625,32 @@ export let Groups = {
       "recq4SnQP1qxT1QS4"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attXdIlMXuMieAntl",
+        "url": "https://dl.airtable.com/.attachments/5ca47c7ef036111a14d647264b14f14f/e552af52/96143206_996449467482199_1983668046232813568_n.jpg",
+        "filename": "96143206_996449467482199_1983668046232813568_n.jpg",
+        "size": 304130,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b83239e10dae3116fe085c995f9d45e8/a6de0513",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8419db95030c2c171540399b4b9b1ffa/26f0f651",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b5097ca5f378450475edef8206695a0d/35ffcc07",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9470,6 +9664,32 @@ export let Groups = {
       "rec00di1F0j1G7dFf"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attkGb9u9brS7fVvE",
+        "url": "https://dl.airtable.com/.attachments/309c76f0dc3383ce33d7cb826b3f7da4/4f914f3f/96273828_615750622353120_2498903481386008576_n.png",
+        "filename": "96273828_615750622353120_2498903481386008576_n.png",
+        "size": 8035436,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ea24984cfa0ac0d8c77689fb493ae69b/a3925f74",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/78ce21c9a14f1c4e0fc25777fadd2812/d7c1a1f9",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/460c22e5fda8b46317c4a67b70bcb5e0/18dcbb20",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -9485,6 +9705,32 @@ export let Groups = {
       "recZU2ANvu48KVoHG"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attsnqXZ8UlaN0jp0",
+        "url": "https://dl.airtable.com/.attachments/d0f9142d7d48d97b1d2768d8399b3fb4/504970cc/87757868_1046495772393160_2459909477600591872_n.jpg",
+        "filename": "87757868_1046495772393160_2459909477600591872_n.jpg",
+        "size": 1054502,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/511795659eb183ff99f949e63af4fada/32e4926f",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1f4a38c351270cf1538d248edd8d21a0/fa5ee3e1",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7d8c2a8c9cf6d5e7636cbce7cb3fd6f3/2d318c41",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
@@ -28780,21 +29026,24 @@ export let PersonPositions = {
     "createdTime": "2019-01-23T09:11:29.000Z",
     "id": "recScFTZrcPPDaWtz",
     "groupIds": [
-      "recrlyY7O3XM43HG9"
+      "recrlyY7O3XM43HG9",
+      "recDlM5I54yBFMaFU"
     ],
     "positionTitle": "Director",
     "personIds": [
       "recyjhiPOWoth35P0"
     ],
     "groupType": [
+      "team",
       "team"
     ],
     "isValid": "OK",
     "teamSemesterId": [
-      "rec7OSoLcUa7AXoRj"
+      "rec7OSoLcUa7AXoRj",
+      "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2014a",
-    "(You can't directly edit this column)": "Aileen Zhang, AFX The Crew Director"
+    "sortKey": "2014a, 2013c",
+    "(You can't directly edit this column)": "Aileen Zhang, AFX The Crew, AFX The Crew Director"
   },
   "recZ6VLdQDNiWuCrY": {
     "createdTime": "2019-01-23T09:11:40.000Z",
@@ -32582,26 +32831,26 @@ export let PersonPositions = {
     "positionTitle": "Director",
     "picture": [
       {
-        "id": "att7mLx5oKyloLVAI",
-        "url": "https://dl.airtable.com/.attachments/8b93cbd01c7f4f7ec8bb3dfffe7a7a31/813f01c6/JasonBouatavanh.PNG",
-        "filename": "Jason Bouatavanh.PNG",
-        "size": 258715,
-        "type": "image/png",
+        "id": "att78uNC2lc08Xy3W",
+        "url": "https://dl.airtable.com/.attachments/31c98366375756fe333a982097654798/0ca048e3/jason.jpg",
+        "filename": "jason.jpg",
+        "size": 143810,
+        "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/64f6f91c1190c711b4ca5fa94ea7a421/81b94941",
-            "width": 37,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/afc7b860b23d8182cfda333940795e4f/e4432ca7",
+            "width": 24,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2ee5be5f690d69a7829c3d1e87394fbb/2e5bd1dc",
-            "width": 510,
-            "height": 492
+            "url": "https://dl.airtable.com/.attachmentThumbnails/32cf2c9e9380bfa2662ada448d89e538/1cddc29e",
+            "width": 512,
+            "height": 767
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/afe872a740825f49deae893eb6c4d7ed/b8f04ad0",
-            "width": 510,
-            "height": 492
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dc6fbf003ad8a1cb4ce8e2340a373b83/327c5043",
+            "width": 3000,
+            "height": 3000
           }
         }
       }
@@ -41194,14 +41443,6 @@ export let Semesters = {
 }
 
 export let Years = {
-  "rec4GgvXbtSvuQiW9": {
-    "createdTime": "2020-02-27T00:19:23.000Z",
-    "id": "rec4GgvXbtSvuQiW9",
-    "Name": "2020",
-    "semCodename": [
-      "rec4GaaU2uP8FRfw3"
-    ]
-  },
   "rec88Ubqgi1TjIkh5": {
     "createdTime": "2019-04-29T04:09:57.000Z",
     "id": "rec88Ubqgi1TjIkh5",
@@ -41279,5 +41520,376 @@ export let Years = {
     "semCodename": [
       "rec940RvbrFn1Y5cD"
     ]
+  },
+  "rec4GgvXbtSvuQiW9": {
+    "createdTime": "2020-02-27T00:19:23.000Z",
+    "id": "rec4GgvXbtSvuQiW9",
+    "Name": "2020",
+    "semCodename": [
+      "rec4GaaU2uP8FRfw3"
+    ]
   }
 }
+
+export let TechProjects = {
+  "reccGJAI2eGW2LVgs": {
+    "createdTime": "2020-08-12T01:26:01.000Z",
+    "id": "reccGJAI2eGW2LVgs",
+    "name": "Committee",
+    "description": "AFX Tech is a sub-committee in AFX Dance that develops and maintains technical projects for the AFX dance community. We will provide you with mentorship as well as the tools and experience you need for whichever tech skill set you are looking to improve -- be it web design with React, backend development with Ruby on Rails, or mobile development. You will gain experience working on projects that will be used by more than a thousand students for many semesters to come.",
+    "techPeople": [
+      "recplm48mR6XCjZyU",
+      "recdTc3495nI4gklT",
+      "recq1VpYYHjIbS3bz"
+    ]
+  },
+  "reciidNezVi9P9j3h": {
+    "createdTime": "2020-08-12T01:19:28.000Z",
+    "id": "reciidNezVi9P9j3h",
+    "name": "History",
+    "description": "We are a small team that are responsible for the development of the official AFX website (afx.dance). As part of History, you will be working with front-end web development tools such as React, TypeScript, HTML, and CSS. Some features that you will be helping us implement this semester include: a merchandise page for AFX apparel,  a “Smart” video gallery that showcases past performances, and improving website security and performance.",
+    "techPeople": [
+      "recnXtUDEf896SwWu",
+      "recv0nsk7ynL18ZaE"
+    ]
+  },
+  "recE0mCwHo0OWHgOb": {
+    "createdTime": "2020-08-12T01:19:28.000Z",
+    "id": "recE0mCwHo0OWHgOb",
+    "name": "Music",
+    "description": "The music app provides dancers with functionality to play, slow down, loop, and share music. In the past, we've built a website (slow.afx.dance) and an Android app (Slowify Music). This semester, we'll be building a React Native application from the ground up for both iOS and Android to replace the Android app. Join us to build an amazing product for the dance community.",
+    "techPeople": [
+      "recGSx1i0TPGzGxHz",
+      "recGz1fYyTHthgtxs"
+    ]
+  },
+  "recpptXzEL1vOS8LU": {
+    "createdTime": "2020-08-12T01:19:28.000Z",
+    "id": "recpptXzEL1vOS8LU",
+    "name": "Roster",
+    "description": "This is a Ruby on Rails app that is used to collect dancers’ information at auditions and maintain the database of ~1000 dancers. We also handle team switch requests and the randomization of dancers onto teams. Roster is the most developed app under AFX Tech — it has been completely functional since 2015. This semester, we’re working on automating emails and integrating the SRC form with our app among other features.",
+    "techPeople": [
+      "recPId8kKzqKwIyYz",
+      "recahxHYnLeD2p0am"
+    ]
+  }
+}
+
+export let TechPeople = {
+  "recnXtUDEf896SwWu": {
+    "createdTime": "2020-08-12T01:32:03.000Z",
+    "id": "recnXtUDEf896SwWu",
+    "name": "Charles Wang",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "attn4JcB8gaQfwgfW",
+        "url": "https://dl.airtable.com/.attachments/1581f1ea440fbcb8e3572b91fa272956/753d425a/IMG_2654.jpg",
+        "filename": "IMG_2654.jpg",
+        "size": 534285,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e641d9d0309a500df408e69eaafc7416/0805a39f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1226cb5159fc3e340ea507e92cbe5f7e/c2626cd8",
+            "width": 514,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c16790f5524a0cdce880bc185a70dacf/bb4b0454",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recplm48mR6XCjZyU": {
+    "createdTime": "2020-08-12T01:32:03.000Z",
+    "id": "recplm48mR6XCjZyU",
+    "name": "Alice Wu",
+    "project": [
+      "reccGJAI2eGW2LVgs"
+    ],
+    "position": "Committee Lead",
+    "picture": [
+      {
+        "id": "attVeGcN9kaHiJtYv",
+        "url": "https://dl.airtable.com/.attachments/948b2307e6b0a81d18bad8ba0b18213c/be2f58d5/FullSizeRender.jpg",
+        "filename": "FullSizeRender.jpg",
+        "size": 34181,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/09b8a60aed7185fe6bdae4ee89232809/d3f0c7c7",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1cae52d79a413567348f1c16cbc4b3b/6dad7255",
+            "width": 512,
+            "height": 653
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3fcaedbb1bd23c0a2c639483075912db/3af51f61",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recv0nsk7ynL18ZaE": {
+    "createdTime": "2020-08-12T01:32:03.000Z",
+    "id": "recv0nsk7ynL18ZaE",
+    "name": "Miles Wada",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "attHzlxjqtL2T4VOH",
+        "url": "https://dl.airtable.com/.attachments/d44da79a012f64d507b07607c621632e/37b1e70e/yummyprofile.jpg",
+        "filename": "yummyprofile.jpg",
+        "size": 285290,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5e541932ebb4f58e510bc50d7019bbc0/b07a44ca",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/24807ccc481e986fc6385b428c38a64e/f809080d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9dab698e7d281d3de437df7a174b68d4/2d071c2f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recdTc3495nI4gklT": {
+    "createdTime": "2020-08-12T01:36:14.000Z",
+    "id": "recdTc3495nI4gklT",
+    "name": "Sophie Lian",
+    "project": [
+      "reccGJAI2eGW2LVgs"
+    ],
+    "position": "Committee Lead",
+    "picture": [
+      {
+        "id": "att7tkJrgrrLSqghw",
+        "url": "https://dl.airtable.com/.attachments/75e35d6dc87ed92befc14a33e3759db4/bb2cd37e/Academi-01086.jpg",
+        "filename": "Academi-01086.jpg",
+        "size": 432247,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fa671e14f6e1136e20f4f664c7eb7284/0f56f173",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e75cf6fc4644261cee60b7cfd2b69583/be794250",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed92b8d7fc0b0f04218a2e37e8d2328b/19c681e2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recGSx1i0TPGzGxHz": {
+    "createdTime": "2020-08-12T01:36:24.000Z",
+    "id": "recGSx1i0TPGzGxHz",
+    "name": "Howard Wang",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "att9XT16KYkv29VoK",
+        "url": "https://dl.airtable.com/.attachments/26aff3bd839722c49490765f782cb41a/0f92c4f8/howard.jpeg",
+        "filename": "howard.jpeg",
+        "size": 65211,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c9de19ea04871cac856160995edf6e5c/b6473a0d",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/195a5ecdbe34d398c1d697c20668ce58/3521c4ad",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/416f3cc49fe8fe984dec141c86177632/6627b7d4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recPId8kKzqKwIyYz": {
+    "createdTime": "2020-08-12T01:36:38.000Z",
+    "id": "recPId8kKzqKwIyYz",
+    "name": "Joe Zou",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "attPu1ZyqYj7CsURQ",
+        "url": "https://dl.airtable.com/.attachments/4e97ed839395e86777d01224b0d4d5c6/ceca030c/ScreenShot2020-06-03at12_52_21PM.png",
+        "filename": "Screen Shot 2020-06-03 at 12_52_21 PM.png",
+        "size": 444239,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f16e4758f9d22f6e2200234eaa36b942/75c0bf67",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/93301518055bd5fce69b94b9ffeb4b51/3eaa9d13",
+            "width": 512,
+            "height": 751
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/014b6dfc05e5bb3903c8c694cc040d0f/880b4e44",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recGz1fYyTHthgtxs": {
+    "createdTime": "2020-08-12T01:36:55.000Z",
+    "id": "recGz1fYyTHthgtxs",
+    "name": "Laryn Qi",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "att4xtIcxwkLvqTVs",
+        "url": "https://dl.airtable.com/.attachments/e7adbb2b083b2454f7ba2e68365350ba/2b7a1f94/117784904_669802350318541_6573557462793228997_n.jpg",
+        "filename": "117784904_669802350318541_6573557462793228997_n.jpg",
+        "size": 57596,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca44b0e36497023d0c4d854f0ca27ab6/0904fc8f",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0536f7312cc19ff0b42a95d90464e1e9/e3490568",
+            "width": 512,
+            "height": 595
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/095eca8ba251839d51be48c2b407fba1/3be4db7d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recq1VpYYHjIbS3bz": {
+    "createdTime": "2020-08-12T01:37:38.000Z",
+    "id": "recq1VpYYHjIbS3bz",
+    "name": "Joe Zou",
+    "project": [
+      "reccGJAI2eGW2LVgs"
+    ],
+    "position": "Commitee Lead",
+    "picture": [
+      {
+        "id": "attvbTFfn6iA1h5bB",
+        "url": "https://dl.airtable.com/.attachments/0046ff12c7c48e7d57d47ae8f62b2eb9/9f874c6d/ScreenShot2020-06-03at12_52_21PM.png",
+        "filename": "Screen Shot 2020-06-03 at 12_52_21 PM.png",
+        "size": 444239,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a587906e7869ddc36f77e7fa735439de/dca3b4fb",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c8ea14a90bc6ead44970d808cc959473/0930c60d",
+            "width": 512,
+            "height": 751
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9b14e9ca5464e81c1e9503feedc8cfca/9a592d99",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recahxHYnLeD2p0am": {
+    "createdTime": "2020-08-12T01:38:23.000Z",
+    "id": "recahxHYnLeD2p0am",
+    "name": "Evelyn Liu",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
+    "position": "Project Lead",
+    "picture": [
+      {
+        "id": "attH72iNpgXc0HVii",
+        "url": "https://dl.airtable.com/.attachments/77d6c2cff1e8b072353a7dcc66908cb4/2da0eb2c/117762839_746697182755596_8906857659641321031_n.jpg",
+        "filename": "117762839_746697182755596_8906857659641321031_n.jpg",
+        "size": 123787,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5f90141f88bd814790e5cb4a4fd62858/a92798a1",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3838ff51dd2375fdb6ec0d0a153b46cf/025ec6b6",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/709e79ae5902dbb0197ff5e52da53646/aa7fa0fd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  }
+}
+

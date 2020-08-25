@@ -14,11 +14,16 @@ interface HoverWrapperComponentState {
   newAdjustedTransform: string | undefined;
 }
 
-export const HoverWrapperComponent: React.FC<{ pp: PersonPosition, hoverDisplay: Boolean }> = (props) => {
+export const HoverWrapperComponent: React.FC<{
+  pp: PersonPosition;
+  hoverDisplay: Boolean;
+}> = props => {
   const [newAdjustedLeft, setAdjustedLeft] = React.useState<string | number>();
-  const [newAdjustedRight, setAdjustedRight] = React.useState<string | number>();
+  const [newAdjustedRight, setAdjustedRight] = React.useState<
+    string | number
+  >();
   const [newAdjustedTransform, setAdjustedTransform] = React.useState<string>();
-  const hoverRef = React.useRef();
+  const hoverRef = React.useRef<HTMLDivElement>(null);
 
   function readjust() {
     // Executes function (displays info box) after 1s
@@ -42,7 +47,7 @@ export const HoverWrapperComponent: React.FC<{ pp: PersonPosition, hoverDisplay:
       setAdjustedLeft(0);
       setAdjustedTransform("translate(0%)");
     }
-  };
+  }
 
   const ret: any = [];
   const personPos: PersonPosition = props.pp;
@@ -116,9 +121,10 @@ export const HoverWrapperComponent: React.FC<{ pp: PersonPosition, hoverDisplay:
           left: newAdjustedLeft,
           right: newAdjustedRight,
           transform: newAdjustedTransform,
-        }}>
+        }}
+      >
         {ret}
       </div>
     </div>
   );
-}
+};
