@@ -3,7 +3,7 @@ import Popup from "reactjs-popup"
 import { TechProjects } from "src/data/data"
 import { ProjectComponent } from "./ProjectComponent"
 
-export const LandingComponent: React.FC<{}> = ({}) => {
+export const LandingComponent: React.FC<{}> = ({ }) => {
   let techSections: any[] = []
 
   for (const project in TechProjects) {
@@ -23,7 +23,7 @@ export const LandingComponent: React.FC<{}> = ({}) => {
         <div>{techSections[0]}</div>
         <h1 style={{ margin: "25px" }}>Projects</h1>
         <div>{techSections.slice(1)}</div>
-        <h1 style={{ margin: "25px" }}>Interested?</h1>
+        <h1 className="text-center">Interested?</h1>
         <div
           style={{
             display: "flex",
