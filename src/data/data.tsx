@@ -41547,7 +41547,7 @@ export let TechProjects = {
     "createdTime": "2020-08-12T01:19:28.000Z",
     "id": "reciidNezVi9P9j3h",
     "name": "History",
-    "description": "We are a small team that are responsible for the development of the official AFX website (afx.dance). As part of History, you will be working with front-end web development tools such as React, TypeScript, HTML, and CSS. Some features that you will be helping us implement this semester include: a merchandise page for AFX apparel,  a “Smart” video gallery that showcases past performances, and improving website security and performance.",
+    "description": "We are a small team that is responsible for the development of the official AFX website (afx.dance). As part of History, you will be working with front-end web development tools such as React, TypeScript, HTML, and CSS. Some features that you will be helping us implement this semester include: a merchandise page for AFX apparel,  a “Smart” video gallery that showcases past performances, and improving website security and performance.",
     "techPeople": [
       "recnXtUDEf896SwWu",
       "recv0nsk7ynL18ZaE"
@@ -41892,4 +41892,3 @@ export let TechPeople = {
     ]
   }
 }
-
