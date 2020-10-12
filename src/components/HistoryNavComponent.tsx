@@ -10,17 +10,17 @@ import { ButtonGroup } from "reactstrap";
 export class HistoryNav extends React.Component<
   {},
   { type: string; sems: any }
-> {
+  > {
   constructor(props: any) {
     super(props);
     this.state = {
-      //TODO: Need to make code so that this selects the most recent semester rather than hard coded
+      // TODO: Need to make code so that this selects the most recent semester rather than hard coded
       type: typeof AFX.Semesters,
       sems: null,
     };
   }
 
-  displaySems(e: any) {
+  public displaySems(e: any) {
     let curYear: Year = AFX.Years[e.target.value];
     let semButtons: any = [];
     for (let semKey of curYear.semCodename) {

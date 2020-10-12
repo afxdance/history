@@ -8,9 +8,9 @@ import { PersonPosition } from "src/data/types";
 
 export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
   function findIDs(personName: string) {
-    var posIDs: string[][] = []
-    var people = AFX.People
-    for (var pID in people) {
+    let posIDs: string[][] = []
+    let people = AFX.People
+    for (let pID of Object.keys(people)) {
       let currPerson: Person = people[pID];
       if (currPerson.name.toLowerCase().includes(personName.toLowerCase())) {
         posIDs.push(currPerson.positionIds);
@@ -21,7 +21,7 @@ export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
   // Stores url parameters (?name=" ") in params
   let personPositionComponents: any = [];
 
-  if (name != undefined) {
+  if (name !== undefined) {
     let posIDs = findIDs(name);
     // Mimicking hoverwrappercomponent, but in a static context for popups
     posIDs.forEach((ids: any) => {
@@ -29,7 +29,7 @@ export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
       let recentPosition = AFX.PersonPositions[ids[ids.length - 1]];
       const ret: any[] = [];
       ret.push(<h3>{name}</h3>);
-      ids.forEach(function (id: any) {
+      ids.forEach((id: any) => {
         let personPos: PersonPosition = AFX.PersonPositions[id];
         // picture
         let picUrl = "afx2.png";
@@ -67,7 +67,7 @@ export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
       );
     });
   }
-  if (personPositionComponents.length == 0) {
+  if (personPositionComponents.length === 0) {
     name = name + " Not Found.";
   }
   return (

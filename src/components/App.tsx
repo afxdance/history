@@ -12,14 +12,14 @@ import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
-  const [ display, toggleDisplayVisible ] = React.useState(false)
-  const [ landingPageDisplay, toggleLandingPageDisplay ] = React.useState(true)
+  const [display, toggleDisplayVisible] = React.useState(false)
+  const [landingPageDisplay, toggleLandingPageDisplay] = React.useState(true)
 
   const checkHistory = React.useCallback(() => {
     const history = document.getElementById("bottom")?.getBoundingClientRect();
-    const historyTop = history? history.top : 0
+    const historyTop = history ? history.top : 0
 
-    if (historyTop <= 0 && display == false) {
+    if (historyTop <= 0 && display === false) {
       toggleDisplayVisible(true)
     }
   }, [window])
@@ -50,9 +50,9 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      <LandingComponent/>
+      <LandingComponent />
       <div className={display ? "show-Search" : "no-Search"}>
-        <Navigation/>
+        <Navigation />
       </div>
       <div id="top" className="anchor">
         <AboutComponent />

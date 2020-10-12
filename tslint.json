@@ -1,5 +1,9 @@
 {
-  "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
+  "extends": [
+    "tslint:recommended",
+    "tslint-react",
+    "tslint-config-prettier"
+  ],
   "defaultSeverity": "warning",
   "linterOptions": {
     "exclude": [
@@ -14,8 +18,15 @@
     "max-classes-per-file": false,
     "member-ordering": false,
     "no-namespace": false,
-    "object-literal-sort-keys": false,
-    "prefer-const": false
+    "prefer-const": false,
+    "ordered-imports": [
+      false
+    ],
+    "object-literal-sort-keys": [
+      false
+    ],
+    "jsx-no-lambda": false,
+    "no-string-literal": false
   },
   "jsRules": {
     "object-literal-sort-keys": false
