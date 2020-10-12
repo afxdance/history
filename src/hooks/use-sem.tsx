@@ -7,7 +7,7 @@ export interface SemContext {
 
 export const CurrentSemContext = React.createContext<SemContext>({
   currentSemKey: "rec4GaaU2uP8FRfw3",
-  setCurrentSemKey: () => {},
+  setCurrentSemKey: () => { },
 });
 
 export const SemProvider: React.FC = ({ children }) => {

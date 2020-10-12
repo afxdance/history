@@ -8,7 +8,8 @@ const dotStyle: CSSProperties = {
 let slideIndex = 1;
 
 export const AboutComponent: React.FC = () => {
-  function toggleDiv() {
+
+  const toggleDiv = () => {
     // Needs to be declared as HTMLElement or else typescript won't allow style changes
     const e = document.getElementById("infoDiv") as HTMLElement;
     if (e.style.display === "none") {
@@ -18,18 +19,19 @@ export const AboutComponent: React.FC = () => {
     }
   }
 
-  function plusSlides(n: number) {
+  const plusSlides = (n: number) => {
     showSlides((slideIndex += n));
   }
 
-  function currentSlide(n: number) {
+  const currentSlide = (n: number) => {
     showSlides((slideIndex = n));
   }
 
-  function showSlides(n: number) {
-    var i;
-    var slides: HTMLCollection = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
+  const showSlides = (n: number) => {
+    let i;
+    let slides: HTMLCollection = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
+  
     if (n > slides.length) {
       slideIndex = 1;
     }
@@ -147,5 +149,4 @@ export const AboutComponent: React.FC = () => {
       </div>
     </div>
   );
-
 }
