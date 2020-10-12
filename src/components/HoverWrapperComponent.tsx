@@ -16,7 +16,7 @@ interface HoverWrapperComponentState {
 
 export const HoverWrapperComponent: React.FC<{
   pp: PersonPosition;
-  hoverDisplay: Boolean;
+  hoverDisplay: boolean;
 }> = props => {
   const [newAdjustedLeft, setAdjustedLeft] = React.useState<string | number>();
   const [newAdjustedRight, setAdjustedRight] = React.useState<
@@ -26,11 +26,12 @@ export const HoverWrapperComponent: React.FC<{
   const hoverRef = React.useRef<HTMLDivElement>(null);
 
   function readjust() {
+    let elem: any;
     // Executes function (displays info box) after 1s
     if (hoverRef.current == null) {
       return;
     } else {
-      var elem: any = hoverRef.current;
+      elem = hoverRef.current;
     }
 
     /* Callback function for leftmost and rightmost infoboxes
@@ -50,7 +51,7 @@ export const HoverWrapperComponent: React.FC<{
   }
 
   const ret: any = [];
-  const personPos: PersonPosition = props.pp;
+  // const personPos: PersonPosition = props.pp;
   const personID = props.pp.personIds[0];
 
   const person: Person = AFX.People[personID];
@@ -62,7 +63,7 @@ export const HoverWrapperComponent: React.FC<{
     personPosition => personPosition.sortKey
   );
   personPositions.reverse();
-  if (props.hoverDisplay == true) {
+  if (props.hoverDisplay === true) {
     ret.push(<h3>{person.name}</h3>);
 
     for (let personPos of personPositions) {
@@ -79,7 +80,7 @@ export const HoverWrapperComponent: React.FC<{
       // position titles
       const posTitle = personPos.positionTitle;
 
-      if (props.hoverDisplay == true) {
+      if (props.hoverDisplay === true) {
         ret.push(
           <div key={personPos.id} className="rowOfHover">
             <div className="pictureHover">
