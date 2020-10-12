@@ -9,28 +9,29 @@ let slideIndex = 1;
 
 export const AboutComponent: React.FC = () => {
 
-  function toggleDiv() {
-    // Needs to be declared as HTMLElement or else typescript won't allow style changes
-    const e = document.getElementById("infoDiv") as HTMLElement;
-    if (e.style.display === "none") {
-      e.style.display = "block";
-    } else {
-      e.style.display = "none";
-    }
+ const toggleDiv = () => {
+  // Needs to be declared as HTMLElement or else typescript won't allow style changes
+  const e = document.getElementById("infoDiv") as HTMLElement;
+  if (e.style.display === "none") {
+    e.style.display = "block";
+  } else {
+    e.style.display = "none";
   }
+}
 
-  function plusSlides(n: number) {
-    showSlides((slideIndex += n));
-  }
+const plusSlides = (n: number) => {
+  showSlides((slideIndex += n));
+}
 
-  function currentSlide(n: number) {
-    showSlides((slideIndex = n));
-  }
+const currentSlide = (n: number) => {
+  showSlides((slideIndex = n));
+}
 
-  function showSlides(n: number) {
-    let i;
-    let slides: HTMLCollection = document.getElementsByClassName("mySlides");
-    let dots = document.getElementsByClassName("dot");
+const showSlides = (n: number) => {
+  let i;
+  let slides: HTMLCollection = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+
     if (n > slides.length) {
       slideIndex = 1;
     }
@@ -49,7 +50,6 @@ export const AboutComponent: React.FC = () => {
     dots[slideIndex - 1].className += " active";
     // setTimeout(() => this.showSlides(slideIndex += 1), 10000); // Change image every 10 seconds
   }
-
   return (
     <div id="about">
       <div className="heading">
