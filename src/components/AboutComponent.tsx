@@ -31,6 +31,7 @@ export const AboutComponent: React.FC = () => {
     let i;
     let slides: HTMLCollection = document.getElementsByClassName("mySlides");
     let dots = document.getElementsByClassName("dot");
+  
     if (n > slides.length) {
       slideIndex = 1;
     }
@@ -49,7 +50,6 @@ export const AboutComponent: React.FC = () => {
     dots[slideIndex - 1].className += " active";
     // setTimeout(() => this.showSlides(slideIndex += 1), 10000); // Change image every 10 seconds
   }
-
   return (
     <div id="about">
       <div className="heading">
