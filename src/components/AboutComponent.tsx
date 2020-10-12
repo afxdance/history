@@ -5,14 +5,14 @@ const dotStyle: CSSProperties = {
   textAlign: "center",
 };
 
-var slideIndex = 1;
+let slideIndex = 1;
 
 export class AboutComponent extends React.Component {
   constructor(props: any) {
     super(props);
   }
 
-  toggleDiv() {
+  private toggleDiv() {
     // Needs to be declared as HTMLElement or else typescript won't allow style changes
     const e = document.getElementById("infoDiv") as HTMLElement;
     if (e.style.display === "none") {
@@ -22,15 +22,15 @@ export class AboutComponent extends React.Component {
     }
   }
 
-  plusSlides(n: number) {
+  private plusSlides(n: number) {
     this.showSlides((slideIndex += n));
   }
 
-  currentSlide(n: number) {
+  private currentSlide(n: number) {
     this.showSlides((slideIndex = n));
   }
 
-  showSlides(n: number) {
+  private showSlides(n: number) {
     var i;
     var slides: HTMLCollection = document.getElementsByClassName("mySlides");
     var dots = document.getElementsByClassName("dot");
@@ -97,7 +97,7 @@ export class AboutComponent extends React.Component {
 
           <span>
             {" "}
-            Our name, <strong>A</strong>
+            Our name, <b>A</b>
             spirations, <strong>F</strong>
             amily, e<strong>X</strong>
             perience reflects our philosophy of creating a family environment
