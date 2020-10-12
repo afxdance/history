@@ -9,29 +9,29 @@ let slideIndex = 1;
 
 export const AboutComponent: React.FC = () => {
 
-  const toggleDiv = () => {
-    // Needs to be declared as HTMLElement or else typescript won't allow style changes
-    const e = document.getElementById("infoDiv") as HTMLElement;
-    if (e.style.display === "none") {
-      e.style.display = "block";
-    } else {
-      e.style.display = "none";
-    }
+ const toggleDiv = () => {
+  // Needs to be declared as HTMLElement or else typescript won't allow style changes
+  const e = document.getElementById("infoDiv") as HTMLElement;
+  if (e.style.display === "none") {
+    e.style.display = "block";
+  } else {
+    e.style.display = "none";
   }
+}
 
-  const plusSlides = (n: number) => {
-    showSlides((slideIndex += n));
-  }
+const plusSlides = (n: number) => {
+  showSlides((slideIndex += n));
+}
 
-  const currentSlide = (n: number) => {
-    showSlides((slideIndex = n));
-  }
+const currentSlide = (n: number) => {
+  showSlides((slideIndex = n));
+}
 
-  const showSlides = (n: number) => {
-    let i;
-    let slides: HTMLCollection = document.getElementsByClassName("mySlides");
-    let dots = document.getElementsByClassName("dot");
-  
+const showSlides = (n: number) => {
+  let i;
+  let slides: HTMLCollection = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+
     if (n > slides.length) {
       slideIndex = 1;
     }

@@ -9,6 +9,7 @@ interface HoverWrapperComponentProp {
 }
 
 
+
 export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props) => {
   const [newAdjustedLeft, setAdjustedLeft] = React.useState<string | number>();
   const [newAdjustedRight, setAdjustedRight] = React.useState<
@@ -21,6 +22,7 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
     // Executes function (displays info box) after 1s
     if (hoverRef.current == null) {
       return;
+
     }
 
     /* Callback function for leftmost and rightmost infoboxes
@@ -42,7 +44,6 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
 
   const ret: any = [];
   const personID = props.pp.personIds[0];
-
   const person: Person = AFX.People[personID];
 
   let personPositions: PersonPosition[];
@@ -52,7 +53,7 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
     personPosition => personPosition.sortKey
   );
   personPositions.reverse();
-  if (props.hoverDisplay == true) {
+  if (props.hoverDisplay === true) {
     ret.push(<h3>{person.name}</h3>);
 
     for (let personPos of personPositions) {
@@ -69,7 +70,7 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
       // position titles
       const posTitle = personPos.positionTitle;
 
-      if (props.hoverDisplay == true) {
+      if (props.hoverDisplay === true) {
         ret.push(
           <div key={personPos.id} className="rowOfHover">
             <div className="pictureHover">
