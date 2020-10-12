@@ -8,9 +8,12 @@ interface HoverWrapperComponentProp {
   hoverDisplay: boolean;
 }
 
+
 export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props) => {
   const [newAdjustedLeft, setAdjustedLeft] = React.useState<string | number>();
-  const [newAdjustedRight, setAdjustedRight] = React.useState<string | number>();
+  const [newAdjustedRight, setAdjustedRight] = React.useState<
+    string | number
+  >();
   const [newAdjustedTransform, setAdjustedTransform] = React.useState<string>();
   const hoverRef = React.useRef<HTMLDivElement>(null);
 
@@ -35,7 +38,7 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
       setAdjustedLeft(0);
       setAdjustedTransform("translate(0%)");
     }
-  };
+  }
 
   const ret: any = [];
   const personID = props.pp.personIds[0];
@@ -108,9 +111,10 @@ export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props
           left: newAdjustedLeft,
           right: newAdjustedRight,
           transform: newAdjustedTransform,
-        }}>
+        }}
+      >
         {ret}
       </div>
     </div>
   );
-}
+};

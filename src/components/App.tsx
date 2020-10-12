@@ -8,10 +8,12 @@ import { Navigation } from "./NavBarComponent";
 import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
+import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
-  const [display, toggleDisplayVisible] = React.useState(false)
+  const [ display, toggleDisplayVisible ] = React.useState(false)
+  const [ landingPageDisplay, toggleLandingPageDisplay ] = React.useState(true)
 
   const checkHistory = React.useCallback(() => {
     const history = document.getElementById("bottom")?.getBoundingClientRect();
@@ -48,6 +50,7 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
+      <LandingComponent/>
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation />
       </div>
