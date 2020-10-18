@@ -1,9 +1,9 @@
-import * as React from "react";
-import { CSSProperties } from "react";
+import * as React from "react"
+import { CSSProperties } from "react"
 
 const dotStyle: CSSProperties = {
   textAlign: "center",
-};
+}
 
 let slideIndex = 1;
 
@@ -33,21 +33,21 @@ const showSlides = (n: number) => {
   let dots = document.getElementsByClassName("dot");
 
     if (n > slides.length) {
-      slideIndex = 1;
+      slideIndex = 1
     }
     if (n < 1) {
-      slideIndex = slides.length;
+      slideIndex = slides.length
     }
     for (i = 0; i < slides.length; i++) {
-      const slide = slides[i] as HTMLElement;
-      slide.style.display = "none";
+      const slide = slides[i] as HTMLElement
+      slide.style.display = "none"
     }
     for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+      dots[i].className = dots[i].className.replace(" active", "")
     }
-    const lastSlide = slides[slideIndex - 1] as HTMLElement;
-    lastSlide.style.display = "block";
-    dots[slideIndex - 1].className += " active";
+    const lastSlide = slides[slideIndex - 1] as HTMLElement
+    lastSlide.style.display = "block"
+    dots[slideIndex - 1].className += " active"
     // setTimeout(() => this.showSlides(slideIndex += 1), 10000); // Change image every 10 seconds
   }
   return (
