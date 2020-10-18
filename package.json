@@ -15,7 +15,7 @@
     "create-react-class": "^15.6.3",
     "gh-pages": "^2.1.1",
     "jest": "^24.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mini-create-react-context": "^0.3.2",
     "moment": "^2.24.0",
     "node-sass": "^4.13.1",
