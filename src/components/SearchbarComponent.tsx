@@ -6,32 +6,28 @@ import { Route, HashRouter as Router, Redirect } from "react-router-dom";
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
-var searchBarText = "";
 export const Searchbar: React.FC = () => {
   return <FilteredList />;
 }
 
 const FilteredList: React.FC = () => {
-  const initNames: string[] = [];
-  const initButtons: React.Component[] = [];
-  const [buttons, setButtons] = React.useState(initButtons);
-  const [names, setNames] = React.useState(initNames);
+  const [buttons, setButtons] = React.useState<string[]>([]);
+  const [names, setNames] = React.useState<string[]>([]);
 
-  function filterList(event: React.ChangeEvent<HTMLInputElement>) {
-    searchBarText = event.target.value;
-    console.log("The search bar val is " + searchBarText);
+  const filterList = (event: React.ChangeEvent<HTMLInputElement>) => {
+    let searchBarText = event.target.value;
     // Reset search bar whe there's no input text
     if (searchBarText == "") {
       setButtons([]);
     } else {
       setInitialState();
-      var updatedList = names.filter(function (name: string) {
+      let updatedList = names.filter((name: string) => {
         return (
           name.toLowerCase().search(event.target.value.toLowerCase()) !== -1
         );
       });
-      var newList: any[] = [];
-      updatedList.slice(0, 10).forEach(function (item: string) {
+      let newList: any[] = [];
+      updatedList.slice(0, 10).forEach((item: string) => {
         newList.push(<SearchButtonComponent name={item} />);
         newList.push(<br />);
       });
@@ -39,17 +35,17 @@ const FilteredList: React.FC = () => {
     }
   };
 
-  function setInitialState() {
-    var initialItems: string[] = [];
-    for (var person in Data.People) {
-      var name = Data.People[person]["name"];
+  const setInitialState = () => {
+    let initialItems: string[] = [];
+    for (let person in Data.People) {
+      let name = Data.People[person]["name"];
       initialItems.push(name);
     }
     setNames(initialItems);
   };
 
-  function checkEnter(event: any) {
-    var code = event.keyCode ? event.keyCode : event.which;
+  const checkEnter = (event: any) => {
+    let code = event.keyCode ? event.keyCode : event.which;
     if (code == 13) {
       event.preventDefault();
     }
@@ -75,14 +71,3 @@ const FilteredList: React.FC = () => {
     </div>
   )
 };
-
-// takes list of names from updated list and generates search buttons'
-const List: React.FC<{ items: [] }> = ({ items }) => {
-  return (
-    <ul>
-      {items.map(function (item: any) {
-        return <SearchButtonComponent name={item} />;
-      })}
-    </ul>
-  );
-}

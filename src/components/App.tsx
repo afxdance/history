@@ -17,7 +17,7 @@ export const App: React.FC<{}> = () => {
 
   const checkHistory = React.useCallback(() => {
     const history = document.getElementById("bottom")?.getBoundingClientRect();
-    const historyTop = history? history.top : 0
+    const historyTop = history ? history.top : 0
 
     if (historyTop <= 0 && display == false) {
       toggleDisplayVisible(true)
@@ -52,7 +52,7 @@ export const App: React.FC<{}> = () => {
     <React.Fragment>
       <LandingComponent/>
       <div className={display ? "show-Search" : "no-Search"}>
-        <Navigation/>
+        <Navigation />
       </div>
       <div id="top" className="anchor">
         <AboutComponent />
