@@ -1,0 +1,12 @@
+.header {
+  font-size: 2rem;
+}
+
+p .ItemName {
+  font: Lato;
+}
+
+p .ItemPrice {
+  font: Lato;
+  font-weight: bold;
+}

@@ -4,6 +4,7 @@ import "./App.css";
 import { AboutComponent } from "./AboutComponent";
 import { EventsComponent } from 'src/components/EventsComponent';
 import { GroupsComponent } from "src/components/GroupsComponent";
+import { MerchComponent } from "src/components/MerchPage/MerchComponent"
 import { Navigation } from "./NavBarComponent";
 import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
@@ -64,6 +65,9 @@ export const App: React.FC<{}> = () => {
           <br />
         </div>
       </div>
+
+      <MerchComponent />
+
       <div id="bottom" className="anchor">
         <div id="history">
           <h1>HISTORY</h1>
