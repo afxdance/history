@@ -51,7 +51,7 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      <LandingComponent/>
+      {/* <LandingComponent/> */}
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation/>
       </div>

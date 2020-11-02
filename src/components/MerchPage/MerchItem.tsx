@@ -1,5 +1,5 @@
 import * as React from "react"
-import "MerchStyle.css"
+import "./MerchStyle.css"
 import { MerchItemPageComponent } from 'src/components/MerchPage/MerchItemPageComponent'
 
 export const MerchItem: React.FC<{path: string, name: string, price: number }> = ({path, name, price}) => {

@@ -1,5 +1,5 @@
 import * as React from "react"
-import "MerchStyle.css"
+import "./MerchStyle.css"
 import { MerchItem } from "src/components/MerchPage/MerchItem";
 
 //Note: Create a individualized MerchItemPageComponent, separate from this general merch page component.

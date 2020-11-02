@@ -1,5 +1,5 @@
 import * as React from 'react';
-import "MerchStyle.css";
+import "./MerchStyle.css";
 
 export const MerchItemPageComponent: React.FC<{name: string, colorList }> = (props) => {
 
