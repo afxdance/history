@@ -4,13 +4,13 @@ import { MerchItemPageComponent } from 'src/components/MerchPage/MerchItemPageCo
 
 export const MerchItem: React.FC<{path: string, name: string, price: number }> = ({path, name, price}) => {
 
-  page string: <MerchItemPageComponent />
+  // page string: <MerchItemPageComponent />
   return (
-    <div width="350px" height="400px">
-      <img src={path}>
+    <div>
+      <img src={path}></img>
 
-      <p className="ItemName">name</p>
-      <p className="ItemPrice"> $ price</p>
+      <p className="ItemName">{name}</p>
+      <p className="ItemPrice"> $ {price}</p>
 
 
     </div>

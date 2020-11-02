@@ -9,19 +9,21 @@ export const MerchComponent: React.FC = () => {
 
   //Create list of merch items that are being sold in some data structure
   const merchItems: any[] = []
-  merchItems.push(<MerchItem "timg.jpg" "AFX Classic Hoodie" />) //ToDo: Create MerchItem Functional Component!
+  merchItems.push(<MerchItem path="timg.jpg" name="AFX Classic Hoodie" price={55} />) //ToDo: Create MerchItem Functional Component!
   //Each merch item should have its own instance of a MerchItemPageComponent
 
 
   //find a way to render this list
   return (
     //Look into FlexBox
-    <div className="header"> Merch </div>
-
-    <div className="subheader"> Bust out some dance moves in AFX's latest gear! </div>
-
     <div>
-      {merchItems }}
+      <div className="header"> Merch </div>
+
+      <div className="subheader"> Bust out some dance moves in AFX's latest gear! </div>
+
+      <div>
+        {merchItems }
+      </div>
     </div>
   )
 }

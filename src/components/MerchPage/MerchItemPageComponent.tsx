@@ -1,12 +1,11 @@
 import * as React from 'react';
 import "MerchStyle.css";
 
-export const MerchItemPageComponent: React.FC<{name: string, colorList}> = (props) {
-
-}
+export const MerchItemPageComponent: React.FC<{name: string, colorList }> = (props) => {
 
 
-return (
+
+  return (
   <form>
     <select id="size" name="size">
     <option value="XS">XS</option>
@@ -17,3 +16,4 @@ return (
     </select>
   </form>
 )
+}
