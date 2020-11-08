@@ -1,7 +1,7 @@
 import * as React from "react";
-import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown";
-import Nav from "react-bootstrap/Nav";
+import { Navbar } from "react-bootstrap";
+import { NavDropdown } from "react-bootstrap";
+import { Nav } from "react-bootstrap";
 import { HistoryNav } from "./HistoryNavComponent";
 
 // TODO: get rid of callback when we get Alice's code
@@ -33,7 +33,6 @@ export const Navigation: React.FC = () => {
     calcHeight();
     setDisplayHistory(!displayHistory);
   }
-
   return (
     <div id="big-nav">
       <Navbar
@@ -65,36 +64,34 @@ export const Navigation: React.FC = () => {
             <Nav.Link href="#middle" onClick={toggleFalse}>
               <span className="nav-text">Events</span>
             </Nav.Link>
-            <Nav.Link className="search-button">
-              <button className="s-button" onClick={toggleDisplay}>
-                <span className="nav-text">Search</span>
-              </button>
-            </Nav.Link>
             <NavDropdown
               alignRight
               title={<span className="nav-text">People</span>}
               id="nav-dropdown"
               onClick={toggleFalse}
             >
-              <NavDropdown.Item href="#bottom">
+              <NavDropdown.Item id="board-dropdown" href="#bottom">
                 <span className="nav-text">Board</span>
               </NavDropdown.Item>
               <NavDropdown.Item href="#trainingteams">
                 <span className="nav-text">Teams</span>
               </NavDropdown.Item>
             </NavDropdown>
+            <Nav.Link>
+              <button className="search-button" onClick={toggleDisplay}>
+                <span className="nav-text">Search</span>
+              </button>
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
       <br />
-      <div
+      < div
         className="history-cont"
-        style={{
-          display: displayHistory ? "" : "none",
-        }}
+        style={{ display: displayHistory ? "" : "none" }}
       >
         <HistoryNav />
-      </div>
+      </div >
     </div>
   );
 }

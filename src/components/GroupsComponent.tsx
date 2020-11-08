@@ -59,8 +59,8 @@ const personPositionSortKey = (personPosition: PersonPosition) => {
 }
 
 // Used for displaying a single set of board members for a semester
-export const GroupsComponent: React.FC<{ group: Group }> = ({ group }) => {
-  let personPositionIds = group.positionIds || [];
+export const GroupsComponent: React.FC<{ group: Group }> = (props) => {
+  let personPositionIds = props.group.positionIds || [];
   let personPositions: PersonPosition[];
   personPositions = personPositionIds.map(id => Data.PersonPositions[id]);
   personPositions = lodash.sortBy(personPositions, personPositionSortKey);
@@ -76,7 +76,7 @@ export const GroupsComponent: React.FC<{ group: Group }> = ({ group }) => {
   return (
     <div id="boardmembers" className="board">
       <div className="semester--title">
-        {group.name.replace("AFX Board", "")}
+        {props.group.name.replace("AFX Board", "")}
       </div>
       <div className="board-team--title">Board Members</div>
       <div className="board--row">{personPositionComponents}</div>

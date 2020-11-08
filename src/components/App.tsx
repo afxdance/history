@@ -11,7 +11,7 @@ import { TeamsComponent } from "./TeamsComponent";
 //import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 export const App: React.FC<{}> = () => {
-  const { currentSemKey } = useSem()
+  const currentSemKey = useSem().currentSemKey;
   const [display, toggleDisplayVisible] = React.useState(false)
   const [landingPageDisplay, toggleLandingPageDisplay] = React.useState(true)
 

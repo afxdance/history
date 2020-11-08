@@ -10,7 +10,7 @@ export const CurrentSemContext = React.createContext<SemContext>({
   setCurrentSemKey: () => undefined,
 })
 
-export const SemProvider: React.FC = ({ children }) => {
+export const SemProvider: React.FC = (props) => {
   const [currSem, setCurrSem] = React.useState<string | undefined>(undefined)
 
   const semContextValue = React.useMemo(
@@ -24,7 +24,7 @@ export const SemProvider: React.FC = ({ children }) => {
   )
   return (
     <CurrentSemContext.Provider value={semContextValue}>
-      {children}
+      {props.children}
     </CurrentSemContext.Provider>
   )
 }

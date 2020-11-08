@@ -6,7 +6,7 @@ import { PersonPositionComponent } from './PersonPositionComponent'
 import { PersonPosition } from "src/data/types";
 
 
-export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
+export const IndividualComponent: React.FC<{ name: string }> = (props) => {
   const findIDs = (personName: string) => {
     let posIDs: string[][] = []
     let people = AFX.People
@@ -21,14 +21,14 @@ export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
   // Stores url parameters (?name=" ") in params
   let personPositionComponents: any = [];
 
-  if (name != undefined) {
-    let posIDs = findIDs(name);
+  if (props.name != undefined) {
+    let posIDs = findIDs(props.name);
     // Mimicking hoverwrappercomponent, but in a static context for popups
     posIDs.forEach((ids: any) => {
       // Most recent position that the person holds is represented by the last id
       let recentPosition = AFX.PersonPositions[ids[ids.length - 1]];
       const ret: any[] = [];
-      ret.push(<h3>{name}</h3>);
+      ret.push(<h3>{props.name}</h3>);
       ids.forEach((id: any) => {
         let personPos: PersonPosition = AFX.PersonPositions[id];
         // picture
@@ -68,11 +68,11 @@ export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
     });
   }
   if (personPositionComponents.length == 0) {
-    name = name + " Not Found.";
+    props.name = props.name + " Not Found.";
   }
   return (
     <div className="search-results">
-      <p className="semester--title container">{name}</p>
+      <p className="semester--title container">{props.name}</p>
       {personPositionComponents}
     </div>
   );
