@@ -6,6 +6,9 @@ import { Group, PersonPosition } from "src/data/types";
 import { DisplayUtility } from "src/DisplayUtility";
 
 const POSITION_TITLE_ORDER = [
+  "Director Executive",
+  "External Executive",
+  "Internal Executive",
   "Executive Director",
   "Vice Executive",
   "Internal Relations",

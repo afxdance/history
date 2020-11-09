@@ -7,6 +7,7 @@ import { Searchbar } from "./SearchbarComponent";
 import { FormGroup, Label, Input, FormText, NavLink } from "reactstrap";
 import { SemLinkComponent } from "src/components/SemLinkComponent";
 import { ButtonGroup } from "reactstrap";
+import { FormControl } from 'react-bootstrap';
 
 export interface HistoryNav {
   OnClick: Function;
@@ -29,7 +30,7 @@ export const HistoryNav: React.FC = () => {
   }
 
   let yearLinks: object[] = [];
-  yearLinks.push(<option>Select a year</option>);
+  // yearLinks.push(<option>Select a year</option>);
   for (let year of Object.keys(AFX.Years)) {
     let curYear: Year = AFX.Years[year];
     let name: string = curYear.Name;
@@ -42,14 +43,9 @@ export const HistoryNav: React.FC = () => {
         <div className="row">
           <div className="col-sm">
             <FormGroup>
-              <Input
-                type="select"
-                name="select"
-                id="exampleSelect"
-                onChange={e => displaySems(e)}
-              >
+              <FormControl as="select" size="sm" onChange={e => displaySems(e)}>
                 {yearLinks}
-              </Input>
+              </FormControl>
             </FormGroup>
           </div>
           <ButtonGroup className="col-sm sem-col">
