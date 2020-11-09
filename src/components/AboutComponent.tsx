@@ -86,7 +86,7 @@ const showSlides = (n: number) => {
       <div className="about--text">
         <span>
           {" "}
-          <strong>AFX Dance</strong> is a hip hop dance group founded by Ping
+          <strong>AFX Dance</strong> is a hip hop/open choreography group founded by Ping
           Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to give dancers
           an opportunity to grow.{" "}
         </span>
@@ -108,7 +108,7 @@ const showSlides = (n: number) => {
 
         <span>
           AFX Dance comprises of multiple Project and Training level teams
-          along with our organization's own competitive hip-hop dance team
+          along with our organization's own competitive hip-hop/open choreography team
           (AFX Competition).
         </span>
 
