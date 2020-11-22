@@ -1,4 +1,5 @@
 import * as React from "react";
+import { Switch, Route } from "react-router-dom"
 import * as AFX from "src/data/data";
 import "./App.css";
 import { AboutComponent } from "./AboutComponent";
@@ -51,31 +52,33 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      <LandingComponent/>
-      <div className={display ? "show-Search" : "no-Search"}>
-        <Navigation/>
-      </div>
-      <div id="top" className="anchor">
-        <AboutComponent />
-      </div>
-      <div id="middle" className="anchor">
-        <div id="events">
-          <h1>EVENTS</h1>
-          <EventsComponent />
-          <br />
+      <Switch>
+        {/* <LandingComponent/> */}
+        <div className={display ? "show-Search" : "no-Search"}>
+          <Navigation/>
         </div>
-      </div>
-
-      <MerchComponent />
-
-      <div id="bottom" className="anchor">
-        <div id="history">
-          <h1>HISTORY</h1>
-          <br />
-          <div id="board">{board}</div>
-          <div id="teams">{teams}</div>
+        <div id="top" className="anchor">
+          <AboutComponent />
         </div>
-      </div>
+        <div id="middle" className="anchor">
+          <div id="events">
+            <h1>EVENTS</h1>
+            <EventsComponent />
+            <br />
+          </div>
+        </div>
+
+        <MerchComponent />
+
+        <div id="bottom" className="anchor">
+          <div id="history">
+            <h1>HISTORY</h1>
+            <br />
+            <div id="board">{board}</div>
+            <div id="teams">{teams}</div>
+          </div>
+        </div>
+      </Switch>
     </React.Fragment>
   );
 }
