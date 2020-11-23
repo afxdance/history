@@ -18,14 +18,15 @@ export const EventsComponent: React.FC = () => {
 
   return (
     <div>
-      <Calendar
+      <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on upcoming events!</p>
+      {/* <Calendar
         localizer={localizer}
         events={events}
         startAccessor="start"
         endAcessor="end"
         style={{ height: 800 }}
       // onSelectEvent={this.handleSelectEvent}
-      />
+      /> */}
     </div>
   );
 }
