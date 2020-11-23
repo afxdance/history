@@ -1,20 +1,8 @@
-/* "MERCH" */
 
-.header {
-  font: Lato;
-  font-size: 2.5rem;
-  font-weight: 500;
-  margin-bottom: 0.5rem;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  text-align: center;
-}
-
-/* "Bust out some dance moves in AFX's latest gear!" */
-.subheader {
-  font: Lato;
-  font-size: 25px;
-  text-align: center;
+.merch-page {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .MerchItem {
@@ -23,8 +11,20 @@
   /* background-color: #D8D8D8; */
   border-radius: 30px;
   padding: 8px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin: 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* flex-wrap: wrap; */
+  /* vertical-align: middle; */
+}
+
+.merch-array li {
+  display: inline;
+  float: left;
+
 }
 
 .photo {
@@ -32,15 +32,15 @@
   height: 319px;
 }
 
-p .ItemName {
+.ItemName {
   font: Lato;
-  font-size: 28px;
+  font-size: 1.5rem;
   text-align: center;
 }
 
-p .ItemPrice {
+.ItemPrice {
   font: Lato;
-  font-size: 28px;
+  font-size: 1.5rem;
   font-weight: bold;
   text-align: center;
 }

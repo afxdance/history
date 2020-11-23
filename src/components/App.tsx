@@ -14,12 +14,12 @@ import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
-  const [ display, toggleDisplayVisible ] = React.useState(false)
-  const [ landingPageDisplay, toggleLandingPageDisplay ] = React.useState(true)
+  const [display, toggleDisplayVisible] = React.useState(false)
+  const [landingPageDisplay, toggleLandingPageDisplay] = React.useState(true)
 
   const checkHistory = React.useCallback(() => {
     const history = document.getElementById("bottom")?.getBoundingClientRect();
-    const historyTop = history? history.top : 0
+    const historyTop = history ? history.top : 0
 
     if (historyTop <= 0 && display == false) {
       toggleDisplayVisible(true)
@@ -52,33 +52,44 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      <Switch>
-        {/* <LandingComponent/> */}
-        <div className={display ? "show-Search" : "no-Search"}>
-          <Navigation/>
+      {/* <LandingComponent/> */}
+      <div className={display ? "show-Search" : "no-Search"}>
+        <Navigation />
+      </div>
+      <div id="top" className="anchor">
+        <AboutComponent />
+      </div>
+      <div id="middle" className="anchor">
+        <div id="events">
+          <h1>EVENTS</h1>
+          <EventsComponent />
+          <br />
         </div>
-        <div id="top" className="anchor">
-          <AboutComponent />
-        </div>
-        <div id="middle" className="anchor">
-          <div id="events">
-            <h1>EVENTS</h1>
-            <EventsComponent />
-            <br />
-          </div>
-        </div>
+      </div>
 
-        <MerchComponent />
-
-        <div id="bottom" className="anchor">
-          <div id="history">
-            <h1>HISTORY</h1>
-            <br />
-            <div id="board">{board}</div>
-            <div id="teams">{teams}</div>
+      <div id="middle-bottom" className="anchor">
+        <div id="merch">
+          <div id="merch-header">
+            <h1>MERCH</h1>
           </div>
+
+          <div id="merch-subheader">
+            <p>Bust out some dance moves in AFX's latest gear!</p>
+          </div>
+          <MerchComponent />
+          <br />
         </div>
-      </Switch>
+      </div>
+
+
+      <div id="bottom" className="anchor">
+        <div id="history">
+          <h1>HISTORY</h1>
+          <br />
+          <div id="board">{board}</div>
+          <div id="teams">{teams}</div>
+        </div>
+      </div>
     </React.Fragment>
   );
 }

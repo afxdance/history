@@ -37,10 +37,10 @@ export const MerchComponent: React.FC = () => {
         created: 1603073286,
         description: "Stolen Spurs Jersey",
         id: "prod_IEGJE1QPY7XWnD",
-        images: ["hoodie_front.jpeg", "hoodie_back.jpeg"],
+        images: ["stolen_spurs_front.jpg", "stolen_spurs_back.jpg"],
         livemode: false,
         metadata: {},
-        name: "AFX-Spurs Collection",
+        name: "AFX Spurs Collection",
         object: "product",
         statement_descriptor: null,
         type: "service",
@@ -82,15 +82,8 @@ export const MerchComponent: React.FC = () => {
   //find a way to render this list
   return (
     //Look into FlexBox
-    <div>
-      <div className="header"> MERCH </div>
-
-      <div className="subheader">
-        {" "}
-        Bust out some dance moves in AFX's latest gear!{" "}
-      </div>
-
-      <ul> {merchItemsLI} </ul>
+    <div className="merch-page">
+      <ul className="merch-array"> {merchItemsLI} </ul>
     </div>
   )
 }
