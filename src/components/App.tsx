@@ -11,7 +11,6 @@ import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
-import { Switch, Route } from "react-router-dom"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
@@ -118,39 +117,31 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      <Switch>
-        <Route exact path="/">
-          {/* <LandingComponent/> */}
-          <div className={display ? "show-Search" : "no-Search"}>
-            <Navigation/>
+        {/* <LandingComponent/> */}
+        <div className={display ? "show-Search" : "no-Search"}>
+          <Navigation/>
+        </div>
+        <div id="top" className="anchor">
+          <AboutComponent />
+        </div>
+        <div id="middle" className="anchor">
+          <div id="events">
+            <h1>EVENTS</h1>
+            <EventsComponent />
+            <br />
           </div>
-          <div id="top" className="anchor">
-            <AboutComponent />
+        </div>
+
+        <MerchComponent merchItemList={merchItems}/>
+
+        <div id="bottom" className="anchor">
+          <div id="history">
+            <h1>HISTORY</h1>
+            <br />
+            <div id="board">{board}</div>
+            <div id="teams">{teams}</div>
           </div>
-          <div id="middle" className="anchor">
-            <div id="events">
-              <h1>EVENTS</h1>
-              <EventsComponent />
-              <br />
-            </div>
-          </div>
-
-          <MerchComponent merchItemList={merchItems}/>
-
-          <div id="bottom" className="anchor">
-            <div id="history">
-              <h1>HISTORY</h1>
-              <br />
-              <div id="board">{board}</div>
-              <div id="teams">{teams}</div>
-            </div>
-          </div>
-        </Route>
-
-        <Route />
-
-      </Switch>
-
+        </div>
 
     </React.Fragment>
   );

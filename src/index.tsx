@@ -9,9 +9,7 @@ import "node_modules/bootstrap/dist/css/bootstrap.min.css"
 // import registerServiceWorker from "./registerServiceWorker";
 const appWithProviders = (
   <SemProvider>
-    <Router>
-      <App />
-    </Router>
+    <App />
   </SemProvider>
 )
 
