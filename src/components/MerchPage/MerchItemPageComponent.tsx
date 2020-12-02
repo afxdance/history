@@ -2,6 +2,7 @@ import { MerchComponent } from "./MerchComponent"
 import * as React from "react"
 import "MerchStyle.css"
 import Popup from "reactjs-popup"
+import { stringify } from "querystring"
 
 export const MerchItemPageComponent: React.FC<{
   merchItem: typeof MerchComponent

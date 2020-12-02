@@ -1,6 +1,7 @@
 import * as React from "react"
 import "./MerchStyle.css"
 import { MerchItemPageComponent } from "src/components/MerchPage/MerchItemPageComponent"
+import { Link } from "react-router-dom"
 
 export const MerchItem: React.FC<{
   frontImage: string
@@ -23,14 +24,14 @@ export const MerchItem: React.FC<{
 
   return (
     <div className="MerchItem">
-      <a href="./${id}">
+      <Link to={"merch" + "/" + id}>
         <img
           src={imgUrl}
           onMouseOver={onHover}
           onMouseLeave={offHover}
           className="photo"
         />
-      </a>
+      </Link>
 
       <p className="ItemName">{name}</p>
       <p className="ItemPrice"> $ {price}</p>
