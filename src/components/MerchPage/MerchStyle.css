@@ -11,7 +11,6 @@
   /* background-color: #D8D8D8; */
   border-radius: 30px;
   padding: 8px;
-  /* border: 2px solid red; */
   margin: 36px;
   display: flex;
   flex-direction: column;
@@ -24,7 +23,6 @@
 .merch-array li {
   display: inline;
   float: left;
-
 }
 
 .photo {
