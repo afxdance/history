@@ -1,46 +1,138 @@
-/* "MERCH" */
-
-.header {
-  font: Lato;
-  font-size: 2.5rem;
-  font-weight: 500;
-  margin-bottom: 0.5rem;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  text-align: center;
-}
-
-/* "Bust out some dance moves in AFX's latest gear!" */
-.subheader {
-  font: Lato;
-  font-size: 25px;
-  text-align: center;
+.merch-page {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .MerchItem {
   width: 400px;
   height: 350px;
   /* background-color: #D8D8D8; */
-  border-radius: 30px;
+  /* border-radius: 30px; */
   padding: 8px;
-  border: 2px solid blue;
   margin: 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* flex-wrap: wrap; */
+  /* vertical-align: middle; */
+}
+
+.merch-array li {
+  display: inline;
+  float: left;
 }
 
 .photo {
   width: 333px;
   height: 319px;
+  border-radius: 20px;
 }
 
-p .ItemName {
+.ItemName {
   font: Lato;
-  font-size: 28px;
+  font-size: 1.5rem;
   text-align: center;
 }
 
-p .ItemPrice {
+.ItemPrice {
   font: Lato;
-  font-size: 28px;
-  font-weight: bold;
+  font-size: 1.5rem;
   text-align: center;
+}
+
+.popup-merch {
+  font: Lato;
+  margin-bottom: 0.5rem;
+  padding-top: 25px;
+  text-align: center;
+  color: #323537;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  padding-bottom: 10px;
+}
+
+.MerchItem .popup-content {
+  min-width: 80%;
+  max-height: 80%;
+}
+
+.imageList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-left: 30px;
+  border-radius: 5px;
+}
+
+.MerchItemPageComponent .image-previews {
+  float: left;
+  width: 30%;
+  height: 80px;
+  width: 72px;
+}
+
+.size {
+  display: flex;
+  flex-direction: row;
+}
+
+.quantity {
+  display: flex;
+  flex-direction: row;
+}
+
+form {
+  padding-left: 10px;
+}
+
+.p {
+  font: Lato;
+  font-size: 2.25rem;
+}
+
+.imageShown {
+  float: right;
+  width: 70%;
+  border-radius: 20px;
+}
+
+.left-column {
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center; */
+  float: left;
+  width: 60%;
+}
+
+.right-column {
+  float: right;
+  width: 40%;
+  /* margin-right: 5%; */
+}
+
+#circle {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.add-cart-button {
+  background-color: black !important;
+  text-decoration: none !important;
+  padding: 8px 15px;
+  margin: 60px;
+  border-radius: 15px;
+  color: white !important;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+.line {
+  color: black;
 }
