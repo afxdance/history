@@ -22,8 +22,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
       - name: Checkout Repo
+      - uses: actions/checkout@v2
         env:
           REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
       - name: Install Dependencies
