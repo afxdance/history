@@ -3,6 +3,7 @@ import "./MerchStyle.css"
 import Popup from "reactjs-popup"
 import CartContext from "./CartContext"
 import CartRow from "./CartRow"
+import Checkout from './Checkout';
 
 export const CartComponent: React.FC<{}> = props => {
   // for (let [key, value] of Array.from(cart.entries())) {
@@ -49,6 +50,7 @@ export const CartComponent: React.FC<{}> = props => {
         <div className="total-price">
           <h3>Total Price: {total_price.toFixed(2)}</h3>
         </div>
+        <Checkout />
       </div>
     </div>
   )
