@@ -12,7 +12,8 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
+env:
+  REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -24,8 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout Repo
         uses: actions/checkout@v2
-        env:
-          REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
       - name: Remove node_modules
         run: rm -rf node_modules
       - name: Install Dependencies
@@ -34,5 +33,17 @@ jobs:
         run: npm run build
         env:
           CI: false # ignores warnings
+      - name: Setup Git Config
+        run: |
+          # setup the username and email.
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Add docs
+        run: |
+          # add and push docs
+          git add docs
+          git commit -m "redeployment"
+          git push origin master
+          
     
           
