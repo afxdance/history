@@ -18,7 +18,7 @@ export const EventsComponent: React.FC = () => {
 
   return (
     <div>
-      <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on upcoming events!</p>
+      <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on upcoming events :)</p>
       {/* <Calendar
         localizer={localizer}
         events={events}
