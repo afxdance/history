@@ -11,7 +11,10 @@ How to start the app
 
 How to deploy to <https://afx.dance/>.
 
-1. `npm run build`
-2. `git add docs`
-3. `git commit -m "<sample message>"`
-4. `git push`
+Push to master or make a pull request (recommended) to master 
+
+Main.yaml workflow executes follow commands:
+1. `rm -rf node_modules`
+2. `npm install`
+3. `npm run build`
+
