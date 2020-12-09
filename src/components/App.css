@@ -118,6 +118,18 @@ link {
   height: 80%;
 }
 
+.cart-pic {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+  overflow-y: scroll;
+}
+
 #history,
 #about {
   background-color: white;

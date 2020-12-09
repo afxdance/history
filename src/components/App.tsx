@@ -11,20 +11,13 @@ import { Navigation } from "./NavBarComponent";
 import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
-<<<<<<< HEAD
-//import { LandingComponent } from "./LandingPage/LandingPageComponent"
-
-export const App: React.FC<{}> = () => {
-  const currentSemKey = useSem().currentSemKey;
-=======
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
 import { CartComponent } from 'src/components/MerchPage/CartComponent';
 import CartContext from "./MerchPage/CartContext";
-import  { Price, Product }  from "./MerchPage/Types"
+import { Price, Product } from "./MerchPage/Types"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
->>>>>>> 9a3b777dd9ebb84f8c7b94a2dd537c7061b4c13d
   const [display, toggleDisplayVisible] = React.useState(false)
   const [landingPageDisplay, toggleLandingPageDisplay] = React.useState(true)
 
@@ -131,25 +124,10 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-<<<<<<< HEAD
-      { /* <LandingComponent/> Comment out landing component off-recruiting season! */}
-      <div className={display ? "show-Search" : "no-Search"}>
-        <Navigation />
-      </div>
-      <div id="top" className="anchor">
-        <AboutComponent />
-      </div>
-      <div id="middle" className="anchor">
-        <div id="events">
-          <h1>EVENTS</h1>
-          <EventsComponent />
-          <br />
-=======
       <div>
         {/* <LandingComponent/> */}
         <div className={display ? "show-Search" : "no-Search"}>
-          <Navigation/>
->>>>>>> 9a3b777dd9ebb84f8c7b94a2dd537c7061b4c13d
+          <Navigation />
         </div>
       </div>
       <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>

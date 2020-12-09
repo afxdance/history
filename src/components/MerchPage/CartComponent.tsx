@@ -44,7 +44,7 @@ export const CartComponent: React.FC<{}> = props => {
 
   return (
     <div>
-      <div className="cart-info">
+      <div className="cart-container">
         {images}
         <div className="total-price">
           <h3>Total Price: {total_price.toFixed(2)}</h3>
