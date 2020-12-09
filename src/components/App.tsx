@@ -2,6 +2,7 @@ import * as React from "react";
 import * as AFX from "src/data/data";
 import "./App.css";
 import { AboutComponent } from "./AboutComponent";
+import Popup from "reactjs-popup"
 import { EventsComponent } from 'src/components/EventsComponent';
 import { GroupsComponent } from "src/components/GroupsComponent";
 import { MerchComponent } from "src/components/MerchPage/MerchComponent"
@@ -11,6 +12,7 @@ import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { CartComponent } from 'src/components/MerchPage/CartComponent';
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
@@ -51,6 +53,16 @@ export const App: React.FC<{}> = () => {
     })
   }, [])
 
+  // for cartComponent
+  const [showCart, setShowCart] = React.useState(false)
+
+  const CartOnclick = () => {
+    setShowCart(true)
+  }
+
+  const CartClosed = () => {
+    setShowCart(false)
+  }
 
   return (
     <React.Fragment>
@@ -64,7 +76,25 @@ export const App: React.FC<{}> = () => {
       <div id="middle-bottom" className="anchor">
         <div id="merch">
           <div id="merch-header">
+            <div></div> {/* this is a purposefully empty div*/}
             <h1>MERCH</h1>
+            <div className="merch-bag">
+              <img
+                src={"./bag.svg"}
+                onClick={CartOnclick}
+                className="merch-bag"
+              />
+
+              <Popup
+                open={showCart}
+                onClose={CartClosed}
+                modal
+                closeOnDocumentClick
+                className="merch-bag-popup"
+              >
+                <CartComponent />
+              </Popup>
+            </div>
           </div>
 
           <div id="merch-subheader">

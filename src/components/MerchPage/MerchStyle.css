@@ -1,3 +1,4 @@
+/* merch page on website */
 .merch-page {
   width: 100%;
   display: flex;
@@ -28,6 +29,7 @@
   width: 333px;
   height: 319px;
   border-radius: 20px;
+  cursor: pointer;
 }
 
 .ItemName {
@@ -42,6 +44,7 @@
   text-align: center;
 }
 
+/* merch popup page */
 .popup-merch {
   font: Lato;
   margin-bottom: 0.5rem;
@@ -65,6 +68,7 @@
   flex-wrap: wrap;
   padding-left: 30px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .MerchItemPageComponent .image-previews {
@@ -100,9 +104,9 @@ form {
 }
 
 .left-column {
-  /* display: flex;
+  display: flex;
   flex-direction: row;
-  justify-content: center; */
+  justify-content: space-around;
   float: left;
   width: 60%;
 }
@@ -136,3 +140,5 @@ a:hover {
 .line {
   color: black;
 }
+
+/* merch shopping bag */

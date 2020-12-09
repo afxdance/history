@@ -2,24 +2,35 @@ import Popup from "reactjs-popup"
 import * as React from "react"
 import "./MerchStyle.css"
 import { MerchItemPageComponent } from "src/components/MerchPage/MerchItemPageComponent"
+import { Product, Price } from "./Types"
 
 export const MerchItem: React.FC<{
   imageUrlList: string[]
   name: string
-  price: number
+  price: string
   colorList: string[]
   quantity: number
-}> = ({ imageUrlList, name, price, colorList, quantity }) => {
+  product: Product
+  priceObject: Price
+}> = ({
+  imageUrlList,
+  name,
+  price,
+  colorList,
+  quantity,
+  product,
+  priceObject,
+}) => {
   // page string: <MerchItemPageComponent />
 
   const frontImage = imageUrlList[0]
-  const backImage = imageUrlList[1]
+  //const backImage = imageUrlList[1]
 
   const [imgUrl, setImgUrl] = React.useState(frontImage)
   const [showPopup, setShowPopup] = React.useState(false)
 
   const onHover = () => {
-    setImgUrl(backImage)
+    //setImgUrl(backImage)
   }
   const offHover = () => {
     setImgUrl(frontImage)
@@ -60,6 +71,8 @@ export const MerchItem: React.FC<{
           imageUrlList={imageUrlList}
           sizeList={["XL", "L", "M"]}
           colorList={colorList}
+          product={product}
+          priceObject={priceObject}
         />
       </Popup>
     </div>

@@ -1,6 +1,12 @@
 import * as React from "react"
+import { useState, useEffect } from "react"
 import "./MerchStyle.css"
 import { MerchItem } from "src/components/MerchPage/MerchItem"
+import { Product, Price } from "./Types"
+import CartContext from "./CartContext"
+
+const SECRET_KEY: string =
+  "sk_test_51HdnXpA8Jg7sAs064LAhHXEbkhJxHpOAg8J7QiCrJW3U8MK8nT1IYDkZXEH3x6imLDv2FHUs3B1MlLlMIZrnVWks00oFrLTtuv"
 
 //Note: Create a individualized MerchItemPageComponent, separate from this general merch page component.
 //The individualized MerchItemPage should display what is shown after you click on a merch item
@@ -14,7 +20,194 @@ export const MerchComponent: React.FC<{}> = props => {
    */
 
   //* Example of what Stripe Data will look like when the API is called*/
-  const stripeData = {
+
+  // making it a string instead of the json object itself prevents excessive rerendering
+  const [prices, setPrices] = useState("")
+  const [prods, setProds] = useState("")
+  const [prodMap, setProdMap] = useState(new Map())
+  // const [html, setHtml] = useState("");
+
+  const [cart, setCart] = React.useState<any>(new Map()) // using map instead of object now
+
+  // key: price.id
+  // value: [priceObject, quantity, product.name, product.image]
+  const updateCart = (k: string, v: any) => {
+    /*
+    React checks if a component should update by checking if the object before is different from the object after.
+    To force it to update we need to put the old info in a new map so that the objects pass the difference check.
+    */
+    cart.set(k, v)
+
+    if (cart.get(k)[1] === 0) {
+      // if quantity is equal to 0
+      cart.delete(k)
+    }
+
+    let newCart = new Map(cart)
+    setCart(newCart)
+  }
+
+  const addToCart = (price: Price, product: Product) => {
+    let price_id: string = price.id
+    let product_name = product.name
+    let product_image = product.images[0]
+    if (cart.has(price_id)) {
+      var newQuantity = cart.get(price_id)[1] + 1
+      var totalPrice = price.unit_amount * newQuantity
+      updateCart(price_id, [
+        totalPrice,
+        newQuantity,
+        product_name,
+        product_image,
+      ])
+    } else {
+      updateCart(price_id, [price.unit_amount, 1, product_name, product_image])
+    }
+  }
+
+  const removeFromCart = (price: Price, product: Product) => {
+    //if item quantity = 0, remove key
+    let price_id: string = price.id
+    let product_name = product.name
+    let product_image = product.images[0]
+    if (cart.has(price_id)) {
+      var newQuantity = cart.get(price_id)[1] - 1
+      var totalPrice = price.unit_amount * newQuantity
+      updateCart(price_id, [
+        totalPrice,
+        newQuantity,
+        product_name,
+        product_image,
+      ])
+    }
+  }
+
+  const getPrice = async () => {
+    const price = fetch("https://api.stripe.com/v1/prices", {
+      method: "get",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/x-www-form-urlencoded",
+        Authorization: "Bearer " + SECRET_KEY,
+      },
+    })
+    return (await price).json()
+  }
+
+  const getProduct = async () => {
+    const prod = fetch("https://api.stripe.com/v1/products", {
+      method: "get",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/x-www-form-urlencoded",
+        Authorization: "Bearer " + SECRET_KEY,
+      },
+    })
+    return (await prod).json()
+  }
+
+  useEffect(() => {
+    // todo: maybe construct a mapping between price_id and product:Product here
+    if (prices == "") {
+      getPrice().then(data => {
+        setPrices(JSON.stringify(data))
+      })
+    }
+  }, [])
+
+  useEffect(() => {
+    if (prods == "") {
+      getProduct().then(data => {
+        setProds(JSON.stringify(data))
+      })
+    }
+  }, [])
+
+  useEffect(() => {
+    if (prices != "" && prods != "") {
+      let tempMap = new Map()
+      if (prodMap.size === 0) {
+        console.log(prices)
+        let allPrices: Price[] = JSON.parse(prices).data
+        let products: Product[] = JSON.parse(prods).data
+        for (let i = 0; i < allPrices.length; i++) {
+          let singlePrice = allPrices[i]
+          let prod_id = singlePrice.product
+          for (let j = 0; j < products.length; j++) {
+            let singleProduct = products[j]
+            let id = singleProduct.id
+            if (prod_id == id) {
+              tempMap.set(singlePrice.id, singleProduct)
+              break
+            }
+          }
+        }
+        setProdMap(tempMap)
+      }
+    }
+  })
+
+  const merchItems: any[] = []
+  let merchCount = 0
+
+  if (prods != "" && prices != "") {
+    /* Going to change this to loop over prices instead of prods.
+    In the future, we should:
+      modify tempMap to map from product_id to a list of all prices associated it with it
+      iterate over products again so that we can display a single picture associated with multiple prices (S/M/L/XL clothes, etc.)
+    */
+
+    const stripeData = JSON.parse(prices)
+
+    for (let itemIndex in stripeData.data) {
+      let price: Price = stripeData.data[itemIndex]
+      if (prodMap.has(price.id)) {
+        let product: Product = prodMap.get(price.id)
+        merchItems.push(
+          <MerchItem
+            imageUrlList={product.images}
+            name={product.name}
+            price={(price.unit_amount / 100).toFixed(2)}
+            colorList={product.colorList}
+            quantity={merchCount}
+            product={product}
+            priceObject={price}
+          />
+        )
+      }
+    }
+
+    // for (let itemIndex in stripeData.data) {
+    //   let product = stripeData.data[itemIndex]
+    //   merchItems.push(
+    //     <MerchItem
+    //       imageUrlList={product.images}
+    //       name={product.name}
+    //       price={product.price}
+    //       colorList={product.colorList}
+    //       quantity={merchCount}
+    //     />
+    //   )
+    // }
+  }
+
+  /* Create list of LI's for rendering.Bust */
+  const merchItemsLI: any[] = merchItems.map(item => <li>{item}</li>)
+
+  //find a way to render this list
+  return (
+    <div>
+      <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>
+        <div className="merch-page">
+          <ul className="merch-array"> {merchItemsLI} </ul>
+        </div>
+      </CartContext.Provider>
+    </div>
+  )
+}
+
+/*
+const stripeData = {
     data: {
       0: {
         active: true,
@@ -93,33 +286,4 @@ export const MerchComponent: React.FC<{}> = props => {
     object: "list",
     url: "/v1/products",
   }
-
-  const merchItems: any[] = []
-  let merchCount = 0
-
-  for (let itemIndex in stripeData.data) {
-    let item = stripeData.data[itemIndex]
-
-    merchItems.push(
-      <MerchItem
-        imageUrlList={item.images}
-        name={item.name}
-        price={item.price}
-        colorList={item.colorList}
-        quantity={merchCount}
-      />
-    )
-  }
-
-  /* Create list of LI's for rendering.Bust */
-  const merchItemsLI: any[] = merchItems.map(item => <li>{item}</li>)
-
-  //find a way to render this list
-  return (
-    <div>
-      <div className="merch-page">
-        <ul className="merch-array"> {merchItemsLI} </ul>
-      </div>
-    </div>
-  )
-}
+  */

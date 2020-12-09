@@ -2,18 +2,33 @@ import { MerchComponent } from "./MerchComponent"
 import * as React from "react"
 import "./MerchStyle.css"
 import Popup from "reactjs-popup"
+import CartContext from "./CartContext"
+import { Product, Price } from "./Types"
 
 export const MerchItemPageComponent: React.FC<{
   name: string
-  price: number
+  price: string
   quantity: number
   imageUrlList: string[]
   sizeList: string[]
   colorList: string[]
-}> = ({ name, price, quantity, imageUrlList, sizeList, colorList }) => {
+  product: Product
+  priceObject: Price
+}> = ({
+  name,
+  price,
+  quantity,
+  imageUrlList,
+  sizeList,
+  colorList,
+  product,
+  priceObject,
+}) => {
   const firstImage = imageUrlList[0]
 
   const [imageDisplaying, setImageDisplaying] = React.useState(firstImage)
+
+  const { cart, addToCart, removeFromCart } = React.useContext(CartContext)
 
   const changeImage = url => {
     setImageDisplaying(url)
@@ -102,11 +117,13 @@ export const MerchItemPageComponent: React.FC<{
             </form>
           </div>
         </div>
-        <a className="add-cart-button" href="">
-
+        <button
+          className="add-cart-button"
+          type="button"
+          onClick={() => addToCart(priceObject, product)}
+        >
           ADD TO CART
-
-        </a>
+        </button>
         <hr className="line" />
       </div>
     </div>

@@ -81,6 +81,16 @@ link {
   font-size: 2.5rem;
   font-weight: 500;
   line-height: 1.2;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+/* shopping bag */
+#merch-header img {
+  float: right;
+  display: flex;
+  align-items: baseline;
 }
 
 #merch-subheader {
@@ -90,6 +100,15 @@ link {
   margin-top: 12px;
   padding-top: 12px;
   padding-bottom: 25px;
+}
+
+.merch-bag {
+  cursor: pointer;
+}
+
+.merch-bag-popup {
+  width: 80%;
+  height: 80%;
 }
 
 #history,
