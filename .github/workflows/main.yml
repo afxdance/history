@@ -33,6 +33,11 @@ jobs:
         run: npm run build
         env:
           CI: false # ignores warnings
+      - name: Setup Git Config
+        run: |
+          # setup the username and email.
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
       - name: Add docs
         run: |
           # add and push docs
