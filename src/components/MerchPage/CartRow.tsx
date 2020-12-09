@@ -1,7 +1,7 @@
 import * as React from "react"
 // import Product from "./Prod"
 import CartContext from "./CartContext"
-import "./App.css"
+// import "./App.css"
 // import Image from "./Image"
 import { privateEncrypt } from "crypto"
 
@@ -9,6 +9,8 @@ const CartRow = (props: any) => {
   const [price, quantity, name, image] = props.value
 
   const { cart, addToCart, removeFromCart } = React.useContext(CartContext)
+
+  console.log("Product image", image)
 
   return (
     <div className="cart-entry">

@@ -13,6 +13,8 @@ import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
 import { CartComponent } from 'src/components/MerchPage/CartComponent';
+import CartContext from "./MerchPage/CartContext";
+import  { Price, Product }  from "./MerchPage/Types"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
@@ -64,6 +66,62 @@ export const App: React.FC<{}> = () => {
     setShowCart(false)
   }
 
+
+  const [cart, setCart] = React.useState<any>(new Map()) // using map instead of object now
+
+  // key: price.id
+  // value: [priceObject, quantity, product.name, product.image]
+  const updateCart = (k: string, v: any) => {
+    /*
+    React checks if a component should update by checking if the object before is different from the object after.
+    To force it to update we need to put the old info in a new map so that the objects pass the difference check.
+    */
+    cart.set(k, v)
+
+    if (cart.get(k)[1] === 0) {
+      // if quantity is equal to 0
+      cart.delete(k)
+    }
+
+    let newCart = new Map(cart)
+    setCart(newCart)
+  }
+
+  const addToCart = (price: Price, product: Product) => {
+    let price_id: string = price.id
+    let product_name = product.name
+    let product_image = product.images[0]
+    if (cart.has(price_id)) {
+      var newQuantity = cart.get(price_id)[1] + 1
+      var totalPrice = price.unit_amount * newQuantity
+      updateCart(price_id, [
+        totalPrice,
+        newQuantity,
+        product_name,
+        product_image,
+      ])
+    } else {
+      updateCart(price_id, [price.unit_amount, 1, product_name, product_image])
+    }
+  }
+
+  const removeFromCart = (price: Price, product: Product) => {
+    //if item quantity = 0, remove key
+    let price_id: string = price.id
+    let product_name = product.name
+    let product_image = product.images[0]
+    if (cart.has(price_id)) {
+      var newQuantity = cart.get(price_id)[1] - 1
+      var totalPrice = price.unit_amount * newQuantity
+      updateCart(price_id, [
+        totalPrice,
+        newQuantity,
+        product_name,
+        product_image,
+      ])
+    }
+  }
+
   return (
     <React.Fragment>
       <div>
@@ -72,38 +130,39 @@ export const App: React.FC<{}> = () => {
           <Navigation/>
         </div>
       </div>
+      <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>
+        <div id="middle-bottom" className="anchor">
+          <div id="merch">
+            <div id="merch-header">
+              <div></div> {/* this is a purposefully empty div*/}
+              <h1>MERCH</h1>
+              <div className="merch-bag">
+                <img
+                  src={"./bag.svg"}
+                  onClick={CartOnclick}
+                  className="merch-bag"
+                />
 
-      <div id="middle-bottom" className="anchor">
-        <div id="merch">
-          <div id="merch-header">
-            <div></div> {/* this is a purposefully empty div*/}
-            <h1>MERCH</h1>
-            <div className="merch-bag">
-              <img
-                src={"./bag.svg"}
-                onClick={CartOnclick}
-                className="merch-bag"
-              />
-
-              <Popup
-                open={showCart}
-                onClose={CartClosed}
-                modal
-                closeOnDocumentClick
-                className="merch-bag-popup"
-              >
-                <CartComponent />
-              </Popup>
+                <Popup
+                  open={showCart}
+                  onClose={CartClosed}
+                  modal
+                  closeOnDocumentClick
+                  className="merch-bag-popup"
+                >
+                  <CartComponent />
+                </Popup>
+              </div>
             </div>
-          </div>
 
-          <div id="merch-subheader">
-            <p>Bust out some dance moves in AFX's latest gear!</p>
+            <div id="merch-subheader">
+              <p>Bust out some dance moves in AFX's latest gear!</p>
+            </div>
+            <MerchComponent />
+            <br />
           </div>
-          <MerchComponent />
-          <br />
         </div>
-      </div>
+      </CartContext.Provider>
 
       <div id="bottom" className="anchor">
         <div id="history">
