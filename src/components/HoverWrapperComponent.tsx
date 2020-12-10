@@ -1,23 +1,16 @@
 import * as lodash from "lodash";
 import * as React from "react";
 import * as AFX from "src/data/data";
-import { Group, Person, PersonPosition, Semester } from "src/data/types";
+import { Person, PersonPosition } from "src/data/types";
 
 interface HoverWrapperComponentProp {
   pp: PersonPosition;
-  hoverDisplay: any;
+  hoverDisplay: boolean;
 }
 
-interface HoverWrapperComponentState {
-  newAdjustedLeft: any | undefined;
-  newAdjustedRight: any | undefined;
-  newAdjustedTransform: string | undefined;
-}
 
-export const HoverWrapperComponent: React.FC<{
-  pp: PersonPosition;
-  hoverDisplay: Boolean;
-}> = props => {
+
+export const HoverWrapperComponent: React.FC<HoverWrapperComponentProp> = (props) => {
   const [newAdjustedLeft, setAdjustedLeft] = React.useState<string | number>();
   const [newAdjustedRight, setAdjustedRight] = React.useState<
     string | number
@@ -25,17 +18,17 @@ export const HoverWrapperComponent: React.FC<{
   const [newAdjustedTransform, setAdjustedTransform] = React.useState<string>();
   const hoverRef = React.useRef<HTMLDivElement>(null);
 
-  function readjust() {
+  const readjust = () => {
     // Executes function (displays info box) after 1s
     if (hoverRef.current == null) {
       return;
-    } else {
-      var elem: any = hoverRef.current;
+
     }
 
     /* Callback function for leftmost and rightmost infoboxes
        Adjusts transform styling on the left side so that the default translate(-50%) doesn't push it off the page
        */
+    let elem: HTMLDivElement = hoverRef.current;
     let position = elem.getBoundingClientRect();
 
     if (position.right > window.innerWidth) {
@@ -50,9 +43,7 @@ export const HoverWrapperComponent: React.FC<{
   }
 
   const ret: any = [];
-  const personPos: PersonPosition = props.pp;
   const personID = props.pp.personIds[0];
-
   const person: Person = AFX.People[personID];
 
   let personPositions: PersonPosition[];
@@ -62,7 +53,7 @@ export const HoverWrapperComponent: React.FC<{
     personPosition => personPosition.sortKey
   );
   personPositions.reverse();
-  if (props.hoverDisplay == true) {
+  if (props.hoverDisplay === true) {
     ret.push(<h3>{person.name}</h3>);
 
     for (let personPos of personPositions) {
@@ -79,7 +70,7 @@ export const HoverWrapperComponent: React.FC<{
       // position titles
       const posTitle = personPos.positionTitle;
 
-      if (props.hoverDisplay == true) {
+      if (props.hoverDisplay === true) {
         ret.push(
           <div key={personPos.id} className="rowOfHover">
             <div className="pictureHover">

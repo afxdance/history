@@ -1,12 +1,12 @@
-import { slide as Menu } from "react-burger-menu";
-import * as AFX from "src/data/data";
-import { Year } from "src/data/types";
-import * as React from "react";
-import { SemLinkComponent } from "./SemLinkComponent";
-import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent";
+import { slide as Menu } from "react-burger-menu"
+import * as AFX from "src/data/data"
+import { Year } from "src/data/types"
+import * as React from "react"
+import { SemLinkComponent } from "./SemLinkComponent"
+import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent"
 
 //New Imports (for now)
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
   faHome,
   faBriefcase,
@@ -14,14 +14,14 @@ import {
   faQuestion,
   faImage,
   faCopy,
-} from "@fortawesome/free-solid-svg-icons";
-import "./App.css"; //imported to access specifications for sidebar
-import { NavItem, NavLink, Nav } from "reactstrap";
+} from "@fortawesome/free-solid-svg-icons"
+import "./App.css" //imported to access specifications for sidebar
+import { NavItem, NavLink, Nav } from "reactstrap"
 
 // Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
-  onClick: Function;
-  closed: boolean;
+  onClick: Function
+  closed: boolean
 }
 
 export class Sidebar extends React.Component<
@@ -29,13 +29,13 @@ export class Sidebar extends React.Component<
   { closed: boolean }
 > {
   constructor(props: any) {
-    super(props);
+    super(props)
     this.state = {
       closed: false,
-    };
+    }
   }
 
-  //Use state in order to have the menu disappear when the close button is pushed
+  // Use state in order to have the menu disappear when the close button is pushed
   // public close() {
   //   this.setState({
   //     closed: true,
@@ -44,15 +44,15 @@ export class Sidebar extends React.Component<
 
   public render() {
     // We first iterate through all the years and push the components into the list.
-    let yearLinks: any = [];
+    let yearLinks: any = []
     for (let year of Object.keys(AFX.Years)) {
       yearLinks.push(
         // We have the onclick function passed through the Sidebar component to be sent to the year component.
         <YearCollapsibleComponent year={year} onClick={this.props.onClick} />
-      );
+      )
     }
 
-    console.log(this.closed);
+    // console.log(this.closed);
 
     // We then add the list into the Menu. The library then changes everything into items of the menu.
     // As a result, when we add the list, it takes every element in the list and makes it into an item.
@@ -65,7 +65,7 @@ export class Sidebar extends React.Component<
           <h3 className="sidebar-header-text">AFX History</h3>
         </div>
         <div className="side-menu">
-          <Nav vertical className="list-unstyled pb-3">
+          <Nav vertical="true" className="list-unstyled pb-3">
             <ul style={{ listStyleType: "none", padding: 0 }}>{yearLinks}</ul>
             {/* <Menu>
               {yearLinks}
@@ -78,6 +78,6 @@ export class Sidebar extends React.Component<
       //   <h3 className="menuTitle">Years</h3>
       //   {yearLinks}
       // </Menu>
-    );
+    )
   }
 }

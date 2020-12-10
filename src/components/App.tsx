@@ -14,7 +14,7 @@ import { TeamsComponent } from "./TeamsComponent";
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
 import { CartComponent } from 'src/components/MerchPage/CartComponent';
 import CartContext from "./MerchPage/CartContext";
-import  { Price, Product }  from "./MerchPage/Types"
+import { Price, Product } from "./MerchPage/Types"
 
 export const App: React.FC<{}> = () => {
   const { currentSemKey } = useSem()
@@ -127,7 +127,7 @@ export const App: React.FC<{}> = () => {
       <div>
         {/* <LandingComponent/> */}
         <div className={display ? "show-Search" : "no-Search"}>
-          <Navigation/>
+          <Navigation />
         </div>
       </div>
       <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>

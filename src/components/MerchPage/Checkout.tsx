@@ -1,6 +1,6 @@
 import * as React from 'react';
 import CartContext from './CartContext';
-import './App.css';
+import '../App.css';
 import Image from './Image';
 import Stripe from 'stripe';
 
@@ -15,6 +15,13 @@ import Stripe from 'stripe';
 // }
 
 //const stripe = await loadStripe('sk_test_51HdnXpA8Jg7sAs064LAhHXEbkhJxHpOAg8J7QiCrJW3U8MK8nT1IYDkZXEH3x6imLDv2FHUs3B1MlLlMIZrnVWks00oFrLTtuv');
+
+
+declare global {
+  interface Window { Stripe: any; }
+}
+
+window.Stripe = window.Stripe || {};
 
 const Checkout = (props: any) => {
   //  const [price_amount, quantity, product_name, product_image] = props.value;
@@ -54,7 +61,7 @@ const Checkout = (props: any) => {
 
   return (
     <div className="checkout">
-      <button className="btn btn-primary btn-small" onClick={checkout}>Checkout</button>
+      <button id="checkout" type="button" className="btn btn-secondary btn-small" onClick={checkout}>Checkout</button>
     </div>
   );
 
