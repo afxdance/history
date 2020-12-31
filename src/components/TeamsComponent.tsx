@@ -4,6 +4,7 @@ import * as Data from "src/data/data"
 import { Group } from "src/data/types"
 import { DisplayUtility } from "src/DisplayUtility"
 import { SingleTeamComponent } from "./SingleTeamComponent"
+import { CompComponent } from "./CompComponent"
 
 // Component containing the entire list/flexbox of teams, displaying each team
 // as a SingleTeamComponent
@@ -16,6 +17,8 @@ export const TeamsComponent: React.FC<{ teamIds: string[] }> = ({
 
   let projectTeamComponents: any = []
   let trainingTeamComponents: any = []
+  let unleveledTeamComponents: any = []
+  let compComponent: any = null
   for (const team of teams) {
     if (team.level === "Training") {
       trainingTeamComponents.push(
@@ -25,7 +28,54 @@ export const TeamsComponent: React.FC<{ teamIds: string[] }> = ({
       projectTeamComponents.push(
         <SingleTeamComponent key={team.id} team={team} />
       )
+    } else if (team.level === "Competition") {
+      const compId: string = team.id
+      if (compId) {
+        compComponent = (
+          <React.Fragment>
+            <div id="compteam" className="board-team--title anchor">
+              {team.name}
+            </div>
+            <div className="teams">
+              <CompComponent key={compId} team={team} />
+            </div>
+          </React.Fragment>
+        )
+      }
+    } else {
+      unleveledTeamComponents.push(
+        <SingleTeamComponent key={team.id} team={team} />
+      )
     }
+  }
+  // avoid hardcoding headers; summer teams dont have "training" or "project" teams
+  let trainingComponent: any = null
+  let projectComponent: any = null
+  let unleveledComponent: any = null
+  if (trainingTeamComponents) {
+    trainingComponent = (
+      <React.Fragment>
+        <div id="projectteams" className="board-team--title">
+          Training Teams
+        </div>
+        <div className="teams">{trainingTeamComponents}</div>
+      </React.Fragment>
+    )
+  }
+  if (projectTeamComponents) {
+    projectComponent = (
+      <React.Fragment>
+        <div id="projectteams" className="board-team--title">
+          Project Teams
+        </div>
+        <div className="teams">{projectTeamComponents}</div>
+      </React.Fragment>
+    )
+  }
+  if (unleveledTeamComponents) {
+    unleveledComponent = (
+      <div className="teams">{unleveledTeamComponents}</div>
+    )
   }
 
   // Provide a date to label this group if there teams for this semester, based on the information of the
@@ -36,16 +86,13 @@ export const TeamsComponent: React.FC<{ teamIds: string[] }> = ({
   }
   return (
     <div id="allteams">
-      <div className="semester--title">{dateStr}</div>
-      <div id="trainingteams" className="board-team--title anchor">
-        Training Teams
+      <div className="board-team--title anchor">
+        Teams
       </div>
-      <div className="teams">{trainingTeamComponents}</div>
-
-      <div id="projectteams" className="board-team--title">
-        Project Teams
-      </div>
-      <div className="teams">{projectTeamComponents}</div>
+      {unleveledComponent}
+      {trainingComponent}
+      {projectComponent}
+      {compComponent}
     </div>
   )
 }
