@@ -2,6 +2,7 @@ import * as React from "react"
 import { HoverWrapperComponent } from "src/components/HoverWrapperComponent"
 import * as Data from "src/data/data"
 import { Group, Person } from "src/data/types"
+import { PersonPositionComponent } from "src/components/PersonPositionComponent"
 
 export const CompComponent: React.FC<{ team: Group }> = ({ team }) => {
   let directorsList: React.ReactNode[] = []
@@ -14,44 +15,8 @@ export const CompComponent: React.FC<{ team: Group }> = ({ team }) => {
         let dirPersonKey: string =
           Data.PersonPositions[directorKey].personIds[0]
         let directorPerson: Person = Data.People[dirPersonKey]
-        directorsList.push(
-          pp.picture ? (
-            <div className="director">
-              <h6>{directorPerson.name}</h6>
-              <HoverWrapperComponent pp={pp} hoverDisplay={true}>
-                {pp.picture ? (
-                  <img
-                    className="board--img"
-                    src={pp.picture[0].thumbnails.large.url}
-                    width="200px"
-                    height="200px"
-                  />
-                ) : (
-                    <img
-                      className="board--img"
-                      src="afx2.png"
-                      width="200px"
-                      height="200px"
-                      style={{ opacity: 0.3 }}
-                    />
-                  )}
-                &nbsp;&nbsp;&nbsp;
-              </HoverWrapperComponent>
-            </div>
-          ) : (
-              <div className="director">
-                <h6>{directorPerson.name}</h6>
-                <HoverWrapperComponent pp={pp} hoverDisplay={true}>
-                  <img
-                    className="board--img"
-                    src={"https://i.imgur.com/4qcFzdm.png"}
-                    width="200px"
-                    height="200px"
-                  />
-                &nbsp;&nbsp;&nbsp;
-              </HoverWrapperComponent>
-              </div>
-            )
+        directorsList.unshift(
+          <PersonPositionComponent personPosition={pp} hoverDisplay={true}/>
         )
       }
     }
