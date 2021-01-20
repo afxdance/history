@@ -34,14 +34,14 @@ export const LandingComponent: React.FC<{}> = ({ }) => {
           }}
         >
           <a
-            href="https://forms.gle/L2SzZcsQKZv3JFpC8"
+            href="http://tinyurl.com/techsp21"
             style={{ textDecoration: "none" }}
             target="_blank"
             rel="noopener noreferrer"
           >
             <button className="apply-button">Apply Now!</button>
           </a>
-          Due: 9/12 at 11:59 PM
+          Due: 1/31 at 11:59 PM
         </div>
       </div>
     </Popup>

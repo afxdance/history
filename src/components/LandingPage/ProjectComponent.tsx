@@ -58,10 +58,10 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
               }}
             >
               We are recruiting this semester for the projects listed below. The
-              applications are due 9/12 at 11:59 PM. If you are interested,
+              applications are due 1/31 at 11:59 PM. If you are interested,
               apply here:
               <a
-                href="https://forms.gle/L2SzZcsQKZv3JFpC8"
+                href="http://tinyurl.com/techsp21"
                 style={{ textAlign: "center", marginTop: "15px" }}
                 target="_blank"
                 rel="noopener noreferrer"
