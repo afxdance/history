@@ -8,7 +8,7 @@ import { Navigation } from "./NavBarComponent";
 import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
-//import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 export const App: React.FC<{}> = () => {
   const currentSemKey = useSem().currentSemKey;
@@ -50,7 +50,7 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      { /* <LandingComponent/> Comment out landing component off-recruiting season! */}
+      <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation />
       </div>
