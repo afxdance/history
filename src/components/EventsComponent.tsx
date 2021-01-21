@@ -18,15 +18,15 @@ export const EventsComponent: React.FC = () => {
 
   return (
     <div>
-      <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p>
-      {/* <Calendar
+      {/* <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p> */}
+      <Calendar
         localizer={localizer}
         events={events}
         startAccessor="start"
         endAcessor="end"
         style={{ height: 800 }}
-      // onSelectEvent={this.handleSelectEvent}
-      /> */}
+        onSelectEvent={handleSelectEvent}
+      />
     </div>
   );
 }
@@ -36,3 +36,4 @@ export const EventsComponent: React.FC = () => {
 function handleSelectEvent(event: object) {
   window.open(event["link"], "_blank");
 }
+``
