@@ -13,8 +13,35 @@ import "react-big-calendar/lib/sass/styles.scss";
  * Displays events according to their title and starting/ending time.
  *  */
 export const EventsComponent: React.FC = () => {
-  const [events, setEvents] = React.useState([]);
+  const emptyList: any[] = [];
+  const [events, setEvents] = React.useState(emptyList);
   const localizer = momentLocalizer(moment);
+
+  //console.log(process.env);
+  const calendar_id = "g3ip9umtavarr2eu72oc2jhaak@group.calendar.google.com"
+
+  const axios = require("axios");
+  axios.get("https://www.googleapis.com/calendar/v3/calendars/" + calendar_id
+    + "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" + process.env.REACT_APP_GCAL_KEY)
+    .then(response => {
+
+      var eventsList: any[] = [];
+      var eventsCount = 0;
+
+      for (let events of response["data"]["items"]) {
+        eventsList.push({
+          id: eventsCount,
+          title: events["summary"],
+          start: new Date(events["start"]["dateTime"]),
+          end: new Date(events["end"]["dateTime"]),
+          link: events["htmlLink"]
+        });
+        eventsCount += 1;
+      }
+
+      setEvents(eventsList);
+    });
+
 
   return (
     <div>
