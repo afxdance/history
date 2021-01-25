@@ -18,7 +18,7 @@ export const EventsComponent: React.FC = () => {
   const localizer = momentLocalizer(moment);
 
   //console.log(process.env);
-  const calendar_id = "g3ip9umtavarr2eu72oc2jhaak@group.calendar.google.com"
+  const calendar_id = "rguja84c2kdipbuf3k866btq50@group.calendar.google.com"
 
   const axios = require("axios");
   axios.get("https://www.googleapis.com/calendar/v3/calendars/" + calendar_id
