@@ -13,20 +13,47 @@ import "react-big-calendar/lib/sass/styles.scss";
  * Displays events according to their title and starting/ending time.
  *  */
 export const EventsComponent: React.FC = () => {
-  const [events, setEvents] = React.useState([]);
+  const emptyList: any[] = [];
+  const [events, setEvents] = React.useState(emptyList);
   const localizer = momentLocalizer(moment);
+
+  //console.log(process.env);
+  const calendar_id = "rguja84c2kdipbuf3k866btq50@group.calendar.google.com"
+
+  const axios = require("axios");
+  axios.get("https://www.googleapis.com/calendar/v3/calendars/" + calendar_id
+    + "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" + process.env.REACT_APP_GCAL_KEY)
+    .then(response => {
+
+      var eventsList: any[] = [];
+      var eventsCount = 0;
+
+      for (let events of response["data"]["items"]) {
+        eventsList.push({
+          id: eventsCount,
+          title: events["summary"],
+          start: new Date(events["start"]["dateTime"]),
+          end: new Date(events["end"]["dateTime"]),
+          link: events["htmlLink"]
+        });
+        eventsCount += 1;
+      }
+
+      setEvents(eventsList);
+    });
+
 
   return (
     <div>
-      <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p>
-      {/* <Calendar
+      {/* <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p> */}
+      <Calendar
         localizer={localizer}
         events={events}
         startAccessor="start"
         endAcessor="end"
         style={{ height: 800 }}
-      // onSelectEvent={this.handleSelectEvent}
-      /> */}
+        onSelectEvent={handleSelectEvent}
+      />
     </div>
   );
 }
@@ -36,3 +63,4 @@ export const EventsComponent: React.FC = () => {
 function handleSelectEvent(event: object) {
   window.open(event["link"], "_blank");
 }
+``

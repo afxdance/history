@@ -10216,6 +10216,11 @@ export let Groups = {
     "createdTime": "2021-01-20T01:58:07.000Z",
     "id": "recadTiaVOxLbdQWB",
     "name": "AFX Comp",
+    "type": "team",
+    "teamSemesterId": [
+      "rec9kitTLOaSVzuFw"
+    ],
+    "level": "Competition",
     "positionIds": [
       "recf0bG6w3ZNy0FLJ",
       "recvmR2yXhDkrWx7H",
@@ -10225,17 +10230,17 @@ export let Groups = {
       "recux0rdkYhUffKKA",
       "rec4Sk02nWS9BCdXs",
       "recQ6NxDC0NyqfKCp"
-    ],
-    "type": "team",
-    "teamSemesterId": [
-      "rec9kitTLOaSVzuFw"
-    ],
-    "level": "Competition"
+    ]
   },
   "recLtIuWTRWOxjK2e": {
     "createdTime": "2021-01-20T01:58:30.000Z",
     "id": "recLtIuWTRWOxjK2e",
     "name": "AFX Dance Camp",
+    "type": "team",
+    "teamSemesterId": [
+      "rec43lCerLj49aZ9m"
+    ],
+    "level": "Competition",
     "positionIds": [
       "recf0bG6w3ZNy0FLJ",
       "recvmR2yXhDkrWx7H",
@@ -10245,12 +10250,7 @@ export let Groups = {
       "recux0rdkYhUffKKA",
       "rec4Sk02nWS9BCdXs",
       "recQ6NxDC0NyqfKCp"
-    ],
-    "type": "team",
-    "teamSemesterId": [
-      "rec43lCerLj49aZ9m"
-    ],
-    "level": "Competition"
+    ]
   }
 }
 
@@ -43285,10 +43285,10 @@ export let TechProjects = {
     "name": "Training",
     "description": "Not sure about which team to join? Want more time to explore and build out your technical skills? Members on our training team will work with all three project teams throughout their first semester in Tech. They will be introduced to React, Ruby on Rails, and React Native in three mini-projects curated by each project team. ",
     "techPeople": [
-      "recplm48mR6XCjZyU",
       "recdTc3495nI4gklT",
-      "recq1VpYYHjIbS3bz",
-      "recnXtUDEf896SwWu"
+      "recnXtUDEf896SwWu",
+      "recplm48mR6XCjZyU",
+      "recq1VpYYHjIbS3bz"
     ]
   }
 }
@@ -43614,4 +43614,3 @@ export let TechPeople = {
     ]
   }
 }
-

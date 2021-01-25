@@ -6,7 +6,7 @@ import { PersonPosition } from "src/data/types";
 
 // Displays a single member of board, including their picture, and a PersonComponent
 export const PersonPositionComponent: React.FC<{
-  key: any, personPosition: PersonPosition,
+  personPosition: PersonPosition,
   hoverDisplay: boolean
 }> = (props) => {
 

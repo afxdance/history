@@ -9,28 +9,28 @@ let slideIndex = 1;
 
 export const AboutComponent: React.FC = () => {
 
- const toggleDiv = () => {
-  // Needs to be declared as HTMLElement or else typescript won't allow style changes
-  const e = document.getElementById("infoDiv") as HTMLElement;
-  if (e.style.display === "none") {
-    e.style.display = "block";
-  } else {
-    e.style.display = "none";
+  const toggleDiv = () => {
+    // Needs to be declared as HTMLElement or else typescript won't allow style changes
+    const e = document.getElementById("infoDiv") as HTMLElement;
+    if (e.style.display === "none") {
+      e.style.display = "block";
+    } else {
+      e.style.display = "none";
+    }
   }
-}
 
-const plusSlides = (n: number) => {
-  showSlides((slideIndex += n));
-}
+  const plusSlides = (n: number) => {
+    showSlides((slideIndex += n));
+  }
 
-const currentSlide = (n: number) => {
-  showSlides((slideIndex = n));
-}
+  const currentSlide = (n: number) => {
+    showSlides((slideIndex = n));
+  }
 
-const showSlides = (n: number) => {
-  let i;
-  let slides: HTMLCollection = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
+  const showSlides = (n: number) => {
+    let i;
+    let slides: HTMLCollection = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
 
     if (n > slides.length) {
       slideIndex = 1
@@ -86,30 +86,18 @@ const showSlides = (n: number) => {
       <div className="about--text">
         <span>
           {" "}
-          <strong>AFX Dance</strong> is a hip hop/open choreography group founded by Ping
-          Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to give dancers
-          an opportunity to grow.{" "}
+          <strong>AFX Dance</strong> is a dance group founded by Ping Quach, Geoffrey Chen, and Rosemary Hua in Fall 2011 to give dancers an opportunity to learn about and participate in dance culture, continuously build our community, and positively impact those around us through that process. {" "}
         </span>
-
         <span>
           {" "}
           Our name, <strong>A</strong>
           spirations, <strong>F</strong>
           amily, e<strong>X</strong>
-          perience reflects our philosophy of creating a family environment
-          for dancers to build up the confidence and support to reach new
-          heights. We offer teams for beginner, intermediate, and competitive
-          levels and we hope to provide dancers, with new fulfilling
-          experiences that will empower them to pass on our philosophies to
-          the greater community.{" "}
+          perience and our philosophy of creating a family environment for dancers to build up the confidence and support to reach new heights.{" "}
         </span>
-
         <br />
-
         <span>
-          AFX Dance comprises of multiple Project and Training level teams
-          along with our organization's own competitive hip-hop/open choreography team
-          (AFX Competition).
+          With a dance “Company” (competitive/advanced) and “General” (introductory/intermediate) membership, we strive to provide our dancers and leaders with new, fulfilling experiences that will empower them to dive deeper into dance culture; pass it on to the greater community along with our philosophies and values of growth, community, and support; and hold each other accountable in uplifting and amplifying the voices, lives, and experiences of those who have made all of these art forms and experiences possible in the first place.
         </span>
 
         <br />
@@ -117,13 +105,13 @@ const showSlides = (n: number) => {
         <span>
           <strong>Awards:</strong>
           <br />
-          <i>AFX Competition Team:</i>
+          <i>AFX Dance Company:</i>
           <br />
-          Montage 2014: 3rd Place
+          Collab NorCal 2019: 2nd Place
           <br />
           Montage 2015: 2nd Place
           <br />
-          Collab NorCal 2019: 2nd Place
+          Montage 2014: 3rd Place
         </span>
       </div>
       <div className="social-mediaz">

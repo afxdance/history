@@ -2,7 +2,7 @@
 
 name: AFX Website Deploy
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -14,6 +14,7 @@ on:
   workflow_dispatch:
 env:
   REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
+  REACT_APP_GCAL_KEY: ${{secrets.REACT_APP_GCAL_KEY}}
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -44,6 +45,3 @@ jobs:
           git add docs
           git commit -m "redeployment"
           git push origin master
-          
-    
-          
