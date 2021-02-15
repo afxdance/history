@@ -50,7 +50,7 @@ export const App: React.FC<{}> = () => {
 
   return (
     <React.Fragment>
-      <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
+      {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation />
       </div>
