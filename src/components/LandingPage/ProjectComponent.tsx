@@ -1,6 +1,6 @@
 import * as React from "react"
-import { TechProject } from "src/data/types"
 import { TechPeople } from "src/data/data"
+import { TechProject } from "src/data/types"
 
 interface ProjectProps {
   techProject: TechProject
@@ -11,7 +11,7 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
 
   const header = isCommittee ? "Who We Are" : name + " Project"
 
-  const picRow = techPeople.map(function(key: string) {
+  const picRow = techPeople.map((key: string) => {
     const { name, position, picture } = TechPeople[key]
 
     return picture ? (
@@ -28,19 +28,19 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
         </div>
       </div>
     ) : (
-      <div className="tech-person">
-        <img
-          className="tech-person-img"
-          src={"https://i.imgur.com/4qcFzdm.png"}
-          width="200px"
-          height="200px"
-        />
-        <div className="tech-person-info">
-          <div className="name">{name}</div>
-          <div className="title">{position}</div>
+        <div className="tech-person">
+          <img
+            className="tech-person-img"
+            src={"https://i.imgur.com/4qcFzdm.png"}
+            width="200px"
+            height="200px"
+          />
+          <div className="tech-person-info">
+            <div className="name">{name}</div>
+            <div className="title">{position}</div>
+          </div>
         </div>
-      </div>
-    )
+      )
   })
 
   return (

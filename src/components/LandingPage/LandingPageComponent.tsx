@@ -6,7 +6,7 @@ import { ProjectComponent } from "./ProjectComponent"
 export const LandingComponent: React.FC<{}> = ({ }) => {
   let techSections: any[] = []
 
-  for (const project in TechProjects) {
+  for (const project of Object.keys(TechProjects)) {
     techSections.push(<ProjectComponent techProject={TechProjects[project]} />)
   }
 
@@ -14,8 +14,8 @@ export const LandingComponent: React.FC<{}> = ({ }) => {
     <Popup
       defaultOpen={true}
       trigger={<button className="join-button">Join AFX Tech!</button>}
-      modal
-      closeOnDocumentClick
+      modal={true}
+      closeOnDocumentClick={true}
       className="landingPage"
     >
       <div>

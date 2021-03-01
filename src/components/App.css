@@ -19,10 +19,20 @@ html {
 .dropdown {
   background-color: black !important;
   opacity: 0.9;
+  font-size: 15px;
 }
 
 .dropdown-item {
   background-color: black !important;
+}
+
+.dropdown-menu {
+  padding: 0;
+  border: 1px solid lightgrey;
+}
+
+#board-dropdown {
+  border-bottom: 1px solid lightgrey;
 }
 
 .nav-text {
@@ -37,12 +47,10 @@ html {
   color: black;
 } */
 
-.search-button {
-  display: none;
-  position: fixed;
+/* .search-button {
   left: 47.5%;
   justify-content: center;
-}
+} */
 
 .popup-content {
   overflow: scroll;
@@ -61,7 +69,6 @@ html {
 /* #nav-dropdown1 {
   color: black;
   background-color: red;
-
 } */
 
 /*Hyperlink styling.*/
@@ -109,6 +116,23 @@ link {
 .merch-bag-popup {
   width: 80%;
   height: 80%;
+}
+
+.cart-pic {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+  overflow-y: scroll;
+}
+
+#checkout {
+  color: black;
+  /* background-color: #000; */
 }
 
 #history,
@@ -834,16 +858,13 @@ li a.dropdown-toggle::after {
   height: calc(100vh - 130px);
   overflow-y: hidden;
 }
-
 .side-menu::-webkit-scrollbar {
   width: 10px;
 }
-
 .side-menu::-webkit-scrollbar-thumb {
   background: #5466b3;
   border-radius: 3px;
 }
-
 .side-menu::-webkit-scrollbar-thumb:hover {
   background: #3a4c99;
 } */
@@ -966,21 +987,17 @@ li a.dropdown-toggle::after {
   font-size: 16px;
 }
 
-.no-Search .s-button {
+.no-Search .search-button, .no-Search .history-nav {
   display: none;
-}
-
-.no-Search .search-button {
-  padding: 0px !important;
 }
 
 .show-Search .search-button {
   padding: 0.5rem 1rem;
 }
 
-.no-Search .history-nav {
+/* .no-Search .history-nav {
   display: none;
-}
+} */
 
 .form-group {
   margin-top: 10px;
@@ -1699,7 +1716,6 @@ button.rbc-input::-moz-focus-inner {
 .apply-button {
   font-size: 2rem;
   padding: 5px 15px !important;
-  margin-bottom: 30px;
 }
 
 .join-button,

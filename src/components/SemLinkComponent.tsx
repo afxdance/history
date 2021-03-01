@@ -16,9 +16,9 @@ export const SemLinkComponent: React.FC<SemLinkComponent> = ({ semKey }) => {
   const onClick = React.useCallback(
     () => {
       setCurrentSemKey(semKey);
-      var elem: HTMLElement | null = document.getElementById("bottom");
+      const elem: HTMLElement | null = document.getElementById("bottom");
       if (elem) {
-        var topPos = elem.offsetTop;
+        const topPos = elem.offsetTop;
         window.scrollTo(0, topPos);
       }
     },

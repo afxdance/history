@@ -6,6 +6,9 @@ import { Group, PersonPosition } from "src/data/types";
 import { DisplayUtility } from "src/DisplayUtility";
 
 const POSITION_TITLE_ORDER = [
+  "Director Executive",
+  "External Executive",
+  "Internal Executive",
   "Executive Director",
   "Vice Executive",
   "Internal Relations",
@@ -38,9 +41,10 @@ const POSITION_TITLE_ORDER = [
  *
  * Used to sort personPositions by title then by person's name.
  */
-function personPositionSortKey(personPosition: PersonPosition) {
+const personPositionSortKey = (personPosition: PersonPosition) => {
   let titleKey: string | number;
-  titleKey = POSITION_TITLE_ORDER.indexOf(personPosition.positionTitle);
+
+  titleKey = POSITION_TITLE_ORDER.indexOf(personPosition.positionTitle.trim());
 
   // If the position isn't found in the array above, just use the position title.
   // These positions will appear after all of the ones that are found above.
@@ -59,8 +63,8 @@ function personPositionSortKey(personPosition: PersonPosition) {
 }
 
 // Used for displaying a single set of board members for a semester
-export const GroupsComponent: React.FC<{ group: Group }> = ({ group }) => {
-  let personPositionIds = group.positionIds || [];
+export const GroupsComponent: React.FC<{ group: Group }> = (props) => {
+  let personPositionIds = props.group.positionIds || [];
   let personPositions: PersonPosition[];
   personPositions = personPositionIds.map(id => Data.PersonPositions[id]);
   personPositions = lodash.sortBy(personPositions, personPositionSortKey);
@@ -76,7 +80,7 @@ export const GroupsComponent: React.FC<{ group: Group }> = ({ group }) => {
   return (
     <div id="boardmembers" className="board">
       <div className="semester--title">
-        {group.name.replace("AFX Board", "")}
+        {props.group.name.replace("AFX Board", "")}
       </div>
       <div className="board-team--title">Board Members</div>
       <div className="board--row">{personPositionComponents}</div>
