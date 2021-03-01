@@ -27,8 +27,6 @@ export const MerchComponent: React.FC<{}> = props => {
   const [prodMap, setProdMap] = useState(new Map())
   // const [html, setHtml] = useState("");
 
-
-
   const getPrice = async () => {
     const price = fetch("https://api.stripe.com/v1/prices", {
       method: "get",
@@ -144,9 +142,9 @@ export const MerchComponent: React.FC<{}> = props => {
   //find a way to render this list
   return (
     <div>
-        <div className="merch-page">
-          <ul className="merch-array"> {merchItemsLI} </ul>
-        </div>
+      <div className="merch-page">
+        <ul className="merch-array"> {merchItemsLI} </ul>
+      </div>
     </div>
   )
 }

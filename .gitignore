@@ -9,6 +9,26 @@ coverage/
 # production
 # /build
 
+
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+
+# Intellij IDEA files
+*.iml
+.idea/
+
 # misc
 .DS_Store
 .env.local
