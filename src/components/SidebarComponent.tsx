@@ -20,7 +20,7 @@ import { NavItem, NavLink, Nav } from "reactstrap"
 
 // Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
-  onClick: Function
+  onClick: () => void
   closed: boolean
 }
 
