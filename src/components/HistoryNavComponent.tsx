@@ -8,27 +8,11 @@ import { FormGroup, Label, Input, FormText, NavLink } from "reactstrap";
 import { SemLinkComponent } from "src/components/SemLinkComponent";
 import { ButtonGroup } from "reactstrap";
 
-<<<<<<< HEAD
-export class HistoryNav extends React.Component<
-  {},
-  { type: string; sems: any }
-  > {
-  constructor(props: any) {
-    super(props);
-    this.state = {
-      // TODO: Need to make code so that this selects the most recent semester rather than hard coded
-      type: typeof AFX.Semesters,
-      sems: null,
-    };
-  }
-
-  public displaySems(e: any) {
-=======
 export interface HistoryNav {
-  OnClick: Function;
+  OnClick: () => void;
 }
 
-//TODO: Get rid of OnClick and get function from context.
+// TODO: Get rid of OnClick and get function from context.
 export const HistoryNav: React.FC = () => {
 
   const [type, setType] = React.useState(typeof AFX.Semesters);
@@ -36,7 +20,6 @@ export const HistoryNav: React.FC = () => {
 
 
   const displaySems = (e: any) => {
->>>>>>> 3f201c03ec33c691b5611ce38e62b3ab62c2cdac
     let curYear: Year = AFX.Years[e.target.value];
     let semButtons: any = [];
     for (let semKey of curYear.semCodename) {

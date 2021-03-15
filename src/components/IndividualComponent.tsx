@@ -7,17 +7,10 @@ import { PersonPosition } from "src/data/types";
 
 
 export const IndividualComponent: React.FC<{ name: string }> = ({ name }) => {
-<<<<<<< HEAD
-  function findIDs(personName: string) {
-    let posIDs: string[][] = []
-    let people = AFX.People
-    for (let pID of Object.keys(people)) {
-=======
   const findIDs = (personName: string) => {
     let posIDs: string[][] = []
     let people = AFX.People
     for (let pID in people) {
->>>>>>> 3f201c03ec33c691b5611ce38e62b3ab62c2cdac
       let currPerson: Person = people[pID];
       if (currPerson.name.toLowerCase().includes(personName.toLowerCase())) {
         posIDs.push(currPerson.positionIds);
