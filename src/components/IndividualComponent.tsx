@@ -21,8 +21,8 @@ export const IndividualComponent: React.FC<{ name: string }> = (props) => {
   // Stores url parameters (?name=" ") in params
   let personPositionComponents: any = [];
 
-  if (props.name !== undefined) {
-    let posIDs = findIDs(props.name);
+  if (props.name != undefined) {
+    let posIDs = findIDs(props.name); 
     // Mimicking hoverwrappercomponent, but in a static context for popups
     posIDs.forEach((ids: any) => {
       // Most recent position that the person holds is represented by the last id
@@ -67,7 +67,7 @@ export const IndividualComponent: React.FC<{ name: string }> = (props) => {
       );
     });
   }
-  if (personPositionComponents.length === 0) {
+  if (personPositionComponents.length == 0) {
     props.name = props.name + " Not Found.";
   }
   return (

@@ -17,7 +17,7 @@ export const EventsComponent: React.FC = () => {
   const [events, setEvents] = React.useState(emptyList);
   const localizer = momentLocalizer(moment);
 
-  //console.log(process.env);
+  // console.log(process.env);
   const calendar_id = "rguja84c2kdipbuf3k866btq50@group.calendar.google.com"
 
   const axios = require("axios");
