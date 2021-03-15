@@ -1,8 +1,8 @@
-import { slide as Menu } from "react-burger-menu"
 import * as AFX from "src/data/data"
-import { Year } from "src/data/types"
 import * as React from "react"
+import { slide as Menu } from "react-burger-menu"
 import { SemLinkComponent } from "./SemLinkComponent"
+import { Year } from "src/data/types"
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent"
 
 //New Imports (for now)

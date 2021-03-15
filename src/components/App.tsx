@@ -5,9 +5,9 @@ import { AboutComponent } from "./AboutComponent";
 import { EventsComponent } from 'src/components/EventsComponent';
 import { GroupsComponent } from "src/components/GroupsComponent";
 import { Navigation } from "./NavBarComponent";
-import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
+import { useSem } from 'src/hooks/use-sem';
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 export const App: React.FC<{}> = () => {

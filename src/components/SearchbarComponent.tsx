@@ -1,10 +1,12 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import { Person } from "src/data/types";
-import { SearchButtonComponent } from "./SearchButtonComponent";
-import { Route, HashRouter as Router, Redirect } from "react-router-dom";
-import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
+import * as Data from "src/data/data";
+import { SearchButtonComponent } from "./SearchButtonComponent";
+import { HashRouter, Route as Redirect, Router } from "react-router-dom";
+import { Person } from "src/data/types";
+
+
 
 export const Searchbar: React.FC = () => {
   return <FilteredList />;
@@ -17,7 +19,7 @@ const FilteredList: React.FC = () => {
   const filterList = (event: React.ChangeEvent<HTMLInputElement>) => {
     let searchBarText = event.target.value;
     // Reset search bar whe there's no input text
-    if (searchBarText == "") {
+    if (searchBarText === "") {
       setButtons([]);
     } else {
       setInitialState();
@@ -46,7 +48,7 @@ const FilteredList: React.FC = () => {
 
   const checkEnter = (event: any) => {
     let code = event.keyCode ? event.keyCode : event.which;
-    if (code == 13) {
+    if (code === 13) {
       event.preventDefault();
     }
   };

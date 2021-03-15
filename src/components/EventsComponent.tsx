@@ -11,7 +11,7 @@ import "react-big-calendar/lib/sass/styles.scss";
  * the AFX Official Facebook page. Makes a single GET request using the Axios API
  * and FB Graph API to retrieve event information directly from the page.
  * Displays events according to their title and starting/ending time.
- *  */
+ **/
 export const EventsComponent: React.FC = () => {
   const emptyList: any[] = [];
   const [events, setEvents] = React.useState(emptyList);
