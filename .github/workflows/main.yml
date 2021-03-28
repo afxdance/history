@@ -44,4 +44,4 @@ jobs:
           # add and push docs
           git add docs
           git commit -m "redeployment"
-          git push origin master
+          git push origin HEAD:master
