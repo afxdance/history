@@ -130,6 +130,25 @@ export const App: React.FC<{}> = () => {
           <Navigation />
         </div>
       </div>
+      <div id="top" className="anchor">
+        <AboutComponent />
+      </div>
+      <div id="middle" className="anchor">
+        <div id="events">
+          <h1>EVENTS</h1>
+          <EventsComponent />
+          <br />
+        </div>
+      </div>
+      <div id="bottom" className="anchor">
+        <div id="history">
+          <h1>HISTORY</h1>
+          <br />
+          <div id="board">{board}</div>
+          <div id="teams">{teams}</div>
+        </div>
+      </div>
+
       <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>
         <div id="middle-bottom" className="anchor">
           <div id="merch">
@@ -163,15 +182,6 @@ export const App: React.FC<{}> = () => {
           </div>
         </div>
       </CartContext.Provider>
-
-      <div id="bottom" className="anchor">
-        <div id="history">
-          <h1>HISTORY</h1>
-          <br />
-          <div id="board">{board}</div>
-          <div id="teams">{teams}</div>
-        </div>
-      </div>
     </React.Fragment>
   );
 }

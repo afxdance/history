@@ -24,108 +24,108 @@ export const MerchItemPageComponent: React.FC<{
   product,
   priceObject,
 }) => {
-  const firstImage = imageUrlList[0]
+    const firstImage = imageUrlList[0]
 
-  const [imageDisplaying, setImageDisplaying] = React.useState(firstImage)
+    const [imageDisplaying, setImageDisplaying] = React.useState(firstImage)
 
-  const { cart, addToCart, removeFromCart } = React.useContext(CartContext)
+    const { cart, addToCart, removeFromCart } = React.useContext(CartContext)
 
-  const changeImage = url => {
-    setImageDisplaying(url)
-  }
+    const changeImage = url => {
+      setImageDisplaying(url)
+    }
 
-  const toggleImage = () => {}
+    const toggleImage = () => { }
 
-  const imageLists: any[] = []
-  for (let imageUrl of imageUrlList) {
-    imageLists.push(
-      <img
-        src={imageUrl}
-        width="40"
-        height="50"
-        onClick={() => changeImage(imageUrl)}
-      />
-    )
-  }
+    const imageLists: any[] = []
+    for (let imageUrl of imageUrlList) {
+      imageLists.push(
+        <img
+          src={imageUrl}
+          width="40"
+          height="50"
+          onClick={() => changeImage(imageUrl)}
+        />
+      )
+    }
 
-  const colors: any[] = []
+    const colors: any[] = []
 
-  // for (let colorli of colorList) {
-  // colors.push(<div id="circle" style={"background-color: " + colorli} />)
-  // }
+    // for (let colorli of colorList) {
+    // colors.push(<div id="circle" style={"background-color: " + colorli} />)
+    // }
 
-  return (
-    <div>
-      <div className="popup-merch">
-        <h1>Merch</h1>
-      </div>
-
-      <div className="left-column">
-        <div className="image-previews">
-          <div className="imageList">{imageLists}</div>
+    return (
+      <div>
+        <div className="popup-merch">
+          <h1>Merch</h1>
         </div>
 
-        <div className="imageShown">
-          <img src={imageDisplaying} width="300" height="350" />
+        <div className="left-column">
+          <div className="image-previews">
+            <div className="imageList">{imageLists}</div>
+          </div>
+
+          <div className="imageShown">
+            <img src={imageDisplaying} width="300" height="350" />
+          </div>
         </div>
-      </div>
 
-      <div className="right-column">
-        <p className="ItemName">{name}</p>
-        <p className="ItemPrice"> $ {price} </p>
+        <div className="right-column">
+          <p className="ItemName">{name}</p>
+          <p className="ItemPrice"> ${price} </p>
 
-        {/* <div>
+          {/* <div>
           <p> Color: </p>
           <div>{colors}</div>
         </div>  */}
 
-        <div className="size">
-          <div>
-            <p> Size: </p>
+          <div className="size">
+            <div>
+              <p> Size: </p>
+            </div>
+            <div className="size-dropdown">
+              <form>
+                <select id="size" name="size">
+                  <option value="XS">XS</option>
+                  <option value="S">S</option>
+                  <option value="M">M</option>
+                  <option value="L">L</option>
+                  <option value="XL">XL</option>
+                </select>
+              </form>
+            </div>
           </div>
-          <div className="size-dropdown">
-            <form>
-              <select id="size" name="size">
-                <option value="XS">XS</option>
-                <option value="S">S</option>
-                <option value="M">M</option>
-                <option value="L">L</option>
-                <option value="XL">XL</option>
-              </select>
-            </form>
-          </div>
-        </div>
 
-        <div className="quantity">
-          <div>
-            <p> Quantity: </p>
+          <div className="quantity">
+            <div>
+              <p> Quantity: </p>
+            </div>
+            <div className="quantity-dropdown">
+              <form>
+                <select id="quantity" name="quantity">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                </select>
+              </form>
+            </div>
           </div>
-          <div className="quantity-dropdown">
-            <form>
-              <select id="quantity" name="quantity">
-                <option value="1">1</option>
-                <option value="2">2</option>
-                <option value="3">3</option>
-                <option value="4">4</option>
-                <option value="5">5</option>
-                <option value="6">6</option>
-                <option value="7">7</option>
-                <option value="8">8</option>
-                <option value="9">9</option>
-                <option value="10">10</option>
-              </select>
-            </form>
-          </div>
-        </div>
-        <button
-          className="add-cart-button"
-          type="button"
-          onClick={() => addToCart(priceObject, product)}
-        >
-          ADD TO CART
+          <button
+            className="add-cart-button"
+            type="button"
+            onClick={() => addToCart(priceObject, product)}
+          >
+            ADD TO CART
         </button>
-        <hr className="line" />
+          <hr className="line" />
+        </div>
       </div>
-    </div>
-  )
-}
+    )
+  }

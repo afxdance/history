@@ -23,13 +23,19 @@
 .merch-array li {
   display: inline;
   float: left;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .photo {
-  width: 333px;
-  height: 319px;
+  min-height: 320px;
+  min-width: 320px;
+  max-height: 320px;
+  max-width: 320px;
   border-radius: 20px;
   cursor: pointer;
+  background-size:cover;
 }
 
 .ItemName {
@@ -40,7 +46,7 @@
 
 .ItemPrice {
   font: Lato;
-  font-size: 1.5rem;
+  font-size: 1rem;
   text-align: center;
 }
 
@@ -83,13 +89,24 @@
   flex-direction: row;
 }
 
+.size p {
+  font-size: 18px;
+}
+
+
 .quantity {
   display: flex;
   flex-direction: row;
 }
 
+.quantity p {
+  font-size: 18px;
+}
+
 form {
+  width: 30%;
   padding-left: 10px;
+  font: Lato;
 }
 
 .p {
@@ -127,10 +144,14 @@ form {
 .add-cart-button {
   background-color: black !important;
   text-decoration: none !important;
-  padding: 8px 15px;
+  padding: 20px 30px;
   margin: 60px;
   border-radius: 15px;
   color: white !important;
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 a:hover {
