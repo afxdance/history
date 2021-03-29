@@ -52,7 +52,8 @@ export const TeamsComponent: React.FC<{ teamIds: string[] }> = ({
   let trainingComponent: any = null
   let projectComponent: any = null
   let unleveledComponent: any = null
-  if (trainingTeamComponents) {
+
+  if (trainingTeamComponents.length > 0) {
     trainingComponent = (
       <React.Fragment>
         <div id="projectteams" className="board-team--title">
@@ -62,7 +63,7 @@ export const TeamsComponent: React.FC<{ teamIds: string[] }> = ({
       </React.Fragment>
     )
   }
-  if (projectTeamComponents) {
+  if (projectTeamComponents.length > 0) {
     projectComponent = (
       <React.Fragment>
         <div id="projectteams" className="board-team--title">
