@@ -65,6 +65,10 @@ export class YearCollapsibleComponent extends React.Component<
     let curYear: Year = AFX.Years[this.props.year]
     let name: string = curYear.Name
     let semLinks: any = []
+
+    // console.log("current year"); 
+    // console.log(curYear.semCodename); 
+
     // We iterate through all of the semesters and make the components for them.
     // We then add them to the list semLinks in order to be displayed.
     for (let semKey of curYear.semCodename) {
@@ -74,6 +78,7 @@ export class YearCollapsibleComponent extends React.Component<
       )
     }
 
+    //console.log(semLinks) 
     // console.log(this.state.show);
 
     return (
