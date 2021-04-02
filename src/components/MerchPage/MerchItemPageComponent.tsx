@@ -66,7 +66,7 @@ export const MerchItemPageComponent: React.FC<{
           </div>
 
           <div className="imageShown">
-            <img src={imageDisplaying} width="300" height="350" />
+            <img src={imageDisplaying} width="350" height="350" />
           </div>
         </div>
 

@@ -33,21 +33,32 @@
   min-width: 320px;
   max-height: 320px;
   max-width: 320px;
-  border-radius: 20px;
+  border-radius: 10px;
   cursor: pointer;
   background-size:cover;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.photo:hover {
+  min-height: 300px;
+  min-width: 300px;
+  max-height: 300px;
+  max-width: 300px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
 }
 
 .ItemName {
   font: Lato;
   font-size: 1.5rem;
   text-align: center;
+  margin: 0;
 }
 
 .ItemPrice {
   font: Lato;
   font-size: 1rem;
   text-align: center;
+  margin-bottom: 40px;
 }
 
 /* merch popup page */
@@ -65,7 +76,7 @@
 
 .MerchItem .popup-content {
   min-width: 80%;
-  max-height: 80%;
+  max-height: 90%;
 }
 
 .imageList {
@@ -79,9 +90,10 @@
 
 .MerchItemPageComponent .image-previews {
   float: left;
-  width: 30%;
-  height: 80px;
-  width: 72px;
+  width: 50%;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
 }
 
 .size {
@@ -117,7 +129,8 @@ form {
 .imageShown {
   float: right;
   width: 70%;
-  border-radius: 20px;
+  object-fit: contain;
+  border-radius: 80px;
 }
 
 .left-column {
