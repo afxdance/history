@@ -6,15 +6,6 @@ import { SemLinkComponent } from "./SemLinkComponent"
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent"
 
 //New Imports (for now)
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import {
-  faHome,
-  faBriefcase,
-  faPaperPlane,
-  faQuestion,
-  faImage,
-  faCopy,
-} from "@fortawesome/free-solid-svg-icons"
 import "./App.css" //imported to access specifications for sidebar
 import { NavItem, NavLink, Nav } from "reactstrap"
 
