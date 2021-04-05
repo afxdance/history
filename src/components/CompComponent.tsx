@@ -16,7 +16,7 @@ export const CompComponent: React.FC<{ team: Group }> = ({ team }) => {
           Data.PersonPositions[directorKey].personIds[0]
         let directorPerson: Person = Data.People[dirPersonKey]
         directorsList.unshift(
-          <PersonPositionComponent personPosition={pp} hoverDisplay={true}/>
+          <PersonPositionComponent personPosition={pp} hoverDisplay={true} />
         )
       }
     }
@@ -39,13 +39,13 @@ export const CompComponent: React.FC<{ team: Group }> = ({ team }) => {
             />
           </a>
         ) : (
-            <img
-              className="team--img"
-              src="afx2.png"
-              height={200}
-              style={{ opacity: 0.3 }}
-            />
-          )}
+          <img
+            className="team--img"
+            src="afx2.png"
+            height={200}
+            style={{ opacity: 0.3 }}
+          />
+        )}
       </div>
       <div className="comp--directors">
         <div className="director">Directors</div>
