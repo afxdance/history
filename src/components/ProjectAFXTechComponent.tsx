@@ -6,7 +6,7 @@ interface ProjectProps {
   techProject: TechProject
 }
 
-export const ProjectComponent: React.FC<ProjectProps> = props => {
+export const ProjectAFXTechComponent: React.FC<ProjectProps> = props => {
   const { name, description, techPeople } = props.techProject
   const isCommittee = name === "Committee"
 
@@ -74,7 +74,10 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
         </div>
       </div>
       <div style={{ margin: "30px" }}>
-        <h3 className="project-h3">Led By</h3>
+        {isCommittee ? (
+          <h3 className="project-h3">Led By</h3>) :
+          (<h3 className="project-h3"> Team Members </h3>)
+        }
         <div className="project-pictures">{picRow}</div>
       </div>
     </div>

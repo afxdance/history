@@ -10,6 +10,8 @@ import { Semester } from "src/data/types";
 import { TeamsComponent } from "./TeamsComponent";
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
+import { AFXTechComponent } from "./AFXTechComponent";
+
 export const App: React.FC<{}> = () => {
   const currentSemKey = useSem().currentSemKey;
   const [display, toggleDisplayVisible] = React.useState(false)
@@ -70,6 +72,9 @@ export const App: React.FC<{}> = () => {
           <br />
           <div id="board">{board}</div>
           <div id="teams">{teams}</div>
+          <div id="afxtech">
+            <AFXTechComponent />
+          </div>
         </div>
       </div>
     </React.Fragment>

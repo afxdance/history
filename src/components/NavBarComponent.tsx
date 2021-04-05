@@ -70,11 +70,14 @@ export const Navigation: React.FC = () => {
               id="nav-dropdown"
               onClick={toggleFalse}
             >
-              <NavDropdown.Item id="board-dropdown" href="#bottom">
+              <NavDropdown.Item id="dropdown-bar" href="#board">
                 <span className="nav-text">Board</span>
               </NavDropdown.Item>
-              <NavDropdown.Item href="#trainingteams">
+              <NavDropdown.Item id="dropdown-bar" href="#teams">
                 <span className="nav-text">Teams</span>
+              </NavDropdown.Item>
+              <NavDropdown.Item id="dropdown-bar" href="#afxtech">
+                <span className="nav-text">AFX Tech</span>
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link>
