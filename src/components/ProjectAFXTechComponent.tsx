@@ -50,7 +50,7 @@ export const ProjectAFXTechComponent: React.FC<ProjectProps> = props => {
         <h2 className="project-h1">{header}</h2>
         <div className="project-description">
           {description}
-          {isCommittee ? (
+          {/* {isCommittee ? (
             <div
               style={{
                 display: "flex",
@@ -58,19 +58,8 @@ export const ProjectAFXTechComponent: React.FC<ProjectProps> = props => {
                 margin: "15px 0px",
               }}
             >
-              We are recruiting this semester for the projects listed below. The
-              applications are due 1/31 at 11:59 PM. If you are interested,
-              apply here:
-              <a
-                href="http://tinyurl.com/techsp21"
-                style={{ textAlign: "center", marginTop: "15px" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Apply!
-              </a>
             </div>
-          ) : null}
+          ) : null} */}
         </div>
       </div>
       <div style={{ margin: "30px" }}>
