@@ -72,9 +72,9 @@ export const App: React.FC<{}> = () => {
           <br />
           <div id="board">{board}</div>
           <div id="teams">{teams}</div>
-          <div id="afxtech">
+          {/* <div id="afxtech">
             <AFXTechComponent />
-          </div>
+          </div> */}
         </div>
       </div>
     </React.Fragment>
