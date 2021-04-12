@@ -76,9 +76,9 @@ export const Navigation: React.FC = () => {
               <NavDropdown.Item id="dropdown-bar" href="#teams">
                 <span className="nav-text">Teams</span>
               </NavDropdown.Item>
-              <NavDropdown.Item id="dropdown-bar" href="#afxtech">
+              {/* <NavDropdown.Item id="dropdown-bar" href="#afxtech">
                 <span className="nav-text">AFX Tech</span>
-              </NavDropdown.Item>
+              </NavDropdown.Item> */}
             </NavDropdown>
             <Nav.Link>
               <button className="search-button" onClick={toggleDisplay}>
