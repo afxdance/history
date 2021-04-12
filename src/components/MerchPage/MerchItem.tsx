@@ -21,60 +21,62 @@ export const MerchItem: React.FC<{
   product,
   priceObject,
 }) => {
-  // page string: <MerchItemPageComponent />
+    // page string: <MerchItemPageComponent />
 
-  const frontImage = imageUrlList[0]
-  //const backImage = imageUrlList[1]
+    const frontImage = imageUrlList[0]
+    //const backImage = imageUrlList[1]
 
-  const [imgUrl, setImgUrl] = React.useState(frontImage)
-  const [showPopup, setShowPopup] = React.useState(false)
+    const [imgUrl, setImgUrl] = React.useState(frontImage)
+    const [showPopup, setShowPopup] = React.useState(false)
 
-  const onHover = () => {
-    //setImgUrl(backImage)
+    const onHover = () => {
+      //setImgUrl(backImage)
+    }
+    const offHover = () => {
+      setImgUrl(frontImage)
+    }
+
+    const merchItemOnclick = () => {
+      setShowPopup(true)
+    }
+
+    const popUpClosed = () => {
+      setShowPopup(false)
+    }
+
+    return (
+      <div className="MerchItem">
+        <div className="PhotoDiv">
+          <img
+            src={imgUrl}
+            onMouseOver={onHover}
+            onMouseLeave={offHover}
+            onClick={merchItemOnclick}
+            className="photo"
+          />
+        </div>
+
+        <p className="ItemName">{name}</p>
+        <p className="ItemPrice"> $ {price}</p>
+
+        <Popup
+          open={showPopup}
+          onClose={popUpClosed}
+          modal
+          closeOnDocumentClick
+          className="merch-item-popup"
+        >
+          <MerchItemPageComponent
+            name={name}
+            price={price}
+            quantity={quantity}
+            imageUrlList={imageUrlList}
+            sizeList={["XL", "L", "M"]}
+            colorList={colorList}
+            product={product}
+            priceObject={priceObject}
+          />
+        </Popup>
+      </div>
+    )
   }
-  const offHover = () => {
-    setImgUrl(frontImage)
-  }
-
-  const merchItemOnclick = () => {
-    setShowPopup(true)
-  }
-
-  const popUpClosed = () => {
-    setShowPopup(false)
-  }
-
-  return (
-    <div className="MerchItem">
-      <img
-        src={imgUrl}
-        onMouseOver={onHover}
-        onMouseLeave={offHover}
-        onClick={merchItemOnclick}
-        className="photo"
-      />
-
-      <p className="ItemName">{name}</p>
-      <p className="ItemPrice"> $ {price}</p>
-
-      <Popup
-        open={showPopup}
-        onClose={popUpClosed}
-        modal
-        closeOnDocumentClick
-        className="merch-item-popup"
-      >
-        <MerchItemPageComponent
-          name={name}
-          price={price}
-          quantity={quantity}
-          imageUrlList={imageUrlList}
-          sizeList={["XL", "L", "M"]}
-          colorList={colorList}
-          product={product}
-          priceObject={priceObject}
-        />
-      </Popup>
-    </div>
-  )
-}

@@ -2,7 +2,7 @@
 
 name: AFX Website Deploy
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -44,6 +44,3 @@ jobs:
           git add docs
           git commit -m "redeployment"
           git push origin master
-          
-    
-          

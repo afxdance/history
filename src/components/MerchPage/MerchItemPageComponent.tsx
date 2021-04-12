@@ -56,76 +56,85 @@ export const MerchItemPageComponent: React.FC<{
 
     return (
       <div>
-        <div className="popup-merch">
-          <h1>Merch</h1>
-        </div>
-
-        <div className="left-column">
-          <div className="image-previews">
-            <div className="imageList">{imageLists}</div>
+        <div>
+          <div className="popup-merch">
+            <h1>Merch</h1>
           </div>
 
-          <div className="imageShown">
-            <img src={imageDisplaying} width="350" height="350" />
-          </div>
-        </div>
-
-        <div className="right-column">
-          <p className="ItemName">{name}</p>
-          <p className="ItemPrice"> ${price} </p>
-
-          {/* <div>
-          <p> Color: </p>
-          <div>{colors}</div>
-        </div>  */}
-
-          <div className="size">
-            <div>
-              <p> Size: </p>
+          <div className="left-column">
+            <div className="image-previews">
+              <div className="imageList">{imageLists}</div>
             </div>
-            <div className="size-dropdown">
-              <form>
-                <select id="size" name="size">
-                  <option value="XS">XS</option>
-                  <option value="S">S</option>
-                  <option value="M">M</option>
-                  <option value="L">L</option>
-                  <option value="XL">XL</option>
-                </select>
-              </form>
+
+            <div className="imageShown">
+              <img src={imageDisplaying} width="350" height="350" />
             </div>
           </div>
 
-          <div className="quantity">
-            <div>
-              <p> Quantity: </p>
+          <div className="right-column">
+            <p className="ItemName">{name}</p>
+            <p className="ItemPrice"> ${price} </p>
+
+            <div className="size">
+              <div>
+                <p> Size: </p>
+              </div>
+              <div className="size-dropdown">
+                <form>
+                  <select id="size" name="size">
+                    <option value="XS">XS</option>
+                    <option value="S">S</option>
+                    <option value="M">M</option>
+                    <option value="L">L</option>
+                    <option value="XL">XL</option>
+                  </select>
+                </form>
+              </div>
             </div>
-            <div className="quantity-dropdown">
-              <form>
-                <select id="quantity" name="quantity">
-                  <option value="1">1</option>
-                  <option value="2">2</option>
-                  <option value="3">3</option>
-                  <option value="4">4</option>
-                  <option value="5">5</option>
-                  <option value="6">6</option>
-                  <option value="7">7</option>
-                  <option value="8">8</option>
-                  <option value="9">9</option>
-                  <option value="10">10</option>
-                </select>
-              </form>
+
+            <div className="quantity">
+              <div>
+                <p> Quantity: </p>
+              </div>
+              <div className="quantity-dropdown">
+                <form>
+                  <select id="quantity" name="quantity">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                  </select>
+                </form>
+              </div>
             </div>
-          </div>
-          <button
-            className="add-cart-button"
-            type="button"
-            onClick={() => addToCart(priceObject, product)}
-          >
-            ADD TO CART
-        </button>
-          <hr className="line" />
-        </div>
-      </div>
+
+            <div className="color">
+              <div>
+                <p> Color: </p>
+              </div>
+
+              <div>{colors}</div>
+            </div>
+
+            <div className="cart-button-container">
+              <button
+                className="add-cart-button"
+                type="button"
+                onClick={() => addToCart(priceObject, product)}
+              >
+                ADD TO CART
+              </button>
+            </div>
+
+            <hr className="line" />
+          </div >
+        </div >
+      </div >
     )
   }
