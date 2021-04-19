@@ -22,6 +22,12 @@ html {
   font-size: 15px;
 }
 
+.navlink-custom {
+  /* NEW */
+  margin: auto;
+  /* padding: 8px */
+}
+
 .dropdown-item {
   background-color: black !important;
 }

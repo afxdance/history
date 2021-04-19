@@ -16,7 +16,7 @@ import { Component } from 'react';
 import { HashRouter, Route, Link } from "react-router-dom";
 
 const Home = () => <div><h1>Home</h1></div>
-const About = () => <div><h1>About</h1></div>
+const About = () => <div><h1>Joe mama</h1></div>
 const Events = () => <div><h1>Events</h1></div>
 
 export const App: React.FC<{}> = () => {
@@ -63,17 +63,8 @@ export const App: React.FC<{}> = () => {
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation />
       </div>
-      {/* <div>
-        <ul>
-          <li><Link to="/">Home</Link></li>
-          <li><Link to="/about">About</Link></li>
-        </ul>
-        <hr />
-        <Route exact path="/" component={AboutComponent} />
-        <Route path="/about" component={EventsComponent} />
-      </div> */}
 
-      <div id="top" className="anchor">
+      {/* <div id="top" className="anchor">
         <Link to="/about">About</Link>
       </div>
       <div id="middle" className="anchor">
@@ -82,20 +73,21 @@ export const App: React.FC<{}> = () => {
           <br />
         </div>
       </div>
-      {/* <div id="bottom" className="anchor">
+      <div id="bottom" className="anchor">
         <div id="history">
           <h1>HISTORY</h1>
           <br />
-          <div id="board"><Link to="/history/board">Board</Link></div>
-          <div id="teams"><Link to="/history/teams">Teams</Link></div>
-          <div id="afxtech"><Link to="/history/afxtech">AFX Tech</Link></div>
+          <div id="board"><Link to="/board">Board</Link></div>
+          <div id="teams"><Link to="/teams">Teams</Link></div>
+          <div id="afxtech"><Link to="/afxtech">AFX Tech</Link></div>
         </div>
       </div> */}
-      <Route path="/about" component={AboutComponent} />
+
+      <Route path="/" component={AboutComponent} />
       <Route path="/events" component={EventsComponent} />
-      <Route path="/history/board" component={board} />
-      <Route path="/history/teams" component={teams} />
-      <Route path="/history/afxtech" component={AFXTechComponent} />
+      <Route path="/board" render={() => <div id="board">{board}</div>} />
+      <Route path="/teams" render={() => <div id="teams">{teams}</div>} />
+      <Route path="/afxtech" component={AFXTechComponent} />
     </HashRouter >
   );
 }

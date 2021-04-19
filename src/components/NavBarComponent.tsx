@@ -4,6 +4,8 @@ import { NavDropdown } from "react-bootstrap";
 import { Nav } from "react-bootstrap";
 import { HistoryNav } from "./HistoryNavComponent";
 
+import { NavLink } from "react-router-dom";
+
 // TODO: get rid of callback when we get Alice's code
 export const Navigation: React.FC = () => {
   const [displayHistory, setDisplayHistory] = React.useState<boolean>(false);
@@ -58,29 +60,30 @@ export const Navigation: React.FC = () => {
         />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto navbar-custom">
-            <Nav.Link href="#top" onClick={toggleFalse}>
+            <NavLink to="/" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-text">About</span>
-            </Nav.Link>
-            <Nav.Link href="#middle" onClick={toggleFalse}>
+            </NavLink>
+            <NavLink to="/events" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-text">Events</span>
-            </Nav.Link>
+            </NavLink>
             <NavDropdown
               alignRight
               title={<span className="nav-text">People</span>}
               id="nav-dropdown"
+              className="navlink-custom"
               onClick={toggleFalse}
             >
-              <NavDropdown.Item id="dropdown-bar" href="#board">
-                <span className="nav-text">Board</span>
+              <NavDropdown.Item id="dropdown-bar">
+                <NavLink className="nav-text" to="/board">Board</NavLink>
               </NavDropdown.Item>
-              <NavDropdown.Item id="dropdown-bar" href="#teams">
+              <NavDropdown.Item id="dropdown-bar" to="/teams">
                 <span className="nav-text">Teams</span>
               </NavDropdown.Item>
-              {/* <NavDropdown.Item id="dropdown-bar" href="#afxtech">
-                <span className="nav-text">AFX Tech</span>
-              </NavDropdown.Item> */}
+              <NavDropdown.Item id="dropdown-bar">
+                <NavLink className="nav-text" to="/afxtech">AFX Tech</NavLink>
+              </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link>
+            <Nav.Link className="navlink-custom">
               <button className="search-button" onClick={toggleDisplay}>
                 <span className="nav-text">Search</span>
               </button>
