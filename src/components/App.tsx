@@ -12,6 +12,13 @@ import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 import { AFXTechComponent } from "./AFXTechComponent";
 
+import { Component } from 'react';
+import { HashRouter, Route, Link } from "react-router-dom";
+
+const Home = () => <div><h1>Home</h1></div>
+const About = () => <div><h1>About</h1></div>
+const Events = () => <div><h1>Events</h1></div>
+
 export const App: React.FC<{}> = () => {
   const currentSemKey = useSem().currentSemKey;
   const [display, toggleDisplayVisible] = React.useState(false)
@@ -51,32 +58,44 @@ export const App: React.FC<{}> = () => {
   }, [])
 
   return (
-    <React.Fragment>
+    <HashRouter basename='/'>
       {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
       <div className={display ? "show-Search" : "no-Search"}>
         <Navigation />
       </div>
+      {/* <div>
+        <ul>
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/about">About</Link></li>
+        </ul>
+        <hr />
+        <Route exact path="/" component={AboutComponent} />
+        <Route path="/about" component={EventsComponent} />
+      </div> */}
+
       <div id="top" className="anchor">
-        <AboutComponent />
+        <Link to="/about">About</Link>
       </div>
       <div id="middle" className="anchor">
         <div id="events">
-          <h1>EVENTS</h1>
-          <EventsComponent />
+          <Link to="/events">Events</Link>
           <br />
         </div>
       </div>
-      <div id="bottom" className="anchor">
+      {/* <div id="bottom" className="anchor">
         <div id="history">
           <h1>HISTORY</h1>
           <br />
-          <div id="board">{board}</div>
-          <div id="teams">{teams}</div>
-          {/* <div id="afxtech">
-            <AFXTechComponent />
-          </div> */}
+          <div id="board"><Link to="/history/board">Board</Link></div>
+          <div id="teams"><Link to="/history/teams">Teams</Link></div>
+          <div id="afxtech"><Link to="/history/afxtech">AFX Tech</Link></div>
         </div>
-      </div>
-    </React.Fragment>
+      </div> */}
+      <Route path="/about" component={AboutComponent} />
+      <Route path="/events" component={EventsComponent} />
+      <Route path="/history/board" component={board} />
+      <Route path="/history/teams" component={teams} />
+      <Route path="/history/afxtech" component={AFXTechComponent} />
+    </HashRouter >
   );
 }
