@@ -23,9 +23,21 @@ jobs:
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Print github workspace
+        run: |
+          echo "GITHUB_WORKSPACE = $GITHUB_WORKSPACE"
+          echo "github.workspace = ${{ github.workspace }}"
+          echo "pr.ref = ${{github.event.pull_request.head.ref}}"
+          echo "github.ref = ${{ github.ref }}"
+          echo "$GITHUB_CONTEXT"
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout Repo
         uses: actions/checkout@v2
+        with:
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
       - name: Remove node_modules
         run: rm -rf node_modules
       - name: Install Dependencies
