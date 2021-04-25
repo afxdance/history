@@ -7,8 +7,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
+#   pull_request:
+#     branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,9 +32,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout Repo
         uses: actions/checkout@v2
-        with:
-          ref: ${{github.event.pull_request.head.ref}}
-          repository: ${{github.event.pull_request.head.repo.full_name}}
       - name: Remove node_modules
         run: rm -rf node_modules
       - name: Install Dependencies
@@ -54,3 +51,6 @@ jobs:
           git add docs
           git commit -m "redeployment"
           git push origin master
+      - name: On failure
+        if: ${{ failure() }}
+        run: echo "Something went wrong. If failure on the previous step, the docs folder most likely never changed"
