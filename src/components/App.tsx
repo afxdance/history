@@ -49,6 +49,9 @@ export const App: React.FC<{}> = () => {
     // TODO: TeamsComponent, renaming things, string[] mess
   }
 
+  const boardRenderTarget = document.getElementById("board")
+  const teamRenderTarget = document.getElementById("team")
+
   React.useEffect(() => {
     window.addEventListener("scroll", checkHistory);
 
@@ -60,9 +63,14 @@ export const App: React.FC<{}> = () => {
   return (
     <HashRouter basename='/'>
       {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
-      <div className={display ? "show-Search" : "no-Search"}>
+      {/*
+      <div className={(boardRenderTarget || teamRenderTarget) ? "show-Search" : "no-Search"}>
         <Navigation />
-      </div>
+      </div> */}
+
+      {/* <div className={display ? "show-Search" : "no-Search"}>
+        <Navigation />
+      </div> */}
 
       {/* <div id="top" className="anchor">
         <Link to="/about">About</Link>
@@ -83,11 +91,37 @@ export const App: React.FC<{}> = () => {
         </div>
       </div> */}
 
-      <Route path="/" component={AboutComponent} />
-      <Route path="/events" component={EventsComponent} />
-      <Route path="/board" render={() => <div id="board">{board}</div>} />
-      <Route path="/teams" render={() => <div id="teams">{teams}</div>} />
-      <Route path="/afxtech" component={AFXTechComponent} />
+      {/* <Route exact path="/" component={AboutComponent} />
+      <Route path="/events" component={EventsComponent} /> */}
+      <Route path="/about" render={() => <div>
+        <Navigation searchable={false} />
+        <AboutComponent />
+      </div>} />
+
+      <Route path="/events" render={() => <div>
+        <Navigation searchable={false} />
+        <EventsComponent />
+      </div>} />
+
+      <Route path="/board" render={() => <div>
+        {/* <div className={ display ? "show-search" : "no-search" }> */}
+        <Navigation searchable={true} />
+        {/* </div> */}
+        <div id="board">{board}</div>
+      </div>} />
+
+      <Route path="/teams" render={() =>
+        <div>
+          <Navigation searchable={true} />
+          <div id="teams">{teams}</div>
+        </div>} />
+
+      <Route path="/afxtech" render={() =>
+        <div>
+          <Navigation searchable={false} />
+          <AFXTechComponent />
+        </div>} />
+
     </HashRouter >
   );
 }

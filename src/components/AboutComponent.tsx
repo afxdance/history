@@ -53,7 +53,7 @@ export const AboutComponent: React.FC = () => {
   return (
     <div id="about">
       <div className="heading">
-        <h1>ABOUT</h1>
+        <h1>ABOUT AFX DANCE</h1>
       </div>
       <br />
       {/* <div id="slideshow" onLoad={() => this.currentSlide(1)}>

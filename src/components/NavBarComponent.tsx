@@ -7,7 +7,7 @@ import { HistoryNav } from "./HistoryNavComponent";
 import { NavLink } from "react-router-dom";
 
 // TODO: get rid of callback when we get Alice's code
-export const Navigation: React.FC = () => {
+export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) => {
   const [displayHistory, setDisplayHistory] = React.useState<boolean>(false);
 
   function toggleFalse() {
@@ -35,6 +35,7 @@ export const Navigation: React.FC = () => {
     calcHeight();
     setDisplayHistory(!displayHistory);
   }
+
   return (
     <div id="big-nav">
       <Navbar
@@ -60,7 +61,7 @@ export const Navigation: React.FC = () => {
         />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto navbar-custom">
-            <NavLink to="/" onClick={toggleFalse} className="navlink-custom">
+            <NavLink to="/about" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-text">About</span>
             </NavLink>
             <NavLink to="/events" onClick={toggleFalse} className="navlink-custom">
@@ -77,22 +78,26 @@ export const Navigation: React.FC = () => {
                 <NavLink className="nav-text" to="/board">Board</NavLink>
               </NavDropdown.Item>
               <NavDropdown.Item id="dropdown-bar" to="/teams">
-                <span className="nav-text">Teams</span>
+                <NavLink className="nav-text" to="/teams">Teams</NavLink>
+                {/* <span className="nav-text">Teams</span> */}
               </NavDropdown.Item>
               <NavDropdown.Item id="dropdown-bar">
                 <NavLink className="nav-text" to="/afxtech">AFX Tech</NavLink>
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link className="navlink-custom">
-              <button className="search-button" onClick={toggleDisplay}>
-                <span className="nav-text">Search</span>
-              </button>
-            </Nav.Link>
+
+            {searchable &&
+              <Nav.Link className="navlink-custom">
+                <button className="search-button" onClick={toggleDisplay}>
+                  <span className="nav-text">Search</span>
+                </button>
+              </Nav.Link>
+            }
           </Nav>
         </Navbar.Collapse>
       </Navbar>
       <br />
-      < div
+      <div
         className="history-cont"
         style={{ display: displayHistory ? "" : "none" }}
       >
