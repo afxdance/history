@@ -32,8 +32,6 @@ export const App: React.FC<{}> = () => {
   const currSem: Semester = AFX.Semesters[currentSemKey || "rec4GaaU2uP8FRfw3"];
 
   const currBoardKey: any = currSem.boardGroupId;
-  // todo: yucky array and any
-
   if (currBoardKey) {
     board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
   }
