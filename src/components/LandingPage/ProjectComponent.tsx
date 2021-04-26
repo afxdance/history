@@ -5,6 +5,7 @@ import { TechProject } from "src/data/types"
 interface ProjectProps {
   techProject: TechProject
 }
+
 export const ProjectComponent: React.FC<ProjectProps> = props => {
   const { name, description, techPeople } = props.techProject
   const isCommittee = name === "Committee"
@@ -28,19 +29,19 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
         </div>
       </div>
     ) : (
-        <div className="tech-person">
-          <img
-            className="tech-person-img"
-            src={"https://i.imgur.com/4qcFzdm.png"}
-            width="200px"
-            height="200px"
-          />
-          <div className="tech-person-info">
-            <div className="name">{name}</div>
-            <div className="title">{position}</div>
-          </div>
+      <div className="tech-person">
+        <img
+          className="tech-person-img"
+          src={"https://i.imgur.com/4qcFzdm.png"}
+          width="200px"
+          height="200px"
+        />
+        <div className="tech-person-info">
+          <div className="name">{name}</div>
+          <div className="title">{position}</div>
         </div>
-      )
+      </div>
+    )
   })
 
   return (

@@ -31,7 +31,7 @@ html {
   border: 1px solid lightgrey;
 }
 
-#board-dropdown {
+#dropdown-bar {
   border-bottom: 1px solid lightgrey;
 }
 
@@ -957,9 +957,9 @@ li a.dropdown-toggle::after {
   font-size: 16px;
 }
 
-.no-Search .search-button, .no-Search .history-nav {
+/* .no-Search .search-button, .no-Search .history-nav {
   display: none;
-}
+} */
 
 .show-Search .search-button {
   padding: 0.5rem 1rem;
