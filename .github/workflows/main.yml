@@ -23,6 +23,12 @@ jobs:
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Print github workspace
+        run: |
+          echo "GITHUB_WORKSPACE = $GITHUB_WORKSPACE"
+          echo "github.workspace = ${{ github.workspace }}"
+          echo "pr.ref = ${{github.event.pull_request.head.ref}}"
+          echo "github.ref = ${{ github.ref }}"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout Repo
         uses: actions/checkout@v2
@@ -48,3 +54,7 @@ jobs:
           git add docs
           git commit -m "redeployment"
           git push
+      - name: On failure
+        if: ${{ failure() }}
+        run: |
+          echo "Something went wrong. If failure on the previous step, the docs folder most likely never changed"
