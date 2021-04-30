@@ -4601,6 +4601,32 @@ export let Groups = {
       "rec5mcgCORGIFQmTo"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attyXUl8dYL0mGbE5",
+        "url": "https://dl.airtable.com/.attachments/e2463dc3ea386f80f191833944d5ff9f/c609f1ac/CFXDandrew.jpg",
+        "filename": "CFX Dandrew.jpg",
+        "size": 115794,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a35d6697909c2b11ad5e3b554a81e401/8c4b4fdb",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/73eb95f72721a8ddbb4286f6c52518b2/abed87fd",
+            "width": 686,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0e8da20733005df145ef226848f45e06/7a16a635",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=jiP7yFn-e7M",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
@@ -4616,6 +4642,32 @@ export let Groups = {
       "rece3NNQjxP3g641W"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "att6GQ9yai9jzm7l0",
+        "url": "https://dl.airtable.com/.attachments/6772f02b88aea63c32f2ced710e0d5e7/7fe8e709/YuJooTeamPhoto2.jpeg",
+        "filename": "YuJoo Team Photo 2.jpeg",
+        "size": 108526,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cb12bc664c06e6186b4e90e5739354c6/b6ccb977",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/06d32c899e6c0eb787707d1073643620/12557757",
+            "width": 769,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/24f311df8dcb305b364d606e317b9c62/8ca2672c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=mAessbkvKeE",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
@@ -4631,6 +4683,32 @@ export let Groups = {
       "recfld55pP2plteXM"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attHtYUx0X5KsrDqa",
+        "url": "https://dl.airtable.com/.attachments/5885ee6fb33d6cc398cbc47ffe39f365/5e3d6c8e/CFXKelix.jpg",
+        "filename": "CFX Kelix.jpg",
+        "size": 127807,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0315cc5401b8937d1087c059db849450/51ee2952",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3d3e89fb78bcde3a39008ece3334564f/c05f92a7",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/550d4fbafdba8fdb4873e06dadcf8e68/10fc569e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=BSYvxqCIWIo",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
@@ -4646,6 +4724,32 @@ export let Groups = {
       "recOMZ6S9ObqsLJ0g"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attQukhAUWNXPNAKF",
+        "url": "https://dl.airtable.com/.attachments/465ea0f40863ee2724526b9525c6c816/5288b254/CFXJakina.jpg",
+        "filename": "CFX Jakina.jpg",
+        "size": 125012,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8bf2b84b9dfc85872e13ebf19dd39148/53064235",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/03f4421e5504840378a2c554f581e7f1/da7dfd69",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f7446b37faedd9002573397c56d925b/726e31fb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=B7T43FOpRE8",
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
@@ -4702,6 +4806,32 @@ export let Groups = {
       "recJh5rb6oAp8EAHY"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attGr9KhE62SFGzrF",
+        "url": "https://dl.airtable.com/.attachments/987cd805e12daf9791fbc2899f395a78/b4b76513/AFXSunny2_0.jpg",
+        "filename": "AFX Sunny 2_0.jpg",
+        "size": 101921,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9befb0e71007a0fad4fbf351f30ec9ef/3991c96a",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/043258d053e11f6a208675b6fb72ef9a/2760eaea",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8d71320e2e7318ea8429d3b5553e62e5/b1da525e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=gnNYunNe0Us",
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
@@ -4733,6 +4863,32 @@ export let Groups = {
       "recSiyfXj7YKorw9Z"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attnRtmNE8EH0wGC9",
+        "url": "https://dl.airtable.com/.attachments/826ae86965edf3af8060725c8620b521/bf6b7df0/AFXProjectFall2013.jpeg",
+        "filename": "AFXProjectFall2013.jpeg",
+        "size": 351145,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/13c13e0dae6c1a8c2b14a3bb1d0fbcd7/f6eea15e",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d8138d18c05683e1fa64d8b86e07463c/bc4f4194",
+            "width": 906,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fb6bc04d3b02c4ddcc12d0777cf62ebf/6bc9ea5a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=JGwDWtVIIro",
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
@@ -5283,6 +5439,32 @@ export let Groups = {
       "rechOIkE9IelO6ns1"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attJaIH4DqvMJ7WeO",
+        "url": "https://dl.airtable.com/.attachments/df6a04fd77ff1e7b38d4a88090fe8821/c5bfdb36/Oriki.jpg",
+        "filename": "Oriki.jpg",
+        "size": 329741,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4bbc28a10356e192e341682c72639ad8/ec09a190",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/68968f534342453947ac80c3eb18d4a4/072f3cf6",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c9466e95f1c1ebb9454e5b6b7b5b077b/46949468",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=z-VaIKhkiao",
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
@@ -5330,6 +5512,32 @@ export let Groups = {
       "recyiyuRRND5Fq27W"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attFF4vMYJFQdb57i",
+        "url": "https://dl.airtable.com/.attachments/270a0e403cfe3150549c1a71fcc0fb12/752264a3/11083989_10204845846558852_5314338285879143659_o.jpg",
+        "filename": "11083989_10204845846558852_5314338285879143659_o.jpg",
+        "size": 478745,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c435865ce2c7adb935bb1f12b5e61a2/8e833b22",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/28365c11ba539e1947413cf40dd6a747/a79e60d5",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0d15e2afbb3fa8e60ec9837df122f8e4/77cb4617",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=DQZUFNu-im0",
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
@@ -5345,6 +5553,32 @@ export let Groups = {
       "recemowZpG6VY4nCf"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "atti87NWf3liakWpn",
+        "url": "https://dl.airtable.com/.attachments/9652f85f4e9f881124351dd465daf672/944cfc3f/image0.jpeg",
+        "filename": "image0.jpeg",
+        "size": 170725,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1190c36d53d881f93eea4100fcb4fc92/446311a4",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3b423bb5509e5b1dbda333e193b4d4c8/e4b1c2b8",
+            "width": 689,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0cc95e426e5df229f945f0999e8bb2f2/2bd3ada1",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=HEeJEwmjQhk",
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
@@ -5542,6 +5776,32 @@ export let Groups = {
       "rec48BuRv3Je16I2b"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attEuHG7ODZfCKygo",
+        "url": "https://dl.airtable.com/.attachments/cb7ccc707d5532abf2a8e8384818ce49/62f57594/11882368_1639443443007051_7814110812088299829_o.jpg",
+        "filename": "11882368_1639443443007051_7814110812088299829_o.jpg",
+        "size": 349596,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f8c157bad3641f4675367e23a96396f/7b4aca99",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a42da8c65c14909ee144d230d0f35536/ccb78c17",
+            "width": 773,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/728fe9340a3368e6c648f6b7c5f4ee1f/f404628d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=-Q7PucyMFMQ",
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
@@ -6507,6 +6767,32 @@ export let Groups = {
       "recGzgezDFxUmGjL7"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attvoZPudxXaQPw8W",
+        "url": "https://dl.airtable.com/.attachments/47a4315fb94d0352b9a5a3dcc07ad859/b6c45a64/AFX_Kekeke.jpg",
+        "filename": "AFX_Kekeke.jpg",
+        "size": 330081,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f86a220d745aa370765cbd0be539d066/51816da9",
+            "width": 58,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/006643ef1a9b948bdc27dd1609a0a01e/efd01625",
+            "width": 819,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/07466010b553880f3cf85b68f39b91f2/b322e8fc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=91COLzz6gLE",
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
@@ -6522,6 +6808,32 @@ export let Groups = {
       "recNgRwpxQLGWyLHK"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attZUizwyywBSY1qz",
+        "url": "https://dl.airtable.com/.attachments/1070620c2e24a13458e8e70364c55f0d/85d8812a/14054506_10208903506816997_3795183693912998501_o.jpg",
+        "filename": "14054506_10208903506816997_3795183693912998501_o.jpg",
+        "size": 679427,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/08918323df738e6d65242674c35949e5/5bb26831",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/475ebc1248f5c50ed53f7ee92ea3637e/e85dd4cc",
+            "width": 770,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/685865516794423d9ac480636bc3509c/ea5bd655",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=ttLzzavDl3A",
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
@@ -6731,6 +7043,32 @@ export let Groups = {
       "recbqlVdlKLsTuPK1"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attA1fgS1QDDLR9Kd",
+        "url": "https://dl.airtable.com/.attachments/d8b671f56af9c937387f86cb9d7dc9a0/250713be/15025434_1292419934141364_8431077150753166300_o.jpg",
+        "filename": "15025434_1292419934141364_8431077150753166300_o.jpg",
+        "size": 428953,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ecf40297f8cdee3cf6c67e4623a72140/b72291df",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a3ec1b7749422cc418e34fcdd3b89cf1/5d159a92",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/095f7f45585e95e24eaf88fcea4dd331/3e0baa0d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=PeXUxHhSE5w",
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
@@ -8699,6 +9037,32 @@ export let Groups = {
       "recWSUiRJu5R8tjas"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attHlAKLv956bsfaV",
+        "url": "https://dl.airtable.com/.attachments/35513843f074e766b772aca601787f4d/11ec3b34/AFXTRM.jpg",
+        "filename": "AFXTRM.jpg",
+        "size": 518530,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d64ada693d98d647bc4fe6b6a667f449/ee2077d0",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d360e81c134cd8ff3283a5bd172a3bc/c0668010",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7acb9bf802962f929c6ad8f27593cba6/92fa5691",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=MLOygMNrWfw",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
@@ -8729,6 +9093,32 @@ export let Groups = {
       "recE84Pg7acHw9jUM"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "att01qtQaOJ7azYW8",
+        "url": "https://dl.airtable.com/.attachments/5e3ecf77c369ad983bc23206e326b6b3/ceea0b7a/20626967_10212130982701877_971024049634652460_o.jpeg",
+        "filename": "20626967_10212130982701877_971024049634652460_o.jpeg",
+        "size": 706870,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/aa227343a8a4c7d3a1279536402f64b9/44a1cd00",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/87ce5f8cf9b9ab7ee0f9d6221ce52613/b61f4b45",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ea5a54a5e36d1f22fb76ec5690a0d4d5/0665c997",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "videoUrl": "https://www.youtube.com/watch?v=TqjWFY14CF4",
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
@@ -11759,6 +12149,32 @@ export let Groups = {
       "recZRkwOqdub8rIb4"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attsQNdx79dkuPPwy",
+        "url": "https://dl.airtable.com/.attachments/54d488db0043d78166dfa076e0a01554/34626f5d/AFXCompSpring2014.jpeg",
+        "filename": "AFXCompSpring2014.jpeg",
+        "size": 247612,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e05c5121e294d381f9ce5e69f5b33108/5549eb71",
+            "width": 57,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/552d649116f5668d41abdd9ee1567c4c/20759ab7",
+            "width": 818,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7174aaddac057e5609ed56b18c11d7a8/c8ff503f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
@@ -11775,6 +12191,32 @@ export let Groups = {
       "recxlFvvUfFDj8Hyj"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "attW6UWnWrcH0Dcx4",
+        "url": "https://dl.airtable.com/.attachments/bdac268b9c4afccf25d12f2b802ccbf1/290dc4e3/AFXCompFall2013.jpeg",
+        "filename": "AFXCompFall2013.jpeg",
+        "size": 328105,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3b3ed57b289149cb681b76b3531fa6bf/6388e2bb",
+            "width": 53,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d962860f0aa4294d086f4245878e9948/cf047cf2",
+            "width": 760,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4750a7c85abaa98e1066b2f97bca0d2c/3efd4cd6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
@@ -11985,24 +12427,24 @@ export let Groups = {
     "type": "team",
     "teamPicture": [
       {
-        "id": "attwfIJsYtPPYxnwE",
-        "url": "https://dl.airtable.com/.attachments/49934a1f5dadee520df62ef299bb2a68/97a4fbfe/SU17xi.jpg",
-        "filename": "SU17 (xi).jpg",
-        "size": 667243,
+        "id": "attPwCouOf5JelVOc",
+        "url": "https://dl.airtable.com/.attachments/67ec6ccb63fe877e1b06456df35071e0/73fa90f9/Afxexhib.jpg",
+        "filename": "Afx exhib.jpg",
+        "size": 415222,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/25c462f96200bc00765df2d8c056b2bb/fc6a0ce8",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/aa06008858e9c91ffadb26258075842d/0cad913a",
             "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/66954ff3b79dc8a2af27e82a673bbc49/310464ae",
-            "width": 768,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8ce1cc6a79c536fd3a48ddcec8819696/3d3f42cc",
+            "width": 767,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8076e4d07a949e6d58b90c653238eb0b/a3b36c38",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/654aa8cda4a0ec42b1991f37eba62983/202b3ffc",
             "width": 3000,
             "height": 3000
           }
@@ -12025,6 +12467,32 @@ export let Groups = {
       "recU54lLZqUz4LmbK"
     ],
     "type": "team",
+    "teamPicture": [
+      {
+        "id": "att9KRBpu7WDHTxVX",
+        "url": "https://dl.airtable.com/.attachments/2a8f3926033a051a87495b0998b8777d/b160e4ca/AFXCompSpring2013.jpeg",
+        "filename": "AFXCompSpring2013.jpeg",
+        "size": 104817,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/950afff1b1d5f13b90c2927463ff03be/6623de34",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c3bdd9c56c6ea11439dd06e362c8b9e6/24b4d0ec",
+            "width": 769,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fcbf36d1a789cd0f0111d138b3d3ef0b/22e2ebb5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
@@ -35439,6 +35907,32 @@ export let PersonPositions = {
       "recHUtfGFtTovTeMw"
     ],
     "positionTitle": "Director",
+    "picture": [
+      {
+        "id": "atttrPIzjho9cOQb3",
+        "url": "https://dl.airtable.com/.attachments/f312109c988c2253ec1317d133d232d3/d7435e40/ChrystinaYu.jpeg",
+        "filename": "Chrystina Yu.jpeg",
+        "size": 3589137,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e69dd16949a1330dd9a8797e68eaa78e/4b54e865",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b5bf6ef91bc260eaec86b348cb1a1083/17d34008",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f84b63a95400b2e7deb27f7ca75651ef/6195f7c8",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "personIds": [
       "recDmhjZBeNEXY3vD"
     ],
@@ -45620,7 +46114,11 @@ export let TechProjects = {
     "name": "History",
     "description": "We are a small team that is responsible for the development of the official AFX website (afx.dance). On History, you will be working with front-end web development tools such as React, TypeScript, HTML, and CSS. Some features that you will be helping us implement this semester include: a merchandise page for AFX apparel,  a “Smart” video gallery that showcases past performances, and improving website security and performance.",
     "techPeople": [
-      "recv0nsk7ynL18ZaE"
+      "recv0nsk7ynL18ZaE",
+      "reci9Xt70u1UxuVBh",
+      "recixaJnAehxoP136",
+      "rec3khLqIqapNa8Su",
+      "recSRVJC805JipOvM"
     ]
   },
   "recE0mCwHo0OWHgOb": {
@@ -45630,7 +46128,10 @@ export let TechProjects = {
     "description": "The music app provides dancers with functionality to play, slow down, loop, and share music. In the past, we've built a website (slow.afx.dance) and an Android app (Slowify Music). This semester, we'll be working on a React Native application with cross-platform capability. Join us to build an amazing product for the dance community!",
     "techPeople": [
       "recGSx1i0TPGzGxHz",
-      "recGz1fYyTHthgtxs"
+      "recGz1fYyTHthgtxs",
+      "reck6IwZuBFJgXoO9",
+      "recVL0HWkRryDUwM2",
+      "receYRhl9Hgrrce5D"
     ]
   },
   "recpptXzEL1vOS8LU": {
@@ -45640,7 +46141,11 @@ export let TechProjects = {
     "description": "This is a Ruby on Rails app that is used to collect dancers’ information at auditions and maintain the database of ~1000 dancers. We also handle team switch requests and the randomization of dancers onto teams. Roster is the most developed app under AFX Tech — it has been completely functional since 2015. This semester, we’re working on automating emails and integrating the SRC form with our app among other features.",
     "techPeople": [
       "recahxHYnLeD2p0am",
-      "reccaqyQhOqpBJmBU"
+      "reccaqyQhOqpBJmBU",
+      "recPoS8osqORY9S1o",
+      "recswGgoafEdlpWdi",
+      "recWwK0nOZURbohfV",
+      "reckVixnj3hcODmTR"
     ]
   },
   "recAIiMm047Jbn95g": {
@@ -45652,7 +46157,11 @@ export let TechProjects = {
       "recplm48mR6XCjZyU",
       "recdTc3495nI4gklT",
       "recq1VpYYHjIbS3bz",
-      "recnXtUDEf896SwWu"
+      "recnXtUDEf896SwWu",
+      "recACUQKuBNJlOQRH",
+      "recFSJSDPC9dISLMX",
+      "rec6dAB9hFFNFl0iJ",
+      "recJVTYD6IDhoXbZW"
     ]
   }
 }
@@ -45669,24 +46178,24 @@ export let TechPeople = {
     "position": "Committee Lead",
     "picture": [
       {
-        "id": "attn4JcB8gaQfwgfW",
-        "url": "https://dl.airtable.com/.attachments/1581f1ea440fbcb8e3572b91fa272956/753d425a/IMG_2654.jpg",
-        "filename": "IMG_2654.jpg",
-        "size": 534285,
+        "id": "attizo8jaCQUc5mF1",
+        "url": "https://dl.airtable.com/.attachments/aa26fb9f4c2dc2e01bd80eca217d9f25/e215b96f/IMG_5216-CharlesWang.jpg",
+        "filename": "IMG_5216 - Charles Wang.jpg",
+        "size": 2974668,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e641d9d0309a500df408e69eaafc7416/0805a39f",
-            "width": 36,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/55a6e633a817ddd3cbb3303e04babbee/b4f1cb7c",
+            "width": 34,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1226cb5159fc3e340ea507e92cbe5f7e/c2626cd8",
-            "width": 514,
-            "height": 512
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8c0979b935732d39955ce3c6756846c9/f3c40a13",
+            "width": 512,
+            "height": 536
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c16790f5524a0cdce880bc185a70dacf/bb4b0454",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fba84af1eafb64f81fbf9370a398b1d9/e0d8e26e",
             "width": 3000,
             "height": 3000
           }
@@ -45811,24 +46320,24 @@ export let TechPeople = {
     "position": "Project Lead",
     "picture": [
       {
-        "id": "att9XT16KYkv29VoK",
-        "url": "https://dl.airtable.com/.attachments/26aff3bd839722c49490765f782cb41a/0f92c4f8/howard.jpeg",
-        "filename": "howard.jpeg",
-        "size": 65211,
+        "id": "attKqRNt7NZjcpfLP",
+        "url": "https://dl.airtable.com/.attachments/a07fcaee83a09a28a01ec54281afc926/bab3e247/47449525_2197115637225625_8126404309618262016_n-HowardWang.jpg",
+        "filename": "47449525_2197115637225625_8126404309618262016_n - Howard Wang.jpg",
+        "size": 130833,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c9de19ea04871cac856160995edf6e5c/b6473a0d",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3758be8883ec1a54e314ceeff31dfe2/c17a3324",
             "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/195a5ecdbe34d398c1d697c20668ce58/3521c4ad",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bbfdb4976a462f0eec8355302f9c6596/31650773",
             "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/416f3cc49fe8fe984dec141c86177632/6627b7d4",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4a9eda8b147c412d4febd65bba9c1e7/1c17c6eb",
             "width": 3000,
             "height": 3000
           }
@@ -45970,6 +46479,531 @@ export let TechPeople = {
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/a3d04e277be8540e4bf6060f42ab6ead/db853c76",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "reci9Xt70u1UxuVBh": {
+    "createdTime": "2021-04-12T02:26:01.000Z",
+    "id": "reci9Xt70u1UxuVBh",
+    "name": "Justin Xia",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attmpU9Ls56qYyTWp",
+        "url": "https://dl.airtable.com/.attachments/8fb470ee897935e2428c1bbf78678840/21dbe215/sleep-min.jpg",
+        "filename": "sleep-min.jpg",
+        "size": 236632,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bf999892d2cc3c906403c64df03a7e48/34f649fe",
+            "width": 31,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8a78bdcf909ea3b6857c609a57d8153a/0a5be56e",
+            "width": 512,
+            "height": 586
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c6ac05835f44fa3c981310dffac29156/0ce687ef",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "rec3khLqIqapNa8Su": {
+    "createdTime": "2021-04-12T02:26:10.000Z",
+    "id": "rec3khLqIqapNa8Su",
+    "name": "David Lin",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attRYO2SObnpvjGfK",
+        "url": "https://dl.airtable.com/.attachments/e17fd7f970887420dcccddb8055f3df4/2613fd3b/Profile_pic.jpg",
+        "filename": "Profile_pic.jpg",
+        "size": 365498,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/31dbe4ea59be122dfc10ca3c9515c451/d1ddbfd7",
+            "width": 32,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/938527c1d5874b2eaf11f5a6ed85d98f/4cc773c8",
+            "width": 512,
+            "height": 576
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8ef56e55593a2dc3f621da0c79c0f3de/83c27885",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "receYRhl9Hgrrce5D": {
+    "createdTime": "2021-04-12T02:26:26.000Z",
+    "id": "receYRhl9Hgrrce5D",
+    "name": "Yuwen Zhang",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "att0HUWaDD0dH2eAr",
+        "url": "https://dl.airtable.com/.attachments/bf26e3cacc19b4e45797a4d45ffca58b/dead6509/yuwen-edit.jpg",
+        "filename": "yuwen-edit.jpg",
+        "size": 68496,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6a762c7dd5eb007d1db3a326f57f96ad/d18f8f2d",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e47a4edd70879c9bf8e1dd0231276367/4f21e1e0",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9739727940c8662908d00d7559285f18/0a5f8792",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recixaJnAehxoP136": {
+    "createdTime": "2021-04-12T02:26:42.000Z",
+    "id": "recixaJnAehxoP136",
+    "name": "Abigail Yu",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attpIJ2ZifqPDGzUw",
+        "url": "https://dl.airtable.com/.attachments/a5626657ffd7b330e17fd6f8ba297863/c851538f/bakerbeachbutmakeitsquare2-AbigailYu.jpg",
+        "filename": "baker beach but make it square 2 - Abigail Yu.jpg",
+        "size": 1727303,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/df14b0f3b1ad0ba92a149ed6ee18ef89/2ee194f2",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/575bb8ffa7ea31e557f02db62922a75f/63241fc1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9926b81e5c79389cbb3b5da7d37cc662/8f05b9e6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "reck6IwZuBFJgXoO9": {
+    "createdTime": "2021-04-12T02:27:18.000Z",
+    "id": "reck6IwZuBFJgXoO9",
+    "name": "Andy Lau",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attAowS8ECKq7B1zP",
+        "url": "https://dl.airtable.com/.attachments/fc5829611639ad645ea42f3899cf7e30/e23ee0e2/T018FBYC26L-U01B217Q0NB-ac34372b3a94-512.png",
+        "filename": "T018FBYC26L-U01B217Q0NB-ac34372b3a94-512.png",
+        "size": 466451,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5aaba3193d86952220dfbbe550a1e819/86279f2b",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ecf2a3c82214c00589491958b8f40f76/63f33f3c",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd574f259bec91b094eae1028a559b7b/dd3b5f05",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recVL0HWkRryDUwM2": {
+    "createdTime": "2021-04-12T02:27:37.000Z",
+    "id": "recVL0HWkRryDUwM2",
+    "name": "Angela Chen",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attkukg734Hl8NCdn",
+        "url": "https://dl.airtable.com/.attachments/c508e0e3a103324bf17f71ecc96a9ed2/1d749958/AngelaChenPhoto-AngelaChen.jpg",
+        "filename": "AngelaChenPhoto - Angela Chen.jpg",
+        "size": 114463,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72f798d334f9d7b9a0d165a7bd10c8bc/52e0619c",
+            "width": 40,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/22ac944357bb4c255209048d98c35688/5f338bda",
+            "width": 574,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6979dc993df0c180b32b50253aeda9c7/d4b0abea",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recACUQKuBNJlOQRH": {
+    "createdTime": "2021-04-12T02:27:49.000Z",
+    "id": "recACUQKuBNJlOQRH",
+    "name": "Anusha Muley ",
+    "project": [
+      "recAIiMm047Jbn95g"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "att3JHUCyDUMBMAlC",
+        "url": "https://dl.airtable.com/.attachments/74d002a7ca3a122593372c8a437d6f8f/bb2fc8dc/T018FBYC26L-U01MYL9MW5B-816cdd80b9aa-512.jfif",
+        "filename": "T018FBYC26L-U01MYL9MW5B-816cdd80b9aa-512.jfif",
+        "size": 175548,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0c3d15b00e138c0ae13fe424d1ffc392/edd94de1",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e209159fb335b4b12a758ccc3b7a6d1f/c7316dfb",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1b27abea683c028ac993bf31b34a4a2/d1b5a93d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recPoS8osqORY9S1o": {
+    "createdTime": "2021-04-12T02:28:16.000Z",
+    "id": "recPoS8osqORY9S1o",
+    "name": "Christine Lu",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attrW1oOksTPB3EcG",
+        "url": "https://dl.airtable.com/.attachments/5ae2f6556a2821a8ba232c4284e63bb2/64c0561d/T018FBYC26L-U01BDLC75U5-ec0ec7b8caea-512.jfif",
+        "filename": "T018FBYC26L-U01BDLC75U5-ec0ec7b8caea-512.jfif",
+        "size": 62237,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42cb6bf7019081036ddfac38da61b88a/272845fc",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/406421c446f163f10407b4ae0369f7f5/133ac1c4",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fca20bd777f9ed0c73e335efb5017ed2/048d0eed",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recSRVJC805JipOvM": {
+    "createdTime": "2021-04-12T02:28:20.000Z",
+    "id": "recSRVJC805JipOvM",
+    "name": "Davina Dou",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attb1tVY55Akg7Kg1",
+        "url": "https://dl.airtable.com/.attachments/701fdaf3b9120a166698a8860496e07b/5ac43f4b/davina_meetfresh-DavinaDou.jpg",
+        "filename": "davina_meetfresh - Davina Dou.jpg",
+        "size": 266393,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c9be6300fc670a9f26d8338f80cbe3e9/0937d447",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e216000b38c44c9da86ccbf8e7e7a5aa/ade0db0e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/767135cab8a1b93822e2d9d9a4b73375/7a8e03fe",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recFSJSDPC9dISLMX": {
+    "createdTime": "2021-04-12T02:28:53.000Z",
+    "id": "recFSJSDPC9dISLMX",
+    "name": "Ethan Pang",
+    "project": [
+      "recAIiMm047Jbn95g"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attMISfQNilo1SPme",
+        "url": "https://dl.airtable.com/.attachments/29b810a97e0d4468ecb5e8f836f8413c/c9b3fdb6/pfp-hike_m-EthanPang.png",
+        "filename": "pfp-hike_m - Ethan Pang.png",
+        "size": 3164444,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/49e9359df7a13a2acbea2e1c25242e7a/2ab5f03f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ee808cd08a0b5b409e50daf7bd3d0340/66091629",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d895e02468f932e6f977b8e606334307/f04e46d0",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recWwK0nOZURbohfV": {
+    "createdTime": "2021-04-12T02:29:56.000Z",
+    "id": "recWwK0nOZURbohfV",
+    "name": "Junna Chen",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attgV9ZFaeMq80mNE",
+        "url": "https://dl.airtable.com/.attachments/ad67553560a7ec890bcd45aa2d857cf2/8b3da935/CD58F3DD-2F98-4B49-A9B5-FEFF492447B2-JunnaChen.jpeg",
+        "filename": "CD58F3DD-2F98-4B49-A9B5-FEFF492447B2 - Junna Chen.jpeg",
+        "size": 379236,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1f0f751ce9f641a3b18c41666995966d/1a230b97",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca334cf81d95bdae2721ed4c151db6da/7ba9da18",
+            "width": 512,
+            "height": 523
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9953c7c038db98d17196d32a3e5ef996/f38a3a13",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recswGgoafEdlpWdi": {
+    "createdTime": "2021-04-12T02:31:27.000Z",
+    "id": "recswGgoafEdlpWdi",
+    "name": "Michael Ren",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attpH8DTaNT1Idatl",
+        "url": "https://dl.airtable.com/.attachments/d81b36e5ec56d0297f34c5bfd8b1d1c5/edd5d54f/square-MichaelRen.jpg",
+        "filename": "square - Michael Ren.jpg",
+        "size": 1090579,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3bd3cf99d199104bfb0121db544044e3/7033162f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b52da4e92e9088077d84b74f86d5c579/48ec7d0b",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1047a497e3d6ec21fcc6b5e926e4eae4/20d7776b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "reckVixnj3hcODmTR": {
+    "createdTime": "2021-04-12T02:31:54.000Z",
+    "id": "reckVixnj3hcODmTR",
+    "name": "Michael Yu",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attr8XZjScn8ByTOP",
+        "url": "https://dl.airtable.com/.attachments/018c3d60f8af5b45699b8f5a24da3456/adedcaa5/Michael-Headshot-MichaelYu.jpg",
+        "filename": "Michael-Headshot - Michael Yu.jpg",
+        "size": 672276,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c78379b0e1a892bc64831a0c43674d1/40877439",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6b5939f7a3f6fa82b1813186a2d1520a/958c4dc0",
+            "width": 512,
+            "height": 751
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4cc105e2693a9d7f4179e650adde68e0/2b1136db",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recJVTYD6IDhoXbZW": {
+    "createdTime": "2021-04-12T02:33:21.000Z",
+    "id": "recJVTYD6IDhoXbZW",
+    "name": "Lucas Huang",
+    "project": [
+      "recAIiMm047Jbn95g"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "atta4uounUt8Jo486",
+        "url": "https://dl.airtable.com/.attachments/5f7e806036be34217e60eccb9ca42fb8/1668db04/T018FBYC26L-U01NEBWTU2D-919d9a23441e-512.jfif",
+        "filename": "T018FBYC26L-U01NEBWTU2D-919d9a23441e-512.jfif",
+        "size": 118004,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/601345e22255965086a301e945a63001/b7e9ced6",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/41078ec50853cdd3a5bd918a001ab104/b1881fdd",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0b6cf6237a2fbce4f393a8f595c59bc5/5e66d1e8",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "rec6dAB9hFFNFl0iJ": {
+    "createdTime": "2021-04-12T02:33:28.000Z",
+    "id": "rec6dAB9hFFNFl0iJ",
+    "name": "Kylie Ren",
+    "project": [
+      "recAIiMm047Jbn95g"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attLJJXVNZ0xOFN9K",
+        "url": "https://dl.airtable.com/.attachments/1b82867d9edef8a7e771266662b56b6f/93909b59/T018FBYC26L-U01MYL9MPE1-ff27b64f9062-512.jfif",
+        "filename": "T018FBYC26L-U01MYL9MPE1-ff27b64f9062-512.jfif",
+        "size": 66753,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/80d2aae05be5aa7f7ab2a4a96eb23504/c39fa725",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ebbda447ba4410bab298b7659feea628/6e0ce946",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/618aebaeccea83028b94f1bc2d8b9934/2bf72a0b",
             "width": 3000,
             "height": 3000
           }
