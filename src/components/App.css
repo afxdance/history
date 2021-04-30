@@ -26,6 +26,8 @@ html {
 .navlink-custom {
   /* NEW */
   margin: auto;
+  padding-left: 2%;
+  padding-right: 2%;
   /* padding: 8px */
 }
 

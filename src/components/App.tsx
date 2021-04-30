@@ -13,7 +13,7 @@ import { LandingComponent } from "./LandingPage/LandingPageComponent"
 import { AFXTechComponent } from "./AFXTechComponent";
 
 import { Component } from 'react';
-import { HashRouter, Route, Link } from "react-router-dom";
+import { HashRouter, Route, Link, Redirect } from "react-router-dom";
 
 const Home = () => <div><h1>Home</h1></div>
 const About = () => <div><h1>Joe mama</h1></div>
@@ -63,13 +63,9 @@ export const App: React.FC<{}> = () => {
   return (
     <HashRouter basename='/'>
       {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
-      {/*
-      <div className={(boardRenderTarget || teamRenderTarget) ? "show-Search" : "no-Search"}>
-        <Navigation />
-      </div> */}
 
       {/* <div className={display ? "show-Search" : "no-Search"}>
-        <Navigation />
+        <Navigation searchable={false} />
       </div> */}
 
       {/* <div id="top" className="anchor">
@@ -93,6 +89,11 @@ export const App: React.FC<{}> = () => {
 
       {/* <Route exact path="/" component={AboutComponent} />
       <Route path="/events" component={EventsComponent} /> */}
+
+      <Route exact path="/" >
+        <Redirect to="/about" />
+      </Route>
+
       <Route path="/about" render={() => <div>
         <Navigation searchable={false} />
         <AboutComponent />
