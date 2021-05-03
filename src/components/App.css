@@ -44,6 +44,11 @@ html {
   border-bottom: 1px solid lightgrey;
 }
 
+.nav-item-text {
+  /* dumb way to fix the problem to emulate the navbar scss from react bootstrap */
+  padding: 0.5rem;
+}
+
 .nav-text {
   color: white;
 }

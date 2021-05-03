@@ -39,14 +39,12 @@ export const App: React.FC<{}> = () => {
   const currSem: Semester = AFX.Semesters[currentSemKey || "rec4GaaU2uP8FRfw3"];
 
   const currBoardKey: any = currSem.boardGroupId;
-  // todo: yucky array and any
 
   if (currBoardKey) {
     board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
   }
   if (currSem.teamGroupIds) {
     teams.push(<TeamsComponent teamIds={currSem.teamGroupIds} />);
-    // TODO: TeamsComponent, renaming things, string[] mess
   }
 
   const boardRenderTarget = document.getElementById("board")
@@ -62,7 +60,6 @@ export const App: React.FC<{}> = () => {
 
   return (
     <HashRouter basename='/'>
-      {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
 
       {/* <div className={display ? "show-Search" : "no-Search"}>
         <Navigation searchable={false} />
@@ -87,15 +84,13 @@ export const App: React.FC<{}> = () => {
         </div>
       </div> */}
 
-      {/* <Route exact path="/" component={AboutComponent} />
-      <Route path="/events" component={EventsComponent} /> */}
-
       <Route exact path="/" >
         <Redirect to="/about" />
       </Route>
 
       <Route path="/about" render={() => <div>
         <Navigation searchable={false} />
+        {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
         <AboutComponent />
       </div>} />
 
