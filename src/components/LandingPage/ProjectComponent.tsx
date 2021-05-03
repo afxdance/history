@@ -1,4 +1,5 @@
 import * as React from "react"
+import { HoverWrapperComponent } from "src/components/HoverWrapperComponent"
 import { TechPeople } from "src/data/data"
 import { TechProject } from "src/data/types"
 
