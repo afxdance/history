@@ -11,8 +11,7 @@ export const MerchItemPageComponent: React.FC<{
   quantity: number
   imageUrlList: string[]
   sizeList: string[]
-  colorList: string[]
-  product: Product
+  productMap: Map<string, Product>
   priceObject: Price
 }> = ({
   name,
@@ -20,8 +19,7 @@ export const MerchItemPageComponent: React.FC<{
   quantity,
   imageUrlList,
   sizeList,
-  colorList,
-  product,
+  productMap,
   priceObject,
 }) => {
     const firstImage = imageUrlList[0]
@@ -49,6 +47,8 @@ export const MerchItemPageComponent: React.FC<{
     }
 
     const colors: any[] = []
+    let sizeListLI: any[] = []
+    sizeListLI = sizeList.map((size) => <option value={size}>{size}</option>);
 
     // for (let colorli of colorList) {
     // colors.push(<div id="circle" style={"background-color: " + colorli} />)
@@ -82,11 +82,7 @@ export const MerchItemPageComponent: React.FC<{
               <div className="size-dropdown">
                 <form>
                   <select id="size" name="size">
-                    <option value="XS">XS</option>
-                    <option value="S">S</option>
-                    <option value="M">M</option>
-                    <option value="L">L</option>
-                    <option value="XL">XL</option>
+                    {sizeListLI}
                   </select>
                 </form>
               </div>
@@ -114,21 +110,23 @@ export const MerchItemPageComponent: React.FC<{
               </div>
             </div>
 
-            <div className="color">
-              <div>
-                <p> Color: </p>
-              </div>
-
-              <div>{colors}</div>
-            </div>
-
             <div className="cart-button-container">
               <button
                 className="add-cart-button"
                 type="button"
-                onClick={() => addToCart(priceObject, product)}
+                onClick={() => {
+                  let size = (document.getElementById("size") as HTMLInputElement).value;
+                  let product = productMap.get(size) || productMap.get("none") as Product;
+                  let quantity: number = Number((document.getElementById("quantity") as HTMLInputElement).value);
+
+                  while (quantity > 0) {
+                    addToCart(priceObject, product);
+                    quantity = quantity - 1
+                  }
+                }}
               >
                 ADD TO CART
+
               </button>
             </div>
 

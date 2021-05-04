@@ -36,7 +36,6 @@ export const CartComponent: React.FC<{}> = props => {
   let total_price = 0
 
   for (let [key, value] of Array.from(cart.entries())) {
-    console.log("cart", value)
     images.push(<CartRow value={value} />)
     total_price += value[0]
   }
@@ -45,13 +44,17 @@ export const CartComponent: React.FC<{}> = props => {
 
   return (
     <div>
-      <div className="cart-container">
+      <div className="overall-cart">
+        <div className="cart-container">
+          <div className="cart-label">Shopping Cart</div>
+        </div>
+        <hr className="cart-divider" />
         {images}
         <div className="total-price">
           <h3>Total Price: {total_price.toFixed(2)}</h3>
         </div>
         <Checkout />
       </div>
-    </div>
+    </div >
   )
 }

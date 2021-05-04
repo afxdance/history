@@ -8,17 +8,17 @@ export const MerchItem: React.FC<{
   imageUrlList: string[]
   name: string
   price: string
-  colorList: string[]
+  sizeList: string[]
   quantity: number
-  product: Product
+  productMap: Map<string, Product>
   priceObject: Price
 }> = ({
   imageUrlList,
   name,
   price,
-  colorList,
+  sizeList,
   quantity,
-  product,
+  productMap,
   priceObject,
 }) => {
     // page string: <MerchItemPageComponent />
@@ -71,9 +71,8 @@ export const MerchItem: React.FC<{
             price={price}
             quantity={quantity}
             imageUrlList={imageUrlList}
-            sizeList={["XL", "L", "M"]}
-            colorList={colorList}
-            product={product}
+            sizeList={sizeList}
+            productMap={productMap}
             priceObject={priceObject}
           />
         </Popup>

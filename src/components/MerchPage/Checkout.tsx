@@ -36,7 +36,7 @@ const Checkout = (props: any) => {
       for (let [key, value] of Array.from(cart.entries())) {
         line_items.push({ price: key, quantity: value[1] })
       }
-      const stripe = window.Stripe('pk_test_51HdnXpA8Jg7sAs06Vtj4qacDVV1bdcVYSuCo31a7dpWIRJ8lG7l9c3hJKtY8tGu66mfXuUOx15nmhRFCeakH3kCI00QhxvM2WV');
+      const stripe = window.Stripe('pk_test_51HdndOJHggmM4rHWH4MnggLiHJqAA3t8N7ACUzIRpAR73JVoxEa8jlxErIP00eXWdkzdfytBJGZHNqiQWkguVQkQ00dIgzN0k0');
       stripe.redirectToCheckout({
         lineItems: line_items,
         mode: 'payment',
@@ -61,7 +61,7 @@ const Checkout = (props: any) => {
 
   return (
     <div className="checkout">
-      <button id="checkout" type="button" className="btn btn-secondary btn-small" onClick={checkout}>Checkout</button>
+      <button id="checkout" type="button" className="checkout-button" onClick={checkout}>CHECKOUT</button>
     </div>
   );
 

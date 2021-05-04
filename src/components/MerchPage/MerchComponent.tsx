@@ -6,7 +6,7 @@ import { Product, Price } from "./Types"
 import CartContext from "./CartContext"
 
 const SECRET_KEY: string =
-  "sk_test_51HdnXpA8Jg7sAs064LAhHXEbkhJxHpOAg8J7QiCrJW3U8MK8nT1IYDkZXEH3x6imLDv2FHUs3B1MlLlMIZrnVWks00oFrLTtuv"
+  "sk_test_51HdndOJHggmM4rHWxti97lxV6DpFZq76H4GwarIZ7tIsTdhPVDyPBpZPfdFqAylUCvQPR4SSLgO4gELWKaJ1b9d100Rxmu6vwq"
 
 //Note: Create a individualized MerchItemPageComponent, separate from this general merch page component.
 //The individualized MerchItemPage should display what is shown after you click on a merch item
@@ -51,6 +51,7 @@ export const MerchComponent: React.FC<{}> = props => {
     return (await prod).json()
   }
 
+
   useEffect(() => {
     // todo: maybe construct a mapping between price_id and product:Product here
     if (prices == "") {
@@ -72,7 +73,6 @@ export const MerchComponent: React.FC<{}> = props => {
     if (prices != "" && prods != "") {
       let tempMap = new Map()
       if (prodMap.size === 0) {
-        console.log(prices)
         let allPrices: Price[] = JSON.parse(prices).data
         let products: Product[] = JSON.parse(prods).data
         for (let i = 0; i < allPrices.length; i++) {
@@ -92,8 +92,9 @@ export const MerchComponent: React.FC<{}> = props => {
     }
   })
 
-  const merchItems: any[] = []
-  let merchCount = 0
+  // const merchItems: any[] = []
+  let merchItems = new Map();
+  let merchCount = 0;
 
   if (prods != "" && prices != "") {
     /* Going to change this to loop over prices instead of prods.
@@ -107,39 +108,51 @@ export const MerchComponent: React.FC<{}> = props => {
     for (let itemIndex in stripeData.data) {
       let price: Price = stripeData.data[itemIndex]
       if (prodMap.has(price.id)) {
-        let product: Product = prodMap.get(price.id)
-        merchItems.push(
-          <MerchItem
-            imageUrlList={product.images}
-            name={product.name}
-            price={(price.unit_amount / 100).toFixed(2)}
-            colorList={product.colorList}
-            quantity={merchCount}
-            product={product}
-            priceObject={price}
-          />
-        )
+        let product: Product = prodMap.get(price.id);
+
+        // If the item is already listed under a different size
+        if (merchItems.has(product.name)) {
+          let sizeToBeAdded = product.metadata["size"]
+          let item = merchItems.get(product.name);
+          item.props.sizeList.push(sizeToBeAdded)
+          item.props.productMap.set(sizeToBeAdded, product)
+
+          // If the product has never been seen before
+        } else {
+          let sizeList: any[] = []
+          let productMap = new Map();
+          if (product.metadata["size"] != null) {
+            sizeList.push(product.metadata["size"])
+            productMap.set(product.metadata["size"], product)
+          } else {
+            productMap.set("none", product)
+          }
+
+          merchItems.set(product.name,
+            <MerchItem
+              imageUrlList={product.images}
+              name={product.name}
+              price={(price.unit_amount / 100).toFixed(2)}
+              sizeList={sizeList}
+              quantity={merchCount}
+              productMap={productMap}
+              priceObject={price}
+            />
+          )
+        }
+
       }
     }
 
-    // for (let itemIndex in stripeData.data) {
-    //   let product = stripeData.data[itemIndex]
-    //   merchItems.push(
-    //     <MerchItem
-    //       imageUrlList={product.images}
-    //       name={product.name}
-    //       price={product.price}
-    //       colorList={product.colorList}
-    //       quantity={merchCount}
-    //     />
-    //   )
-    // }
   }
 
   /* Create list of LI's for rendering.Bust */
-  const merchItemsLI: any[] = merchItems.map(item => <li>{item}</li>)
+  const merchItemsLI: any[] = []
+  merchItems.forEach((value: any, key: any) => {
+    merchItemsLI.push(<li>{value}</li>);
+  })
 
-  //find a way to render this list
+
   return (
     <div>
       <div className="merch-page">

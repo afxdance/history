@@ -113,9 +113,10 @@ link {
   right: 40px;
 }
 
-.merch-bag-popup {
-  width: 80%;
+.merch-bag-popup-content {
+  min-width: 80%;
   height: 80%;
+  overflow-y: scroll;
 }
 
 .cart-pic {
@@ -123,16 +124,23 @@ link {
   max-height: 250px;
 }
 
-.cart-container {
+.checkout {
   display: flex;
-  flex-direction: column;
-  max-height: 100%;
-  overflow-y: scroll;
+  justify-content: center;
 }
 
-#checkout {
-  color: black;
-  /* background-color: #000; */
+.checkout-button {
+  display: inline-block;
+  margin: 0 auto;
+  background-color: black !important;
+  text-decoration: none !important;
+  font-size: 20px;
+  height: 50px;
+  width: 130px;
+  margin-top: 1rem;
+  border-radius: 15px;
+  color: white !important;
+  text-align: center;
 }
 
 #history,
