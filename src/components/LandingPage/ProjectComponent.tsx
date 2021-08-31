@@ -62,7 +62,7 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
               applications are due 1/31 at 11:59 PM. If you are interested,
               apply here:
               <a
-                href="http://tinyurl.com/techsp21"
+                href="http://tinyurl.com/techfa21"
                 style={{ textAlign: "center", marginTop: "15px" }}
                 target="_blank"
                 rel="noopener noreferrer"

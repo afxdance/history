@@ -34,7 +34,7 @@ export const LandingComponent: React.FC<{}> = ({ }) => {
           }}
         >
           <a
-            href="http://tinyurl.com/techsp21"
+            href="https://tinyurl.com/techfa21"
             style={{ textDecoration: "none" }}
             target="_blank"
             rel="noopener noreferrer"
