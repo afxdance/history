@@ -74,7 +74,6 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
         </div>
       </div>
       <div style={{ margin: "30px" }}>
-        <h3 className="project-h3">Led By</h3>
         <div className="project-pictures">{picRow}</div>
       </div>
     </div>
