@@ -42,7 +42,7 @@ export const LandingComponent: React.FC<{}> = ({ }) => {
             <button className="apply-button">Apply Now!</button>
           </a>
         </div>
-        <p>Due: 1/31 at 11:59 PM</p>
+        <p>Due: 9/12 at 11:59 PM</p>
       </div>
     </Popup>
   )

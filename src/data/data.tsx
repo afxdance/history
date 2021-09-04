@@ -47736,8 +47736,7 @@ export let TechProjects = {
       "recixaJnAehxoP136",
       "rec3khLqIqapNa8Su",
       "recJVTYD6IDhoXbZW",
-      "recFSJSDPC9dISLMX",
-      "recACUQKuBNJlOQRH"
+      "recFSJSDPC9dISLMX"
     ]
   },
   "recE0mCwHo0OWHgOb": {
@@ -47762,19 +47761,20 @@ export let TechProjects = {
       "reccaqyQhOqpBJmBU",
       "recPoS8osqORY9S1o",
       "recWwK0nOZURbohfV",
-      "recSRVJC805JipOvM"
+      "recSRVJC805JipOvM",
+      "recACUQKuBNJlOQRH"
     ]
   },
   "recAIiMm047Jbn95g": {
     "createdTime": "2021-01-20T00:22:53.000Z",
     "id": "recAIiMm047Jbn95g",
+    "name": "Training",
     "description": "Not sure about which team to join? Want more time to explore and build out your technical skills? Members on our training team will work with all three project teams throughout their first semester in Tech. They will be introduced to React, Ruby on Rails, and React Native in three mini-projects curated by each project team. ",
     "techPeople": [
       "recdTc3495nI4gklT",
       "recq1VpYYHjIbS3bz",
       "recnXtUDEf896SwWu"
-    ],
-    "name": "Training"
+    ]
   }
 }
 
@@ -48193,6 +48193,9 @@ export let TechPeople = {
     "createdTime": "2021-04-12T02:27:49.000Z",
     "id": "recACUQKuBNJlOQRH",
     "name": "Anusha Muley ",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
     "position": "Project Member",
     "picture": [
       {
@@ -48221,9 +48224,6 @@ export let TechPeople = {
           }
         }
       }
-    ],
-    "project": [
-      "reciidNezVi9P9j3h"
     ]
   },
   "recPoS8osqORY9S1o": {
@@ -48267,6 +48267,9 @@ export let TechPeople = {
     "createdTime": "2021-04-12T02:28:20.000Z",
     "id": "recSRVJC805JipOvM",
     "name": "Davina Dou",
+    "project": [
+      "recpptXzEL1vOS8LU"
+    ],
     "position": "Project Member",
     "picture": [
       {
@@ -48295,15 +48298,15 @@ export let TechPeople = {
           }
         }
       }
-    ],
-    "project": [
-      "recpptXzEL1vOS8LU"
     ]
   },
   "recFSJSDPC9dISLMX": {
     "createdTime": "2021-04-12T02:28:53.000Z",
     "id": "recFSJSDPC9dISLMX",
     "name": "Ethan Pang",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
     "position": "Project Member",
     "picture": [
       {
@@ -48332,9 +48335,6 @@ export let TechPeople = {
           }
         }
       }
-    ],
-    "project": [
-      "reciidNezVi9P9j3h"
     ]
   },
   "recWwK0nOZURbohfV": {
@@ -48378,6 +48378,9 @@ export let TechPeople = {
     "createdTime": "2021-04-12T02:31:27.000Z",
     "id": "recswGgoafEdlpWdi",
     "name": "Michael Ren",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
     "position": "Project Member",
     "picture": [
       {
@@ -48406,15 +48409,15 @@ export let TechPeople = {
           }
         }
       }
-    ],
-    "project": [
-      "recE0mCwHo0OWHgOb"
     ]
   },
   "reckVixnj3hcODmTR": {
     "createdTime": "2021-04-12T02:31:54.000Z",
     "id": "reckVixnj3hcODmTR",
     "name": "Michael Yu",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
     "position": "Project Member",
     "picture": [
       {
@@ -48443,15 +48446,15 @@ export let TechPeople = {
           }
         }
       }
-    ],
-    "project": [
-      "recE0mCwHo0OWHgOb"
     ]
   },
   "recJVTYD6IDhoXbZW": {
     "createdTime": "2021-04-12T02:33:21.000Z",
     "id": "recJVTYD6IDhoXbZW",
     "name": "Lucas Huang",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
     "position": "Project Member",
     "picture": [
       {
@@ -48480,9 +48483,6 @@ export let TechPeople = {
           }
         }
       }
-    ],
-    "project": [
-      "reciidNezVi9P9j3h"
     ]
   },
   "recVpRLURCEN1uL90": {

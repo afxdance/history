@@ -59,7 +59,7 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
               }}
             >
               We are recruiting this semester for the projects listed below. The
-              applications are due 1/31 at 11:59 PM. If you are interested,
+              applications are due 9/12 at 11:59 PM. If you are interested,
               apply here:
               <a
                 href="http://tinyurl.com/techfa21"
