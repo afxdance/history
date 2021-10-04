@@ -227,6 +227,10 @@ strong {
     opacity: 1;
   }
 }
+.afxtech-header {
+  padding-left: 30px;
+  text-decoration: underline;
+}
 
 .teams {
   display: flex;
@@ -236,6 +240,7 @@ strong {
   background-color: #f1f1f1;
   padding-bottom: 16px;
   margin-bottom: 48px;
+  overflow: hidden;
 }
 
 #events {
@@ -348,6 +353,7 @@ strong {
 
 .board {
   text-align: center;
+  overflow: hidden;
 }
 
 .board-team--title {
@@ -1731,6 +1737,11 @@ button.rbc-input::-moz-focus-inner {
 } */
 
 .project-description {
+  font-size: medium;
   display: flex;
   flex-direction: column;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
