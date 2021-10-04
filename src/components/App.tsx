@@ -12,6 +12,13 @@ import { LandingComponent } from "./LandingPage/LandingPageComponent"
 
 import { AFXTechComponent } from "./AFXTechComponent";
 
+import { Component } from 'react';
+import { HashRouter, Route, Link, Redirect } from "react-router-dom";
+
+const Home = () => <div><h1>Home</h1></div>
+const About = () => <div><h1>Joe mama</h1></div>
+const Events = () => <div><h1>Events</h1></div>
+
 export const App: React.FC<{}> = () => {
   const currentSemKey = useSem().currentSemKey;
   const [display, toggleDisplayVisible] = React.useState(false)
@@ -32,13 +39,16 @@ export const App: React.FC<{}> = () => {
   const currSem: Semester = AFX.Semesters[currentSemKey || "rec4GaaU2uP8FRfw3"];
 
   const currBoardKey: any = currSem.boardGroupId;
+
   if (currBoardKey) {
     board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
   }
   if (currSem.teamGroupIds) {
     teams.push(<TeamsComponent teamIds={currSem.teamGroupIds} />);
-    // TODO: TeamsComponent, renaming things, string[] mess
   }
+
+  const boardRenderTarget = document.getElementById("board")
+  const teamRenderTarget = document.getElementById("team")
 
   React.useEffect(() => {
     window.addEventListener("scroll", checkHistory);
@@ -49,18 +59,18 @@ export const App: React.FC<{}> = () => {
   }, [])
 
   return (
-    <React.Fragment>
-      {<LandingComponent /> /*{  Comment out landing component off-recruiting season! */}
-      <div className={display ? "show-Search" : "no-Search"}>
-        <Navigation />
-      </div>
-      <div id="top" className="anchor">
-        <AboutComponent />
+    <HashRouter basename='/'>
+
+      {/* <div className={display ? "show-Search" : "no-Search"}>
+        <Navigation searchable={false} />
+      </div> */}
+
+      {/* <div id="top" className="anchor">
+        <Link to="/about">About</Link>
       </div>
       <div id="middle" className="anchor">
         <div id="events">
-          <h1>EVENTS</h1>
-          <EventsComponent />
+          <Link to="/events">Events</Link>
           <br />
         </div>
       </div>
@@ -68,13 +78,46 @@ export const App: React.FC<{}> = () => {
         <div id="history">
           <h1>HISTORY</h1>
           <br />
-          <div id="board">{board}</div>
-          <div id="teams">{teams}</div>
-          {/* <div id="afxtech">
-            <AFXTechComponent />
-          </div> */}
+          <div id="board"><Link to="/board">Board</Link></div>
+          <div id="teams"><Link to="/teams">Teams</Link></div>
+          <div id="afxtech"><Link to="/afxtech">AFX Tech</Link></div>
         </div>
-      </div>
-    </React.Fragment>
+      </div> */}
+
+      <Route exact path="/" >
+        <Redirect to="/about" />
+      </Route>
+
+      <Route path="/about" render={() => <div>
+        <Navigation searchable={false} />
+        {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
+        <AboutComponent />
+      </div>} />
+
+      <Route path="/events" render={() => <div>
+        <Navigation searchable={false} />
+        <EventsComponent />
+      </div>} />
+
+      <Route path="/board" render={() => <div>
+        {/* <div className={ display ? "show-search" : "no-search" }> */}
+        <Navigation searchable={true} />
+        {/* </div> */}
+        <div id="board">{board}</div>
+      </div>} />
+
+      <Route path="/teams" render={() =>
+        <div>
+          <Navigation searchable={true} />
+          <div id="teams">{teams}</div>
+        </div>} />
+
+      <Route path="/afxtech" render={() =>
+        <div>
+          <Navigation searchable={false} />
+          <AFXTechComponent />
+        </div>} />
+
+    </HashRouter >
   );
 }
