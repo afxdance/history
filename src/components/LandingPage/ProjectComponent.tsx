@@ -60,10 +60,10 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
               }}
             >
               We are recruiting this semester for the projects listed below. The
-              applications are due 1/31 at 11:59 PM. If you are interested,
+              applications are due 9/12 at 11:59 PM. If you are interested,
               apply here:
               <a
-                href="http://tinyurl.com/techsp21"
+                href="http://tinyurl.com/techfa21"
                 style={{ textAlign: "center", marginTop: "15px" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -75,7 +75,6 @@ export const ProjectComponent: React.FC<ProjectProps> = props => {
         </div>
       </div>
       <div style={{ margin: "30px" }}>
-        <h3 className="project-h3">Led By</h3>
         <div className="project-pictures">{picRow}</div>
       </div>
     </div>

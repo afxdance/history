@@ -131,7 +131,11 @@ export const AboutComponent: React.FC = () => {
       </button>
       <div id="infoDiv">
         <p>
-          To join AFX, come out to one of the following audition dates. No
+          To join AFX, come out to one of the following audition dates after filling out our
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmeCw4oTmB9Kq3aEaHNr38pYrNLq3uCkL2PHY02RLpYYsqAA/viewform">
+            RSVP Form
+          </a>
+          . No
           prior experience is necessary!
         </p>
       </div>

@@ -18,31 +18,31 @@ export const LandingComponent: React.FC<{}> = ({ }) => {
       closeOnDocumentClick={true}
       className="landingPage"
     >
-      <div>
+      <div style={{
+        fontSize: "medium",
+        display: "flex",
+        justifyContent: "center",
+        margin: "30px",
+        flexDirection: "column",
+        alignItems: "center",
+      }}>
+        <img src="sp21tech.png" className="tech-committee-img" />
         <h1 style={{ margin: "25px" }}>Apply to AFX Tech!</h1>
         <div>{techSections[0]}</div>
         <h1 style={{ margin: "25px" }}>Projects</h1>
         <div>{techSections.slice(1)}</div>
         <h1 className="text-center">Interested?</h1>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "center",
-            margin: "30px",
-            flexDirection: "column",
-            alignItems: "center",
-          }}
-        >
+        <div>
           <a
-            href="http://tinyurl.com/techsp21"
+            href="https://tinyurl.com/techfa21"
             style={{ textDecoration: "none" }}
             target="_blank"
             rel="noopener noreferrer"
           >
             <button className="apply-button">Apply Now!</button>
           </a>
-          Due: 1/31 at 11:59 PM
         </div>
+        <p>Due: 9/12 at 11:59 PM</p>
       </div>
     </Popup>
   )
