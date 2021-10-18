@@ -21,7 +21,7 @@ export const IndividualComponent: React.FC<{ name: string }> = (props) => {
   // Stores url parameters (?name=" ") in params
   let personPositionComponents: any = [];
 
-  if (props.name != undefined) {
+  if (props.name !== undefined) {
     let posIDs = findIDs(props.name);
     // Mimicking hoverwrappercomponent, but in a static context for popups
     posIDs.forEach((ids: any) => {
