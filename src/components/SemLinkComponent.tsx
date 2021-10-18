@@ -31,11 +31,11 @@ export const SemLinkComponent: React.FC<SemLinkComponent> = ({ semKey }) => {
   let semName: string = "";
   // Using string slicing in order to see how we can make the names for the button.
   // tbh should research if there is a better way to do this.
-  if (semester.codename == "2011") {
+  if (semester.codename === "2011") {
     semName = "Founders 2011-2012";
-  } else if (suffix == "a") {
+  } else if (suffix === "a") {
     semName = "Spring " + semester.codename.slice(0, -1);
-  } else if (suffix == "b") {
+  } else if (suffix === "b") {
     semName = "Summer " + semester.codename.slice(0, -1);
   } else {
     semName = "Fall " + semester.codename.slice(0, -1);

@@ -17,7 +17,7 @@ const FilteredList: React.FC = () => {
   const filterList = (event: React.ChangeEvent<HTMLInputElement>) => {
     let searchBarText = event.target.value;
     // Reset search bar whe there's no input text
-    if (searchBarText == "") {
+    if (searchBarText === "") {
       setButtons([]);
     } else {
       setInitialState();
