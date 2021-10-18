@@ -27,8 +27,8 @@ export const EventsComponent: React.FC = () => {
       + "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" + "AIzaSyAZvqWSX3sYUtycgABvso6sQAkP137i59M")
       .then(response => {
 
-        var eventsList: any[] = [];
-        var eventsCount = 0;
+        let eventsList: any[] = [];
+        let eventsCount = 0;
 
         for (let events of response["data"]["items"]) {
           // Check to see if the event has a time
