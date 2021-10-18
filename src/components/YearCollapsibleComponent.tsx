@@ -66,8 +66,8 @@ export class YearCollapsibleComponent extends React.Component<
     let name: string = curYear.Name
     let semLinks: any = []
 
-    // console.log("current year"); 
-    // console.log(curYear.semCodename); 
+    // console.log("current year");
+    // console.log(curYear.semCodename);
 
     // We iterate through all of the semesters and make the components for them.
     // We then add them to the list semLinks in order to be displayed.
@@ -78,7 +78,7 @@ export class YearCollapsibleComponent extends React.Component<
       )
     }
 
-    //console.log(semLinks) 
+    // console.log(semLinks)
     // console.log(this.state.show);
 
     return (
