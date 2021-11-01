@@ -1,5 +1,6 @@
 import * as React from "react"
 import { CSSProperties } from "react"
+import { TimelineComponent } from "src/components/TimelineComponent";
 
 const dotStyle: CSSProperties = {
   textAlign: "center",
@@ -52,6 +53,8 @@ export const AboutComponent: React.FC = () => {
   }
   return (
     <div id="about">
+      <TimelineComponent />
+
       <div className="heading">
         <h1>ABOUT AFX DANCE</h1>
       </div>
