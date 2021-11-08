@@ -15,7 +15,7 @@ on:
 env:
   REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
   REACT_APP_GCAL_KEY: ${{secrets.REACT_APP_GCAL_KEY}}
-  AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
+  AIRTABLE_API_KEY: ${{secrets.REACT_APP_AIRTABLE_KEY}}
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
