@@ -4,7 +4,7 @@
 
 var Airtable = require('airtable');
 // let airtableAccount = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY })
-var base = new Airtable({ apiKey: 'keyXyv0cug5zY6Sdy' }).base('app5gc254OPlaTFG2');
+var base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base('app5gc254OPlaTFG2');
 
 
 // 1. use semester id from HisotryNavComponent to get the Semesters Table row
