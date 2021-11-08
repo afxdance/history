@@ -3,7 +3,8 @@
 // dynamically import src/data/data into each component once the asynchronous call finishes
 
 var Airtable = require('airtable');
-var base = new Airtable({ apiKey: 'YOUR_API_KEY' }).base('app5gc254OPlaTFG2');
+// let airtableAccount = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY })
+var base = new Airtable({ apiKey: 'keyXyv0cug5zY6Sdy' }).base('app5gc254OPlaTFG2');
 
 
 // 1. use semester id from HisotryNavComponent to get the Semesters Table row
@@ -24,12 +25,27 @@ base('Semesters').select({
     console.log('Retrieved', record.get('codename'));
 
     groupId = record.get('boardGroupId')[0];
+    teamGroupIds = record.get('teamGroupIds')[0];
 
     base('Groups').find(groupId, function (err2, groupRecord) {
       if (err2) { console.error(err2); return; }
-      console.log('Retrieved', groupRecord.id);
+      console.log('Retrieved', groupRecord.name);
 
-      // write data into a [people]_data.tsx file / local storage
+      positionIds = groupRecord.positionIds;
+
+      base('PersonPositions').find(positionIds[0], function (err3, personPositionRecord) {
+        if (err3) {console.error(err3); return; }
+        console.log('Retrieved', personPositionRecord.positionTitle);
+
+        personIds = personPositionRecord.personIds;
+
+        base('People').find(personIds[0], function (err4, peopleRecord) {
+          if (err4) { console.error(err4); return; }
+          console.log('Retrieved', peopleRecord.name);
+
+
+        })
+      })
     });
 
 

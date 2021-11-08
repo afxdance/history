@@ -6,15 +6,16 @@ name: AFX Website Deploy
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches: [master, airtable-api]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 env:
   REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
   REACT_APP_GCAL_KEY: ${{secrets.REACT_APP_GCAL_KEY}}
+  AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -41,6 +42,12 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
+      - name: Retrieve data from Airtable
+        run:
+          env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
+          git add src/data/data.tsx
+          git commit -m "update data.tsx from Airtable"
+          git push
         env:
           CI: false # ignores warnings
       - name: Setup Git Config
