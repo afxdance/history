@@ -56,12 +56,12 @@ jobs:
           git add src/data/data.tsx
           git commit -m "update data.tsx from Airtable"
           git push
-      # - name: Add docs
-      #   run: |
-      #     # add and push docs
-      #     git add docs
-      #     git commit -m "redeployment"
-      #     git push
+      - name: Add docs
+        run: |
+          # add and push docs
+          git add docs
+          git commit -m "redeployment"
+          git push
       - name: On failure
         if: ${{ failure() }}
         run: |
