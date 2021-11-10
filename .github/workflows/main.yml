@@ -49,7 +49,7 @@ jobs:
           # setup the username and email.
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-      - name: Retrieve data from Airtable
+      - name: Retrieve Data from Airtable
         run:
           env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
           git add src/data/data.tsx
