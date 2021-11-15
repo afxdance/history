@@ -41,9 +41,9 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Retrieve Data from Airtable
-      run: |
-        # update data.tsx with Airtable call
-        env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
+        run: |
+          # update data.tsx with Airtable call
+          env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
       - name: Build
         run: npm run build
         env:
