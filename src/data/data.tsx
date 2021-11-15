@@ -47748,7 +47748,8 @@ export let TechProjects = {
       "recGSx1i0TPGzGxHz",
       "receYRhl9Hgrrce5D",
       "reckVixnj3hcODmTR",
-      "recswGgoafEdlpWdi"
+      "recswGgoafEdlpWdi",
+      "recVpRLURCEN1uL90"
     ]
   },
   "recpptXzEL1vOS8LU": {
@@ -48487,7 +48488,40 @@ export let TechPeople = {
   },
   "recVpRLURCEN1uL90": {
     "createdTime": "2021-09-02T03:27:38.000Z",
-    "id": "recVpRLURCEN1uL90"
+    "id": "recVpRLURCEN1uL90",
+    "name": "Daniel Man",
+    "project": [
+      "recE0mCwHo0OWHgOb"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attGdgtFJ1qfVo0tW",
+        "width": 6000,
+        "height": 4000,
+        "url": "https://dl.airtable.com/.attachments/bbf942cb45f6074a27f8c77fd6cb3bd9/c702da13/Berkeley1.jpg",
+        "filename": "Berkeley1.jpg",
+        "size": 8369569,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/01c4a78e693144dccff0f30bbb741437/51af337f",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/509bec252f733683e4bb3d27dbf5182b/d9eec518",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/83f9c544861e12b4930625b0f7a8030b/ba697022",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
   }
 }
 
