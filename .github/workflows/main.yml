@@ -53,6 +53,7 @@ jobs:
         run: |
           # update data.tsx with Airtable call
           env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
+
       - name: Add docs
         run: |
           # add and push docs and data.tsx
