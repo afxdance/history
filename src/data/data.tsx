@@ -48310,26 +48310,26 @@ export let TechPeople = {
     "position": "Project Member",
     "picture": [
       {
-        "id": "attMISfQNilo1SPme",
-        "width": 1413,
-        "height": 1414,
-        "url": "https://dl.airtable.com/.attachments/29b810a97e0d4468ecb5e8f836f8413c/c9b3fdb6/pfp-hike_m-EthanPang.png",
-        "filename": "pfp-hike_m - Ethan Pang.png",
-        "size": 3164444,
+        "id": "attigKbIDUOiUNU4V",
+        "width": 5345,
+        "height": 3568,
+        "url": "https://dl.airtable.com/.attachments/037a7a55da9552a38d56467fb4834329/d9ab67fd/csa_picture.png",
+        "filename": "csa_picture.png",
+        "size": 26263213,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/49e9359df7a13a2acbea2e1c25242e7a/2ab5f03f",
-            "width": 36,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3a80348b8f55bbdc33fd36c81b41ce33/9c225c5b",
+            "width": 54,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ee808cd08a0b5b409e50daf7bd3d0340/66091629",
-            "width": 512,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3b09473410b6f19cf83090fbf683b57b/4de85071",
+            "width": 767,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d895e02468f932e6f977b8e606334307/f04e46d0",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b167e6f2a6ec8349ded3269f8a6b1bf8/b9337236",
             "width": 3000,
             "height": 3000
           }
