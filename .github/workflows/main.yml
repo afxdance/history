@@ -53,14 +53,12 @@ jobs:
         run: |
           # update data.tsx with Airtable call
           env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
-          git add src/data/data.tsx
-          git commit -m "update data.tsx from Airtable"
-          git push
       - name: Add docs
         run: |
-          # add and push docs
+          # add and push docs and data.tsx
           git add docs
-          git commit -m "redeployment"
+          git add src/data/data.tsx
+          git commit -m "redeployment / update data.tsx from Airtable"
           git push
       - name: On failure
         if: ${{ failure() }}
