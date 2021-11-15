@@ -36,6 +36,10 @@ jobs:
         with:
           ref: ${{github.event.pull_request.head.ref}}
           repository: ${{github.event.pull_request.head.repo.full_name}}
+      - name: Retrieve Data from Airtable
+        run: |
+          # update data.tsx with Airtable call
+          env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
       - name: Remove node_modules
         run: rm -rf node_modules
       - name: Install Dependencies
@@ -49,11 +53,6 @@ jobs:
           # setup the username and email.
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-      - name: Retrieve Data from Airtable
-        run: |
-          # update data.tsx with Airtable call
-          env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
-
       - name: Add docs
         run: |
           # add and push docs and data.tsx
