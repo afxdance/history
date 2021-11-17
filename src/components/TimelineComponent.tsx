@@ -2,7 +2,7 @@ import * as React from "react"
 import { HoverWrapperComponent } from "src/components/HoverWrapperComponent"
 import * as Data from "src/data/data"
 import { Group, Person } from "src/data/types"
-// import './Timeline.css';
+import './Timeline.css';
 import HorizontalTimeline from "react-horizontal-timeline";
 import { useState } from "react";
 import { render } from "react-dom";
@@ -37,21 +37,55 @@ const VALUES = [
 ];
 
 const views = TimelineData.map((entry, index) => {
+  const awardsList = entry.awards.map((number) =>
+    <div>number</div>
+  );
+
   return (
-    <div className='container' key={index}>
-      <p>Wait what step bro {entry.date}</p>
-      <iframe width="420" height="315"
-        src={entry.avatarURL}>
-      </iframe>
-      {/* {entry.component} */}
+
+    <div key={index}>
+      <h2>{entry.title}</h2>
+
+      <div className='container space-around space-between'>
+
+        <div>
+          <h2>Showcases</h2>
+          {(entry.showcase_url === '')
+            ? <div> There is no available showcase video to play ( ´•︵•` ) </div>
+            :
+            <div> <iframe width="560" height="315" src={entry.showcase_url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen"></iframe>
+            </div>}
+        </div>
+        <div>
+          <h2>Workshops</h2>
+          {(entry.workshop_url === '')
+            ? <div> There is no available workshop video to play ( ´•︵•` ) </div>
+            :
+            <div> <iframe width="560" height="315" src={entry.showcase_url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen"></iframe>
+            </div>}
+        </div>
+      </div>
+
+      <hr />
+
+      {(awardsList.length !== 0)
+        ? <div><h3>Awards:</h3>
+          <ul>{awardsList}</ul>
+        </div>
+        : <div></div>
+      }
+
+      <h3>Notable Events: </h3>
+      <p>{entry.content}</p>
     </div>
+
   );
 });
 
 //st DATES = VALUES.map((year) => new Date(year).getTime());
 
 // expdfault class TimlineComponent extends React.Component {
-//  te = { value: 0, previous: 0 };
+//  te = {value: 0, previous: 0 };
 
 // render() {
 //     return (
@@ -74,7 +108,7 @@ const views = TimelineData.map((entry, index) => {
 //   }
 
 export const TimelineComponent: React.FC<{}> = ({ }) => {
-  // const state = { value: 0, previous: 0 };
+  // const state = {value: 0, previous: 0 };
   const [state, setState] = React.useState({ value: 0, previous: 0 });
 
   // const timelineEntries = TimelineData.map((entry) =>
@@ -82,7 +116,6 @@ export const TimelineComponent: React.FC<{}> = ({ }) => {
 
   return (
     <div>
-      <p>THIS IS A TIMELINE KEKW</p>
       {/* Bounding box for the Timeline */}
       <div style={{ width: '80%', height: '100px', margin: '0 auto' }}>
         <HorizontalTimeline
@@ -103,12 +136,6 @@ export const TimelineComponent: React.FC<{}> = ({ }) => {
           {views}
           {/* POS sdgsadgjasdgjasdgi */}
         </SwipeableViews>
-
-        {/* any arbitrary component can go here */}
-        {/* {state.value} */}
-        <p>THIS IS A TIMELINE KEKW</p>
-        <h1>jajajajaj</h1>
-        <img src="afx2.png"></img>
       </div>
     </div>
   );
