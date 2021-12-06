@@ -46,7 +46,6 @@ Main Components
   width: 90%;
   max-width: 800px;
   margin: 0 auto;
-  padding-top: 50px;
 }
 .cd-horizontal-timeline .events-wrapper {
   position: relative;
@@ -60,8 +59,8 @@ Main Components
   position: absolute;
   z-index: 2;
   top: 0;
-  height: 100%;
-  width: 20px;
+  height: 0%;
+  width: 0px;
 }
 .cd-horizontal-timeline .events-wrapper::before {
   left: 0;
@@ -315,6 +314,26 @@ Main Components
 .cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
   line-height: 1.6;
 }
+
+.showcases-div {
+  padding-right: 10px;
+}
+.workshops-div {
+  padding-left: 10px;
+}
+.timeline-title p {
+  font-size: 16px;
+}
+.no-videos {
+  font-size: 16px;
+}
+.notable-events-content {
+  font-size: 16px;
+}
+.awards-content {
+  font-size: 16px;
+}
+
 @media only screen and (min-width: 768px) {
   .cd-horizontal-timeline .events-content h2 {
     font-size: 7rem;

@@ -13,6 +13,7 @@ import { TimelineData } from 'src/data/timeline-data.js';
 const VALUES = [
   '2011-08-03',
   '2012-04-22',
+  '2012-08-22',
   '2012-11-12',
   '2013-04-22',
   '2013-08-30',
@@ -21,62 +22,80 @@ const VALUES = [
   '2014-08-27',
   '2014-12-06',
   '2015-05-03',
-  '2013-08-25',
+  '2015-08-25',
   '2015-11-21',
   '2016-04-23',
   '2016-08-22',
-  '2016-04-23',
+  '2016-11-19',
   '2017-04-22',
+  '2017-08-24',
   '2017-12-02',
   '2018-04-22',
+  '2018-08-25',
   '2018-12-02',
   '2019-04-21',
   '2019-08-27',
   '2019-12-18',
-  '2020-12-06'
+  '2020-04-06',
+  '2020-08-07',
+  '2020-12-06',
+  '2021-04-01',
+  '2021-08-25',
+  '2021-12-06',
 ];
 
 const views = TimelineData.map((entry, index) => {
-  const awardsList = entry.awards.map((number) =>
-    <div>number</div>
-  );
+  // const awardsList = entry.awards.map((number) =>
+  //   <div>number</div>
+  // );
 
   return (
+    <div>
+      <div key={index}>
+        <h2><b>{entry.title}</b></h2>
 
-    <div key={index}>
-      <h2>{entry.title}</h2>
+        <div className='container space-around space-between'>
 
-      <div className='container space-around space-between'>
-
-        <div>
-          <h2>Showcases</h2>
-          {(entry.showcase_url === '')
-            ? <div> There is no available showcase video to play ( ´•︵•` ) </div>
-            :
-            <div> <iframe width="560" height="315" src={entry.showcase_url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen"></iframe>
-            </div>}
+          <div className='showcases-div'>
+            <h2>Showcases</h2>
+            {(entry.showcase_url === '')
+              ? <div className='no-videos'> There is no available showcase video to play ( ´•︵•` ) </div>
+              :
+              <div>
+                <iframe width="560" height="315" src={entry.showcase_url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen"></iframe>
+              </div>}
+          </div>
+          <div className='workshops-div'>
+            <h2>Workshops</h2>
+            {(entry.workshop_url === '')
+              ? <div className='no-videos'> There is no available workshop video to play ( ´•︵•` ) </div>
+              :
+              <div>
+                <iframe width="560" height="315" src={entry.workshop_url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen"></iframe>
+              </div>}
+          </div>
         </div>
-        <div>
-          <h2>Workshops</h2>
-          {(entry.workshop_url === '')
-            ? <div> There is no available workshop video to play ( ´•︵•` ) </div>
-            :
-            <div> <iframe width="560" height="315" src={entry.showcase_url} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen"></iframe>
-            </div>}
-        </div>
+
+        <hr />
+
+        {(entry.awards !== '')
+          ? <div>
+            <h3>Awards:</h3>
+            <p className='awards-content'>{entry.awards}</p>
+          </div>
+          : <div></div>
+        }
+        {(entry.content !== '')
+          ? <div>
+            <h3>Notable Events:</h3>
+            <p className='notable-events-content'>{entry.content}</p>
+          </div>
+          : <div></div>
+        }
+
+        {/* <h3>Notable Events: </h3>
+        <p>{entry.content}</p> */}
       </div>
-
-      <hr />
-
-      {(awardsList.length !== 0)
-        ? <div><h3>Awards:</h3>
-          <ul>{awardsList}</ul>
-        </div>
-        : <div></div>
-      }
-
-      <h3>Notable Events: </h3>
-      <p>{entry.content}</p>
     </div>
 
   );
@@ -109,13 +128,20 @@ const views = TimelineData.map((entry, index) => {
 
 export const TimelineComponent: React.FC<{}> = ({ }) => {
   // const state = {value: 0, previous: 0 };
-  const [state, setState] = React.useState({ value: 0, previous: 0 });
+  const [state, setState] = React.useState({ value: 28, previous: 28 });
 
   // const timelineEntries = TimelineData.map((entry) =>
   //   <div>Testing testing {entry.date}</div>);
 
   return (
     <div>
+      <hr />
+
+      <div className='timeline-title'>
+        <h1>AFX Over the Years</h1>
+        <p>Click on a specific date to see showcases, workshops, and awards from that semester!</p>
+      </div>
+
       {/* Bounding box for the Timeline */}
       <div style={{ width: '80%', height: '100px', margin: '0 auto' }}>
         <HorizontalTimeline
@@ -124,6 +150,9 @@ export const TimelineComponent: React.FC<{}> = ({ }) => {
             console.log(index + " " + state.value + " " + state.previous);
             setState({ value: index, previous: state.value });
           }}
+          styles={{ background: '#ffffff', foreground: '#000000', outline: '#dfdfdf' }}
+          isOpenBeginning={false}
+          isOpenEnding={true}
           values={VALUES} />
       </div>
       <div className='text-center'>
@@ -134,7 +163,6 @@ export const TimelineComponent: React.FC<{}> = ({ }) => {
           }}
           resistance>
           {views}
-          {/* POS sdgsadgjasdgjasdgi */}
         </SwipeableViews>
       </div>
     </div>
