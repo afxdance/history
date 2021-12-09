@@ -1,19 +1,18 @@
 import * as React from "react";
 import * as AFX from "src/data/data";
 import "./App.css";
-import { AboutComponent } from "./AboutComponent";
-import { EventsComponent } from 'src/components/EventsComponent';
+import { Component } from "react";
+import { HashRouter, Link, Redirect, Route } from "react-router-dom";
+import { EventsComponent } from "src/components/EventsComponent";
 import { GroupsComponent } from "src/components/GroupsComponent";
-import { Navigation } from "./NavBarComponent";
-import { useSem } from 'src/hooks/use-sem';
 import { Semester } from "src/data/types";
-import { TeamsComponent } from "./TeamsComponent";
-import { LandingComponent } from "./LandingPage/LandingPageComponent"
-
+import { useSem } from "src/hooks/use-sem";
+import { AboutComponent } from "./AboutComponent";
 import { AFXTechComponent } from "./AFXTechComponent";
+import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { Navigation } from "./NavBarComponent";
+import { TeamsComponent } from "./TeamsComponent";
 
-import { Component } from 'react';
-import { HashRouter, Route, Link, Redirect } from "react-router-dom";
 
 const Home = () => <div><h1>Home</h1></div>
 const About = () => <div><h1>Joe mama</h1></div>
