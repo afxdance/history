@@ -29,7 +29,7 @@ export const AuditionPageComponent: React.FC<{}> = ({}) => {
         <h1 className="text-center">Interested?</h1>
         <div>
           <a
-            href="https://bit.ly/sp22auditions"
+            href="https://tinyurl.com/afxsp22rsvp"
             style={{ textDecoration: "none" }}
             target="_blank"
             rel="noopener noreferrer"
