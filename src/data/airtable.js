@@ -16,38 +16,38 @@ var base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base('app5gc25
 
 let semesterName = '2020a';
 
-base('Semesters').select({
-  view: 'Default View',
-  filterByFormula: "{codename} = '" + { semesterName } + "'"
-}).firstPage(function (err, records) {
-  if (err) { console.error(err); return; }
-  records.forEach(function (record) {
-    console.log('Retrieved', record.get('codename'));
+// base('Semesters').select({
+//   view: 'Default View',
+//   filterByFormula: "{codename} = '" + { semesterName } + "'"
+// }).firstPage(function (err, records) {
+//   if (err) { console.error(err); return; }
+//   records.forEach(function (record) {
+//     console.log('Retrieved', record.get('codename'));
 
-    groupId = record.get('boardGroupId')[0];
-    teamGroupIds = record.get('teamGroupIds')[0];
+//     groupId = record.get('boardGroupId')[0];
+//     teamGroupIds = record.get('teamGroupIds')[0];
 
-    base('Groups').find(groupId, function (err2, groupRecord) {
-      if (err2) { console.error(err2); return; }
-      console.log('Retrieved', groupRecord.name);
+//     base('Groups').find(groupId, function (err2, groupRecord) {
+//       if (err2) { console.error(err2); return; }
+//       console.log('Retrieved', groupRecord.name);
 
-      positionIds = groupRecord.positionIds;
+//       positionIds = groupRecord.positionIds;
 
-      base('PersonPositions').find(positionIds[0], function (err3, personPositionRecord) {
-        if (err3) {console.error(err3); return; }
-        console.log('Retrieved', personPositionRecord.positionTitle);
+//       base('PersonPositions').find(positionIds[0], function (err3, personPositionRecord) {
+//         if (err3) {console.error(err3); return; }
+//         console.log('Retrieved', personPositionRecord.positionTitle);
 
-        personIds = personPositionRecord.personIds;
+//         personIds = personPositionRecord.personIds;
 
-        base('People').find(personIds[0], function (err4, peopleRecord) {
-          if (err4) { console.error(err4); return; }
-          console.log('Retrieved', peopleRecord.name);
-
-
-        })
-      })
-    });
+//         base('People').find(personIds[0], function (err4, peopleRecord) {
+//           if (err4) { console.error(err4); return; }
+//           console.log('Retrieved', peopleRecord.name);
 
 
-  });
-});
+//         })
+//       })
+//     });
+
+
+//   });
+// });

@@ -10,6 +10,7 @@ import { useSem } from "src/hooks/use-sem";
 import { AboutComponent } from "./AboutComponent";
 import { AFXTechComponent } from "./AFXTechComponent";
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { AuditionPageComponent } from "./LandingPage/AuditionPageComponent"
 import { Navigation } from "./NavBarComponent";
 import { TeamsComponent } from "./TeamsComponent";
 
@@ -89,7 +90,7 @@ export const App: React.FC<{}> = () => {
 
       <Route path="/about" render={() => <div>
         <Navigation searchable={false} />
-        {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
+        <AuditionPageComponent/>
         <AboutComponent />
       </div>} />
 
