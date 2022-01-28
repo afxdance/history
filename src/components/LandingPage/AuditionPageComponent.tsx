@@ -3,8 +3,7 @@ import Popup from "reactjs-popup"
 import { TechProjects } from "src/data/data"
 import { ProjectComponent } from "./ProjectComponent"
 
-export const AuditionPageComponent: React.FC<{}> = ({ }) => {
-
+export const AuditionPageComponent: React.FC<{}> = ({}) => {
   return (
     <Popup
       defaultOpen={true}
@@ -13,15 +12,19 @@ export const AuditionPageComponent: React.FC<{}> = ({ }) => {
       closeOnDocumentClick={true}
       className="landingPage"
     >
-      <div style={{
-        fontSize: "medium",
-        display: "flex",
-        justifyContent: "center",
-        margin: "30px",
-        flexDirection: "column",
-        alignItems: "center",
-      }}>
-        <h1 style={{ margin: "25px" }}>Audition for AFX!</h1>
+      <div
+        style={{
+          fontSize: "medium",
+          display: "flex",
+          justifyContent: "center",
+          margin: "30px",
+          flexDirection: "column",
+          alignItems: "center",
+        }}
+      >
+        <h1 style={{ margin: "25px", fontWeight: "bold" }}>
+          Audition for AFX!
+        </h1>
         <img src="sp22Auditions.jpg" className="tech-committee-img" />
         <h1 className="text-center">Interested?</h1>
         <div>
@@ -36,7 +39,11 @@ export const AuditionPageComponent: React.FC<{}> = ({ }) => {
         </div>
         <a
           href="https://tinyurl.com/whoisafx"
-          style={{ textAlign: "center", marginTop: "15px" }}
+          style={{
+            fontSize: "xx-large",
+            textAlign: "center",
+            marginTop: "15px",
+          }}
           target="_blank"
           rel="noopener noreferrer"
         >
