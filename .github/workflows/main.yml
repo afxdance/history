@@ -58,6 +58,7 @@ jobs:
           # add and push docs and data.tsx
           git add docs
           git add src/data/data.tsx
+          git add .
           git commit -m "redeployment / update data.tsx from Airtable"
           git push
       - name: On failure
