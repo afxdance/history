@@ -1,13 +1,13 @@
 import { slide as Menu } from "react-burger-menu"
 import * as AFX from "src/data/data"
-import { Year } from "src/data/types"
 import * as React from "react"
 import { SemLinkComponent } from "./SemLinkComponent"
+import { Year } from "src/data/types"
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent"
 
-//New Imports (for now)
-import "./App.css" //imported to access specifications for sidebar
-import { NavItem, NavLink, Nav } from "reactstrap"
+// New Imports (for now)
+import "./App.css" // imported to access specifications for sidebar
+import { Nav, NavItem, NavLink } from "reactstrap"
 
 // Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
