@@ -101,7 +101,7 @@ const views = TimelineData.map((entry, index) => {
   );
 });
 
-//st DATES = VALUES.map((year) => new Date(year).getTime());
+// st DATES = VALUES.map((year) => new Date(year).getTime());
 
 // expdfault class TimlineComponent extends React.Component {
 //  te = {value: 0, previous: 0 };
@@ -159,7 +159,7 @@ export const TimelineComponent: React.FC<{}> = ({ }) => {
         <SwipeableViews
           index={state.value}
           onChangeIndex={(value, previous) => {
-            setState({ value: value, previous: previous });
+            setState({ value, previous });
           }}
           resistance>
           {views}
