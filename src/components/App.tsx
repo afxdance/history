@@ -28,7 +28,7 @@ export const App: React.FC<{}> = () => {
     const history = document.getElementById("bottom")?.getBoundingClientRect();
     const historyTop = history ? history.top : 0
 
-    if (historyTop <= 0 && display == false) {
+    if (historyTop <= 0 && display === false) {
       toggleDisplayVisible(true)
     }
   }, [window])
