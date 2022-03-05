@@ -13,7 +13,7 @@ export interface HistoryNav {
   OnClick: Function;
 }
 
-//TODO: Get rid of OnClick and get function from context.
+// TODO: Get rid of OnClick and get function from context.
 export const HistoryNav: React.FC = () => {
 
   const [type, setType] = React.useState(typeof AFX.Semesters);
