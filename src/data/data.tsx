@@ -47735,7 +47735,8 @@ export let TechProjects = {
       "rec3khLqIqapNa8Su",
       "recFSJSDPC9dISLMX",
       "reci9Xt70u1UxuVBh",
-      "recdTc3495nI4gklT"
+      "recdTc3495nI4gklT",
+      "recNyqGwAwpPMvGGs"
     ]
   },
   "recE0mCwHo0OWHgOb": {
@@ -48312,6 +48313,43 @@ export let TechPeople = {
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/83f9c544861e12b4930625b0f7a8030b/ba697022",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recNyqGwAwpPMvGGs": {
+    "createdTime": "2022-02-28T00:26:38.000Z",
+    "id": "recNyqGwAwpPMvGGs",
+    "name": "Chloe Zhong",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attO5dlSESMQFAVSO",
+        "width": 1776,
+        "height": 1184,
+        "url": "https://dl.airtable.com/.attachments/35d5133a72dada3b96ddc062cb4f75d7/44daf497/me_red.JPG",
+        "filename": "me_red.JPG",
+        "size": 667455,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cdef49024c73b6ed4cb51b09894a6a30/2f862d9a",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d038a7c8316a75b77c09ffc2227cb904/2add5fde",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2260a38488ef61de9a4717b31758175e/1c5246cd",
             "width": 3000,
             "height": 3000
           }

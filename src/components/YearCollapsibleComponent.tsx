@@ -78,7 +78,7 @@ export class YearCollapsibleComponent extends React.Component<
       )
     }
 
-    //console.log(semLinks) 
+    // console.log(semLinks) 
     // console.log(this.state.show);
 
     return (

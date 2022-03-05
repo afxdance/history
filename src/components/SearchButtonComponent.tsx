@@ -1,6 +1,6 @@
 import * as React from "react";
 import Popup from "reactjs-popup";
-import { Route, HashRouter as Router, Link } from "react-router-dom";
+import { HashRouter as Router, Link, Route} from "react-router-dom";
 import { IndividualComponent } from "src/components/IndividualComponent";
 
 export const SearchButtonComponent: React.FC<{ name: string }> = ({ name }) => {
