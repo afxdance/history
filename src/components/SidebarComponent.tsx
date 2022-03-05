@@ -5,11 +5,12 @@ import { SemLinkComponent } from "./SemLinkComponent"
 import { Year } from "src/data/types"
 import { YearCollapsibleComponent } from "src/components/YearCollapsibleComponent"
 
-// New Imports (for now)
-import "./App.css" // imported to access specifications for sidebar
-import { Nav, NavItem, NavLink } from "reactstrap"
+ //New Imports (for now)
+import "./App.css" //imported to access specifications for sidebar
+import { NavItem, NavLink, Nav } from "reactstrap"
 
-// Side menu component mainly made by the library react-burger-menu
+
+ // Side menu component mainly made by the library react-burger-menu
 export interface Sidebar {
   onClick: Function
   closed: boolean
