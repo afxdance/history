@@ -47,7 +47,7 @@ async function main() {
     // console.log(3);
     let theObjectAsAString = JSON.stringify(recordsById, undefined, 2)
     // eslint-disable-next-line
-    // console.log(`export let ${table} = ${theObjectAsAString}\n`)
+    console.log(`export let ${table} = ${theObjectAsAString}\n`)
     let finishedTable = table + " completed\n"
     process.stderr.write(finishedTable)
   }
