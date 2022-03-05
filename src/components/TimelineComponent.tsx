@@ -1,9 +1,9 @@
 import * as React from "react"
+import HorizontalTimeline from "react-horizontal-timeline";
 import { HoverWrapperComponent } from "src/components/HoverWrapperComponent"
 import * as Data from "src/data/data"
 import { Group, Person } from "src/data/types"
 import './Timeline.css';
-import HorizontalTimeline from "react-horizontal-timeline";
 import { useState } from "react";
 import { render } from "react-dom";
 
