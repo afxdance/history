@@ -47720,9 +47720,10 @@ export let TechProjects = {
     "name": "Committee",
     "description": "AFX Tech is a sub-committee in AFX Dance that develops and maintains technical projects for the AFX dance community. We will provide you with mentorship as well as the tools and experience you need for whichever tech skill set you are looking to improve -- be it web design with React, backend development with Ruby on Rails, or mobile development. You will gain experience working on projects that will be used by more than a thousand students for many semesters to come.",
     "techPeople": [
-      "recdTc3495nI4gklT",
-      "recq1VpYYHjIbS3bz",
-      "recnXtUDEf896SwWu"
+      "recnXtUDEf896SwWu",
+      "recixaJnAehxoP136",
+      "recv0nsk7ynL18ZaE",
+      "recSRVJC805JipOvM"
     ]
   },
   "reciidNezVi9P9j3h": {
@@ -47731,12 +47732,11 @@ export let TechProjects = {
     "name": "History",
     "description": "We are a small team that is responsible for the development of the official AFX website (afx.dance). On History, you will be working with front-end web development tools such as React, TypeScript, HTML, and CSS. Some features that you will be helping us implement this semester include: a merchandise page for AFX apparel,  a “Smart” video gallery that showcases past performances, and improving website security and performance.",
     "techPeople": [
-      "recv0nsk7ynL18ZaE",
-      "reci9Xt70u1UxuVBh",
-      "recixaJnAehxoP136",
       "rec3khLqIqapNa8Su",
-      "recJVTYD6IDhoXbZW",
-      "recFSJSDPC9dISLMX"
+      "recFSJSDPC9dISLMX",
+      "reci9Xt70u1UxuVBh",
+      "recdTc3495nI4gklT",
+      "recNyqGwAwpPMvGGs"
     ]
   },
   "recE0mCwHo0OWHgOb": {
@@ -47745,7 +47745,6 @@ export let TechProjects = {
     "name": "Music",
     "description": "The music app provides dancers with functionality to play, slow down, loop, and share music. In the past, we've built a website (slow.afx.dance) and an Android app (Slowify Music). This semester, we'll be working on a React Native application with cross-platform capability. Join us to build an amazing product for the dance community!",
     "techPeople": [
-      "recGSx1i0TPGzGxHz",
       "receYRhl9Hgrrce5D",
       "reckVixnj3hcODmTR",
       "recswGgoafEdlpWdi",
@@ -47758,23 +47757,9 @@ export let TechProjects = {
     "name": "Roster",
     "description": "This is a Ruby on Rails app that is used to collect dancers’ information at auditions and maintain the database of ~1000 dancers. We also handle team switch requests and the randomization of dancers onto teams. Roster is the most developed app under AFX Tech — it has been completely functional since 2015. This semester, we’re working on automating emails and integrating the SRC form with our app among other features.",
     "techPeople": [
-      "recahxHYnLeD2p0am",
-      "reccaqyQhOqpBJmBU",
       "recPoS8osqORY9S1o",
       "recWwK0nOZURbohfV",
-      "recSRVJC805JipOvM",
       "recACUQKuBNJlOQRH"
-    ]
-  },
-  "recAIiMm047Jbn95g": {
-    "createdTime": "2021-01-20T00:22:53.000Z",
-    "id": "recAIiMm047Jbn95g",
-    "name": "Training",
-    "description": "Not sure about which team to join? Want more time to explore and build out your technical skills? Members on our training team will work with all three project teams throughout their first semester in Tech. They will be introduced to React, Ruby on Rails, and React Native in three mini-projects curated by each project team. ",
-    "techPeople": [
-      "recdTc3495nI4gklT",
-      "recq1VpYYHjIbS3bz",
-      "recnXtUDEf896SwWu"
     ]
   }
 }
@@ -47785,8 +47770,7 @@ export let TechPeople = {
     "id": "recnXtUDEf896SwWu",
     "name": "Charles Wang",
     "project": [
-      "reccGJAI2eGW2LVgs",
-      "recAIiMm047Jbn95g"
+      "reccGJAI2eGW2LVgs"
     ],
     "position": "Committee Lead",
     "picture": [
@@ -47823,9 +47807,9 @@ export let TechPeople = {
     "id": "recv0nsk7ynL18ZaE",
     "name": "Miles Wada",
     "project": [
-      "reciidNezVi9P9j3h"
+      "reccGJAI2eGW2LVgs"
     ],
-    "position": "Project Lead",
+    "position": "Committee Lead",
     "picture": [
       {
         "id": "attHzlxjqtL2T4VOH",
@@ -47858,183 +47842,33 @@ export let TechPeople = {
   "recdTc3495nI4gklT": {
     "createdTime": "2020-08-12T01:36:14.000Z",
     "id": "recdTc3495nI4gklT",
-    "name": "Sophie Lian",
+    "name": "Joy Zhang",
     "project": [
-      "reccGJAI2eGW2LVgs",
-      "recAIiMm047Jbn95g"
+      "reciidNezVi9P9j3h"
     ],
-    "position": "Committee Lead",
+    "position": "Project Member",
     "picture": [
       {
-        "id": "att7tkJrgrrLSqghw",
-        "width": 2001,
-        "height": 3000,
-        "url": "https://dl.airtable.com/.attachments/75e35d6dc87ed92befc14a33e3759db4/bb2cd37e/Academi-01086.jpg",
-        "filename": "Academi-01086.jpg",
-        "size": 432247,
+        "id": "attgqec4WZ5EDOsSR",
+        "width": 960,
+        "height": 960,
+        "url": "https://dl.airtable.com/.attachments/09f17fc8bb7c1028819da8b7bac0c4c3/82ee9006/rainbows.jpg",
+        "filename": "rainbows.jpg",
+        "size": 70718,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fa671e14f6e1136e20f4f664c7eb7284/0f56f173",
-            "width": 24,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e75cf6fc4644261cee60b7cfd2b69583/be794250",
-            "width": 512,
-            "height": 768
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ed92b8d7fc0b0f04218a2e37e8d2328b/19c681e2",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ]
-  },
-  "recGSx1i0TPGzGxHz": {
-    "createdTime": "2020-08-12T01:36:24.000Z",
-    "id": "recGSx1i0TPGzGxHz",
-    "name": "Howard Wang",
-    "project": [
-      "recE0mCwHo0OWHgOb"
-    ],
-    "position": "Project Lead",
-    "picture": [
-      {
-        "id": "attKqRNt7NZjcpfLP",
-        "width": 1172,
-        "height": 1172,
-        "url": "https://dl.airtable.com/.attachments/a07fcaee83a09a28a01ec54281afc926/bab3e247/47449525_2197115637225625_8126404309618262016_n-HowardWang.jpg",
-        "filename": "47449525_2197115637225625_8126404309618262016_n - Howard Wang.jpg",
-        "size": 130833,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b3758be8883ec1a54e314ceeff31dfe2/c17a3324",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04e2cfec618217eb0ce4e9e660e65366/7e09cdb6",
             "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bbfdb4976a462f0eec8355302f9c6596/31650773",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c7efa00af7fb070492653d9963959af7/7310a3ee",
             "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d4a9eda8b147c412d4febd65bba9c1e7/1c17c6eb",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ]
-  },
-  "recq1VpYYHjIbS3bz": {
-    "createdTime": "2020-08-12T01:37:38.000Z",
-    "id": "recq1VpYYHjIbS3bz",
-    "name": "Joe Zou",
-    "project": [
-      "reccGJAI2eGW2LVgs",
-      "recAIiMm047Jbn95g"
-    ],
-    "position": "Commitee Lead",
-    "picture": [
-      {
-        "id": "attvbTFfn6iA1h5bB",
-        "width": 706,
-        "height": 1036,
-        "url": "https://dl.airtable.com/.attachments/0046ff12c7c48e7d57d47ae8f62b2eb9/9f874c6d/ScreenShot2020-06-03at12_52_21PM.png",
-        "filename": "Screen Shot 2020-06-03 at 12_52_21 PM.png",
-        "size": 444239,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a587906e7869ddc36f77e7fa735439de/dca3b4fb",
-            "width": 25,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c8ea14a90bc6ead44970d808cc959473/0930c60d",
-            "width": 512,
-            "height": 751
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9b14e9ca5464e81c1e9503feedc8cfca/9a592d99",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ]
-  },
-  "recahxHYnLeD2p0am": {
-    "createdTime": "2020-08-12T01:38:23.000Z",
-    "id": "recahxHYnLeD2p0am",
-    "name": "Evelyn Liu",
-    "project": [
-      "recpptXzEL1vOS8LU"
-    ],
-    "position": "Project Lead",
-    "picture": [
-      {
-        "id": "attH72iNpgXc0HVii",
-        "width": 1080,
-        "height": 1440,
-        "url": "https://dl.airtable.com/.attachments/77d6c2cff1e8b072353a7dcc66908cb4/2da0eb2c/117762839_746697182755596_8906857659641321031_n.jpg",
-        "filename": "117762839_746697182755596_8906857659641321031_n.jpg",
-        "size": 123787,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5f90141f88bd814790e5cb4a4fd62858/a92798a1",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3838ff51dd2375fdb6ec0d0a153b46cf/025ec6b6",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/709e79ae5902dbb0197ff5e52da53646/aa7fa0fd",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ]
-  },
-  "reccaqyQhOqpBJmBU": {
-    "createdTime": "2021-01-20T00:40:43.000Z",
-    "id": "reccaqyQhOqpBJmBU",
-    "name": "Dustin Luong",
-    "project": [
-      "recpptXzEL1vOS8LU"
-    ],
-    "position": "Project Lead",
-    "picture": [
-      {
-        "id": "att8J0chMa2LgFb0m",
-        "width": 302,
-        "height": 403,
-        "url": "https://dl.airtable.com/.attachments/ed55c95e04dc812dbba67bbabe932de0/efac10e8/dustin.png",
-        "filename": "dustin.png",
-        "size": 267413,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e382fc415f05245dc4b8c580603b82f9/5146b59d",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/637dd8d35f25023053c6bb96d5549b5b/776a378b",
-            "width": 302,
-            "height": 403
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a3d04e277be8540e4bf6060f42ab6ead/db853c76",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d578da43e21efcc84a372def5188cbeb/8e962d16",
             "width": 3000,
             "height": 3000
           }
@@ -48049,7 +47883,7 @@ export let TechPeople = {
     "project": [
       "reciidNezVi9P9j3h"
     ],
-    "position": "Project Lead",
+    "position": "Project Member",
     "picture": [
       {
         "id": "attmpU9Ls56qYyTWp",
@@ -48086,7 +47920,7 @@ export let TechPeople = {
     "project": [
       "reciidNezVi9P9j3h"
     ],
-    "position": "Project Member",
+    "position": "Project Lead",
     "picture": [
       {
         "id": "attRYO2SObnpvjGfK",
@@ -48123,7 +47957,7 @@ export let TechPeople = {
     "project": [
       "recE0mCwHo0OWHgOb"
     ],
-    "position": "Project Member",
+    "position": "Project Lead",
     "picture": [
       {
         "id": "att0HUWaDD0dH2eAr",
@@ -48158,9 +47992,9 @@ export let TechPeople = {
     "id": "recixaJnAehxoP136",
     "name": "Abigail Yu",
     "project": [
-      "reciidNezVi9P9j3h"
+      "reccGJAI2eGW2LVgs"
     ],
-    "position": "Project Member",
+    "position": "Committee Lead",
     "picture": [
       {
         "id": "attpIJ2ZifqPDGzUw",
@@ -48197,7 +48031,7 @@ export let TechPeople = {
     "project": [
       "recpptXzEL1vOS8LU"
     ],
-    "position": "Project Member",
+    "position": "Project Lead",
     "picture": [
       {
         "id": "att3JHUCyDUMBMAlC",
@@ -48234,7 +48068,7 @@ export let TechPeople = {
     "project": [
       "recpptXzEL1vOS8LU"
     ],
-    "position": "Project Member",
+    "position": "Project Lead",
     "picture": [
       {
         "id": "attrW1oOksTPB3EcG",
@@ -48269,9 +48103,9 @@ export let TechPeople = {
     "id": "recSRVJC805JipOvM",
     "name": "Davina Dou",
     "project": [
-      "recpptXzEL1vOS8LU"
+      "reccGJAI2eGW2LVgs"
     ],
-    "position": "Project Member",
+    "position": "Committee Lead",
     "picture": [
       {
         "id": "attb1tVY55Akg7Kg1",
@@ -48308,7 +48142,7 @@ export let TechPeople = {
     "project": [
       "reciidNezVi9P9j3h"
     ],
-    "position": "Project Member",
+    "position": "Project Lead",
     "picture": [
       {
         "id": "attigKbIDUOiUNU4V",
@@ -48382,7 +48216,7 @@ export let TechPeople = {
     "project": [
       "recE0mCwHo0OWHgOb"
     ],
-    "position": "Project Member",
+    "position": "Project Lead",
     "picture": [
       {
         "id": "attpH8DTaNT1Idatl",
@@ -48449,43 +48283,6 @@ export let TechPeople = {
       }
     ]
   },
-  "recJVTYD6IDhoXbZW": {
-    "createdTime": "2021-04-12T02:33:21.000Z",
-    "id": "recJVTYD6IDhoXbZW",
-    "name": "Lucas Huang",
-    "project": [
-      "reciidNezVi9P9j3h"
-    ],
-    "position": "Project Member",
-    "picture": [
-      {
-        "id": "atta4uounUt8Jo486",
-        "width": 512,
-        "height": 512,
-        "url": "https://dl.airtable.com/.attachments/5f7e806036be34217e60eccb9ca42fb8/1668db04/T018FBYC26L-U01NEBWTU2D-919d9a23441e-512.jfif",
-        "filename": "T018FBYC26L-U01NEBWTU2D-919d9a23441e-512.jfif",
-        "size": 118004,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/601345e22255965086a301e945a63001/b7e9ced6",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/41078ec50853cdd3a5bd918a001ab104/b1881fdd",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0b6cf6237a2fbce4f393a8f595c59bc5/5e66d1e8",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ]
-  },
   "recVpRLURCEN1uL90": {
     "createdTime": "2021-09-02T03:27:38.000Z",
     "id": "recVpRLURCEN1uL90",
@@ -48516,6 +48313,43 @@ export let TechPeople = {
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/83f9c544861e12b4930625b0f7a8030b/ba697022",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recNyqGwAwpPMvGGs": {
+    "createdTime": "2022-02-28T00:26:38.000Z",
+    "id": "recNyqGwAwpPMvGGs",
+    "name": "Chloe Zhong",
+    "project": [
+      "reciidNezVi9P9j3h"
+    ],
+    "position": "Project Member",
+    "picture": [
+      {
+        "id": "attO5dlSESMQFAVSO",
+        "width": 1776,
+        "height": 1184,
+        "url": "https://dl.airtable.com/.attachments/35d5133a72dada3b96ddc062cb4f75d7/44daf497/me_red.JPG",
+        "filename": "me_red.JPG",
+        "size": 667455,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cdef49024c73b6ed4cb51b09894a6a30/2f862d9a",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d038a7c8316a75b77c09ffc2227cb904/2add5fde",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2260a38488ef61de9a4717b31758175e/1c5246cd",
             "width": 3000,
             "height": 3000
           }

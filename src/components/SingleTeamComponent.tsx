@@ -8,7 +8,7 @@ export const SingleTeamComponent: React.FC<{ team: Group }> = ({ team }) => {
   // Generate a string of all of the directors
   if (team.positionIds) {
     for (let directorIdx in team.positionIds) {
-      if (team.positionIds.hasOwnProperty(directorIdx)) { //iterate only over the properties of the object itself
+      if (team.positionIds.hasOwnProperty(directorIdx)) { // iterate only over the properties of the object itself
         let directorKey = team.positionIds[directorIdx]
         let pp = Data.PersonPositions[directorKey]
         let dirPersonKey: string =
