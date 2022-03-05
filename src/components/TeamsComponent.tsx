@@ -1,10 +1,11 @@
 import * as lodash from "lodash"
 import * as React from "react"
 import * as Data from "src/data/data"
-import { Group } from "src/data/types"
-import { DisplayUtility } from "src/DisplayUtility"
-import { SingleTeamComponent } from "./SingleTeamComponent"
 import { CompComponent } from "./CompComponent"
+import { DisplayUtility } from "src/DisplayUtility"
+import { Group } from "src/data/types"
+
+import { SingleTeamComponent } from "./SingleTeamComponent"
 
 // Component containing the entire list/flexbox of teams, displaying each team
 // as a SingleTeamComponent
