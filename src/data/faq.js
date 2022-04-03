@@ -24,9 +24,27 @@ export const faqs = [
     content: 'Training: 5 to 6 hours \nProject: 6 to 8 hours \nThis consists of team practices and socials. You will be working towards a set with your directors for the End-of-Semester Showcase!',
   },
   {
-    title: '',
-    content: ''
+    title: 'What happens if I have a time conflict with my initial Team placement?',
+    content: 'If you have a time conflict with your initial Team, you will have the option to transfer to another Team.\n\t - If you are selected to be on a Project Team, you may transfer to another Project Team (if available) or to a Training Team (if available).\n\t - If you are selected to be on a Training Team, you may transfer to another Training Team (if available).\nIf none of the teams work for you, you unfortunately will have to decline your offer into AFX for this semester. If you must choose this option, we hope to see you again next semester as different times appear for each semester!'
+  },
+  {
+    title: 'Can I be on both Training and Project at the same time? Can I be on more than one team?',
+    content: 'Unfortunately, we don’t allow members to be on more than one team officially at a time. However, auditing is up to the discretion of each Team’s director.'
+  },
+  {
+    title: 'What is auditing?',
+    content: 'Auditing means that you will be allowed at a team’s practice to learn choreography! Auditors are not allowed to perform in the end-of-semester showcase for the team they are auditing. Because of this, auditors will also not be taken into consideration for choreography formations.'
+  },
+  {
+    title: 'How much are dues?',
+    content: 'AFX Dues are usually $30 per person, which must be paid to your Directors. This money will go toward aspects such as: equipment, showcase, team socials, choreographer workshops, etc. If you need any financial support for AFX, please reach out to your directors and/or to board.',
+  },
+  {
+    title: 'What is the End-of-Semester Showcase?',
+    content: 'This is an opportunity for your Teams to demonstrate all your hard work on a stage in front of friends and family! This is historically one of the largest performances on Berkeley campus.'
+  },
+  {
+    title: 'What is AFX Comp?',
+    content: 'AFX Dance Company represents the “AFX” name outside of the Berkeley Dance Community at competitions, exhibitions, and other community events.'
   }
-
-
 ];

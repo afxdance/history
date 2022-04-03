@@ -1,6 +1,8 @@
 import * as React from "react"
 import { CSSProperties } from "react"
 import { TimelineComponent } from "src/components/TimelineComponent";
+import { FaqComponent } from "src/components/FAQComponent"
+import { faqs } from 'src/data/faq'
 
 const dotStyle: CSSProperties = {
   textAlign: "center",
@@ -118,6 +120,13 @@ export const AboutComponent: React.FC = () => {
       </div>
 
       <TimelineComponent />
+
+      <div>
+        <h1>Frequently Asked Questions</h1>
+        <div>
+
+        </div>
+      </div>
 
       <div className="social-mediaz">
         <a href="https://www.facebook.com/AFXdance/">
