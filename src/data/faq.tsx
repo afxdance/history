@@ -16,6 +16,10 @@ export const faqs = [
     content: 'Everyone is welcome to audition for AFX at the beginning of each semester, where you will audition for the Training and Project Team in the same audition! A auditions, you will learn a set taught by our directors. You will then perform this set in groups to the committee of directors along with a couple of seconds of freestyle.'
   },
   {
+    title: 'Wait… Freestyle?!',
+    content: 'This is meant to see how you express yourself! It doesn’t need to be fancy and you don’t need to do any tricks. We just want to see how you vibe with the music!',
+  },
+  {
     title: 'What if I’m too nervous/scared to dance and look bad?',
     content: 'AFX is a safe space that helps you secure a spot on a dance team and learn! Many of our dancers (and even directors) have never danced before college or even before joining AFX.'
   },
@@ -40,11 +44,23 @@ export const faqs = [
     content: 'AFX Dues are usually $30 per person, which must be paid to your Directors. This money will go toward aspects such as: equipment, showcase, team socials, choreographer workshops, etc. If you need any financial support for AFX, please reach out to your directors and/or to board.',
   },
   {
+    title: 'What is AFX Comp?',
+    content: 'AFX Dance Company represents the “AFX” name outside of the Berkeley Dance Community at competitions, exhibitions, and other community events. This differs from AFX Gen, which focuses mainly on dance training and performs within the Berkeley Dance Community. As such, AFX Comp features different members of leadership and operates separately from AFX Gen for the most part.'
+  },
+  {
+    title: 'How many people are in AFX Comp? How many people received a spot per class?',
+    content: 'This varies from semester to semester depending on interest, demand, and what the artistic directors have in mind for their set.'
+  },
+  {
+    title: 'What is the audition process like to join AFX Comp?',
+    content: 'AFX Comp’s audition process is separate from AFX Gen’s. Auditions pieces will be taught on teach days (you are required to attend at least one, attending both is optional) and the actual audition will be on a different day. Applicants will be asked to perform the audition pieces taught on teach day in small groups, as well as a couple counts of freestyle. At the end of the audtion, applicants may be offered an interview, and will hear back from Comp board if they are accepted.',
+  },
+  {
+    title: 'Do I have to re-audition every semester?',
+    content: 'Yes! Even directors have to audition if they are no longer directors.',
+  },
+  {
     title: 'What is the End-of-Semester Showcase?',
     content: 'This is an opportunity for your Teams to demonstrate all your hard work on a stage in front of friends and family! This is historically one of the largest performances on Berkeley campus.'
   },
-  {
-    title: 'What is AFX Comp?',
-    content: 'AFX Dance Company represents the “AFX” name outside of the Berkeley Dance Community at competitions, exhibitions, and other community events.'
-  }
 ];

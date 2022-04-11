@@ -121,10 +121,14 @@ export const AboutComponent: React.FC = () => {
 
       <TimelineComponent />
 
-      <div>
+      <div className="heading">
         <h1>Frequently Asked Questions</h1>
-        <div>
-
+      </div>
+      <div className="faq-container">
+        <div className="faq">
+          {faqs.map(({ title, content }) => (
+            <FaqComponent title={title} content={content} />
+          ))}
         </div>
       </div>
 
