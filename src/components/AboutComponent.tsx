@@ -121,17 +121,6 @@ export const AboutComponent: React.FC = () => {
 
       <TimelineComponent />
 
-      <div className="heading">
-        <h1>Frequently Asked Questions</h1>
-      </div>
-      <div className="faq-container">
-        <div className="faq">
-          {faqs.map(({ title, content }) => (
-            <FaqComponent title={title} content={content} />
-          ))}
-        </div>
-      </div>
-
       <div className="social-mediaz">
         <a href="https://www.facebook.com/AFXdance/">
           <i className="fa fa-facebook" aria-hidden="true" />

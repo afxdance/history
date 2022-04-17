@@ -13,10 +13,12 @@ import { LandingComponent } from "./LandingPage/LandingPageComponent"
 import { AuditionPageComponent } from "./LandingPage/AuditionPageComponent"
 import { Navigation } from "./NavBarComponent";
 import { TeamsComponent } from "./TeamsComponent";
+import { FAQPageComponent } from "src/components/FAQPageComponent";
 
 
 const Home = () => <div><h1>Home</h1></div>
 const About = () => <div><h1>Joe mama</h1></div>
+const FAQ = () => <div><h1>FAQ</h1></div>
 const Events = () => <div><h1>Events</h1></div>
 
 export const App: React.FC<{}> = () => {
@@ -88,9 +90,14 @@ export const App: React.FC<{}> = () => {
         <Redirect to="/about" />
       </Route>
 
+      <Route path="/faq" render={() => <div>
+        <Navigation searchable={false} />
+        <FAQPageComponent />
+      </div>} />
+
       <Route path="/about" render={() => <div>
         <Navigation searchable={false} />
-        <AuditionPageComponent/>
+        <AuditionPageComponent />
         <AboutComponent />
       </div>} />
 
