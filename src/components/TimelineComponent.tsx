@@ -134,7 +134,7 @@ export const TimelineComponent: React.FC<{}> = ({ }) => {
   //   <div>Testing testing {entry.date}</div>);
 
   return (
-    <div>
+    <div id="about">
       <hr />
 
       <div className='timeline-title'>
