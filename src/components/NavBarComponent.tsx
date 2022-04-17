@@ -61,11 +61,12 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
         />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto navbar-custom" style={{ justifyContent: "flex-end" }}>
-            <NavLink to="/faq" onClick={toggleFalse} className="navlink-custom">
-              <span className="nav-item-text nav-text">FAQ</span>
-            </NavLink>
+
             <NavLink to="/about" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">About</span>
+            </NavLink>
+            <NavLink to="/faq" onClick={toggleFalse} className="navlink-custom">
+              <span className="nav-item-text nav-text">FAQ</span>
             </NavLink>
             <NavLink to="/events" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Events</span>
