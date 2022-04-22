@@ -1,5 +1,6 @@
 import * as React from "react";
 import { Calendar, momentLocalizer } from "react-big-calendar";
+import { TeamSchedule, days, dayType, singleTeam, teamScheduleType } from './helperComponents/teamSchedule';
 // @ts-ignore
 import moment from "moment";
 import "react-big-calendar/lib/css/react-big-calendar.css";
@@ -59,8 +60,38 @@ export const EventsComponent: React.FC = () => {
       });
   }, [])
 
+  // Monday
+  const monday = []
+
+  // Tuesday
+  const teamAwayFX: singleTeam = {name: "awayFX", start: "7:00 PM", end: "9:00 PM", loc: "underhill/lower sproul"};
+  const tuesday: singleTeam[] = [teamAwayFX]
+
+  const link: singleTeam = { name: "link", start: "6:30 PM", end: "9:30 PM", loc: "haas pavillion"};
+  const party: singleTeam = { name: "party", start: "6:30 PM", end: "9:00 PM", loc: "lower sproul "};
+  const wednesday: singleTeam[] = [link, party]
+
+
+  // Thursday
+
+  const thursday = []
+
+  const friday = []
+
+  const saturday = []
+
+  const sunday = []
+
+  const Allteams: singleTeam[][]= [monday, tuesday, wednesday, thursday, friday, saturday, sunday];
+
+
+  let teamSchedules = days.map((day, index) => (
+    <TeamSchedule day={day} teams={Allteams[index]} />
+  ))
+
   return (
     <div>
+      <div className='name-time-container'>{teamSchedules}</div>
       {/* <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p> */}
       <Calendar
         localizer={localizer}

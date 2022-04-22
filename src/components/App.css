@@ -686,6 +686,22 @@ button {
   margin-bottom: 40px;
 }
 
+/* ----------------------------------------
+    teamSchedule helper Component
+------------------------------------------- */
+
+.team-schedule-gray-box {
+  height: 236px;
+  width: 182px;
+}
+
+.name-time-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
 /* ---------------------------------------------------
     HISTORY NAVBAR STYLE
 ----------------------------------------------------- */
