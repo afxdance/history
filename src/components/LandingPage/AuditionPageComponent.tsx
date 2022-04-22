@@ -3,10 +3,10 @@ import Popup from "reactjs-popup"
 import { TechProjects } from "src/data/data"
 import { ProjectComponent } from "./ProjectComponent"
 
-export const AuditionPageComponent: React.FC<{}> = ({}) => {
+export const AuditionPageComponent: React.FC<{}> = ({ }) => {
   return (
     <Popup
-      defaultOpen={true}
+      defaultOpen={false}
       trigger={<button className="join-button">Audition!</button>}
       modal={true}
       closeOnDocumentClick={true}

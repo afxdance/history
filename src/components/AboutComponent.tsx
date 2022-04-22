@@ -1,6 +1,8 @@
 import * as React from "react"
 import { CSSProperties } from "react"
 import { TimelineComponent } from "src/components/TimelineComponent";
+import { FaqComponent } from "src/components/FAQComponent"
+import { faqs } from 'src/data/faq'
 
 const dotStyle: CSSProperties = {
   textAlign: "center",

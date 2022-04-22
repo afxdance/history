@@ -11,24 +11,16 @@ import { AboutComponent } from "./AboutComponent"
 import { AFXTechComponent } from "./AFXTechComponent"
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
 import { AuditionPageComponent } from "./LandingPage/AuditionPageComponent"
-import { Navigation } from "./NavBarComponent"
-import { TeamsComponent } from "./TeamsComponent"
+import { Navigation } from "./NavBarComponent";
+import { TeamsComponent } from "./TeamsComponent";
+import { FAQPageComponent } from "src/components/FAQPageComponent";
 
-const Home = () => (
-  <div>
-    <h1>Home</h1>
-  </div>
-)
-const About = () => (
-  <div>
-    <h1>Joe mama</h1>
-  </div>
-)
-const Events = () => (
-  <div>
-    <h1>Events</h1>
-  </div>
-)
+
+const Home = () => <div><h1>Home</h1></div>
+const About = () => <div><h1>Joe mama</h1></div>
+const FAQ = () => <div><h1>FAQ</h1></div>
+const Events = () => <div><h1>Events</h1></div>
+
 
 export const App: React.FC<{}> = () => {
   const currentSemKey = useSem().currentSemKey
@@ -98,58 +90,42 @@ export const App: React.FC<{}> = () => {
         <Redirect to="/about" />
       </Route>
 
-      <Route
-        path="/about"
-        render={() => (
-          <div>
-            <Navigation searchable={false} />
-            {/* <AuditionPageComponent/> */}
-            <AboutComponent />
-          </div>
-        )}
-      />
+      <Route path="/faq" render={() => <div>
+        <Navigation searchable={false} />
+        <FAQPageComponent />
+      </div>} />
 
-      <Route
-        path="/events"
-        render={() => (
-          <div>
-            <Navigation searchable={false} />
-            <EventsComponent />
-          </div>
-        )}
-      />
+      <Route path="/about" render={() => <div>
+        <Navigation searchable={false} />
+        <AuditionPageComponent />
+        <AboutComponent />
+      </div>} />
 
-      <Route
-        path="/board"
-        render={() => (
-          <div>
-            {/* <div className={ display ? "show-search" : "no-search" }> */}
-            <Navigation searchable={true} />
-            {/* </div> */}
-            <div id="board">{board}</div>
-          </div>
-        )}
-      />
+      <Route path="/events" render={() => <div>
+        <Navigation searchable={false} />
+        <EventsComponent />
+      </div>} />
 
-      <Route
-        path="/teams"
-        render={() => (
-          <div>
-            <Navigation searchable={true} />
-            <div id="teams">{teams}</div>
-          </div>
-        )}
-      />
+      <Route path="/board" render={() => <div>
+        {/* <div className={ display ? "show-search" : "no-search" }> */}
+        <Navigation searchable={true} />
+        {/* </div> */}
+        <div id="board">{board}</div>
+      </div>} />
 
-      <Route
-        path="/afxtech"
-        render={() => (
-          <div>
-            <Navigation searchable={false} />
-            <AFXTechComponent />
-          </div>
-        )}
-      />
-    </HashRouter>
-  )
+      <Route path="/teams" render={() =>
+        <div>
+          <Navigation searchable={true} />
+          <div id="teams">{teams}</div>
+        </div>} />
+
+      <Route path="/afxtech" render={() =>
+        <div>
+          <Navigation searchable={false} />
+          <AFXTechComponent />
+        </div>} />
+
+    </HashRouter >
+  );
+
 }
