@@ -2,7 +2,7 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 import { Person } from "src/data/types";
 import { SearchButtonComponent } from "./SearchButtonComponent";
-import { Route, HashRouter as Router, Redirect } from "react-router-dom";
+import { HashRouter as Router, Redirect, Route } from "react-router-dom";
 import * as Data from "src/data/data";
 import * as AFX from "src/data/data";
 
