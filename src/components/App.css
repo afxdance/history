@@ -1835,11 +1835,7 @@ button.rbc-input::-moz-focus-inner {
   flex-direction: row;
   justify-content: space-between;
   cursor: pointer;
-<<<<<<< HEAD
   background-color: #e9e9e9;
-=======
-  background-color: #f8f8f8;
->>>>>>> master
   font-weight: bold;
   padding: 15px;
   text-decoration: none;
@@ -1851,11 +1847,7 @@ button.rbc-input::-moz-focus-inner {
   flex-direction: row;
   justify-content: space-between;
   cursor: pointer;
-<<<<<<< HEAD
   background-color: #e9e9e9;
-=======
-  background-color: #f8f8f8;
->>>>>>> master
   font-weight: bold;
   padding: 15px;
   text-decoration: none;
