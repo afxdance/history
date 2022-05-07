@@ -694,6 +694,53 @@ button {
   margin-bottom: 40px;
 }
 
+/* ----------------------------------------
+    teamSchedule helper Component
+------------------------------------------- */
+
+.team-schedule-gray-box {
+  background-color: #e8e8e8;
+  border-radius: 15px;
+  padding: 20px 10px;
+  margin: 10px;
+  height: 236px;
+  width: 182px;
+}
+
+.name-time-container {
+  display: flex;
+  justify-content: center;
+}
+
+.day-font {
+  font-size: 20px;
+}
+
+.name-time-loc-container {
+  display: flex;
+  justify-content: space-around;
+  font-size: 10px;
+  margin: 10px 0px;
+}
+
+.time-name {
+  border-radius: 10px;
+  padding: 5px;
+  /* border:  */
+  font-weight: 900;
+}
+
+.loc-font {
+  font-size: 8px;
+  /* font-weight: 300; */
+}
+
+.time-loc-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* ---------------------------------------------------
     HISTORY NAVBAR STYLE
 ----------------------------------------------------- */
@@ -1813,6 +1860,7 @@ button.rbc-input::-moz-focus-inner {
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 20px;
+  margin-bottom: 20px;
   margin-bottom: 20px;
 }
 
