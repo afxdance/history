@@ -8,7 +8,7 @@
     "@types/react-router-dom": "^5.1.2",
     "@types/reactstrap": "^8.0.6",
     "airtable": "^0.5.7",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.5.3",
     "gh-pages": "^3.1.0",
     "instafeed.js": "^2.0.0",
