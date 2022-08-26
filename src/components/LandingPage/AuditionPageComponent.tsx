@@ -25,7 +25,7 @@ export const AuditionPageComponent: React.FC<{}> = ({ }) => {
         <h1 style={{ margin: "25px", fontWeight: "bold" }}>
           Audition for AFX!
         </h1>
-        {/* <img src="sp22Auditions.jpg" className="tech-committee-img" /> */}
+        <img src="fa22Auditions.png" className="tech-committee-img" />
         <h4 className="text-center"><strong>AFX Summer Showcase:</strong> Tuesday, August 23, 7-10 PM @ Spieker Hall, outside of Haas Pavilion</h4>
         <h4 className="text-center"><strong>Committees Teach Night:</strong> Friday, September 2, 7-10 PM @ Eshleman Hall 240</h4>
         <h4 className="text-center"><strong>Audition Day 1:</strong> Sunday, September 4, 7-10 PM @ Haas Pavilion</h4>
