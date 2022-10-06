@@ -97,7 +97,7 @@ export const App: React.FC<{}> = () => {
 
       <Route path="/about" render={() => <div>
         <Navigation searchable={false} />
-        <AuditionPageComponent />
+        {/* <AuditionPageComponent /> */}
         <AboutComponent />
       </div>} />
 

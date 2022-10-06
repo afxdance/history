@@ -129,7 +129,7 @@ const views = TimelineData.map((entry, index) => {
 
 export const TimelineComponent: React.FC<{}> = ({ }) => {
   // const state = {value: 0, previous: 0 };
-  const [state, setState] = React.useState({ value: 30, previous: 30 });
+  const [state, setState] = React.useState({ value: 31, previous: 31 });
 
   // const timelineEntries = TimelineData.map((entry) =>
   //   <div>Testing testing {entry.date}</div>);

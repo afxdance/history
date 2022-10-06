@@ -12,7 +12,7 @@ import moment from "moment"
 import "react-big-calendar/lib/css/react-big-calendar.css"
 import "react-big-calendar/lib/sass/styles.scss"
 // import "instafeed.js"
-import InstagramEmbed from 'react-instagram-embed';
+// import InstagramEmbed from 'react-instagram-embed';
 
 const localizer = momentLocalizer(moment)
 
@@ -236,7 +236,7 @@ export const EventsComponent: React.FC = () => {
       </script> */}
 
 
-      <InstagramEmbed
+      {/* <InstagramEmbed
         url='https://www.instagram.com/p/Cc9KZQzJnf5/'
         clientAccessToken=''
         maxWidth={320}
@@ -248,7 +248,7 @@ export const EventsComponent: React.FC = () => {
         onSuccess={() => { }}
         onAfterRender={() => { }}
         onFailure={() => { }}
-      />
+      /> */}
     </div >
   )
 }
