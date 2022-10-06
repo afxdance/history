@@ -42,6 +42,7 @@ const VALUES = [
   '2021-04-01',
   '2021-08-25',
   '2021-12-06',
+  '2022-04-30',
 ];
 
 const views = TimelineData.map((entry, index) => {
@@ -128,13 +129,13 @@ const views = TimelineData.map((entry, index) => {
 
 export const TimelineComponent: React.FC<{}> = ({ }) => {
   // const state = {value: 0, previous: 0 };
-  const [state, setState] = React.useState({ value: 30, previous: 30 });
+  const [state, setState] = React.useState({ value: 31, previous: 31 });
 
   // const timelineEntries = TimelineData.map((entry) =>
   //   <div>Testing testing {entry.date}</div>);
 
   return (
-    <div>
+    <div id="about">
       <hr />
 
       <div className='timeline-title'>

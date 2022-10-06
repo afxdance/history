@@ -4492,6 +4492,11 @@
     "strip-ansi" "^4.0.0"
     "through" "^2.3.6"
 
+"instafeed.js@^2.0.0":
+  "integrity" "sha512-k7khLgozabWoUNoZtU1UV5+hTyYI+hJJi7GosWV0TFp7xaT+buL7eNt6utN7Af+3TeMGHc59DFrcXddtS+X0qw=="
+  "resolved" "https://registry.npmmirror.com/instafeed.js/-/instafeed.js-2.0.0.tgz"
+  "version" "2.0.0"
+
 "internal-ip@1.2.0":
   "integrity" "sha1-rp+/k7mEh4eF1QqN4bNWlWBYz1w="
   "resolved" "https://registry.npmjs.org/internal-ip/-/internal-ip-1.2.0.tgz"
@@ -7494,7 +7499,7 @@
     "element-resize-event" "^2.0.4"
     "lodash.debounce" "^4.0.6"
 
-"react-dom@*", "react-dom@^0.14.0 || ^15.0.0 || ^16.0.0", "react-dom@^16.0.0", "react-dom@^16.12.0", "react-dom@^16.2.0", "react-dom@^16.6.1", "react-dom@>=0.14.0 <17.0.0", "react-dom@>=15.0.0", "react-dom@>=16.3.0", "react-dom@>=16.6.0", "react-dom@>=16.8.0":
+"react-dom@*", "react-dom@^0.14.0 || ^15.0.0 || ^16.0.0", "react-dom@^16.0.0", "react-dom@^16.12.0", "react-dom@^16.2.0", "react-dom@^16.6.1", "react-dom@^17.0.0 || ^16.0.0 || ^15.0.0 || ~0.14.0", "react-dom@>=0.14.0 <17.0.0", "react-dom@>=15.0.0", "react-dom@>=16.3.0", "react-dom@>=16.6.0", "react-dom@>=16.8.0":
   "integrity" "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz"
   "version" "16.14.0"
@@ -7543,6 +7548,13 @@
   "version" "2.2.7"
   dependencies:
     "react-icon-base" "2.1.0"
+
+"react-instagram-embed@^3.0.0":
+  "integrity" "sha512-9X/t1J2YXj76iYTnCQx7SQ7DwVNxQOMpE0mnEDgKM9c6z1m7THDmk+kxhdGOrxULSjSZMAwxSxwgRMgT9jEqng=="
+  "resolved" "https://registry.npmmirror.com/react-instagram-embed/-/react-instagram-embed-3.0.0.tgz"
+  "version" "3.0.0"
+  dependencies:
+    "type-fest" "^1.2.2"
 
 "react-is@^16.3.2", "react-is@^16.6.0", "react-is@^16.7.0", "react-is@^16.8.1":
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
@@ -7733,7 +7745,7 @@
     "loose-envify" "^1.4.0"
     "prop-types" "^15.6.2"
 
-"react@*", "react@^0.14.0 || ^15.0.0 || ^16.0.0", "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^0.14.9 || ^15.3.0 || ^16.0.0", "react@^15.3.0 || ^16.0.0", "react@^15.3.0 || ^16.0.0 || ^17.0.0", "react@^16.0.0", "react@^16.12.0", "react@^16.14.0", "react@^16.2.0", "react@^16.3.0", "react@^16.6.1", "react@^16.8.0", "react@>=0.14.0", "react@>=0.14.0 <17.0.0", "react@>=15", "react@>=15.0.0", "react@>=16.3.0", "react@>=16.3.2", "react@>=16.6.0", "react@>=16.8.0", "react@0.14.x || ^15.0.0 || ^16.0.0":
+"react@*", "react@^0.14.0 || ^15.0.0 || ^16.0.0", "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^0.14.9 || ^15.3.0 || ^16.0.0", "react@^15.3.0 || ^16.0.0", "react@^15.3.0 || ^16.0.0 || ^17.0.0", "react@^16.0.0", "react@^16.12.0", "react@^16.14.0", "react@^16.2.0", "react@^16.3.0", "react@^16.6.1", "react@^16.8.0", "react@^17.0.0 || ^16.0.0 || ^15.0.0 || ~0.14.0", "react@>=0.14.0", "react@>=0.14.0 <17.0.0", "react@>=15", "react@>=15.0.0", "react@>=16.3.0", "react@>=16.3.2", "react@>=16.6.0", "react@>=16.8.0", "react@0.14.x || ^15.0.0 || ^16.0.0":
   "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
   "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
   "version" "16.14.0"
@@ -9224,6 +9236,11 @@
   "version" "0.3.2"
   dependencies:
     "prelude-ls" "~1.1.2"
+
+"type-fest@^1.2.2":
+  "integrity" "sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA=="
+  "resolved" "https://registry.npmmirror.com/type-fest/-/type-fest-1.4.0.tgz"
+  "version" "1.4.0"
 
 "type-is@~1.6.17", "type-is@~1.6.18":
   "integrity" "sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g=="

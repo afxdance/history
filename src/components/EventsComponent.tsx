@@ -12,7 +12,7 @@ import moment from "moment"
 import "react-big-calendar/lib/css/react-big-calendar.css"
 import "react-big-calendar/lib/sass/styles.scss"
 // import "instafeed.js"
-import InstagramEmbed from 'react-instagram-embed';
+// import InstagramEmbed from 'react-instagram-embed';
 
 const localizer = momentLocalizer(moment)
 
@@ -35,10 +35,10 @@ export const EventsComponent: React.FC = () => {
     axios
       .get(
         "https://www.googleapis.com/calendar/v3/calendars/" +
-          calendar_id +
-          // + "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" + process.env.REACT_APP_GCAL_KEY)
-          "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" +
-          "AIzaSyAZvqWSX3sYUtycgABvso6sQAkP137i59M"
+        calendar_id +
+        // + "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" + process.env.REACT_APP_GCAL_KEY)
+        "/events?orderBy=startTime&showDeleted=false&singleEvents=true&timeMin=2016-02-05T00%3A00%3A00Z&key=" +
+        "AIzaSyAZvqWSX3sYUtycgABvso6sQAkP137i59M"
       )
       .then((response) => {
         let eventsList: any[] = []
@@ -181,9 +181,44 @@ export const EventsComponent: React.FC = () => {
 
   return (
     <div>
-      <h1>Team Schedule Spring 2022</h1>
-      <div className="name-time-container">{teamSchedules}</div>
+      <div id="about">
+        <div className="heading">
+          <h1>Important Upcoming Events!</h1>
+          <br />
+        </div>
+        <h5>Auditions have been officially scheduled!</h5>
+        <div className="about--text">
+          <span>
+            {" "}
+            <strong>AFX Summer Showcase:</strong> Tuesday, August 23, 7-10 PM @ Spieker Hall (outside of Haas Pavilion){" "}
+          </span>
+          <br />
+          <span>
+            {" "}
+            <strong>Committees Teach Night:</strong> Friday, September 2, 7-10 PM @ Eshleman Hall 240{" "}
+          </span>
+          <br />
+          <span>
+            {" "}
+            <strong>Audition Day 1:</strong> Sunday, September 4, 7-10 PM @ Haas Pavilion{" "}
+          </span>
+          <br />
+          <span>
+            {" "}
+            <strong>Audition Day 2:</strong> Thursday, September 8, 7-10 PM @ Haas Pavilion{" "}
+          </span>
+          <br />
+        </div>
+        <br />
+
+        <hr></hr>
+
+        <br />
+        <h2>Team Schedule Spring 2022</h2>
+        <div className="name-time-container">{teamSchedules}</div>
+      </div>
       {/* <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p> */}
+      <hr></hr>
       <Calendar
         localizer={localizer}
         events={events}
@@ -201,7 +236,7 @@ export const EventsComponent: React.FC = () => {
       </script> */}
 
 
-      <InstagramEmbed
+      {/* <InstagramEmbed
         url='https://www.instagram.com/p/Cc9KZQzJnf5/'
         clientAccessToken=''
         maxWidth={320}
@@ -209,12 +244,12 @@ export const EventsComponent: React.FC = () => {
         containerTagName='div'
         protocol=''
         injectScript
-        onLoading={() => {}}
-        onSuccess={() => {}}
-        onAfterRender={() => {}}
-        onFailure={() => {}}
-      />
-    </div>
+        onLoading={() => { }}
+        onSuccess={() => { }}
+        onAfterRender={() => { }}
+        onFailure={() => { }}
+      /> */}
+    </div >
   )
 }
 /** Event-handling function that is called when a user
