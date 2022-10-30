@@ -87,7 +87,7 @@ export const App: React.FC<{}> = () => {
       </div> */}
 
       <Route exact path="/">
-        <Redirect to="/about" />
+        <Redirect to="/home" />
       </Route>
 
       <Route path="/faq" render={() => <div>

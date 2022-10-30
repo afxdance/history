@@ -49,11 +49,15 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
         <Navbar.Brand href="#">
           <img
             src={require('src/afx2.png')}
-            width="30"
-            height="30"
+            width="100"
+            height="100"
             className="d-inline-block align-top"
             alt="AFX logo"
           />
+          <div>
+            <h2>AFX <br></br> Dance</h2>
+            <h5>est. 2011</h5>
+          </div>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"
@@ -62,6 +66,9 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto navbar-custom" style={{ justifyContent: "flex-end" }}>
 
+            <NavLink to="/" onClick={toggleFalse} className="navlink-custom">
+              <span className="nav-item-text nav-text">Home</span>
+            </NavLink>
             <NavLink to="/about" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">About</span>
             </NavLink>
@@ -71,33 +78,16 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
             <NavLink to="/events" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Events</span>
             </NavLink>
+            <NavLink to="/board" onClick={toggleFalse} className="navlink-custom">
+              <span className="nav-item-text nav-text">Board</span>
+            </NavLink>
+            <NavLink to="/teams" onClick={toggleFalse} className="navlink-custom">
+              <span className="nav-item-text nav-text">Teams</span>
+            </NavLink>
+            <NavLink to="/afxtech" onClick={toggleFalse} className="navlink-custom">
+              <span className="nav-item-text nav-text">AFX Tech</span>
+            </NavLink>
 
-            <NavDropdown
-              alignRight
-              title={<span className="nav-text">People</span>}
-              id="nav-dropdown"
-              className="navlink-custom"
-              onClick={toggleFalse}
-            >
-              <NavDropdown.Item id="dropdown-bar">
-                <NavLink className="nav-text" to="/board">Board</NavLink>
-              </NavDropdown.Item>
-              <NavDropdown.Item id="dropdown-bar" to="/teams">
-                <NavLink className="nav-text" to="/teams">Teams</NavLink>
-                {/* <span className="nav-text">Teams</span> */}
-              </NavDropdown.Item>
-              <NavDropdown.Item id="dropdown-bar">
-                <NavLink className="nav-text" to="/afxtech">AFX Tech</NavLink>
-              </NavDropdown.Item>
-            </NavDropdown>
-
-            {searchable &&
-              <Nav.Link className="navlink-custom">
-                <button className="search-button" onClick={toggleDisplay}>
-                  <span className="nav-text">Search</span>
-                </button>
-              </Nav.Link>
-            }
           </Nav>
         </Navbar.Collapse>
       </Navbar>
