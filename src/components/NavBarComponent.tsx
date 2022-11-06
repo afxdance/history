@@ -46,19 +46,22 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
         variant="dark"
         id="nav-bar"
       >
-        <Navbar.Brand href="#" className="navbar-brand-text">
-          <img
-            src={require('src/afx2.png')}
-            width="100"
-            height="100"
-            className="d-inline-block align-top"
-            alt="AFX logo"
-          />
-          <div>
-            <h2>AFX <br/> Dance</h2>
-            <h5>est. 2011</h5>
+        <div className='navbar-brand-test'>
+          <Navbar.Brand href="#">
+            <img
+              src={require('src/afx2.png')}
+              width="100"
+              height="100"
+              className="d-inline-block align-top"
+              alt="AFX logo"
+            />
+          </Navbar.Brand>
+          <div className='navbar-brand-text'>
+            <h2>AFX <br/> DANCE</h2>
+            <p>est. 2011</p>
           </div>
-        </Navbar.Brand>
+        </div>
+
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"
           onClick={toggleFalse}

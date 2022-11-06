@@ -44,9 +44,55 @@ html {
   border-bottom: 1px solid lightgrey;
 }
 
-.navbar-brand-text {
-  
+/* TEST NAVBAR - LEO */
+/* .navbar-brand-text {
+  align-items: center;
+} */
+
+.navbar-brand-test {
+  display: flex;
+  flex-direction: row;
+  align-items: center
 }
+
+.navbar-brand-text h2 {
+  color: white;
+  letter-spacing: 2px;
+  line-height: 95%;
+}
+
+.navbar-brand-text p {
+  color: white;
+  line-height: 80%;
+}
+
+/* .navlink-custom:focus {
+  outline: none;
+} */
+
+.navlink-custom.active {
+  /* text-decoration: underline; */
+  position: relative;
+  padding-bottom: 2px;
+  border-bottom: 1px solid white;
+  /* padding-left: 0;
+  padding-right: 0; */
+}
+
+/* .navlink-custom.active {
+    position: relative;
+    padding-bottom: 5px;
+} */
+
+/* .navlink-custom.active::after{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 80%;
+    height: 1px;
+    border-bottom: 1px solid #000;
+    content: ""
+} */
 
 .nav-item-text {
   /* dumb way to fix the problem to emulate the navbar scss from react bootstrap */
@@ -55,7 +101,6 @@ html {
   text-decoration: none;
 }
 
-
 .nav-item-text:hover {
   filter: drop-shadow(0px 0px 5px #FFFFFF);
 }
@@ -63,6 +108,8 @@ html {
 .nav-item-text:active {
   opacity: 0.7;
 }
+
+/* FLAG END - LEO */
 
 a.nav-dropdown.nav-link {
   color: black;
