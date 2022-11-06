@@ -46,7 +46,7 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
         variant="dark"
         id="nav-bar"
       >
-        <Navbar.Brand href="#">
+        <Navbar.Brand href="#" className="navbar-brand-text">
           <img
             src={require('src/afx2.png')}
             width="100"
@@ -55,7 +55,7 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
             alt="AFX logo"
           />
           <div>
-            <h2>AFX <br></br> Dance</h2>
+            <h2>AFX <br/> Dance</h2>
             <h5>est. 2011</h5>
           </div>
         </Navbar.Brand>

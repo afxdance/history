@@ -44,14 +44,17 @@ html {
   border-bottom: 1px solid lightgrey;
 }
 
+.navbar-brand-text {
+  
+}
+
 .nav-item-text {
   /* dumb way to fix the problem to emulate the navbar scss from react bootstrap */
   padding: 0.5rem;
+  color: white;
+  text-decoration: none;
 }
 
-.nav-text {
-  color: white;
-}
 
 .nav-item-text:hover {
   filter: drop-shadow(0px 0px 5px #FFFFFF);
@@ -59,21 +62,11 @@ html {
 
 .nav-item-text:active {
   opacity: 0.7;
-  /* text-decoration: underline; */
 }
 
-.nav-item-test:active {
-  filter: drop-shadow(0px 0px 5px #FFFFFF);
-  text-decoration: underline;
-}
-
-/* .nav-text:hover {
-  color: grey;
-} */
-
-/* a.nav-dropdown.nav-link {
+a.nav-dropdown.nav-link {
   color: black;
-} */
+}
 
 /* .search-button {
   left: 47.5%;
@@ -84,10 +77,10 @@ html {
   overflow: scroll;
 }
 
-/* a.nav-link:active {
+a.nav-link:active {
   color: grey !important;
   background-color: black !important;
-} */
+}
 
 /* TODO: get rid of dropdown arrow */
 .display-toggle::after {
