@@ -59,6 +59,7 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
             <h5 style = {{fontSize: 15, paddingLeft: 15}}>est. 2011</h5>
           </div>
         </Navbar.Brand>
+
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"
           onClick={toggleFalse}
@@ -68,24 +69,31 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
 
             <NavLink to="/" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Home</span>
+              <div className="navlink-underline"></div>
             </NavLink>
             <NavLink to="/about" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">About</span>
+              <div className="navlink-underline"></div>
             </NavLink>
             <NavLink to="/faq" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">FAQ</span>
+              <div className="navlink-underline"></div>
             </NavLink>
             <NavLink to="/events" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Events</span>
+              <div className="navlink-underline"></div>
             </NavLink>
             <NavLink to="/board" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Board</span>
+              <div className="navlink-underline"></div>
             </NavLink>
             <NavLink to="/teams" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Teams</span>
+              <div className="navlink-underline"></div>
             </NavLink>
             <NavLink to="/afxtech" onClick={toggleFalse} className="navlink-custom">
-              <span className="nav-item-text nav-text">Tech</span>
+              <span className="nav-item-text nav-text">AFX Tech</span>
+              <div className="navlink-underline"></div>
             </NavLink>
 
           </Nav>
