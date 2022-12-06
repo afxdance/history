@@ -9,7 +9,7 @@ import { Semester } from "src/data/types"
 import { useSem } from "src/hooks/use-sem"
 import { AboutComponent } from "./AboutComponent"
 import { AFXTechComponent } from "./AFXTechComponent"
-import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { LandingComponent2 } from "./LandingPage/LandingPageComponent"
 import { AuditionPageComponent } from "./LandingPage/AuditionPageComponent"
 import { Navigation } from "./NavBarComponent";
 import { TeamsComponent } from "./TeamsComponent";
@@ -92,7 +92,7 @@ export const App: React.FC<{}> = () => {
 
       <Route path="/home" render={() => <div>
         <Navigation searchable={false} />
-        <LandingComponent />
+        <LandingComponent2 />
       </div>} />
 
       <Route path="/faq" render={() => <div>

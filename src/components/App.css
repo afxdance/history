@@ -46,10 +46,11 @@ html {
 
 /* TEST NAVBAR - LEO */
 
-.navbar-brand-test {
+.navbar-brand-text {
   display: flex;
   flex-direction: row;
-  align-items: center
+  align-items: center;
+
 }
 
 .navbar-brand-text h2, h3, h4 {
@@ -252,10 +253,10 @@ strong {
   text-decoration: underline;
 }
 
-.active,
+/* .active,
 .dot:hover {
   background-color: #717171;
-}
+} */
 
 .fade {
   animation-name: fade;
