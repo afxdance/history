@@ -90,6 +90,11 @@ export const App: React.FC<{}> = () => {
         <Redirect to="/home" />
       </Route>
 
+      <Route path="/home" render={() => <div>
+        <Navigation searchable={false} />
+        <LandingComponent />
+      </div>} />
+
       <Route path="/faq" render={() => <div>
         <Navigation searchable={false} />
         <FAQPageComponent />

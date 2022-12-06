@@ -55,8 +55,8 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
             alt="AFX logo"
           />
           <div>
-            <h2>AFX <br/> Dance</h2>
-            <h5>est. 2011</h5>
+            <h2 style = {{fontSize: 30, paddingLeft: 15}}>AFX <br/> DANCE</h2>
+            <h5 style = {{fontSize: 15, paddingLeft: 15}}>est. 2011</h5>
           </div>
         </Navbar.Brand>
         <Navbar.Toggle
@@ -85,7 +85,7 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
               <span className="nav-item-text nav-text">Teams</span>
             </NavLink>
             <NavLink to="/afxtech" onClick={toggleFalse} className="navlink-custom">
-              <span className="nav-item-text nav-text">AFX Tech</span>
+              <span className="nav-item-text nav-text">Tech</span>
             </NavLink>
 
           </Nav>
