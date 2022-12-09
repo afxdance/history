@@ -40,7 +40,7 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
     <div id="big-nav">
       <Navbar
         collapseOnSelect
-        fixed="top"
+        fixed="false"
         className="navbar-custom"
         expand="lg"
         variant="dark"

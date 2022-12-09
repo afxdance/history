@@ -58,9 +58,13 @@ export const LandingComponent2: React.FC<{}> = ({ }) => {
   }
 
   return (
-    <video controls loop>
-      <source src="https://www.youtube.com/embed/videoseries?list=PLOZ8paoFrGJ3bfiM2Oa1yGNC04WccuF9b&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;mute=1&amp;autoplay=1&amp;loop=1&amp;Version=3&amp;start=5"></source>
-    </video>
+    <div className="video-container">
+      <div className="video">
+        <iframe
+        src="https://www.youtube.com/embed/videoseries?list=PLOZ8paoFrGJ3bfiM2Oa1yGNC04WccuF9b&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;mute=1&amp;autoplay=1&amp;loop=1&amp;Version=3&amp;start=5"
+        width="100%" height="100%" frameBorder="0" allowFullScreen={false}></iframe>
+      </div>
+    </div>
 
 
     // <Popup
