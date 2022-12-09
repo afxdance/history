@@ -67,7 +67,7 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto navbar-custom" style={{ justifyContent: "flex-end" }}>
 
-            <NavLink to="/" onClick={toggleFalse} className="navlink-custom">
+            <NavLink to="/home" onClick={toggleFalse} className="navlink-custom">
               <span className="nav-item-text nav-text">Home</span>
               <div className="navlink-underline"></div>
             </NavLink>
