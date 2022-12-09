@@ -504,6 +504,7 @@ strong {
   position: -webkit-sticky;
   /* z-index: -100; */
   margin-top: -1rem;
+  /* padding: 0; */
 }
 
 /* Hide video scrollbar */
@@ -518,7 +519,7 @@ strong {
 
 .video {
   position: absolute;
-  height: 90%;
+  height: 100%;
   width: 100%;
 }
 
@@ -540,6 +541,7 @@ strong {
   justify-content: center;
   align-items: center;
   max-height: 100vh;
+  pointer-events: none;
 }
 
 .HoverWrapper {

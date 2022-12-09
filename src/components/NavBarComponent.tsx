@@ -38,9 +38,10 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
 
   return (
     <div id="big-nav">
+    {/* CHANGE TO fixed="false' TO REMOVE NAVBAR TRANSPARENCY */}
       <Navbar
         collapseOnSelect
-        fixed="false"
+        fixed="top"
         className="navbar-custom"
         expand="lg"
         variant="dark"
