@@ -7,7 +7,7 @@ import { HistoryNav } from "./HistoryNavComponent";
 import { NavLink } from "react-router-dom";
 
 // TODO: get rid of callback when we get Alice's code
-export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) => {
+export const Navigation: React.FC<{ searchable: boolean, fixed: string }> = ({ searchable, fixed }) => {
   const [displayHistory, setDisplayHistory] = React.useState<boolean>(false);
 
   function toggleFalse() {
@@ -38,10 +38,10 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
 
   return (
     <div id="big-nav">
-    {/* CHANGE TO fixed="false' TO REMOVE NAVBAR TRANSPARENCY */}
+      {/* CHANGE TO fixed="false' TO REMOVE NAVBAR TRANSPARENCY */}
       <Navbar
         collapseOnSelect
-        fixed="top"
+        fixed={fixed}
         className="navbar-custom"
         expand="lg"
         variant="dark"
@@ -56,8 +56,8 @@ export const Navigation: React.FC<{ searchable: boolean }> = ({ searchable }) =>
             alt="AFX logo"
           />
           <div>
-            <h2 style = {{fontSize: 30, paddingLeft: 15}}>AFX <br/> DANCE</h2>
-            <h5 style = {{fontSize: 15, paddingLeft: 15}}>est. 2011</h5>
+            <h2 style={{ fontSize: 30, paddingLeft: 15 }}>AFX <br /> DANCE</h2>
+            <h5 style={{ fontSize: 15, paddingLeft: 15 }}>est. 2011</h5>
           </div>
         </Navbar.Brand>
 
