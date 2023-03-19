@@ -186,13 +186,14 @@ export const EventsComponent: React.FC = () => {
           <h1>Important Upcoming Events!</h1>
           <br />
         </div>
-        <h5>Auditions have been officially scheduled!</h5>
+        {/* <h5>Auditions have been officially scheduled!</h5> */}
         <div className="about--text">
           <span>
             {" "}
-            <strong>AFX Summer Showcase:</strong> Tuesday, August 23, 7-10 PM @ Spieker Hall (outside of Haas Pavilion){" "}
+            <strong>AFX Fall Showcase:</strong> Saturday, April 22, 7-10 PM @ Zellerbach {" "}
+            <p>(date/location is subject to change!)</p>
           </span>
-          <br />
+          {/* <br />
           <span>
             {" "}
             <strong>Committees Teach Night:</strong> Friday, September 2, 7-10 PM @ Eshleman Hall 240{" "}
@@ -207,7 +208,7 @@ export const EventsComponent: React.FC = () => {
             {" "}
             <strong>Audition Day 2:</strong> Thursday, September 8, 7-10 PM @ Haas Pavilion{" "}
           </span>
-          <br />
+          <br /> */}
         </div>
         <br />
 
