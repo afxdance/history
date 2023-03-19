@@ -36,6 +36,7 @@ jobs:
         with:
           ref: ${{github.event.pull_request.head.ref}}
           repository: ${{github.event.pull_request.head.repo.full_name}}
+          node-version: '16.x'
       - name: Remove node_modules
         run: rm -rf node_modules
       - name: Install Dependencies
