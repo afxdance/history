@@ -31,12 +31,15 @@ jobs:
           echo "pr.ref = ${{github.event.pull_request.head.ref}}"
           echo "github.ref = ${{ github.ref }}"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
       - name: Checkout Repo
         uses: actions/checkout@v2
         with:
           ref: ${{github.event.pull_request.head.ref}}
           repository: ${{github.event.pull_request.head.repo.full_name}}
-          node-version: '16.x'
       - name: Remove node_modules
         run: rm -rf node_modules
       - name: Install Dependencies
