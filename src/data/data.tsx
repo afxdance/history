@@ -49362,4 +49362,3 @@ export let TechPeople = {
     ]
   }
 }
-

@@ -6,7 +6,7 @@ export interface SemContext {
 }
 
 export const CurrentSemContext = React.createContext<SemContext>({
-  currentSemKey: "rec4GaaU2uP8FRfw3",
+  currentSemKey: "recazNIM3EYCM5nnL", // "rec4GaaU2uP8FRfw3" (2020a)
   setCurrentSemKey: () => undefined,
 })
 

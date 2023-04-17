@@ -24,6 +24,7 @@ const Events = () => <div><h1>Events</h1></div>
 
 export const App: React.FC<{}> = () => {
   const currentSemKey = useSem().currentSemKey
+  // console.log(currentSemKey) // TODO: semkey is undefined at this point
   const [display, toggleDisplayVisible] = React.useState(false)
   const [landingPageDisplay, toggleLandingPageDisplay] = React.useState(true)
 
@@ -39,7 +40,7 @@ export const App: React.FC<{}> = () => {
   let board: any = []
   let teams: any = []
 
-  const currSem: Semester = AFX.Semesters[currentSemKey || "rec4GaaU2uP8FRfw3"]
+  const currSem: Semester = AFX.Semesters[currentSemKey || "recazNIM3EYCM5nnL"]
 
   const currBoardKey: any = currSem.boardGroupId
 
