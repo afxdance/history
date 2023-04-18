@@ -421,12 +421,6 @@ export let People = {
     ],
     "#positionIds": 2
   },
-  "recsIrG39H7oCENrA": {
-    "createdTime": "2018-10-04T02:47:57.000Z",
-    "id": "recsIrG39H7oCENrA",
-    "name": "Clara Park",
-    "#positionIds": 0
-  },
   "recFHTImw5G3ebb3P": {
     "createdTime": "2018-10-18T00:29:31.000Z",
     "id": "recFHTImw5G3ebb3P",
@@ -1149,12 +1143,6 @@ export let People = {
       "recZz165njKINk3zI"
     ],
     "#positionIds": 3
-  },
-  "rec8Bd60VEzSli6cO": {
-    "createdTime": "2018-10-04T02:47:47.000Z",
-    "id": "rec8Bd60VEzSli6cO",
-    "name": "Richard Wu",
-    "#positionIds": 0
   },
   "recKBDLL5lmSDiNTY": {
     "createdTime": "2018-10-17T22:58:19.000Z",
@@ -4204,16 +4192,6 @@ export let People = {
     ],
     "#positionIds": 1
   },
-  "rec2kprcZjsPDj8Ln": {
-    "createdTime": "2023-03-06T03:23:15.000Z",
-    "id": "rec2kprcZjsPDj8Ln",
-    "#positionIds": 0
-  },
-  "rec11kQBxbilXsVSU": {
-    "createdTime": "2023-03-06T03:54:59.000Z",
-    "id": "rec11kQBxbilXsVSU",
-    "#positionIds": 0
-  },
   "recLAPNuSIFEyJXVM": {
     "createdTime": "2023-03-06T03:55:16.000Z",
     "id": "recLAPNuSIFEyJXVM",
@@ -4235,12 +4213,6 @@ export let People = {
     ],
     "#positionIds": 3
   },
-  "rec2iRwp7DQTRGDuS": {
-    "createdTime": "2023-03-06T03:59:50.000Z",
-    "id": "rec2iRwp7DQTRGDuS",
-    "name": "Grace",
-    "#positionIds": 0
-  },
   "rec9iKEDXbCXsITSt": {
     "createdTime": "2023-03-06T03:59:55.000Z",
     "id": "rec9iKEDXbCXsITSt",
@@ -4251,12 +4223,6 @@ export let People = {
       "recq1P6Pj36LXCfZN"
     ],
     "#positionIds": 3
-  },
-  "recNfoCmqnnDrO21Z": {
-    "createdTime": "2023-03-06T04:01:28.000Z",
-    "id": "recNfoCmqnnDrO21Z",
-    "name": "Eknoor Uranious",
-    "#positionIds": 0
   },
   "recTCUhjTkPjNbQZu": {
     "createdTime": "2023-03-06T04:03:19.000Z",
@@ -4732,7 +4698,7 @@ export let People = {
   "reclLS3MLzXGP2E2s": {
     "createdTime": "2023-04-18T00:54:39.000Z",
     "id": "reclLS3MLzXGP2E2s",
-    "name": "Megan Lu",
+    "name": "Megan Lui",
     "#positionIds": 1,
     "positionIds": [
       "recF4nsminLDNgTIE"
@@ -13575,7 +13541,8 @@ export let Groups = {
       "recJyGrgUe3Q3z2SF",
       "recTiLBOKZTSTxSba",
       "rec7BCUEEB9BaenuG",
-      "recXE4lkwgep0tUxx"
+      "recXE4lkwgep0tUxx",
+      "recjL8JdgXUBPBkDR"
     ],
     "type": "board",
     "boardSemesterId": [
@@ -13769,6 +13736,11 @@ export let Groups = {
     "createdTime": "2023-04-17T23:14:05.000Z",
     "id": "recHr6xLDcba9SAOm",
     "name": "afxoxo",
+    "positionIds": [
+      "rec9dyoJwf9zFTGb3",
+      "recvxHb53X8LJjxYU",
+      "recczEhP2V4OUsQOz"
+    ],
     "type": "team",
     "teamPicture": [
       {
@@ -13801,12 +13773,7 @@ export let Groups = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "level": "Training",
-    "positionIds": [
-      "rec9dyoJwf9zFTGb3",
-      "recvxHb53X8LJjxYU",
-      "recczEhP2V4OUsQOz"
-    ]
+    "level": "Training"
   },
   "rec7tmBX7UYLrkC7c": {
     "createdTime": "2023-04-17T23:14:15.000Z",
@@ -14048,6 +14015,11 @@ export let Groups = {
     "createdTime": "2023-04-17T23:15:32.000Z",
     "id": "reclZ1enMu2PrNJh1",
     "name": "slayFX",
+    "positionIds": [
+      "reczkRSCOytiDALoe",
+      "recKeT27FRJR4nZTj",
+      "recF4nsminLDNgTIE"
+    ],
     "type": "team",
     "teamPicture": [
       {
@@ -14080,12 +14052,7 @@ export let Groups = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "level": "Training",
-    "positionIds": [
-      "reczkRSCOytiDALoe",
-      "recKeT27FRJR4nZTj",
-      "recF4nsminLDNgTIE"
-    ]
+    "level": "Training"
   },
   "recDdKUJGivbiyyMy": {
     "createdTime": "2023-04-17T23:15:38.000Z",
@@ -14129,6 +14096,10 @@ export let Groups = {
     "createdTime": "2023-04-17T23:15:48.000Z",
     "id": "rec1wtyNcT5dQGxcC",
     "name": "AFX ØG",
+    "positionIds": [
+      "recWzA2bEBMFbUBt7",
+      "rec0XVIHBsDlmOp8P"
+    ],
     "type": "team",
     "teamPicture": [
       {
@@ -14161,21 +14132,18 @@ export let Groups = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "level": "Project",
-    "positionIds": [
-      "recWzA2bEBMFbUBt7",
-      "rec0XVIHBsDlmOp8P"
-    ]
+    "level": "Project"
   },
   "reczdSOZxJfYP1YFr": {
     "createdTime": "2023-04-17T23:16:01.000Z",
     "id": "reczdSOZxJfYP1YFr",
     "name": "awayFX",
-    "teamSemesterId": [
-      "recvAfBNQAjSSRZw0"
+    "positionIds": [
+      "recCJv03m71j07Z9C",
+      "recgUqkuudzmUUqFD",
+      "rec1g9ExWn0Z4o7c8"
     ],
     "type": "team",
-    "level": "Training",
     "teamPicture": [
       {
         "id": "attzHT4rZPjDFyIou",
@@ -14204,21 +14172,21 @@ export let Groups = {
         }
       }
     ],
-    "positionIds": [
-      "recCJv03m71j07Z9C",
-      "recgUqkuudzmUUqFD",
-      "rec1g9ExWn0Z4o7c8"
-    ]
+    "teamSemesterId": [
+      "recvAfBNQAjSSRZw0"
+    ],
+    "level": "Training"
   },
   "reck9A4CNdXPoAoce": {
     "createdTime": "2023-04-17T23:16:06.000Z",
     "id": "reck9A4CNdXPoAoce",
     "name": "AFX Party!",
-    "teamSemesterId": [
-      "recvAfBNQAjSSRZw0"
+    "positionIds": [
+      "recq1P6Pj36LXCfZN",
+      "recFJRT6X1XViNijH",
+      "recIk6Gj9BUcilNUz"
     ],
     "type": "team",
-    "level": "Training",
     "teamPicture": [
       {
         "id": "attn2YIi6xLN42tFK",
@@ -14247,21 +14215,20 @@ export let Groups = {
         }
       }
     ],
-    "positionIds": [
-      "recq1P6Pj36LXCfZN",
-      "recFJRT6X1XViNijH",
-      "recIk6Gj9BUcilNUz"
-    ]
+    "teamSemesterId": [
+      "recvAfBNQAjSSRZw0"
+    ],
+    "level": "Training"
   },
   "recldc0nUbqals14f": {
     "createdTime": "2023-04-17T23:16:13.000Z",
     "id": "recldc0nUbqals14f",
     "name": "AFX Yin & Yang",
-    "teamSemesterId": [
-      "recvAfBNQAjSSRZw0"
+    "positionIds": [
+      "recShl2ati959oJB1",
+      "recuxR75sqmh6AChH"
     ],
     "type": "team",
-    "level": "Training",
     "teamPicture": [
       {
         "id": "attV9j6YOkgKskpF9",
@@ -14290,20 +14257,20 @@ export let Groups = {
         }
       }
     ],
-    "positionIds": [
-      "recShl2ati959oJB1",
-      "recuxR75sqmh6AChH"
-    ]
+    "teamSemesterId": [
+      "recvAfBNQAjSSRZw0"
+    ],
+    "level": "Training"
   },
   "recn5hR7kPxL7EYsq": {
     "createdTime": "2023-04-17T23:16:17.000Z",
     "id": "recn5hR7kPxL7EYsq",
     "name": "AFX Link",
-    "teamSemesterId": [
-      "recvAfBNQAjSSRZw0"
+    "positionIds": [
+      "recnInFtVMIVabDz1",
+      "recOUzSORI1Vz0dX7"
     ],
     "type": "team",
-    "level": "Project",
     "teamPicture": [
       {
         "id": "attTysse9A0vnuL1E",
@@ -14332,20 +14299,20 @@ export let Groups = {
         }
       }
     ],
-    "positionIds": [
-      "recnInFtVMIVabDz1",
-      "recOUzSORI1Vz0dX7"
-    ]
+    "teamSemesterId": [
+      "recvAfBNQAjSSRZw0"
+    ],
+    "level": "Project"
   },
   "rec7uJoed7pZ2lvoM": {
     "createdTime": "2023-04-17T23:16:20.000Z",
     "id": "rec7uJoed7pZ2lvoM",
     "name": "AFX ___",
-    "teamSemesterId": [
-      "recvAfBNQAjSSRZw0"
+    "positionIds": [
+      "recCjaktQbeKjBmK2",
+      "recC3Am2fmvmAQR40"
     ],
     "type": "team",
-    "level": "Project",
     "teamPicture": [
       {
         "id": "attQ7URovxWZNLtae",
@@ -14374,10 +14341,10 @@ export let Groups = {
         }
       }
     ],
-    "positionIds": [
-      "recCjaktQbeKjBmK2",
-      "recC3Am2fmvmAQR40"
-    ]
+    "teamSemesterId": [
+      "recvAfBNQAjSSRZw0"
+    ],
+    "level": "Project"
   },
   "recYdcrTg3jQ5AgZI": {
     "createdTime": "2023-04-17T23:17:51.000Z",
@@ -14497,17 +14464,13 @@ export let Groups = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "level": "competition"
+    "level": "Competition"
   },
   "rec61aPJ5BxwyfBzz": {
     "createdTime": "2023-04-17T23:53:24.000Z",
     "id": "rec61aPJ5BxwyfBzz",
     "name": "AFX Dance Company",
-    "teamSemesterId": [
-      "recvAfBNQAjSSRZw0"
-    ],
     "type": "team",
-    "level": "Competition",
     "teamPicture": [
       {
         "id": "attHECMM2jMDYJ7W3",
@@ -14535,7 +14498,11 @@ export let Groups = {
           }
         }
       }
-    ]
+    ],
+    "teamSemesterId": [
+      "recvAfBNQAjSSRZw0"
+    ],
+    "level": "Competition"
   }
 }
 
@@ -51482,8 +51449,19 @@ export let PersonPositions = {
     "personIds": [
       "reczS52AvRsEyj7yr"
     ],
-    "isValid": "Missing fields!",
-    "(You can't directly edit this column)": "Grace Jiang,  PR Design"
+    "isValid": "OK",
+    "sortKey": "2022c, 2022b",
+    "(You can't directly edit this column)": "Grace Jiang, AFX Board Summer/Fall 2022 PR Design",
+    "groupIds": [
+      "recVk2cqXdNGyXwRi"
+    ],
+    "groupType": [
+      "board"
+    ],
+    "boardSemesterId": [
+      "rec5se8MkpXWoWY6E",
+      "recmJ2ux7fEHLfY3B"
+    ]
   },
   "recx3a289XA6SsRBP": {
     "createdTime": "2023-04-17T22:50:34.000Z",
@@ -52844,7 +52822,7 @@ export let PersonPositions = {
     "id": "recF4nsminLDNgTIE",
     "isValid": "OK",
     "sortKey": "2022c",
-    "(You can't directly edit this column)": "Megan Lu, slayFX Director",
+    "(You can't directly edit this column)": "Megan Lui, slayFX Director",
     "groupIds": [
       "reclZ1enMu2PrNJh1"
     ],
