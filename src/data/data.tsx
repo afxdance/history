@@ -4188,9 +4188,10 @@ export let People = {
       "recvmR2yXhDkrWx7H",
       "rec3avk6l5s3d2hUF",
       "recBVIwZx72MxktNZ",
-      "recWctyt7TXiH0kvE"
+      "recWctyt7TXiH0kvE",
+      "recDaxn1iT0ejqKDc"
     ],
-    "#positionIds": 4
+    "#positionIds": 5
   },
   "recFrfJCtRwxgK2qT": {
     "createdTime": "2020-12-10T22:50:34.000Z",
@@ -4200,9 +4201,10 @@ export let People = {
       "recf0bG6w3ZNy0FLJ",
       "rec8xDhvuiiNdpvpI",
       "reclIBClqhswG1qSV",
-      "recdobPtmiN4SnNas"
+      "recdobPtmiN4SnNas",
+      "rec1M6p5BGfxo646t"
     ],
-    "#positionIds": 4
+    "#positionIds": 5
   },
   "recwSgkddyfhWolSJ": {
     "createdTime": "2020-12-10T22:51:43.000Z",
@@ -4872,18 +4874,20 @@ export let People = {
     "name": "Ellie Kim",
     "positionIds": [
       "recUQ3wBcet5Az3ly",
-      "recCJot1z312t3kGd"
+      "recCJot1z312t3kGd",
+      "recX4J45K8l2CZoN6"
     ],
-    "#positionIds": 2
+    "#positionIds": 3
   },
   "rec7XZdAnQqCnQtzf": {
     "createdTime": "2023-04-19T19:58:09.000Z",
     "id": "rec7XZdAnQqCnQtzf",
     "name": "Caroline Zhu",
     "positionIds": [
-      "recgxzkfcBkbwLgX5"
+      "recgxzkfcBkbwLgX5",
+      "recyNC84GfIKZGSf2"
     ],
-    "#positionIds": 1
+    "#positionIds": 2
   },
   "recUWomNAlFmgdlBc": {
     "createdTime": "2023-04-19T20:00:11.000Z",
@@ -4899,9 +4903,10 @@ export let People = {
     "id": "recGPIeAmoRoXsQT3",
     "name": "Yaya Qu",
     "positionIds": [
-      "recZfQZQNiWfpt4Tl"
+      "recZfQZQNiWfpt4Tl",
+      "rec9b1TbYkqsDJVH3"
     ],
-    "#positionIds": 1
+    "#positionIds": 2
   },
   "recF9pfCCvWi4T0L2": {
     "createdTime": "2023-04-19T20:16:05.000Z",
@@ -4974,6 +4979,15 @@ export let People = {
       "recwH11qN1yIUtm82"
     ],
     "#positionIds": 1
+  },
+  "recnXX7VfTfIZxier": {
+    "createdTime": "2023-04-24T02:18:16.000Z",
+    "id": "recnXX7VfTfIZxier",
+    "name": "Samantha Wray",
+    "#positionIds": 1,
+    "positionIds": [
+      "recRPOCZwa4HUCRQa"
+    ]
   }
 }
 
@@ -13901,6 +13915,14 @@ export let Groups = {
     "createdTime": "2023-04-17T23:13:42.000Z",
     "id": "recpkfHQ30hlVyuUk",
     "name": "AFX Dance Company",
+    "positionIds": [
+      "rec1M6p5BGfxo646t",
+      "recX4J45K8l2CZoN6",
+      "recDaxn1iT0ejqKDc",
+      "recyNC84GfIKZGSf2",
+      "rec9b1TbYkqsDJVH3",
+      "recRPOCZwa4HUCRQa"
+    ],
     "type": "team",
     "teamPicture": [
       {
@@ -15101,6 +15123,10 @@ export let Groups = {
     "createdTime": "2023-04-17T23:53:24.000Z",
     "id": "rec61aPJ5BxwyfBzz",
     "name": "AFX Dance Company",
+    "positionIds": [
+      "recWctyt7TXiH0kvE",
+      "recrfr3CT9FDyULrP"
+    ],
     "type": "team",
     "teamPicture": [
       {
@@ -15133,11 +15159,7 @@ export let Groups = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "level": "Competition",
-    "positionIds": [
-      "recWctyt7TXiH0kvE",
-      "recrfr3CT9FDyULrP"
-    ]
+    "level": "Competition"
   }
 }
 
@@ -55781,6 +55803,294 @@ export let PersonPositions = {
       "rec7sw77LxquARB9D"
     ],
     "positionTitle": "Comp Artistics"
+  },
+  "rec1M6p5BGfxo646t": {
+    "createdTime": "2023-04-24T02:15:41.000Z",
+    "id": "rec1M6p5BGfxo646t",
+    "isValid": "OK",
+    "sortKey": "2023a",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics",
+    "groupIds": [
+      "recpkfHQ30hlVyuUk"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "teamSemesterId": [
+      "recazNIM3EYCM5nnL"
+    ],
+    "personIds": [
+      "recFrfJCtRwxgK2qT"
+    ],
+    "positionTitle": "Comp Artistics",
+    "picture": [
+      {
+        "id": "attNEfS50EizEJ6H6",
+        "width": 3288,
+        "height": 4384,
+        "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/LZSEvxFOSJuNnrfVXgl4nA/UdBB4HcgfqlrYkZhpu9EboEX4YXqdfYBjfLsQ5nd20nGRkmuICjF_zp2RZMVHSyd60_jo_WGAEvqUbls4v70Irf3Juh7z2g2SulfVzeEn6I/FInpJtGHKuMXv4fGC2eKr99YGAyIMPsssAet6qzyWXQ",
+        "filename": "IMG_4077.JPG",
+        "size": 12508941,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/PC57dGv4VAX-CImAZ0y8-A/gnHK-Hi_Uz4ay4jQxsKgsnC40Gk6iaDFizPBx9_ki0ninsT6fNEiSafOWdP7EU6gQTLR-sc3HTvbhXZWA9ZPHg/PEbErSzt1ASilkpvhj_OkAF6ig5L_0RRzroX51Tw8t4",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/gWEIrZg1-0nWbBLmJUeO8A/aLBYGPDmYLmarQESrN-2Aqjk1aQN5GrQ_w2xl1dZH7sNO4fAQk2B84hbtdbxnFVVhWRy_rSqNTKJDVmulK0Dsw/8EMb7JmHRjB3_S0TLWR9Qc7coKUkL0Mvwl3oPfo0hBo",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/po8VhATk0B9mFP_x3mThyA/eW5WtyTGohw2SChK86eEaLmFFIu0i1MbpI0JjjunRoLXf9zzz5PVYpTQA_GyqBMyzzn_bShPvSYo6LK-pjrYbQ/zY-uSBSf8DVQ0f8VCJl0kvLiSUj2qm7LHPkBgu-aKgM",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recX4J45K8l2CZoN6": {
+    "createdTime": "2023-04-24T02:16:14.000Z",
+    "id": "recX4J45K8l2CZoN6",
+    "isValid": "OK",
+    "sortKey": "2023a",
+    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Company Comp Artistics",
+    "groupIds": [
+      "recpkfHQ30hlVyuUk"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "teamSemesterId": [
+      "recazNIM3EYCM5nnL"
+    ],
+    "personIds": [
+      "recXhREFXr3YnuvaK"
+    ],
+    "positionTitle": "Comp Artistics",
+    "picture": [
+      {
+        "id": "attw234SU8gByOsNy",
+        "width": 2351,
+        "height": 1764,
+        "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/10LniSCjVbmHX7uCzDQ_kw/O4oNNLX6jIyXRkAHNYLOmsDbrPSB9xxP5FoxSM6jNUfqQGKEGYkxum5ciAoVriW7_xuNUd-HJJ-Y723UL968zaE7vOW1xfz0mhM8IOVa7qA/nOLK54CPIj_kxQUlKKqpNMLY3wLTYtXnRvS2ZJ4Xsq8",
+        "filename": "P1011709.jpg",
+        "size": 2762592,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/ncjp5b3X54hVZEEnGjkADw/VCehDHHf3Dgl1d2028JvL5UiHFTH9HopkMB8ZI8EorgnUDidlm6SFwaBCgYChjFstXREV3eiQpR24Zo4Tn-quQ/2CrGEdArHzBJDjX9j9prxDd8cW8smjynJrJV36zqkW8",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/3V32JAWJQ7QusS3j94J5iA/ovG9gZ_nELJa-6ZKv-YL-0WOHV3yf7Z55VJUH53_5WzHgz63yuMrPt21UxaPtsLPFu3Y_1WaD0oB6PTiBY9gWA/CNPBEvNmvHXPZPHqgwdXpWh5b3CnGnFKZFdR4x3Oyk4",
+            "width": 682,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/5BOIH3HYFOkKrzQvNBJ6iA/fOvlFjVzK4sbTngLV6EMArzowPDR-EcdEkxcIiryNUlD38KS0tra5GzspBBG5RORG0lLo5JYnhQB9iVSJhSkDQ/3s6w-FFEW-_CEZxHMp95aGR2NeIYHOfjvZtsUixu8Rw",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recDaxn1iT0ejqKDc": {
+    "createdTime": "2023-04-24T02:16:37.000Z",
+    "id": "recDaxn1iT0ejqKDc",
+    "isValid": "OK",
+    "sortKey": "2023a",
+    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Captain",
+    "groupIds": [
+      "recpkfHQ30hlVyuUk"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "teamSemesterId": [
+      "recazNIM3EYCM5nnL"
+    ],
+    "personIds": [
+      "rec1Ktl1881rurzrS"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "att62pECfjmzpcNgq",
+        "width": 3456,
+        "height": 4608,
+        "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/nc37bcYRxyKohGibtKNb_A/_6FoNXBpSD7FQ6ByJQ1afOBSkVU9nGdW7yttvkUJwjCNyZDDCAnxXaaR1XjGQFeY-ZauPlx8-a9C117dndZNKrcaWiGQYm5RkXelovb22Lo/k1qW0Go4VIDmvZuUTVGFA1k3Mfn_4gdsLyAUCv5b4Fo",
+        "filename": "IMG_5474.JPG",
+        "size": 13371367,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/UFePDIr4fV1W31GhBLSr0w/2hqsp6nJKAmGCJRLoVUeWjJV_vx-yBjVZ5T9nMbo8IUgiyk9riA5i1ZYjd-ulfbFHIvYDE3FEaCAEujltkAeSg/CkFt4cOsIX0blwdGIZPGR9KUG3GdQWnpk14Xq02LitI",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/PTIM6K9A5XgemNgqVEintA/1nxe5JzAGMOT2jmb76LBdrBVoGo6Zs7I-ga6_2abdqdli6dY3swypBQrqte7Yl9zD1jo-M2yW3Kxnzw-xLocRA/yLl9PtLNYo-zCEqyzNVrzYTkV081aZiCqqMq44eJIWc",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/oV1GOgwfKzA1BQ2WPASKUQ/LLHzUDTO5PR6Tgawd0Ub95PRlS3B9Qofjlq_Rn_nKrOZpPMjJlt0helgesI-elRo8J8ZYBKCoEqlJxK7PVXbOA/dj72pI1GKDz3RZfO2ff6pJv5g7oHXcd0EPBZr0R-gbY",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recyNC84GfIKZGSf2": {
+    "createdTime": "2023-04-24T02:17:17.000Z",
+    "id": "recyNC84GfIKZGSf2",
+    "isValid": "OK",
+    "sortKey": "2023a",
+    "(You can't directly edit this column)": "Caroline Zhu, AFX Dance Company Comp Captain",
+    "groupIds": [
+      "recpkfHQ30hlVyuUk"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "teamSemesterId": [
+      "recazNIM3EYCM5nnL"
+    ],
+    "personIds": [
+      "rec7XZdAnQqCnQtzf"
+    ],
+    "positionTitle": "Comp Captain",
+    "picture": [
+      {
+        "id": "attN3rItFd1QwUyi9",
+        "width": 1728,
+        "height": 2304,
+        "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/611BGF7Cq_3R6RvgbPr87w/gc-0Bulk-4MlqeS_0ps8c0o7h27QdtEIS3qmYepAxKIIE30Vr5e-oug6mwu93-TtiGq_CRJzG3KjJh4GgqhrS-G_1bxloZNV1h4h2_8MADc/hIXstRZzi8fOU6HSqswefC29vP9llIrAs0aK2ztUqw8",
+        "filename": "P1011886.jpg",
+        "size": 1749908,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/fdJBJdjUdARA68F_BCg9xA/rODpUPQlNZoLbMFPsM61-KffiWgZjRjlYnOUbA7njZEq5xI8KR-X65QI_jFiaqt1sMsjYIQOdToKnYE3O9VbMg/QFeH1-H8_5qBblk0M1VKIXXsni2VG6Wvt84XqUY2aGs",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/VyLWcInEZJvIZPpUwwSTYA/gCaO7lyCMB8Howxq2H0aDrgJ1zfr-LUTSp1L6QM5DFQX21sk2whDpMssV_-8pf2fGRviRscNHfWGYR3B5BDLuA/ho65voR0B4xkZQsGQNjX9CfiUoyf-Hoe6Vz31wd5IPE",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/MVpjLD5YzEuT20ze4nESsQ/Twsoe8SwToGIZ2Bj0_at3-P5wS32Xe_lkifF70sJhU2d2DEA33HTbQ0gVXLue02aEpsbikOtrHhpgyizZNVyIg/OdMZ87t7BB3Vny9GtSmK3cQZBG0dhawksuPfG0ZnmBw",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "rec9b1TbYkqsDJVH3": {
+    "createdTime": "2023-04-24T02:17:41.000Z",
+    "id": "rec9b1TbYkqsDJVH3",
+    "isValid": "OK",
+    "sortKey": "2023a",
+    "(You can't directly edit this column)": "Yaya Qu, AFX Dance Company Comp Communications",
+    "groupIds": [
+      "recpkfHQ30hlVyuUk"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "teamSemesterId": [
+      "recazNIM3EYCM5nnL"
+    ],
+    "personIds": [
+      "recGPIeAmoRoXsQT3"
+    ],
+    "positionTitle": "Comp Communications",
+    "picture": [
+      {
+        "id": "attcgqX3PxMwMRFX5",
+        "width": 4608,
+        "height": 3456,
+        "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/6IhxnADL7NGH0ppr4NZHLQ/2jYstQ_0ZBuEofIUYrznesa40zIQBUZUp5jU1dmHVJLO6gWQ7HkYsO3Bs9LjjLwdjrqsQX1BBgT36Puy5-i6VGR5EowK-oGS6TlKa3dO-94/HzFiiiT2exNsE6c0y3l5lTc0GZwLpKt2FTLXMQZJC70",
+        "filename": "P1011684.jpeg",
+        "size": 13621589,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/PsZ5SrUhPBdYnpQrJRFuxw/-yfZGLi19TBWSPJStqeiAksgv6pGev4NpGbp-LgM9E7tysa62V8I_A8FTI8PfAb1RpPoxi-j5by_bSh-qayeRg/eT_GtpAPyZoB6eyfyQ6TsGolX8fD6qb8FHd1fH97WNA",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/Z4-nL-U8NZNJYr4djHWgiw/EVml-YGmbw8-MyxjtESZ8UJ6s9pVeXjmYAVsJAfswVLZdGRQbzKeWU5VAn52BrgpamdKJk7sp7MkowKbwEKMCg/rNBRbLjuA31TMZIWmpkl4nu4JX0mkol9rP8xkMkjl_Q",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/_-aTXrVWAMrmUk0MsYf3Gg/HjG-NHfoa2i83IngRl35CM76iZd4MeUSIvSMqIBqFkrz5-4Zw8j54P6289eE_8HOoRzab-AUFftOe7oqxESKbQ/T2GQwCPmSmzfxZ7_6Mc_sC7PcJKbkq_9gqPMELmtDzI",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "recRPOCZwa4HUCRQa": {
+    "createdTime": "2023-04-24T02:18:09.000Z",
+    "id": "recRPOCZwa4HUCRQa",
+    "isValid": "OK",
+    "sortKey": "2023a",
+    "(You can't directly edit this column)": "Samantha Wray, AFX Dance Company Comp Finance",
+    "groupIds": [
+      "recpkfHQ30hlVyuUk"
+    ],
+    "groupType": [
+      "team"
+    ],
+    "teamSemesterId": [
+      "recazNIM3EYCM5nnL"
+    ],
+    "personIds": [
+      "recnXX7VfTfIZxier"
+    ],
+    "positionTitle": "Comp Finance",
+    "picture": [
+      {
+        "id": "att5crAvH3xoYIeMH",
+        "width": 1639,
+        "height": 2048,
+        "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/Su1M6c-9MI_H4BU5L7SYAQ/I2kKXe-oYSDvkkG7emgN02x3Lzjxs2CH4PHNmuT5Dqsxj4dsIYiELzlZ3J1r8ehlMuPHUKDmfhpAEYN8F6bEfsgUNdnV8KCm2fIpdkCs_5u8UFdd9YXDc4o3LN4ubFwLNJe4si96bYPKRlcWJ2E5gQ/pz95lIM2GULpp3-45rCn8gyHxJoAhWfXSkwTJMsYaNA",
+        "filename": "316094638_887178935649902_1568831344190983558_n.jpg",
+        "size": 454482,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/iXMSU7aEu75E_thS_bKM2A/Xs7a5Hq31z0vfKolssT2tMCLTexltppNDGyyVBiMyaebclRy7lUNTDfN8qIrDIOk6mXWRGYro7u59zNBwCzHHw/IwFdr23h_W2aVcCC6Ot_VrmVDsnYnyIQJ9ojULgyIGE",
+            "width": 29,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/2JfCGyHQu81FIHf8vZJoxQ/GSp78JBIeZIY1gRha1MDFiufdskvfUhde3wFujLhWLIyHraLPKGiwjiMSgnRnJiLGyOoYFtHzGJ82FAP3UaXtA/XgnD7I4eUMhTY3HY6l8wlkAYehyh_y5QgIYf54XWb6g",
+            "width": 512,
+            "height": 640
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/16/16/1682316000000/qpYSn6xPI5uDSaK8IevHUA/vqbd-nmmVi5_QzoGDJ4_blHZOFFjyepGEEXbbXTcgGlmM4oVXDwzW3sAIsXbVIrRtWgD5RRHdqYlI3O458NxXQ/FIrY2nly6laKsL1sXy4S4uSnbWZ0E-2m_YpQRxV299c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
   }
 }
 
