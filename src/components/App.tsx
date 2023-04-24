@@ -1,31 +1,35 @@
-import * as React from "react";
-import * as AFX from "src/data/data";
-import "./App.css";
-import { AboutComponent } from "./AboutComponent";
-import { EventsComponent } from 'src/components/EventsComponent';
-import { GroupsComponent } from "src/components/GroupsComponent";
-import { Navigation } from "./NavBarComponent";
-import { useSem } from 'src/hooks/use-sem';
-import { Semester } from "src/data/types";
-import { TeamsComponent } from "./TeamsComponent";
+import * as React from "react"
+import * as AFX from "src/data/data"
+import "./App.css"
+import { Component } from "react"
+import { HashRouter, Link, Redirect, Route } from "react-router-dom"
+import { EventsComponent } from "src/components/EventsComponent"
+import { GroupsComponent } from "src/components/GroupsComponent"
+import { Semester } from "src/data/types"
+import { useSem } from "src/hooks/use-sem"
+import { AboutComponent } from "./AboutComponent"
+import { AFXTechComponent } from "./AFXTechComponent"
 import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { AuditionPageComponent } from "./LandingPage/AuditionPageComponent"
+import { Navigation } from "./NavBarComponent";
+import { TeamsComponent } from "./TeamsComponent";
+import { FAQPageComponent } from "src/components/FAQPageComponent";
 
-import { AFXTechComponent } from "./AFXTechComponent";
-
-import { Component } from 'react';
-import { HashRouter, Route, Link, Redirect } from "react-router-dom";
 
 const Home = () => <div><h1>Home</h1></div>
 const About = () => <div><h1>Joe mama</h1></div>
+const FAQ = () => <div><h1>FAQ</h1></div>
 const Events = () => <div><h1>Events</h1></div>
 
+
 export const App: React.FC<{}> = () => {
-  const currentSemKey = useSem().currentSemKey;
+  const currentSemKey = useSem().currentSemKey
+  // console.log(currentSemKey) // TODO: semkey is undefined at this point
   const [display, toggleDisplayVisible] = React.useState(false)
   const [landingPageDisplay, toggleLandingPageDisplay] = React.useState(true)
 
   const checkHistory = React.useCallback(() => {
-    const history = document.getElementById("bottom")?.getBoundingClientRect();
+    const history = document.getElementById("bottom")?.getBoundingClientRect()
     const historyTop = history ? history.top : 0
 
     if (historyTop <= 0 && display == false) {
@@ -33,34 +37,33 @@ export const App: React.FC<{}> = () => {
     }
   }, [window])
 
-  let board: any = [];
-  let teams: any = [];
+  let board: any = []
+  let teams: any = []
 
-  const currSem: Semester = AFX.Semesters[currentSemKey || "rec4GaaU2uP8FRfw3"];
+  const currSem: Semester = AFX.Semesters[currentSemKey || "recazNIM3EYCM5nnL"]
 
-  const currBoardKey: any = currSem.boardGroupId;
+  const currBoardKey: any = currSem.boardGroupId
 
   if (currBoardKey) {
-    board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />);
+    board.push(<GroupsComponent group={AFX.Groups[currBoardKey[0]]} />)
   }
   if (currSem.teamGroupIds) {
-    teams.push(<TeamsComponent teamIds={currSem.teamGroupIds} />);
+    teams.push(<TeamsComponent teamIds={currSem.teamGroupIds} />)
   }
 
   const boardRenderTarget = document.getElementById("board")
   const teamRenderTarget = document.getElementById("team")
 
   React.useEffect(() => {
-    window.addEventListener("scroll", checkHistory);
+    window.addEventListener("scroll", checkHistory)
 
-    return (() => {
+    return () => {
       window.removeEventListener("scroll", checkHistory)
-    })
+    }
   }, [])
 
   return (
-    <HashRouter basename='/'>
-
+    <HashRouter basename="/">
       {/* <div className={display ? "show-Search" : "no-Search"}>
         <Navigation searchable={false} />
       </div> */}
@@ -84,13 +87,18 @@ export const App: React.FC<{}> = () => {
         </div>
       </div> */}
 
-      <Route exact path="/" >
+      <Route exact path="/">
         <Redirect to="/about" />
       </Route>
 
+      <Route path="/faq" render={() => <div>
+        <Navigation searchable={false} />
+        <FAQPageComponent />
+      </div>} />
+
       <Route path="/about" render={() => <div>
         <Navigation searchable={false} />
-        {/* <LandingComponent/> { /*  Comment out landing component off-recruiting season! */}
+        {/* <AuditionPageComponent /> */}
         <AboutComponent />
       </div>} />
 
@@ -120,4 +128,5 @@ export const App: React.FC<{}> = () => {
 
     </HashRouter >
   );
+
 }

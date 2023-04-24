@@ -1,7 +1,8 @@
-import { ProjectAFXTechComponent } from "./ProjectAFXTechComponent"
-import { CSSProperties } from "react"
 import * as React from "react"
+import { CSSProperties } from "react"
 import { TechProjects } from "src/data/data"
+import { ProjectAFXTechComponent } from "./ProjectAFXTechComponent"
+
 
 export const AFXTechComponent: React.FC<{}> = () => {
 
@@ -11,10 +12,10 @@ export const AFXTechComponent: React.FC<{}> = () => {
     techSections.push(<ProjectAFXTechComponent techProject={TechProjects[project]} />)
   }
 
-  // this is just code from landingpagecomponent so it's easier to edit
+  // This is just code from LandingPageComponent so it's easier to edit
   return (
     <div>
-      <h1 style={{ margin: "25px", textAlign: 'center' }}>AFX TECH :)</h1>
+      <h1 style={{ margin: "25px", textAlign: 'center' }}>AFX TECH</h1>
       {/* This is about AFX Tech and the Team Leads */}
       <div>{techSections[0]}</div>
       <h2 className="afxtech-header">AFX Tech Projects</h2>

@@ -18,3 +18,4 @@ Main.yaml workflow executes follow commands:
 2. `npm install`
 3. `npm run build`
 
+NOTE: wait ~90 seconds after pushing for Github Actions to redeploy completely.

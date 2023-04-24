@@ -6,15 +6,28 @@ name: AFX Website Deploy
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches: [master, airtable-api]
   pull_request:
-    branches: [ master ]
-
+    branches: [master]
+  schedule:
+    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'
+    - cron: '0 4 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 18 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 22 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 env:
   REACT_APP_API_STRIPE_KEY: ${{secrets.REACT_APP_API_STRIPE_KEY}}
   REACT_APP_GCAL_KEY: ${{secrets.REACT_APP_GCAL_KEY}}
+  AIRTABLE_API_KEY: ${{secrets.REACT_APP_AIRTABLE_KEY}}
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -30,6 +43,10 @@ jobs:
           echo "pr.ref = ${{github.event.pull_request.head.ref}}"
           echo "github.ref = ${{ github.ref }}"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
       - name: Checkout Repo
         uses: actions/checkout@v2
         with:
@@ -39,6 +56,10 @@ jobs:
         run: rm -rf node_modules
       - name: Install Dependencies
         run: npm install
+      - name: Retrieve Data from Airtable
+        run: |
+          # update data.tsx with Airtable call
+          env AIRTABLE_API_KEY=${{ env.AIRTABLE_API_KEY }} node src/data/fetch-data.js > src/data/data.tsx
       - name: Build
         run: npm run build
         env:
@@ -50,9 +71,10 @@ jobs:
           git config user.email "<>"
       - name: Add docs
         run: |
-          # add and push docs
+          # add and push docs and data.tsx
           git add docs
-          git commit -m "redeployment"
+          git add src/data/data.tsx
+          git commit -m "redeployment / update data.tsx from Airtable"
           git push
       - name: On failure
         if: ${{ failure() }}
