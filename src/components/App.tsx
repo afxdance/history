@@ -40,7 +40,7 @@ export const App: React.FC<{}> = () => {
   let board: any = []
   let teams: any = []
 
-  const currSem: Semester = AFX.Semesters[currentSemKey || "recazNIM3EYCM5nnL"]
+  const currSem: Semester = AFX.Semesters[currentSemKey || "recazNIM3EYCM5nnL"] // TODO: currentSemKey doesn't work 
 
   const currBoardKey: any = currSem.boardGroupId
 

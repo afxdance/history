@@ -26,6 +26,8 @@ export const SemLinkComponent: React.FC<SemLinkComponent> = ({ semKey }) => {
   );
 
   const semester: Semester = AFX.Semesters[semKey];
+  // console.log(semester);
+  // console.log(semester.sort());
   // Semester codename is year with a letter(Example 2018a)
   const suffix: string = semester.codename.slice(-1);
   let semName: string = "";

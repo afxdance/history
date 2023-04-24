@@ -71,6 +71,9 @@ export class YearCollapsibleComponent extends React.Component<
 
     // We iterate through all of the semesters and make the components for them.
     // We then add them to the list semLinks in order to be displayed.
+    console.log('hi');
+    console.log(curYear);
+    console.log(curYear.semCodename);
     for (let semKey of curYear.semCodename) {
       semLinks.push(
         // this component has an onClick prop in order to send it to all of the sem link components
