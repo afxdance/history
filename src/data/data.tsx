@@ -56765,6 +56765,9 @@ export let Semesters = {
     "teamGroupIds": [
       "recFNbip68biKEjk2",
       "recVnlD0jWN6I1dOA"
+    ],
+    "Year": [
+      "recUFO4aFC1Yin0s6"
     ]
   },
   "recazNIM3EYCM5nnL": {
@@ -57428,7 +57431,8 @@ export let Years = {
     "id": "recUFO4aFC1Yin0s6",
     "Name": "2023",
     "semCodename": [
-      "recazNIM3EYCM5nnL"
+      "recazNIM3EYCM5nnL",
+      "recclu7y1ZObJCBHs"
     ]
   },
   "rec4GgvXbtSvuQiW9": {
