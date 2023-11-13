@@ -73,7 +73,7 @@ export const EventsComponent: React.FC = () => {
       })
   }, [])
 
-  // Monday
+// Monday
   const cypherM: singleTeam = {
     name: "AFX Cypher",
     start: "8:00 PM",
@@ -117,7 +117,7 @@ export const EventsComponent: React.FC = () => {
     start: "6:30 PM",
     end: "9:00 PM",
     loc: "Lower Sproul",
-    color: "#DEF1FF"
+    color: "#DDFDFE"
   }
   const fmT: singleTeam = {
     name: "AFX FM",
@@ -154,7 +154,7 @@ export const EventsComponent: React.FC = () => {
     start: "5:00 PM",
     end: "7:30 PM",
     loc: "Lower Sproul",
-    color: "#DEF1FF"
+    color: "#DDFDFE"
   }
   const fmS: singleTeam = {
     name: "AFX FM",
