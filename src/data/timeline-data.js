@@ -308,12 +308,12 @@ export let TimelineData = [
     awards: '',
   },
   {
-    date: '12/05/2022',
+    date: '12/03/2022',
     photo: '',
     title: 'Fall 2022',
     content: '',
-    showcase_url: 'https://www.youtube.com/embed/JqD4zoKu274?si=Qhdb4Btl0pN3f18a',
-    workshop_url: 'https://www.youtube.com/embed/8qYNpDI-W38?si=nMyC6PmtpIcyyBcG',
+    showcase_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU8HLCU_KEgVxnicdCtpoxJz',
+    workshop_url: '',
     awards: '',
   },
   {
@@ -321,8 +321,8 @@ export let TimelineData = [
     photo: '',
     title: 'Spring 2023',
     content: '',
-    showcase_url: 'https://www.youtube.com/embed/EcdaoKD2D8A?si=2h0WJMh-sQn9Dr6U',
-    workshop_url: 'https://www.youtube.com/embed/IS9FDbj4Wx8?si=MPTLktqEhZYvyhnE',
-    awards: 'Best Theme',
+    showcase_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU_6xBHjutJNNLbSQmuE-tTS',
+    workshop_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU9ga2Ko7LV5SF-KyVL34xis',
+    awards: '',
   }
 ];
