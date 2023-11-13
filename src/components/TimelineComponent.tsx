@@ -43,6 +43,8 @@ const VALUES = [
   '2021-08-25',
   '2021-12-06',
   '2022-04-30',
+  '2022-12-03',
+  '2023-04-22'
 ];
 
 const views = TimelineData.map((entry, index) => {
