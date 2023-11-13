@@ -306,5 +306,23 @@ export let TimelineData = [
     showcase_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU-ybd-4QzMpYyhn82j9wFwD',
     workshop_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU8AmBy0kOwLnmMgv14leco1',
     awards: '',
+  },
+  {
+    date: '12/03/2022',
+    photo: '',
+    title: 'Fall 2022',
+    content: '',
+    showcase_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU8HLCU_KEgVxnicdCtpoxJz',
+    workshop_url: '',
+    awards: '',
+  },
+  {
+    date: '04/22/2023',
+    photo: '',
+    title: 'Spring 2023',
+    content: '',
+    showcase_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU_6xBHjutJNNLbSQmuE-tTS',
+    workshop_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU9ga2Ko7LV5SF-KyVL34xis',
+    awards: '',
   }
 ];

@@ -111,6 +111,10 @@ export const AboutComponent: React.FC = () => {
           <br />
           <i>AFX Dance Company:</i>
           <br />
+          World of Dance Spring 2023: Best Theme, 5th Place
+          <br />
+          World of Dance Spring 2022: Best Theme, 5th Place
+          <br />
           Collab NorCal 2019: 2nd Place
           <br />
           Montage 2015: 2nd Place
