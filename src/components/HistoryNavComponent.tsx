@@ -28,10 +28,23 @@ export const HistoryNav: React.FC = () => {
     }
     setSems(semButtons);
   }
+  // console.log("hi1");
 
   let yearLinks: object[] = [];
   // yearLinks.push(<option>Select a year</option>);
-  for (let year of Object.keys(AFX.Years)) {
+  const keys = Object.keys(AFX.Years);
+  // console.log(keys);
+  keys.sort((key1, key2) => {
+    if (AFX.Years[key1].Name > AFX.Years[key2].Name) {
+      return -1;
+    } else if (AFX.Years[key1].Name < AFX.Years[key2].Name) {
+      return 1;
+    }
+    return 0;
+  });
+  // console.log(keys);
+
+  for (let year of keys) {
     let curYear: Year = AFX.Years[year];
     let name: string = curYear.Name;
     yearLinks.push(<option value={year}>{name}</option>);

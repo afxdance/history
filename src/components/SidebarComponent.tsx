@@ -37,6 +37,8 @@ export class Sidebar extends React.Component<
   public render() {
     // We first iterate through all the years and push the components into the list.
     let yearLinks: any = []
+    console.log("no");
+    console.log(Object.keys(AFX.Years));
     for (let year of Object.keys(AFX.Years)) {
       yearLinks.push(
         // We have the onclick function passed through the Sidebar component to be sent to the year component.

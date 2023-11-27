@@ -43,8 +43,8 @@ const POSITION_TITLE_ORDER = [
  */
 const personPositionSortKey = (personPosition: PersonPosition) => {
   let titleKey: string | number;
-
-  titleKey = POSITION_TITLE_ORDER.indexOf(personPosition.positionTitle.trim());
+  // console.log(personPosition);
+  titleKey = POSITION_TITLE_ORDER.indexOf(personPosition.positionTitle); //.trim());
 
   // If the position isn't found in the array above, just use the position title.
   // These positions will appear after all of the ones that are found above.
