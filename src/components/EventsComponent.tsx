@@ -74,95 +74,96 @@ export const EventsComponent: React.FC = () => {
   }, [])
 
   // Monday
-  const monday = []
+  const cypherM: singleTeam = {
+    name: "AFX Cypher",
+    start: "8:00 PM",
+    end: "10:30 PM",
+    loc: "Haas Pavilion",
+    color: "#D9DCF3"
+  }
+  const monday = [cypherM]
 
   // Tuesday
-  const awayT: singleTeam = {
-    name: "awayFX",
-    start: "7:00 PM",
-    end: "9:00 PM",
-    loc: "Underhill/Lower Sproul",
-    color: "#ffcccc"
-  }
-  const tuesday: singleTeam[] = [awayT]
-
-  // Wednesday
-  const linkW: singleTeam = {
-    name: "AFX Link",
-    start: "6:30 PM",
-    end: "9:30 PM",
-    loc: "Haas Pavillion",
-    color: "#FEFFCC"
-  }
-  const partyW: singleTeam = {
-    name: "AFX Party!",
-    start: "6:30 PM",
-    end: "9:00 PM",
-    loc: "Lower Sproul",
-    color: "#CCF3FF"
-  }
-  const wednesday: singleTeam[] = [linkW, partyW]
-
-  // Thursday
-  const yinyangT: singleTeam = {
-    name: "AFX Yin Yang",
-    start: "7:00 PM",
-    end: "10:00 PM",
-    loc: "Lower Sproul",
-    color: "#CCD4FF"
-  }
-  const thursday: singleTeam[] = [yinyangT]
-
-  // Friday
-  const partyF: singleTeam = {
-    name: "AFX Party!",
-    start: "6:30 PM",
-    end: "9:00 PM",
-    loc: "Lower Sproul",
-    color: "#CCF3FF"
-  }
-  const underscoreF: singleTeam = {
-    name: "AFX ___",
-    start: "7:00 PM",
-    end: "10:00 PM",
-    loc: "Haas Pavillion",
-    color: "#CCFFDA"
-  }
-  const friday: singleTeam[] = [partyF, underscoreF]
-
-  // Saturday
-  const awayS: singleTeam = {
-    name: "awayFX",
-    start: "3:30 PM",
-    end: "6:00 PM",
-    loc: "Haas Pavillion",
-    color: "#ffcccc"
-  }
-  const linkS: singleTeam = {
-    name: "AFX Link",
-    start: "6:30 PM",
-    end: "9:30 PM",
-    loc: "Haas Pavillion",
-    color: "#FEFFCC"
-  }
-  const saturday: singleTeam[] = [awayS, linkS]
-
-  // Sunday
-  const underscoreS: singleTeam = {
-    name: "AFX ___",
-    start: "5:00 PM",
+  const phoenixT: singleTeam = {
+    name: "AFX Phoenix",
+    start: "5:30 PM",
     end: "8:00 PM",
     loc: "Lower Sproul",
-    color: "#CCFFDA"
+    color: "#E4B4C2"
   }
-  const yinyangS: singleTeam = {
-    name: "AFX Yin Yang",
+  const tuesday: singleTeam[] = [phoenixT]
+
+  // Wednesday
+  const aceW: singleTeam = {
+    name: "AFX Ace",
     start: "7:00 PM",
     end: "10:00 PM",
-    loc: "Lower Sproul",
-    color: "#CCD4FF"
+    loc: "Upper Sproul",
+    color: "#FFB8D1"
+    //"#c93838"
   }
-  const sunday: singleTeam[] = [underscoreS, yinyangS]
+  const cypherW: singleTeam = {
+    name: "AFX Cypher",
+    start: "7:30 PM",
+    end: "10:30 PM",
+    loc: "Haas Pavillion",
+    color: "#D9DCF3"
+  }
+  const wednesday: singleTeam[] = [aceW, cypherW]
+
+  // Thursday
+  const ateT: singleTeam = {
+    name: "AteFX",
+    start: "6:30 PM",
+    end: "9:00 PM",
+    loc: "Lower Sproul",
+    color: "#DDFDFE"
+  }
+  const fmT: singleTeam = {
+    name: "AFX FM",
+    start: "8:00 PM",
+    end: "10:00 PM",
+    loc: "Lower Sproul",
+    color: "#E7CEE3"
+  }
+  const thursday: singleTeam[] = [ateT, fmT]
+
+  // Friday
+  const aceF: singleTeam = {
+    name: "AFX Ace",
+    start: "6:00 PM",
+    end: "8:00 PM",
+    loc: "Haas Pavilion",
+    color: "#FFB8D1"//"#c93838"
+  }
+  const friday: singleTeam[] = [aceF]
+
+  // Saturday
+  const phoenixS: singleTeam = {
+    name: "AFX Phoenix",
+    start: "1:00 PM",
+    end: "4:00 PM",
+    loc: "Haas Pavillion",
+    color: "#E4B4C2"//"#f2b861"
+  }
+  const saturday: singleTeam[] = [phoenixS]
+
+  // Sunday
+  const ateS: singleTeam = {
+    name: "AteFX",
+    start: "5:00 PM",
+    end: "7:30 PM",
+    loc: "Lower Sproul",
+    color: "#DDFDFE"
+  }
+  const fmS: singleTeam = {
+    name: "AFX FM",
+    start: "6:00 PM",
+    end: "8:00 PM",
+    loc: "Lower Sproul",
+    color: "#E7CEE3"
+  }
+  const sunday: singleTeam[] = [ateS, fmS]
 
   const Allteams: singleTeam[][] = [
     monday,
@@ -190,8 +191,7 @@ export const EventsComponent: React.FC = () => {
         <div className="about--text">
           <span>
             {" "}
-            <strong>AFX Fall Showcase:</strong> Saturday, April 22, 7-10 PM @ Zellerbach {" "}
-            <p>(date/location is subject to change!)</p>
+            <strong>AFX-[M] Spring Showcase:</strong> Saturday, December 2, 6:30-9:30 PM @ Zellerbach {" "}
           </span>
           {/* <br />
           <span>
@@ -215,7 +215,7 @@ export const EventsComponent: React.FC = () => {
         <hr></hr>
 
         <br />
-        <h2>Team Schedule Spring 2022</h2>
+        <h2>Team Schedule Fall 2023</h2>
         <div className="name-time-container">{teamSchedules}</div>
       </div>
       {/* <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p> */}
