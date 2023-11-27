@@ -9,7 +9,7 @@ import { Semester } from "src/data/types"
 import { useSem } from "src/hooks/use-sem"
 import { AboutComponent } from "./AboutComponent"
 import { AFXTechComponent } from "./AFXTechComponent"
-import { LandingComponent } from "./LandingPage/LandingPageComponent"
+import { LandingComponent2 } from "./LandingPage/LandingPageComponent"
 import { AuditionPageComponent } from "./LandingPage/AuditionPageComponent"
 import { Navigation } from "./NavBarComponent";
 import { TeamsComponent } from "./TeamsComponent";
@@ -88,41 +88,46 @@ export const App: React.FC<{}> = () => {
       </div> */}
 
       <Route exact path="/">
-        <Redirect to="/about" />
+        <Redirect to="/home" />
       </Route>
 
+      <Route path="/home" render={() => <div>
+        <Navigation searchable={false} fixed='top' />
+        <LandingComponent2 />
+      </div>} />
+
       <Route path="/faq" render={() => <div>
-        <Navigation searchable={false} />
+        <Navigation searchable={false} fixed='false' />
         <FAQPageComponent />
       </div>} />
 
       <Route path="/about" render={() => <div>
-        <Navigation searchable={false} />
+        <Navigation searchable={false} fixed='false' />
         {/* <AuditionPageComponent /> */}
         <AboutComponent />
       </div>} />
 
       <Route path="/events" render={() => <div>
-        <Navigation searchable={false} />
+        <Navigation searchable={false} fixed='false' />
         <EventsComponent />
       </div>} />
 
       <Route path="/board" render={() => <div>
         {/* <div className={ display ? "show-search" : "no-search" }> */}
-        <Navigation searchable={true} />
+        <Navigation searchable={true} fixed='false' />
         {/* </div> */}
         <div id="board">{board}</div>
       </div>} />
 
       <Route path="/teams" render={() =>
         <div>
-          <Navigation searchable={true} />
+          <Navigation searchable={true} fixed='false' />
           <div id="teams">{teams}</div>
         </div>} />
 
       <Route path="/afxtech" render={() =>
         <div>
-          <Navigation searchable={false} />
+          <Navigation searchable={false} fixed='false' />
           <AFXTechComponent />
         </div>} />
 
