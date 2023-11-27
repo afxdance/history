@@ -32628,6 +32628,7 @@ export let PersonPositions = {
   "recC0UCS6w9gAZdiv": {
     "createdTime": "2019-01-23T08:39:15.000Z",
     "id": "recC0UCS6w9gAZdiv",
+    "(You can't directly edit this column)": "Neil Xia, AFX Kindle Director",
     "groupIds": [
       "recmnazdxob4GA1U6"
     ],
@@ -32670,12 +32671,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Neil Xia, AFX Kindle Director"
+    "sortKey": "2016c"
   },
   "recZZdPEKofmImLYj": {
     "createdTime": "2019-01-23T09:03:11.000Z",
     "id": "recZZdPEKofmImLYj",
+    "(You can't directly edit this column)": "Krissy Austin, AFX Kriselle Director",
     "groupIds": [
       "rec9MWNgbORpsNcE8"
     ],
@@ -32690,12 +32691,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Krissy Austin, AFX Kriselle Director"
+    "sortKey": "2014c"
   },
   "recgtZZJ4dn7dawga": {
     "createdTime": "2019-01-23T09:03:22.000Z",
     "id": "recgtZZJ4dn7dawga",
+    "(You can't directly edit this column)": "Michelle Li, AFX Kriselle Director",
     "groupIds": [
       "rec9MWNgbORpsNcE8"
     ],
@@ -32710,12 +32711,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Michelle Li, AFX Kriselle Director"
+    "sortKey": "2014c"
   },
   "reciymkEMLOU1t7sG": {
     "createdTime": "2019-01-23T09:11:01.000Z",
     "id": "reciymkEMLOU1t7sG",
+    "(You can't directly edit this column)": "Stephen Pon, AFX LePon Director",
     "groupIds": [
       "recO91b2wy6XN4g0J"
     ],
@@ -32730,12 +32731,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
-    "sortKey": "2014a",
-    "(You can't directly edit this column)": "Stephen Pon, AFX LePon Director"
+    "sortKey": "2014a"
   },
   "recmUDgbC3uNf673M": {
     "createdTime": "2019-01-23T09:11:06.000Z",
     "id": "recmUDgbC3uNf673M",
+    "(You can't directly edit this column)": "Nathan Lee, AFX LePon Director",
     "groupIds": [
       "recO91b2wy6XN4g0J"
     ],
@@ -32750,12 +32751,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
-    "sortKey": "2014a",
-    "(You can't directly edit this column)": "Nathan Lee, AFX LePon Director"
+    "sortKey": "2014a"
   },
   "recvbzMN5cpL1AOq5": {
     "createdTime": "2019-01-23T08:49:57.000Z",
     "id": "recvbzMN5cpL1AOq5",
+    "(You can't directly edit this column)": "Edward Fang, AFX LIT Director",
     "groupIds": [
       "recRYZjFxEnNWMVMm"
     ],
@@ -32770,12 +32771,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCb5r44adqba2uh"
     ],
-    "sortKey": "2016a",
-    "(You can't directly edit this column)": "Edward Fang, AFX LIT Director"
+    "sortKey": "2016a"
   },
   "recFXp8rzhPZjETKs": {
     "createdTime": "2019-01-23T08:50:03.000Z",
     "id": "recFXp8rzhPZjETKs",
+    "(You can't directly edit this column)": "Emilio Cuartero, AFX LIT Director",
     "groupIds": [
       "recRYZjFxEnNWMVMm"
     ],
@@ -32818,12 +32819,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCb5r44adqba2uh"
     ],
-    "sortKey": "2016a",
-    "(You can't directly edit this column)": "Emilio Cuartero, AFX LIT Director"
+    "sortKey": "2016a"
   },
   "recZ8esGyjFp2QqhB": {
     "createdTime": "2019-01-23T08:50:08.000Z",
     "id": "recZ8esGyjFp2QqhB",
+    "(You can't directly edit this column)": "Trisha Giron, AFX LIT Director",
     "groupIds": [
       "recRYZjFxEnNWMVMm"
     ],
@@ -32866,12 +32867,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCb5r44adqba2uh"
     ],
-    "sortKey": "2016a",
-    "(You can't directly edit this column)": "Trisha Giron, AFX LIT Director"
+    "sortKey": "2016a"
   },
   "recWnw4lEjFRENfyB": {
     "createdTime": "2018-12-13T08:52:14.000Z",
     "id": "recWnw4lEjFRENfyB",
+    "(You can't directly edit this column)": "Katie Poa, AFX LoWKey Director",
     "groupIds": [
       "rec6cFEd8SzUBNo9o"
     ],
@@ -32914,12 +32915,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Katie Poa, AFX LoWKey Director"
+    "sortKey": "2018a"
   },
   "recJeowLVzxkEnUWP": {
     "createdTime": "2018-12-13T08:53:41.000Z",
     "id": "recJeowLVzxkEnUWP",
+    "(You can't directly edit this column)": "Louisa Zhang, AFX LoWKey Director",
     "groupIds": [
       "rec6cFEd8SzUBNo9o"
     ],
@@ -32962,12 +32963,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Louisa Zhang, AFX LoWKey Director"
+    "sortKey": "2018a"
   },
   "rec4SUea9e15uK7OW": {
     "createdTime": "2018-12-13T08:58:00.000Z",
     "id": "rec4SUea9e15uK7OW",
+    "(You can't directly edit this column)": "Winn Cui, AFX LoWKey Director",
     "groupIds": [
       "rec6cFEd8SzUBNo9o"
     ],
@@ -33010,12 +33011,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Winn Cui, AFX LoWKey Director"
+    "sortKey": "2018a"
   },
   "recTIIv90HDZjQgne": {
     "createdTime": "2019-01-23T09:12:27.000Z",
     "id": "recTIIv90HDZjQgne",
+    "(You can't directly edit this column)": "Daniel He, AFX MadHouse U Director",
     "groupIds": [
       "recifKY7DcH1RxaMP"
     ],
@@ -33030,12 +33031,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Daniel He, AFX MadHouse U Director"
+    "sortKey": "2013c"
   },
   "recIJmkmRf5CFMJOX": {
     "createdTime": "2019-01-23T09:12:35.000Z",
     "id": "recIJmkmRf5CFMJOX",
+    "(You can't directly edit this column)": "Eric Kim, AFX MadHouse U Director",
     "groupIds": [
       "recifKY7DcH1RxaMP"
     ],
@@ -33050,12 +33051,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Eric Kim, AFX MadHouse U Director"
+    "sortKey": "2013c"
   },
   "recgctqYeUKIKxvMG": {
     "createdTime": "2019-01-23T08:39:23.000Z",
     "id": "recgctqYeUKIKxvMG",
+    "(You can't directly edit this column)": "Mei Mei, AFX Matrix Director",
     "groupIds": [
       "receCwoUGQ4WyR8GC"
     ],
@@ -33070,12 +33071,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Mei Mei, AFX Matrix Director"
+    "sortKey": "2016c"
   },
   "recfI7xh0OyO8vYOD": {
     "createdTime": "2019-01-23T08:39:30.000Z",
     "id": "recfI7xh0OyO8vYOD",
+    "(You can't directly edit this column)": "Patrick Lin, AFX Matrix Director",
     "groupIds": [
       "receCwoUGQ4WyR8GC"
     ],
@@ -33118,12 +33119,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Patrick Lin, AFX Matrix Director"
+    "sortKey": "2016c"
   },
   "recd9f5nImbEfwIr7": {
     "createdTime": "2019-01-23T08:39:38.000Z",
     "id": "recd9f5nImbEfwIr7",
+    "(You can't directly edit this column)": "Alex Nguyen, AFX Matrix Director",
     "groupIds": [
       "receCwoUGQ4WyR8GC"
     ],
@@ -33166,12 +33167,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Alex Nguyen, AFX Matrix Director"
+    "sortKey": "2016c"
   },
   "recUEokKatoDRFpsz": {
     "createdTime": "2018-12-12T23:17:43.000Z",
     "id": "recUEokKatoDRFpsz",
+    "(You can't directly edit this column)": "AC Dela Paz, AFX MAWfia Director",
     "groupIds": [
       "recDV8rL7zVa2J6l5"
     ],
@@ -33214,12 +33215,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "AC Dela Paz, AFX MAWfia Director"
+    "sortKey": "2018a"
   },
   "recP4u0zKITznz1cW": {
     "createdTime": "2018-12-12T23:19:41.000Z",
     "id": "recP4u0zKITznz1cW",
+    "(You can't directly edit this column)": "Michael Chen, AFX MAWfia Director",
     "groupIds": [
       "recDV8rL7zVa2J6l5"
     ],
@@ -33262,12 +33263,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Michael Chen, AFX MAWfia Director"
+    "sortKey": "2018a"
   },
   "rec9D9NphXY0xYUI1": {
     "createdTime": "2018-12-12T23:21:47.000Z",
     "id": "rec9D9NphXY0xYUI1",
+    "(You can't directly edit this column)": "Wilfred Salacup, AFX MAWfia Director",
     "groupIds": [
       "recDV8rL7zVa2J6l5"
     ],
@@ -33310,12 +33311,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Wilfred Salacup, AFX MAWfia Director"
+    "sortKey": "2018a"
   },
   "rec2Awc9Y8XrYeQ7j": {
     "createdTime": "2018-12-13T09:06:29.000Z",
     "id": "rec2Awc9Y8XrYeQ7j",
+    "(You can't directly edit this column)": "Tiffanie Abacan, AFX META Director",
     "groupIds": [
       "recgSC5ZaU8HBQbmS"
     ],
@@ -33358,12 +33359,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Tiffanie Abacan, AFX META Director"
+    "sortKey": "2018a"
   },
   "recIMXzS9m8dZ1zjF": {
     "createdTime": "2018-12-13T09:08:20.000Z",
     "id": "recIMXzS9m8dZ1zjF",
+    "(You can't directly edit this column)": "Mengyan Li, AFX META Director",
     "groupIds": [
       "recgSC5ZaU8HBQbmS"
     ],
@@ -33406,12 +33407,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Mengyan Li, AFX META Director"
+    "sortKey": "2018a"
   },
   "recROI9NnR3gpwjS7": {
     "createdTime": "2018-12-13T09:10:02.000Z",
     "id": "recROI9NnR3gpwjS7",
+    "(You can't directly edit this column)": "Anthony Nguyen, AFX META Director",
     "groupIds": [
       "recgSC5ZaU8HBQbmS"
     ],
@@ -33454,12 +33455,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Anthony Nguyen, AFX META Director"
+    "sortKey": "2018a"
   },
   "recpMHc2UHOX1UXBf": {
     "createdTime": "2019-01-23T08:03:58.000Z",
     "id": "recpMHc2UHOX1UXBf",
+    "(You can't directly edit this column)": "Christine Nguyen, AFX Michi Director",
     "groupIds": [
       "recw1DrJjXTJiCxDu"
     ],
@@ -33474,12 +33475,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Christine Nguyen, AFX Michi Director"
+    "sortKey": "2017a"
   },
   "recIbc0SgPcRJfj9z": {
     "createdTime": "2019-01-23T08:04:24.000Z",
     "id": "recIbc0SgPcRJfj9z",
+    "(You can't directly edit this column)": "Michael Ershov, AFX Michi Director",
     "groupIds": [
       "recw1DrJjXTJiCxDu"
     ],
@@ -33522,12 +33523,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Michael Ershov, AFX Michi Director"
+    "sortKey": "2017a"
   },
   "recUfH8mr2MsRQmxU": {
     "createdTime": "2019-01-23T08:39:43.000Z",
     "id": "recUfH8mr2MsRQmxU",
+    "(You can't directly edit this column)": "Alex Kumamoto, AFX Mushu Director",
     "groupIds": [
       "rec5NdqAYrjJvwOZP"
     ],
@@ -33570,12 +33571,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Alex Kumamoto, AFX Mushu Director"
+    "sortKey": "2016c"
   },
   "recCeQ0OUCu1o0rZz": {
     "createdTime": "2019-01-23T08:40:02.000Z",
     "id": "recCeQ0OUCu1o0rZz",
+    "(You can't directly edit this column)": "Michelle Li, AFX Mushu Director",
     "groupIds": [
       "rec5NdqAYrjJvwOZP"
     ],
@@ -33618,12 +33619,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Michelle Li, AFX Mushu Director"
+    "sortKey": "2016c"
   },
   "rec4QdNMnRr5f8Ewe": {
     "createdTime": "2018-12-13T09:23:30.000Z",
     "id": "rec4QdNMnRr5f8Ewe",
+    "(You can't directly edit this column)": "Naria Quazi, AFX NaLA Director",
     "groupIds": [
       "recCuEIVaZ2TETp48"
     ],
@@ -33666,12 +33667,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Naria Quazi, AFX NaLA Director"
+    "sortKey": "2018a"
   },
   "recJnf4qYoOoE6qSR": {
     "createdTime": "2018-12-13T09:28:09.000Z",
     "id": "recJnf4qYoOoE6qSR",
+    "(You can't directly edit this column)": "Leo Zhang, AFX NaLA Director",
     "groupIds": [
       "recCuEIVaZ2TETp48"
     ],
@@ -33714,12 +33715,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Leo Zhang, AFX NaLA Director"
+    "sortKey": "2018a"
   },
   "recAViFCI7lrDQ6Ww": {
     "createdTime": "2018-12-13T09:29:06.000Z",
     "id": "recAViFCI7lrDQ6Ww",
+    "(You can't directly edit this column)": "Aimee Pepper, AFX NaLA Director",
     "groupIds": [
       "recCuEIVaZ2TETp48"
     ],
@@ -33762,12 +33763,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Aimee Pepper, AFX NaLA Director"
+    "sortKey": "2018a"
   },
   "recNg6UENry5iiHU6": {
     "createdTime": "2018-12-01T19:01:20.000Z",
     "id": "recNg6UENry5iiHU6",
+    "(You can't directly edit this column)": "Angie Liao, AFX Nation  Director",
     "groupIds": [
       "rec4US2ZzOygzmLka"
     ],
@@ -33810,12 +33811,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Angie Liao, AFX Nation  Director"
+    "sortKey": "2018c"
   },
   "recJWNvMUiHu2qO3k": {
     "createdTime": "2018-12-01T19:01:40.000Z",
     "id": "recJWNvMUiHu2qO3k",
+    "(You can't directly edit this column)": "Christy Tak, AFX Nation  Director",
     "groupIds": [
       "rec4US2ZzOygzmLka"
     ],
@@ -33858,12 +33859,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Christy Tak, AFX Nation  Director"
+    "sortKey": "2018c"
   },
   "reclbI9sDDawSq1d2": {
     "createdTime": "2018-12-01T19:01:47.000Z",
     "id": "reclbI9sDDawSq1d2",
+    "(You can't directly edit this column)": "Louisa Zhang, AFX Nation  Director",
     "groupIds": [
       "rec4US2ZzOygzmLka"
     ],
@@ -33906,12 +33907,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Louisa Zhang, AFX Nation  Director"
+    "sortKey": "2018c"
   },
   "recxVlUWJsoUL1c72": {
     "createdTime": "2018-12-01T19:01:52.000Z",
     "id": "recxVlUWJsoUL1c72",
+    "(You can't directly edit this column)": "Andy Vendrell, AFX Nightfall Director",
     "groupIds": [
       "recTQ0iPlkF4HQMsV"
     ],
@@ -33954,12 +33955,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Andy Vendrell, AFX Nightfall Director"
+    "sortKey": "2018c"
   },
   "recupsLparQjxVcLt": {
     "createdTime": "2019-01-23T08:48:50.000Z",
     "id": "recupsLparQjxVcLt",
+    "(You can't directly edit this column)": "Noah Kim, AFX NoProblem Director",
     "groupIds": [
       "recfY6t1K5Sh39hj8"
     ],
@@ -34002,12 +34003,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCb5r44adqba2uh"
     ],
-    "sortKey": "2016a",
-    "(You can't directly edit this column)": "Noah Kim, AFX NoProblem Director"
+    "sortKey": "2016a"
   },
   "recXSGsagoBIgMFV1": {
     "createdTime": "2019-01-23T08:49:10.000Z",
     "id": "recXSGsagoBIgMFV1",
+    "(You can't directly edit this column)": "Paul Baik, AFX NoProblem Director",
     "groupIds": [
       "recfY6t1K5Sh39hj8"
     ],
@@ -34022,12 +34023,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCb5r44adqba2uh"
     ],
-    "sortKey": "2016a",
-    "(You can't directly edit this column)": "Paul Baik, AFX NoProblem Director"
+    "sortKey": "2016a"
   },
   "recZA3W3bUfL9Plni": {
     "createdTime": "2018-12-01T19:02:10.000Z",
     "id": "recZA3W3bUfL9Plni",
+    "(You can't directly edit this column)": "Cina Shahabi, AFX Nut Director",
     "groupIds": [
       "recD5q4uJAEPnXQ8x"
     ],
@@ -34070,12 +34071,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Cina Shahabi, AFX Nut Director"
+    "sortKey": "2018c"
   },
   "rec4Vow42vuL5q37H": {
     "createdTime": "2018-12-01T19:02:21.000Z",
     "id": "rec4Vow42vuL5q37H",
+    "(You can't directly edit this column)": "Aidan Kahng, AFX Nut Director",
     "groupIds": [
       "recD5q4uJAEPnXQ8x"
     ],
@@ -34118,12 +34119,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Aidan Kahng, AFX Nut Director"
+    "sortKey": "2018c"
   },
   "recvrv8fd9Midw9zd": {
     "createdTime": "2018-12-01T19:02:24.000Z",
     "id": "recvrv8fd9Midw9zd",
+    "(You can't directly edit this column)": "Eric Weng, AFX Nut Director",
     "groupIds": [
       "recD5q4uJAEPnXQ8x"
     ],
@@ -34166,12 +34167,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Eric Weng, AFX Nut Director"
+    "sortKey": "2018c"
   },
   "recYzJCII8mJFlE4x": {
     "createdTime": "2018-12-13T09:32:37.000Z",
     "id": "recYzJCII8mJFlE4x",
+    "(You can't directly edit this column)": "Christine Ho, AFX OH Director",
     "groupIds": [
       "recakv34dAgvMZqyk"
     ],
@@ -34214,12 +34215,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Christine Ho, AFX OH Director"
+    "sortKey": "2018a"
   },
   "recNuN2WJyVmC7Na7": {
     "createdTime": "2018-12-13T09:33:49.000Z",
     "id": "recNuN2WJyVmC7Na7",
+    "(You can't directly edit this column)": "Lenell Ordanza, AFX OH Director",
     "groupIds": [
       "recakv34dAgvMZqyk"
     ],
@@ -34262,12 +34263,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Lenell Ordanza, AFX OH Director"
+    "sortKey": "2018a"
   },
   "recWOmEoFBfSH3sAn": {
     "createdTime": "2019-01-23T08:57:18.000Z",
     "id": "recWOmEoFBfSH3sAn",
+    "(You can't directly edit this column)": "Dan Ricciardelli, AFX ORiKi Director",
     "groupIds": [
       "recqQW2W4yDgUc14t"
     ],
@@ -34282,12 +34283,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Dan Ricciardelli, AFX ORiKi Director"
+    "sortKey": "2015a"
   },
   "recYsmvxBX4ZQSeAK": {
     "createdTime": "2019-01-23T08:57:27.000Z",
     "id": "recYsmvxBX4ZQSeAK",
+    "(You can't directly edit this column)": "Katrina Oshima, AFX ORiKi Director",
     "groupIds": [
       "recqQW2W4yDgUc14t"
     ],
@@ -34302,12 +34303,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Katrina Oshima, AFX ORiKi Director"
+    "sortKey": "2015a"
   },
   "rechOIkE9IelO6ns1": {
     "createdTime": "2019-01-23T08:57:29.000Z",
     "id": "rechOIkE9IelO6ns1",
+    "(You can't directly edit this column)": "Yesuk Kim, AFX ORiKi Director",
     "groupIds": [
       "recqQW2W4yDgUc14t"
     ],
@@ -34322,12 +34323,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Yesuk Kim, AFX ORiKi Director"
+    "sortKey": "2015a"
   },
   "recQBBV0sNPYKoCxC": {
     "createdTime": "2018-12-13T08:41:41.000Z",
     "id": "recQBBV0sNPYKoCxC",
+    "(You can't directly edit this column)": "Joseph Koo, AFX PB&J Director",
     "groupIds": [
       "recw7gz6Y12j41aTG"
     ],
@@ -34370,12 +34371,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Joseph Koo, AFX PB&J Director"
+    "sortKey": "2018a"
   },
   "recnq4kDRyJz9Be2u": {
     "createdTime": "2018-12-13T08:46:01.000Z",
     "id": "recnq4kDRyJz9Be2u",
+    "(You can't directly edit this column)": "Paul Baik, AFX PB&J Director",
     "groupIds": [
       "recw7gz6Y12j41aTG"
     ],
@@ -34418,12 +34419,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Paul Baik, AFX PB&J Director"
+    "sortKey": "2018a"
   },
   "rec2feBILeEXYOvLY": {
     "createdTime": "2019-01-23T07:10:49.000Z",
     "id": "rec2feBILeEXYOvLY",
+    "(You can't directly edit this column)": "Eric Park, AFX Pixels Director",
     "groupIds": [
       "recJLwNiZZCkFPrFc"
     ],
@@ -34438,12 +34439,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Eric Park, AFX Pixels Director"
+    "sortKey": "2017a"
   },
   "rec36LBo4z1hzygmt": {
     "createdTime": "2019-01-23T07:11:20.000Z",
     "id": "rec36LBo4z1hzygmt",
+    "(You can't directly edit this column)": "Patrick Chenglo, AFX Pixels Director",
     "groupIds": [
       "recJLwNiZZCkFPrFc"
     ],
@@ -34458,12 +34459,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Patrick Chenglo, AFX Pixels Director"
+    "sortKey": "2017a"
   },
   "recyCb2TBeFlxLdbi": {
     "createdTime": "2019-01-23T09:03:11.000Z",
     "id": "recyCb2TBeFlxLdbi",
+    "(You can't directly edit this column)": "Chris Kim, AFX Pusheen Director",
     "groupIds": [
       "recPirtCISJXDTV4w"
     ],
@@ -34478,12 +34479,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Chris Kim, AFX Pusheen Director"
+    "sortKey": "2014c"
   },
   "rec1URY9FpGdCqYTd": {
     "createdTime": "2019-01-23T09:04:31.000Z",
     "id": "rec1URY9FpGdCqYTd",
+    "(You can't directly edit this column)": "Alyssa Jolene, AFX Pusheen Director",
     "groupIds": [
       "recPirtCISJXDTV4w"
     ],
@@ -34526,12 +34527,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Alyssa Jolene, AFX Pusheen Director"
+    "sortKey": "2014c"
   },
   "recx7yKlyuabT5f5M": {
     "createdTime": "2019-01-23T09:04:34.000Z",
     "id": "recx7yKlyuabT5f5M",
+    "(You can't directly edit this column)": "Jasmine Chau, AFX Pusheen Director",
     "groupIds": [
       "recPirtCISJXDTV4w"
     ],
@@ -34546,12 +34547,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Jasmine Chau, AFX Pusheen Director"
+    "sortKey": "2014c"
   },
   "recTR04pEHL6IERot": {
     "createdTime": "2019-01-23T08:57:41.000Z",
     "id": "recTR04pEHL6IERot",
+    "(You can't directly edit this column)": "Arthur Liou, AFX Rawrthur Director",
     "groupIds": [
       "recrkeWqUQXCnEhmS"
     ],
@@ -34566,12 +34567,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Arthur Liou, AFX Rawrthur Director"
+    "sortKey": "2015a"
   },
   "recyiyuRRND5Fq27W": {
     "createdTime": "2019-01-23T08:57:47.000Z",
     "id": "recyiyuRRND5Fq27W",
+    "(You can't directly edit this column)": "Rachel Wu, AFX Rawrthur Director",
     "groupIds": [
       "recrkeWqUQXCnEhmS"
     ],
@@ -34586,12 +34587,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Rachel Wu, AFX Rawrthur Director"
+    "sortKey": "2015a"
   },
   "recW4rZuCQuVplGHp": {
     "createdTime": "2019-01-23T08:58:08.000Z",
     "id": "recW4rZuCQuVplGHp",
+    "(You can't directly edit this column)": "Joseph Beltran, AFX Ray J Director",
     "groupIds": [
       "recHJjowPtJTYf7Yz"
     ],
@@ -34606,12 +34607,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Joseph Beltran, AFX Ray J Director"
+    "sortKey": "2015a"
   },
   "recQCeO4WpUHp8XtR": {
     "createdTime": "2019-01-23T08:58:26.000Z",
     "id": "recQCeO4WpUHp8XtR",
+    "(You can't directly edit this column)": "Raymond Truong, AFX Ray J Director",
     "groupIds": [
       "recHJjowPtJTYf7Yz"
     ],
@@ -34626,12 +34627,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Raymond Truong, AFX Ray J Director"
+    "sortKey": "2015a"
   },
   "recI1TUGPjSqDG6p9": {
     "createdTime": "2019-01-23T09:04:38.000Z",
     "id": "recI1TUGPjSqDG6p9",
+    "(You can't directly edit this column)": "Alice Lee, AFX RBFs Director",
     "groupIds": [
       "recTFZCC0WkOZ62Wh"
     ],
@@ -34646,12 +34647,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Alice Lee, AFX RBFs Director"
+    "sortKey": "2014c"
   },
   "recjuDiGi95oFuVne": {
     "createdTime": "2019-01-23T09:04:52.000Z",
     "id": "recjuDiGi95oFuVne",
+    "(You can't directly edit this column)": "Michelle Huang, AFX RBFs Director",
     "groupIds": [
       "recTFZCC0WkOZ62Wh"
     ],
@@ -34666,12 +34667,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Michelle Huang, AFX RBFs Director"
+    "sortKey": "2014c"
   },
   "rec18sVyksgWqAHqQ": {
     "createdTime": "2019-01-23T09:04:57.000Z",
     "id": "rec18sVyksgWqAHqQ",
+    "(You can't directly edit this column)": "Amanda Calvo, AFX RBFs Director",
     "groupIds": [
       "recTFZCC0WkOZ62Wh"
     ],
@@ -34686,12 +34687,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Amanda Calvo, AFX RBFs Director"
+    "sortKey": "2014c"
   },
   "recjRbgiHRG5uxASL": {
     "createdTime": "2018-12-12T10:49:15.000Z",
     "id": "recjRbgiHRG5uxASL",
+    "(You can't directly edit this column)": "Daniel Ra, AFX Re:Start Director",
     "groupIds": [
       "recGRSa5DVs30Mink"
     ],
@@ -34734,12 +34735,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Daniel Ra, AFX Re:Start Director"
+    "sortKey": "2017c"
   },
   "recZiOgSU5BtubSPr": {
     "createdTime": "2018-12-12T10:49:55.000Z",
     "id": "recZiOgSU5BtubSPr",
+    "(You can't directly edit this column)": "Shirley Li, AFX Re:Start Director",
     "groupIds": [
       "recGRSa5DVs30Mink"
     ],
@@ -34782,12 +34783,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Shirley Li, AFX Re:Start Director"
+    "sortKey": "2017c"
   },
   "rec5AT2Js0I76BIay": {
     "createdTime": "2018-12-12T10:51:53.000Z",
     "id": "rec5AT2Js0I76BIay",
+    "(You can't directly edit this column)": "Jenny Huang, AFX Re:Start Director",
     "groupIds": [
       "recGRSa5DVs30Mink"
     ],
@@ -34830,12 +34831,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Jenny Huang, AFX Re:Start Director"
+    "sortKey": "2017c"
   },
   "recp7OFx2ofzhUvpO": {
     "createdTime": "2018-12-12T10:04:50.000Z",
     "id": "recp7OFx2ofzhUvpO",
+    "(You can't directly edit this column)": "Sophia Morgan, AFX Riddikulus Director",
     "groupIds": [
       "recokuRWqWHMaWmuE"
     ],
@@ -34878,12 +34879,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Sophia Morgan, AFX Riddikulus Director"
+    "sortKey": "2018a"
   },
   "recwsF8F7AZazJcpK": {
     "createdTime": "2018-12-12T10:06:32.000Z",
     "id": "recwsF8F7AZazJcpK",
+    "(You can't directly edit this column)": "Julia Ting, AFX Riddikulus Director",
     "groupIds": [
       "recokuRWqWHMaWmuE"
     ],
@@ -34926,12 +34927,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Julia Ting, AFX Riddikulus Director"
+    "sortKey": "2018a"
   },
   "recuJmSSiRcm4CM4o": {
     "createdTime": "2018-12-12T10:08:49.000Z",
     "id": "recuJmSSiRcm4CM4o",
+    "(You can't directly edit this column)": "Joshua Fitch, AFX Riddikulus Director",
     "groupIds": [
       "recokuRWqWHMaWmuE"
     ],
@@ -34974,12 +34975,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Joshua Fitch, AFX Riddikulus Director"
+    "sortKey": "2018a"
   },
   "recEtfeJRyfeBD8dO": {
     "createdTime": "2019-01-23T08:36:09.000Z",
     "id": "recEtfeJRyfeBD8dO",
+    "(You can't directly edit this column)": "Ryan Barroga, AFX Rogue 2 Director",
     "groupIds": [
       "recvqz0iaFmQNln9P"
     ],
@@ -34994,12 +34995,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Ryan Barroga, AFX Rogue 2 Director"
+    "sortKey": "2017a"
   },
   "recKjImEWHvOHUAUT": {
     "createdTime": "2019-01-23T08:36:18.000Z",
     "id": "recKjImEWHvOHUAUT",
+    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Rogue 2 Director",
     "groupIds": [
       "recvqz0iaFmQNln9P"
     ],
@@ -35014,12 +35015,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Seung Joo Ahn, AFX Rogue 2 Director"
+    "sortKey": "2017a"
   },
   "recSK898dj7khZdYW": {
     "createdTime": "2019-01-23T09:13:40.000Z",
     "id": "recSK898dj7khZdYW",
+    "(You can't directly edit this column)": "Andrew Lee, AFX Rosandré Director",
     "groupIds": [
       "recagqbNsnSE97SSL"
     ],
@@ -35034,12 +35035,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Andrew Lee, AFX Rosandré Director"
+    "sortKey": "2013c"
   },
   "recYN87Md9apn7kDs": {
     "createdTime": "2019-01-23T09:14:10.000Z",
     "id": "recYN87Md9apn7kDs",
+    "(You can't directly edit this column)": "Rose Liu, AFX Rosandré Director",
     "groupIds": [
       "recagqbNsnSE97SSL"
     ],
@@ -35054,12 +35055,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Rose Liu, AFX Rosandré Director"
+    "sortKey": "2013c"
   },
   "recikhUt28QUmjeRg": {
     "createdTime": "2019-01-23T09:11:11.000Z",
     "id": "recikhUt28QUmjeRg",
+    "(You can't directly edit this column)": "Rose Liu, AFX Roselli Director",
     "groupIds": [
       "rectC2LirGhN0EAgz"
     ],
@@ -35074,12 +35075,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
-    "sortKey": "2014a",
-    "(You can't directly edit this column)": "Rose Liu, AFX Roselli Director"
+    "sortKey": "2014a"
   },
   "recJgktWrZdA5HYnB": {
     "createdTime": "2019-01-23T09:11:22.000Z",
     "id": "recJgktWrZdA5HYnB",
+    "(You can't directly edit this column)": "Elli Haugen, AFX Roselli Director",
     "groupIds": [
       "rectC2LirGhN0EAgz"
     ],
@@ -35094,12 +35095,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
-    "sortKey": "2014a",
-    "(You can't directly edit this column)": "Elli Haugen, AFX Roselli Director"
+    "sortKey": "2014a"
   },
   "recjXsC2HeeuUPGym": {
     "createdTime": "2019-01-23T09:05:05.000Z",
     "id": "recjXsC2HeeuUPGym",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFX Rybread Director",
     "groupIds": [
       "rectbeEtWB1NJHFhl"
     ],
@@ -35114,12 +35115,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFX Rybread Director"
+    "sortKey": "2014c"
   },
   "reck5ZeOVual7zqh3": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "reck5ZeOVual7zqh3",
+    "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 Director",
     "groupIds": [
       "recRWachvE4BArxyb"
     ],
@@ -35162,12 +35163,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Jacqueline Tsang, AFX S3 Director"
+    "sortKey": "2017c"
   },
   "recSgN3IK2uBmT6bC": {
     "createdTime": "2019-01-23T09:44:08.000Z",
     "id": "recSgN3IK2uBmT6bC",
+    "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 Director",
     "groupIds": [
       "recRWachvE4BArxyb"
     ],
@@ -35210,12 +35211,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Alison Tanubrata, AFX S3 Director"
+    "sortKey": "2017c"
   },
   "recMgA1tjWR6Ow0gV": {
     "createdTime": "2019-01-23T09:44:19.000Z",
     "id": "recMgA1tjWR6Ow0gV",
+    "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 Director",
     "groupIds": [
       "recRWachvE4BArxyb"
     ],
@@ -35258,12 +35259,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Alyssa Gonzaga, AFX S3 Director"
+    "sortKey": "2017c"
   },
   "recivtfQKQEnduwoo": {
     "createdTime": "2019-01-23T08:58:31.000Z",
     "id": "recivtfQKQEnduwoo",
+    "(You can't directly edit this column)": "Phillip Chen, AFX Sandwich Director",
     "groupIds": [
       "recKEKBMLeBbaNW7V"
     ],
@@ -35278,12 +35279,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Phillip Chen, AFX Sandwich Director"
+    "sortKey": "2015a"
   },
   "recnZbOSI6CgE7AXq": {
     "createdTime": "2019-01-23T08:58:46.000Z",
     "id": "recnZbOSI6CgE7AXq",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFX Sandwich Director",
     "groupIds": [
       "recKEKBMLeBbaNW7V"
     ],
@@ -35298,12 +35299,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFX Sandwich Director"
+    "sortKey": "2015a"
   },
   "recz00fY9ttm9cTwt": {
     "createdTime": "2019-01-23T08:58:56.000Z",
     "id": "recz00fY9ttm9cTwt",
+    "(You can't directly edit this column)": "Sam Kim, AFX Sandwich Director",
     "groupIds": [
       "recKEKBMLeBbaNW7V"
     ],
@@ -35318,12 +35319,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Sam Kim, AFX Sandwich Director"
+    "sortKey": "2015a"
   },
   "recMmLpa0QaOzFF2E": {
     "createdTime": "2019-01-23T08:40:07.000Z",
     "id": "recMmLpa0QaOzFF2E",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFX SD Director",
     "groupIds": [
       "rec1ugpDp0pDY8B5n"
     ],
@@ -35338,12 +35339,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFX SD Director"
+    "sortKey": "2016c"
   },
   "recBjUwFmyhtxZ10j": {
     "createdTime": "2019-01-23T08:40:16.000Z",
     "id": "recBjUwFmyhtxZ10j",
+    "(You can't directly edit this column)": "Sebastian Merz, AFX SD Director",
     "groupIds": [
       "rec1ugpDp0pDY8B5n"
     ],
@@ -35358,12 +35359,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Sebastian Merz, AFX SD Director"
+    "sortKey": "2016c"
   },
   "recldfWnRyS6oFVWZ": {
     "createdTime": "2019-01-23T08:58:59.000Z",
     "id": "recldfWnRyS6oFVWZ",
+    "(You can't directly edit this column)": "Kristen Shimoda, AFX SK Modern Director",
     "groupIds": [
       "recyWoEbkZL4aK0JO"
     ],
@@ -35406,12 +35407,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Kristen Shimoda, AFX SK Modern Director"
+    "sortKey": "2015a"
   },
   "recOOURdIhNzMputd": {
     "createdTime": "2019-01-23T08:59:14.000Z",
     "id": "recOOURdIhNzMputd",
+    "(You can't directly edit this column)": "Sierra Feasel, AFX SK Modern Director",
     "groupIds": [
       "recyWoEbkZL4aK0JO"
     ],
@@ -35426,12 +35427,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Sierra Feasel, AFX SK Modern Director"
+    "sortKey": "2015a"
   },
   "recfp4C8UIra4GMBQ": {
     "createdTime": "2018-11-10T18:41:50.000Z",
     "id": "recfp4C8UIra4GMBQ",
+    "(You can't directly edit this column)": "Alex Nguyen, AFX softcore  Director",
     "groupIds": [
       "recgRpBKR0PGtPoaf"
     ],
@@ -35474,12 +35475,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Alex Nguyen, AFX softcore  Director"
+    "sortKey": "2018c"
   },
   "recAn9rnvPZ1QPgpM": {
     "createdTime": "2019-01-23T08:40:48.000Z",
     "id": "recAn9rnvPZ1QPgpM",
+    "(You can't directly edit this column)": "Jenny Li, AFX SOL Director",
     "groupIds": [
       "recZdp9rMOaEl1Jr5"
     ],
@@ -35494,12 +35495,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Jenny Li, AFX SOL Director"
+    "sortKey": "2016c"
   },
   "recftNKPTVlfyIEvn": {
     "createdTime": "2019-01-23T08:40:59.000Z",
     "id": "recftNKPTVlfyIEvn",
+    "(You can't directly edit this column)": "Mitchell Srimongkol, AFX SOL Director",
     "groupIds": [
       "recZdp9rMOaEl1Jr5"
     ],
@@ -35514,12 +35515,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Mitchell Srimongkol, AFX SOL Director"
+    "sortKey": "2016c"
   },
   "recbqlVdlKLsTuPK1": {
     "createdTime": "2019-01-23T08:41:06.000Z",
     "id": "recbqlVdlKLsTuPK1",
+    "(You can't directly edit this column)": "Regina Ongowarsito, AFX SOL Director",
     "groupIds": [
       "recZdp9rMOaEl1Jr5"
     ],
@@ -35562,12 +35563,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Regina Ongowarsito, AFX SOL Director"
+    "sortKey": "2016c"
   },
   "recqAOClbFCJ55owo": {
     "createdTime": "2019-01-23T08:41:24.000Z",
     "id": "recqAOClbFCJ55owo",
+    "(You can't directly edit this column)": "Chris Kim, AFX SoloQ Director",
     "groupIds": [
       "rec919wbpiKahv624"
     ],
@@ -35582,12 +35583,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Chris Kim, AFX SoloQ Director"
+    "sortKey": "2016c"
   },
   "rec24nlgQrd4tqRnx": {
     "createdTime": "2019-01-23T09:01:48.000Z",
     "id": "rec24nlgQrd4tqRnx",
+    "(You can't directly edit this column)": "Poe Charukesnant, AFX Spork Director",
     "groupIds": [
       "reclT38qMHDMCS0UJ"
     ],
@@ -35602,12 +35603,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Poe Charukesnant, AFX Spork Director"
+    "sortKey": "2015a"
   },
   "recjUy5Zc9pLPSfHW": {
     "createdTime": "2019-01-23T09:02:20.000Z",
     "id": "recjUy5Zc9pLPSfHW",
+    "(You can't directly edit this column)": "Jeanie Jung, AFX Spork Director",
     "groupIds": [
       "reclT38qMHDMCS0UJ"
     ],
@@ -35622,12 +35623,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Jeanie Jung, AFX Spork Director"
+    "sortKey": "2015a"
   },
   "rectYPeSmDUfITCIz": {
     "createdTime": "2019-01-23T09:02:31.000Z",
     "id": "rectYPeSmDUfITCIz",
+    "(You can't directly edit this column)": "Mikaela Klein, AFX Spork Director",
     "groupIds": [
       "reclT38qMHDMCS0UJ"
     ],
@@ -35642,12 +35643,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Mikaela Klein, AFX Spork Director"
+    "sortKey": "2015a"
   },
   "recj70p48W8ZQSSPj": {
     "createdTime": "2019-01-23T09:12:39.000Z",
     "id": "recj70p48W8ZQSSPj",
+    "(You can't directly edit this column)": "Jenny Chen, AFX Sunny Director",
     "groupIds": [
       "rec6BXmACvsC1lo0O"
     ],
@@ -35662,12 +35663,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Jenny Chen, AFX Sunny Director"
+    "sortKey": "2013c"
   },
   "recJh5rb6oAp8EAHY": {
     "createdTime": "2019-01-23T09:12:47.000Z",
     "id": "recJh5rb6oAp8EAHY",
+    "(You can't directly edit this column)": "Surmayee Tetarbe, AFX Sunny Director",
     "groupIds": [
       "rec6BXmACvsC1lo0O"
     ],
@@ -35682,12 +35683,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Surmayee Tetarbe, AFX Sunny Director"
+    "sortKey": "2013c"
   },
   "recDbdHsHwEQ963t5": {
     "createdTime": "2019-01-23T09:41:54.000Z",
     "id": "recDbdHsHwEQ963t5",
+    "(You can't directly edit this column)": "Peggy Shih, AFX Technicality Director",
     "groupIds": [
       "recV24mdNgq8HICTK"
     ],
@@ -35730,12 +35731,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Peggy Shih, AFX Technicality Director"
+    "sortKey": "2017c"
   },
   "recMxD6S3cVd6WWEN": {
     "createdTime": "2019-01-23T09:44:30.000Z",
     "id": "recMxD6S3cVd6WWEN",
+    "(You can't directly edit this column)": "Allan Chin, AFX Technicality Director",
     "groupIds": [
       "recV24mdNgq8HICTK"
     ],
@@ -35778,12 +35779,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Allan Chin, AFX Technicality Director"
+    "sortKey": "2017c"
   },
   "recaw2QlP9MfjwOEA": {
     "createdTime": "2019-01-23T09:44:37.000Z",
     "id": "recaw2QlP9MfjwOEA",
+    "(You can't directly edit this column)": "Angela Gao, AFX Technicality Director",
     "groupIds": [
       "recV24mdNgq8HICTK"
     ],
@@ -35826,12 +35827,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Angela Gao, AFX Technicality Director"
+    "sortKey": "2017c"
   },
   "recmtP7sfQi7Ziuqj": {
     "createdTime": "2019-01-23T08:55:49.000Z",
     "id": "recmtP7sfQi7Ziuqj",
+    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
     "groupIds": [
       "recbySoDTBxJA0xiR"
     ],
@@ -35846,12 +35847,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "James Arias, AFX The Crew Director"
+    "sortKey": "2015c"
   },
   "recLBmMBZS3LaiA0N": {
     "createdTime": "2019-01-23T08:55:57.000Z",
     "id": "recLBmMBZS3LaiA0N",
+    "(You can't directly edit this column)": "Christina Melissa, AFX The Crew Director",
     "groupIds": [
       "recbySoDTBxJA0xiR"
     ],
@@ -35866,12 +35867,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "Christina Melissa, AFX The Crew Director"
+    "sortKey": "2015c"
   },
   "recScFTZrcPPDaWtz": {
     "createdTime": "2019-01-23T09:11:29.000Z",
     "id": "recScFTZrcPPDaWtz",
+    "(You can't directly edit this column)": "Aileen Zhang, AFX The Crew, AFX The Crew Director",
     "groupIds": [
       "recrlyY7O3XM43HG9",
       "recDlM5I54yBFMaFU"
@@ -35889,12 +35890,12 @@ export let PersonPositions = {
       "rec7OSoLcUa7AXoRj",
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2014a, 2013c",
-    "(You can't directly edit this column)": "Aileen Zhang, AFX The Crew, AFX The Crew Director"
+    "sortKey": "2014a, 2013c"
   },
   "recZ6VLdQDNiWuCrY": {
     "createdTime": "2019-01-23T09:11:40.000Z",
     "id": "recZ6VLdQDNiWuCrY",
+    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
     "groupIds": [
       "recrlyY7O3XM43HG9"
     ],
@@ -35909,12 +35910,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec7OSoLcUa7AXoRj"
     ],
-    "sortKey": "2014a",
-    "(You can't directly edit this column)": "James Arias, AFX The Crew Director"
+    "sortKey": "2014a"
   },
   "recPPnKy4M1GAwVJS": {
     "createdTime": "2019-01-23T09:11:54.000Z",
     "id": "recPPnKy4M1GAwVJS",
+    "(You can't directly edit this column)": "James Arias, AFX The Crew Director",
     "groupIds": [
       "recDlM5I54yBFMaFU"
     ],
@@ -35929,12 +35930,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "James Arias, AFX The Crew Director"
+    "sortKey": "2013c"
   },
   "recqA78oJaWoFlv8t": {
     "createdTime": "2019-01-23T09:13:09.000Z",
     "id": "recqA78oJaWoFlv8t",
+    "(You can't directly edit this column)": "Felix Li, AFX The Projects Director",
     "groupIds": [
       "recdWaEaTltCKbrFW"
     ],
@@ -35949,12 +35950,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Felix Li, AFX The Projects Director"
+    "sortKey": "2013c"
   },
   "recAACzGXUpL5q9bD": {
     "createdTime": "2019-01-23T09:13:27.000Z",
     "id": "recAACzGXUpL5q9bD",
+    "(You can't directly edit this column)": "Peter Joo, AFX The Projects Director",
     "groupIds": [
       "recdWaEaTltCKbrFW"
     ],
@@ -35969,12 +35970,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Peter Joo, AFX The Projects Director"
+    "sortKey": "2013c"
   },
   "recSiyfXj7YKorw9Z": {
     "createdTime": "2019-01-23T09:13:36.000Z",
     "id": "recSiyfXj7YKorw9Z",
+    "(You can't directly edit this column)": "Ping Quach, AFX The Projects Director",
     "groupIds": [
       "recdWaEaTltCKbrFW"
     ],
@@ -35989,12 +35990,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "reclq9NGrcGBX4Kik"
     ],
-    "sortKey": "2013c",
-    "(You can't directly edit this column)": "Ping Quach, AFX The Projects Director"
+    "sortKey": "2013c"
   },
   "recFSErXcEQJ2oLHs": {
     "createdTime": "2018-12-01T19:00:54.000Z",
     "id": "recFSErXcEQJ2oLHs",
+    "(You can't directly edit this column)": "Jeremiah Kim, AFX Thick & Thin  Director",
     "groupIds": [
       "rec7bcuYPZkO20JSj"
     ],
@@ -36037,12 +36038,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Jeremiah Kim, AFX Thick & Thin  Director"
+    "sortKey": "2018c"
   },
   "recDLx7mt57vNRqk2": {
     "createdTime": "2018-12-01T19:01:07.000Z",
     "id": "recDLx7mt57vNRqk2",
+    "(You can't directly edit this column)": "Nathan Chou, AFX Thick & Thin  Director",
     "groupIds": [
       "rec7bcuYPZkO20JSj"
     ],
@@ -36085,12 +36086,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Nathan Chou, AFX Thick & Thin  Director"
+    "sortKey": "2018c"
   },
   "recocK3tjmzmo3GWO": {
     "createdTime": "2018-12-01T19:01:13.000Z",
     "id": "recocK3tjmzmo3GWO",
+    "(You can't directly edit this column)": "Dan Chung, AFX Thick & Thin  Director",
     "groupIds": [
       "rec7bcuYPZkO20JSj"
     ],
@@ -36133,12 +36134,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Dan Chung, AFX Thick & Thin  Director"
+    "sortKey": "2018c"
   },
   "recgBxqF8cMWUZudd": {
     "createdTime": "2019-01-23T09:05:17.000Z",
     "id": "recgBxqF8cMWUZudd",
+    "(You can't directly edit this column)": "Brian Lam, AFX Triple T Director",
     "groupIds": [
       "recpcyRmEzskH9FWc"
     ],
@@ -36153,12 +36154,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Brian Lam, AFX Triple T Director"
+    "sortKey": "2014c"
   },
   "recmHFXlhx5Vo14Ri": {
     "createdTime": "2019-01-23T09:05:23.000Z",
     "id": "recmHFXlhx5Vo14Ri",
+    "(You can't directly edit this column)": "Bowen Jiang, AFX Triple T Director",
     "groupIds": [
       "recpcyRmEzskH9FWc"
     ],
@@ -36173,12 +36174,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Bowen Jiang, AFX Triple T Director"
+    "sortKey": "2014c"
   },
   "recioPihw7rvU8LzL": {
     "createdTime": "2019-01-23T09:05:29.000Z",
     "id": "recioPihw7rvU8LzL",
+    "(You can't directly edit this column)": "Felix Li, AFX Triple T Director",
     "groupIds": [
       "recpcyRmEzskH9FWc"
     ],
@@ -36193,12 +36194,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recbm2ludN2zPK0pF"
     ],
-    "sortKey": "2014c",
-    "(You can't directly edit this column)": "Felix Li, AFX Triple T Director"
+    "sortKey": "2014c"
   },
   "recwCXVXkxDHyjrCs": {
     "createdTime": "2018-12-01T19:03:12.000Z",
     "id": "recwCXVXkxDHyjrCs",
+    "(You can't directly edit this column)": "Trisha Giron, AFX TV Director",
     "groupIds": [
       "recbo1kdUheKuzZyA"
     ],
@@ -36241,12 +36242,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Trisha Giron, AFX TV Director"
+    "sortKey": "2018c"
   },
   "recN6aEQCOobedfTj": {
     "createdTime": "2018-12-01T19:03:21.000Z",
     "id": "recN6aEQCOobedfTj",
+    "(You can't directly edit this column)": "Viet Truong, AFX TV Director",
     "groupIds": [
       "recbo1kdUheKuzZyA"
     ],
@@ -36289,12 +36290,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Viet Truong, AFX TV Director"
+    "sortKey": "2018c"
   },
   "reca9trtKiFbnLClI": {
     "createdTime": "2019-01-23T07:54:59.000Z",
     "id": "reca9trtKiFbnLClI",
+    "(You can't directly edit this column)": "Waki Gojo, AFX WE Director",
     "groupIds": [
       "recFh3kOglUuzCUQ5"
     ],
@@ -36309,12 +36310,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Waki Gojo, AFX WE Director"
+    "sortKey": "2017a"
   },
   "rec75D8kPvhwlXpfA": {
     "createdTime": "2019-01-23T08:54:15.000Z",
     "id": "rec75D8kPvhwlXpfA",
+    "(You can't directly edit this column)": "Wenhao Liao, AFX Wenevur Director",
     "groupIds": [
       "rec4u3fK7tUhPyhh7"
     ],
@@ -36329,12 +36330,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "Wenhao Liao, AFX Wenevur Director"
+    "sortKey": "2015c"
   },
   "recnSXMkdzQYryDwY": {
     "createdTime": "2019-01-23T08:55:13.000Z",
     "id": "recnSXMkdzQYryDwY",
+    "(You can't directly edit this column)": "Genevieve Tran, AFX Wenevur Director",
     "groupIds": [
       "rec4u3fK7tUhPyhh7"
     ],
@@ -36377,12 +36378,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "Genevieve Tran, AFX Wenevur Director"
+    "sortKey": "2015c"
   },
   "recqv8o2Z9vTbw3S5": {
     "createdTime": "2019-01-23T08:55:16.000Z",
     "id": "recqv8o2Z9vTbw3S5",
+    "(You can't directly edit this column)": "Arthur Liou, AFX Wenevur Director",
     "groupIds": [
       "rec4u3fK7tUhPyhh7"
     ],
@@ -36397,12 +36398,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "Arthur Liou, AFX Wenevur Director"
+    "sortKey": "2015c"
   },
   "recyMjzFUvgbthtZs": {
     "createdTime": "2019-01-23T08:59:21.000Z",
     "id": "recyMjzFUvgbthtZs",
+    "(You can't directly edit this column)": "Neil Xia, AFX XOK Director",
     "groupIds": [
       "reckgPXNmPxGEU0sO"
     ],
@@ -36417,12 +36418,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Neil Xia, AFX XOK Director"
+    "sortKey": "2015a"
   },
   "recujWACXRAsVWyuI": {
     "createdTime": "2019-01-23T08:59:42.000Z",
     "id": "recujWACXRAsVWyuI",
+    "(You can't directly edit this column)": "Keien Ohta, AFX XOK Director",
     "groupIds": [
       "reckgPXNmPxGEU0sO"
     ],
@@ -36437,12 +36438,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Keien Ohta, AFX XOK Director"
+    "sortKey": "2015a"
   },
   "recZGlXCmLRgC0vSm": {
     "createdTime": "2019-01-23T08:59:46.000Z",
     "id": "recZGlXCmLRgC0vSm",
+    "(You can't directly edit this column)": "Chris Kim, AFX XOK Director",
     "groupIds": [
       "reckgPXNmPxGEU0sO"
     ],
@@ -36457,12 +36458,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recciR1KW7mB2Xl9Q"
     ],
-    "sortKey": "2015a",
-    "(You can't directly edit this column)": "Chris Kim, AFX XOK Director"
+    "sortKey": "2015a"
   },
   "recv5f5qOib52MxmG": {
     "createdTime": "2018-12-12T10:53:53.000Z",
     "id": "recv5f5qOib52MxmG",
+    "(You can't directly edit this column)": "Keita Yada, AFX YaRang? Director",
     "groupIds": [
       "recWshCGg4xYnnBfP"
     ],
@@ -36505,12 +36506,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Keita Yada, AFX YaRang? Director"
+    "sortKey": "2018a"
   },
   "recc8j1XXNzreVtbf": {
     "createdTime": "2018-12-12T10:56:36.000Z",
     "id": "recc8j1XXNzreVtbf",
+    "(You can't directly edit this column)": "Daniel Ra, AFX YaRang? Director",
     "groupIds": [
       "recWshCGg4xYnnBfP"
     ],
@@ -36553,12 +36554,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Daniel Ra, AFX YaRang? Director"
+    "sortKey": "2018a"
   },
   "recVoZppQ8ADyeXMM": {
     "createdTime": "2018-12-12T10:57:03.000Z",
     "id": "recVoZppQ8ADyeXMM",
+    "(You can't directly edit this column)": "Jenny Huang, AFX YaRang? Director",
     "groupIds": [
       "recWshCGg4xYnnBfP"
     ],
@@ -36601,12 +36602,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Jenny Huang, AFX YaRang? Director"
+    "sortKey": "2018a"
   },
   "recyBBQviSqdnft8c": {
     "createdTime": "2019-01-23T08:41:48.000Z",
     "id": "recyBBQviSqdnft8c",
+    "(You can't directly edit this column)": "Jeffrey Kurohara, AFX Zero Director",
     "groupIds": [
       "recO1Lw8WksNpencI"
     ],
@@ -36621,12 +36622,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Jeffrey Kurohara, AFX Zero Director"
+    "sortKey": "2016c"
   },
   "rec2mAsLuuchlWcHn": {
     "createdTime": "2019-01-23T08:42:06.000Z",
     "id": "rec2mAsLuuchlWcHn",
+    "(You can't directly edit this column)": "Zoey Kenny, AFX Zero Director",
     "groupIds": [
       "recO1Lw8WksNpencI"
     ],
@@ -36641,12 +36642,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Zoey Kenny, AFX Zero Director"
+    "sortKey": "2016c"
   },
   "recBLHw7zLuyZc4Zg": {
     "createdTime": "2019-01-23T08:42:35.000Z",
     "id": "recBLHw7zLuyZc4Zg",
+    "(You can't directly edit this column)": "Sean Zhu, AFX Zero Director",
     "groupIds": [
       "recO1Lw8WksNpencI"
     ],
@@ -36689,12 +36690,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec46uOkPIMRT94Yl"
     ],
-    "sortKey": "2016c",
-    "(You can't directly edit this column)": "Sean Zhu, AFX Zero Director"
+    "sortKey": "2016c"
   },
   "recZXOxCloWinQBWm": {
     "createdTime": "2019-01-23T08:55:18.000Z",
     "id": "recZXOxCloWinQBWm",
+    "(You can't directly edit this column)": "Ping Quach, AFX.jpg Director",
     "groupIds": [
       "recrzLzveeEhbhDJZ"
     ],
@@ -36709,12 +36710,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "Ping Quach, AFX.jpg Director"
+    "sortKey": "2015c"
   },
   "recSSdBjzGt946dea": {
     "createdTime": "2019-01-23T08:55:27.000Z",
     "id": "recSSdBjzGt946dea",
+    "(You can't directly edit this column)": "Jaemin Kim, AFX.jpg Director",
     "groupIds": [
       "recrzLzveeEhbhDJZ"
     ],
@@ -36729,12 +36730,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recY0nIuoOQBEiove"
     ],
-    "sortKey": "2015c",
-    "(You can't directly edit this column)": "Jaemin Kim, AFX.jpg Director"
+    "sortKey": "2015c"
   },
   "rec729ICzYrnaniKz": {
     "createdTime": "2018-12-12T10:16:31.000Z",
     "id": "rec729ICzYrnaniKz",
+    "(You can't directly edit this column)": "Joshua Fitch, AFXsi (N)SFW Director",
     "groupIds": [
       "rec6O0XYNXZk0TUSH"
     ],
@@ -36777,12 +36778,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Joshua Fitch, AFXsi (N)SFW Director"
+    "sortKey": "2017b"
   },
   "recv0StHKySgIjd2X": {
     "createdTime": "2018-12-12T10:17:25.000Z",
     "id": "recv0StHKySgIjd2X",
+    "(You can't directly edit this column)": "Max Wang, AFXsi (N)SFW Director",
     "groupIds": [
       "rec6O0XYNXZk0TUSH"
     ],
@@ -36825,12 +36826,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Max Wang, AFXsi (N)SFW Director"
+    "sortKey": "2017b"
   },
   "recsGq7TKmJ1ie15w": {
     "createdTime": "2018-12-12T10:17:58.000Z",
     "id": "recsGq7TKmJ1ie15w",
+    "(You can't directly edit this column)": "Ashley Song, AFXsi (N)SFW Director",
     "groupIds": [
       "rec6O0XYNXZk0TUSH"
     ],
@@ -36873,12 +36874,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Ashley Song, AFXsi (N)SFW Director"
+    "sortKey": "2017b"
   },
   "recFHUd9aYKQpHLxs": {
     "createdTime": "2018-12-12T09:57:15.000Z",
     "id": "recFHUd9aYKQpHLxs",
+    "(You can't directly edit this column)": "Alex Nguyen, AFXsi 4PLAY Director",
     "groupIds": [
       "rec8RsWuzGriceaKU"
     ],
@@ -36921,12 +36922,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Alex Nguyen, AFXsi 4PLAY Director"
+    "sortKey": "2018b"
   },
   "recsYg7ewwRhtLunv": {
     "createdTime": "2019-01-23T09:24:17.000Z",
     "id": "recsYg7ewwRhtLunv",
+    "(You can't directly edit this column)": "Andrea Deng, AFXsi Andrenaline Director",
     "groupIds": [
       "recuSIOZ5KP5kQXs6"
     ],
@@ -36941,12 +36942,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Andrea Deng, AFXsi Andrenaline Director"
+    "sortKey": "2015b"
   },
   "recu6gj33eIwXoDkw": {
     "createdTime": "2019-01-23T09:24:46.000Z",
     "id": "recu6gj33eIwXoDkw",
+    "(You can't directly edit this column)": "Eilan Zeng, AFXsi Andrenaline Director",
     "groupIds": [
       "recuSIOZ5KP5kQXs6"
     ],
@@ -36989,12 +36990,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Eilan Zeng, AFXsi Andrenaline Director"
+    "sortKey": "2015b"
   },
   "reccefpOUbqMOSxGy": {
     "createdTime": "2019-01-23T09:24:46.000Z",
     "id": "reccefpOUbqMOSxGy",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi Andrenaline Director",
     "groupIds": [
       "recuSIOZ5KP5kQXs6"
     ],
@@ -37009,12 +37010,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi Andrenaline Director"
+    "sortKey": "2015b"
   },
   "reccIIXYxE0pEnruu": {
     "createdTime": "2019-01-23T09:24:54.000Z",
     "id": "reccIIXYxE0pEnruu",
+    "(You can't directly edit this column)": "Angela Peng, AFXsi Anthm Director",
     "groupIds": [
       "recfICFVB55oWC78y"
     ],
@@ -37029,12 +37030,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Angela Peng, AFXsi Anthm Director"
+    "sortKey": "2015b"
   },
   "recJw0ISpmIl6IYkZ": {
     "createdTime": "2019-01-23T09:25:04.000Z",
     "id": "recJw0ISpmIl6IYkZ",
+    "(You can't directly edit this column)": "Michael Chen, AFXsi Anthm Director",
     "groupIds": [
       "recfICFVB55oWC78y"
     ],
@@ -37049,12 +37050,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Michael Chen, AFXsi Anthm Director"
+    "sortKey": "2015b"
   },
   "recjmKYNx9QoSXbYM": {
     "createdTime": "2019-01-23T09:25:09.000Z",
     "id": "recjmKYNx9QoSXbYM",
+    "(You can't directly edit this column)": "Nathan Lee, AFXsi Anthm Director",
     "groupIds": [
       "recfICFVB55oWC78y"
     ],
@@ -37069,12 +37070,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Nathan Lee, AFXsi Anthm Director"
+    "sortKey": "2015b"
   },
   "receSQ28JRsvS6hBp": {
     "createdTime": "2019-01-23T09:25:54.000Z",
     "id": "receSQ28JRsvS6hBp",
+    "(You can't directly edit this column)": "Michelle Li, AFXsi Bae Director",
     "groupIds": [
       "recOVpFFYp4LMgN3I"
     ],
@@ -37089,12 +37090,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Michelle Li, AFXsi Bae Director"
+    "sortKey": "2016b"
   },
   "rece1yf7dk1UvnN4j": {
     "createdTime": "2019-01-23T09:26:00.000Z",
     "id": "rece1yf7dk1UvnN4j",
+    "(You can't directly edit this column)": "Christian Cayton, AFXsi Bae Director",
     "groupIds": [
       "recOVpFFYp4LMgN3I"
     ],
@@ -37109,12 +37110,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Christian Cayton, AFXsi Bae Director"
+    "sortKey": "2016b"
   },
   "recfKAOT9quS6rgqN": {
     "createdTime": "2019-01-23T09:26:07.000Z",
     "id": "recfKAOT9quS6rgqN",
+    "(You can't directly edit this column)": "Brian Lam, AFXsi Banging Director",
     "groupIds": [
       "recJ3YxwbZ3dMC5gj"
     ],
@@ -37157,12 +37158,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Brian Lam, AFXsi Banging Director"
+    "sortKey": "2016b"
   },
   "recRi0DzgFo7stxIf": {
     "createdTime": "2019-01-23T09:26:23.000Z",
     "id": "recRi0DzgFo7stxIf",
+    "(You can't directly edit this column)": "Yangzi He, AFXsi Banging Director",
     "groupIds": [
       "recJ3YxwbZ3dMC5gj"
     ],
@@ -37205,12 +37206,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Yangzi He, AFXsi Banging Director"
+    "sortKey": "2016b"
   },
   "recFYnNSNlVjMWSFJ": {
     "createdTime": "2019-01-23T09:26:27.000Z",
     "id": "recFYnNSNlVjMWSFJ",
+    "(You can't directly edit this column)": "Qing Wong, AFXsi Banging Director",
     "groupIds": [
       "recJ3YxwbZ3dMC5gj"
     ],
@@ -37253,12 +37254,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Qing Wong, AFXsi Banging Director"
+    "sortKey": "2016b"
   },
   "recom0BVDGyT0facY": {
     "createdTime": "2019-01-23T09:26:43.000Z",
     "id": "recom0BVDGyT0facY",
+    "(You can't directly edit this column)": "Alex Xiao, AFXsi Chaos Director",
     "groupIds": [
       "recuImUmgqu8u1Hlp"
     ],
@@ -37301,12 +37302,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Alex Xiao, AFXsi Chaos Director"
+    "sortKey": "2016b"
   },
   "recTaBR89Kp603Ukv": {
     "createdTime": "2019-01-23T09:26:51.000Z",
     "id": "recTaBR89Kp603Ukv",
+    "(You can't directly edit this column)": "Anne Choi, AFXsi Chaos Director",
     "groupIds": [
       "recuImUmgqu8u1Hlp"
     ],
@@ -37349,12 +37350,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Anne Choi, AFXsi Chaos Director"
+    "sortKey": "2016b"
   },
   "recYFIbHXLptq2xSC": {
     "createdTime": "2019-01-23T09:30:20.000Z",
     "id": "recYFIbHXLptq2xSC",
+    "(You can't directly edit this column)": "Richard Xu, AFXsi dxrp Director",
     "groupIds": [
       "recideyqEsLQVrk6U"
     ],
@@ -37369,12 +37370,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Richard Xu, AFXsi dxrp Director"
+    "sortKey": "2017b"
   },
   "recWwPEXQ3EdQOElG": {
     "createdTime": "2019-01-23T09:30:57.000Z",
     "id": "recWwPEXQ3EdQOElG",
+    "(You can't directly edit this column)": "Peggy Shih, AFXsi dxrp Director",
     "groupIds": [
       "recideyqEsLQVrk6U"
     ],
@@ -37389,12 +37390,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Peggy Shih, AFXsi dxrp Director"
+    "sortKey": "2017b"
   },
   "recBtSAYDxf0P2gTU": {
     "createdTime": "2019-01-23T09:31:03.000Z",
     "id": "recBtSAYDxf0P2gTU",
+    "(You can't directly edit this column)": "Darius Sparks, AFXsi dxrp Director",
     "groupIds": [
       "recideyqEsLQVrk6U"
     ],
@@ -37409,12 +37410,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Darius Sparks, AFXsi dxrp Director"
+    "sortKey": "2017b"
   },
   "recsemJBUer80vghF": {
     "createdTime": "2019-01-23T09:36:06.000Z",
     "id": "recsemJBUer80vghF",
+    "(You can't directly edit this column)": "Angela Hou, AFXsi Echo Director",
     "groupIds": [
       "recCbo4tDZZKyEim7"
     ],
@@ -37457,12 +37458,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Angela Hou, AFXsi Echo Director"
+    "sortKey": "2018b"
   },
   "rec202dM2ysnkSl1L": {
     "createdTime": "2019-01-23T09:36:24.000Z",
     "id": "rec202dM2ysnkSl1L",
+    "(You can't directly edit this column)": "Elle Cheung, AFXsi Echo Director",
     "groupIds": [
       "recCbo4tDZZKyEim7"
     ],
@@ -37505,12 +37506,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Elle Cheung, AFXsi Echo Director"
+    "sortKey": "2018b"
   },
   "recZ7IdaqBWgI6VDE": {
     "createdTime": "2019-01-23T09:26:55.000Z",
     "id": "recZ7IdaqBWgI6VDE",
+    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON Director",
     "groupIds": [
       "recw3tPXhSfrR5Tyu"
     ],
@@ -37553,12 +37554,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON Director"
+    "sortKey": "2016b"
   },
   "reccSr1Z8IOGdvJ6y": {
     "createdTime": "2019-01-23T09:27:15.000Z",
     "id": "reccSr1Z8IOGdvJ6y",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON Director",
     "groupIds": [
       "recw3tPXhSfrR5Tyu"
     ],
@@ -37573,12 +37574,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON Director"
+    "sortKey": "2016b"
   },
   "recNgRwpxQLGWyLHK": {
     "createdTime": "2019-01-23T09:27:15.000Z",
     "id": "recNgRwpxQLGWyLHK",
+    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON Director",
     "groupIds": [
       "recw3tPXhSfrR5Tyu"
     ],
@@ -37593,12 +37594,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON Director"
+    "sortKey": "2016b"
   },
   "recEvwsBLGah9oA6h": {
     "createdTime": "2019-01-23T09:31:11.000Z",
     "id": "recEvwsBLGah9oA6h",
+    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON Director",
     "groupIds": [
       "recY8xWazB8UYou9m"
     ],
@@ -37641,12 +37642,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Alex Kwon, AFXsi iKON Director"
+    "sortKey": "2017b"
   },
   "recpy3gH8l2nh2IXJ": {
     "createdTime": "2019-01-23T09:31:30.000Z",
     "id": "recpy3gH8l2nh2IXJ",
+    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON Director",
     "groupIds": [
       "recY8xWazB8UYou9m"
     ],
@@ -37661,12 +37662,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Daniel Nguyen, AFXsi iKON Director"
+    "sortKey": "2017b"
   },
   "recE84Pg7acHw9jUM": {
     "createdTime": "2019-01-23T09:31:30.000Z",
     "id": "recE84Pg7acHw9jUM",
+    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON Director",
     "groupIds": [
       "recY8xWazB8UYou9m"
     ],
@@ -37681,12 +37682,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Keien Ohta, AFXsi iKON Director"
+    "sortKey": "2017b"
   },
   "recWyIS4z2kntvCxB": {
     "createdTime": "2019-01-23T09:25:15.000Z",
     "id": "recWyIS4z2kntvCxB",
+    "(You can't directly edit this column)": "Joseph Beltran, AFXsi JAM Director",
     "groupIds": [
       "recE55poWqurXd97D"
     ],
@@ -37701,12 +37702,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Joseph Beltran, AFXsi JAM Director"
+    "sortKey": "2015b"
   },
   "recYtt6bur1ajYJaP": {
     "createdTime": "2019-01-23T09:25:27.000Z",
     "id": "recYtt6bur1ajYJaP",
+    "(You can't directly edit this column)": "AC Dela Paz, AFXsi JAM Director",
     "groupIds": [
       "recE55poWqurXd97D"
     ],
@@ -37721,12 +37722,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "AC Dela Paz, AFXsi JAM Director"
+    "sortKey": "2015b"
   },
   "rec48BuRv3Je16I2b": {
     "createdTime": "2019-01-23T09:25:31.000Z",
     "id": "rec48BuRv3Je16I2b",
+    "(You can't directly edit this column)": "Mahek Modi, AFXsi JAM Director",
     "groupIds": [
       "recE55poWqurXd97D"
     ],
@@ -37741,12 +37742,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Mahek Modi, AFXsi JAM Director"
+    "sortKey": "2015b"
   },
   "recPyCFOniZIOUHBr": {
     "createdTime": "2019-01-23T09:21:29.000Z",
     "id": "recPyCFOniZIOUHBr",
+    "(You can't directly edit this column)": "Joseph Koo, AFXsi Jokayne Director",
     "groupIds": [
       "recVFwKwKUXRf3UVn"
     ],
@@ -37761,12 +37762,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013b",
-    "(You can't directly edit this column)": "Joseph Koo, AFXsi Jokayne Director"
+    "sortKey": "2013b"
   },
   "recadRqDVmqS8fAXb": {
     "createdTime": "2019-01-23T09:23:40.000Z",
     "id": "recadRqDVmqS8fAXb",
+    "(You can't directly edit this column)": "Kyle Feng, AFXsi Jokayne Director",
     "groupIds": [
       "recVFwKwKUXRf3UVn"
     ],
@@ -37781,12 +37782,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013b",
-    "(You can't directly edit this column)": "Kyle Feng, AFXsi Jokayne Director"
+    "sortKey": "2013b"
   },
   "recPizxfeNVrfh56F": {
     "createdTime": "2019-01-23T09:23:40.000Z",
     "id": "recPizxfeNVrfh56F",
+    "(You can't directly edit this column)": "Wayne Zhong, AFXsi Jokayne Director",
     "groupIds": [
       "recVFwKwKUXRf3UVn"
     ],
@@ -37801,12 +37802,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recqLFTMOEFuuNmkV"
     ],
-    "sortKey": "2013b",
-    "(You can't directly edit this column)": "Wayne Zhong, AFXsi Jokayne Director"
+    "sortKey": "2013b"
   },
   "recVlMNq8V5m869sT": {
     "createdTime": "2019-01-23T09:36:52.000Z",
     "id": "recVlMNq8V5m869sT",
+    "(You can't directly edit this column)": "Richard Qian, AFXsi JuiceBox Director",
     "groupIds": [
       "recQLC0SGq1JalhZy"
     ],
@@ -37849,12 +37850,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Richard Qian, AFXsi JuiceBox Director"
+    "sortKey": "2018b"
   },
   "rec9Y1MFmVi8QfIQd": {
     "createdTime": "2019-01-23T09:37:01.000Z",
     "id": "rec9Y1MFmVi8QfIQd",
+    "(You can't directly edit this column)": "Winn Cui, AFXsi JuiceBox Director",
     "groupIds": [
       "recQLC0SGq1JalhZy"
     ],
@@ -37897,12 +37898,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Winn Cui, AFXsi JuiceBox Director"
+    "sortKey": "2018b"
   },
   "rec2n8WBZpYmVBj0r": {
     "createdTime": "2019-01-23T09:37:04.000Z",
     "id": "rec2n8WBZpYmVBj0r",
+    "(You can't directly edit this column)": "Jones Ou, AFXsi JuiceBox Director",
     "groupIds": [
       "recQLC0SGq1JalhZy"
     ],
@@ -37945,12 +37946,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Jones Ou, AFXsi JuiceBox Director"
+    "sortKey": "2018b"
   },
   "recYZrRek0Rre0fF6": {
     "createdTime": "2019-01-23T09:28:21.000Z",
     "id": "recYZrRek0Rre0fF6",
+    "(You can't directly edit this column)": "Emily Tsai, AFXsi KeKeKe Director",
     "groupIds": [
       "recPKxHOdAfnBkagq"
     ],
@@ -37965,12 +37966,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Emily Tsai, AFXsi KeKeKe Director"
+    "sortKey": "2016b"
   },
   "recGzgezDFxUmGjL7": {
     "createdTime": "2019-01-23T09:29:00.000Z",
     "id": "recGzgezDFxUmGjL7",
+    "(You can't directly edit this column)": "Kathie Tian, AFXsi KeKeKe Director",
     "groupIds": [
       "recPKxHOdAfnBkagq"
     ],
@@ -37985,12 +37986,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Kathie Tian, AFXsi KeKeKe Director"
+    "sortKey": "2016b"
   },
   "reccWuJYTqYQwvHug": {
     "createdTime": "2019-01-23T09:29:04.000Z",
     "id": "reccWuJYTqYQwvHug",
+    "(You can't directly edit this column)": "Chris Kim, AFXsi KoJa Director",
     "groupIds": [
       "recoXVe23XTKANF21"
     ],
@@ -38005,12 +38006,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Chris Kim, AFXsi KoJa Director"
+    "sortKey": "2016b"
   },
   "recKioPJo4yzrzPFA": {
     "createdTime": "2019-01-23T09:29:12.000Z",
     "id": "recKioPJo4yzrzPFA",
+    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi KoJa Director",
     "groupIds": [
       "recoXVe23XTKANF21"
     ],
@@ -38025,12 +38026,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoIdMWmnZ8Khgdz"
     ],
-    "sortKey": "2016b",
-    "(You can't directly edit this column)": "Kevin Hayakawa, AFXsi KoJa Director"
+    "sortKey": "2016b"
   },
   "rec0ZpHrzoBFlIZQC": {
     "createdTime": "2019-01-23T09:25:38.000Z",
     "id": "rec0ZpHrzoBFlIZQC",
+    "(You can't directly edit this column)": "Kristen Shimoda, AFXsi Kryan Director",
     "groupIds": [
       "recllo5BKMuqHWrRj"
     ],
@@ -38045,12 +38046,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Kristen Shimoda, AFXsi Kryan Director"
+    "sortKey": "2015b"
   },
   "recAHXHouINxmzbcY": {
     "createdTime": "2019-01-23T09:25:44.000Z",
     "id": "recAHXHouINxmzbcY",
+    "(You can't directly edit this column)": "Ryan Sebastian, AFXsi Kryan Director",
     "groupIds": [
       "recllo5BKMuqHWrRj"
     ],
@@ -38065,12 +38066,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmhzP4aHP54XrIy"
     ],
-    "sortKey": "2015b",
-    "(You can't directly edit this column)": "Ryan Sebastian, AFXsi Kryan Director"
+    "sortKey": "2015b"
   },
   "recnr7Nkz4t1x0ycE": {
     "createdTime": "2019-01-23T09:23:43.000Z",
     "id": "recnr7Nkz4t1x0ycE",
+    "(You can't directly edit this column)": "Natalie Ma, AFXsi Majiang Director",
     "groupIds": [
       "recOsz2yPhsrLgtpo"
     ],
@@ -38085,12 +38086,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014b",
-    "(You can't directly edit this column)": "Natalie Ma, AFXsi Majiang Director"
+    "sortKey": "2014b"
   },
   "recGG94oULenVEgaJ": {
     "createdTime": "2019-01-23T09:23:51.000Z",
     "id": "recGG94oULenVEgaJ",
+    "(You can't directly edit this column)": "Teresa Jiang, AFXsi Majiang Director",
     "groupIds": [
       "recOsz2yPhsrLgtpo"
     ],
@@ -38105,12 +38106,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014b",
-    "(You can't directly edit this column)": "Teresa Jiang, AFXsi Majiang Director"
+    "sortKey": "2014b"
   },
   "recNZgfUdJGx6tqqT": {
     "createdTime": "2019-01-23T09:32:33.000Z",
     "id": "recNZgfUdJGx6tqqT",
+    "(You can't directly edit this column)": "Marisa Liang, AFXsi Mickey D's Director",
     "groupIds": [
       "rec3I7LD5AxwLkwcl"
     ],
@@ -38153,12 +38154,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Marisa Liang, AFXsi Mickey D's Director"
+    "sortKey": "2017b"
   },
   "recEAEA8wvCkP2tRl": {
     "createdTime": "2019-01-23T09:32:47.000Z",
     "id": "recEAEA8wvCkP2tRl",
+    "(You can't directly edit this column)": "Kenny Lu, AFXsi Mickey D's Director",
     "groupIds": [
       "rec3I7LD5AxwLkwcl"
     ],
@@ -38201,12 +38202,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Kenny Lu, AFXsi Mickey D's Director"
+    "sortKey": "2017b"
   },
   "reckYjJz1ayV2HMVq": {
     "createdTime": "2019-01-23T09:32:50.000Z",
     "id": "reckYjJz1ayV2HMVq",
+    "(You can't directly edit this column)": "David Lee, AFXsi Mickey D's Director",
     "groupIds": [
       "rec3I7LD5AxwLkwcl"
     ],
@@ -38249,12 +38250,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "David Lee, AFXsi Mickey D's Director"
+    "sortKey": "2017b"
   },
   "recXv7wbfOzg6Kmq4": {
     "createdTime": "2019-01-23T09:33:37.000Z",
     "id": "recXv7wbfOzg6Kmq4",
+    "(You can't directly edit this column)": "Kirk La, AFXsi Milk Director",
     "groupIds": [
       "recjmrarPLS2cLFP6"
     ],
@@ -38297,12 +38298,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Kirk La, AFXsi Milk Director"
+    "sortKey": "2017b"
   },
   "recjgzzSANuAhx6pG": {
     "createdTime": "2019-01-23T09:33:41.000Z",
     "id": "recjgzzSANuAhx6pG",
+    "(You can't directly edit this column)": "Mark Reed, AFXsi Milk Director",
     "groupIds": [
       "recjmrarPLS2cLFP6"
     ],
@@ -38345,12 +38346,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Mark Reed, AFXsi Milk Director"
+    "sortKey": "2017b"
   },
   "recsWTKyw1x4jx4zt": {
     "createdTime": "2019-01-23T09:33:50.000Z",
     "id": "recsWTKyw1x4jx4zt",
+    "(You can't directly edit this column)": "Wilfred Salacup, AFXsi Milk Director",
     "groupIds": [
       "recjmrarPLS2cLFP6"
     ],
@@ -38393,12 +38394,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Wilfred Salacup, AFXsi Milk Director"
+    "sortKey": "2017b"
   },
   "rec6TDEsRxOdpUDDB": {
     "createdTime": "2018-12-12T09:47:03.000Z",
     "id": "rec6TDEsRxOdpUDDB",
+    "(You can't directly edit this column)": "Ashley Song, AFXsi N/A Director",
     "groupIds": [
       "recpQI3J6HKu6NObe"
     ],
@@ -38441,12 +38442,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Ashley Song, AFXsi N/A Director"
+    "sortKey": "2018b"
   },
   "recrhqq26IXzcwk22": {
     "createdTime": "2018-12-12T09:52:34.000Z",
     "id": "recrhqq26IXzcwk22",
+    "(You can't directly edit this column)": "Max Wang, AFXsi N/A Director",
     "groupIds": [
       "recpQI3J6HKu6NObe"
     ],
@@ -38489,12 +38490,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Max Wang, AFXsi N/A Director"
+    "sortKey": "2018b"
   },
   "recodQtvOvN2su3LM": {
     "createdTime": "2019-01-23T09:36:33.000Z",
     "id": "recodQtvOvN2su3LM",
+    "(You can't directly edit this column)": "Jinnie Rhee, AFXsi RheeL Director",
     "groupIds": [
       "recKIT6nxJFIUwaCF"
     ],
@@ -38537,12 +38538,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Jinnie Rhee, AFXsi RheeL Director"
+    "sortKey": "2018b"
   },
   "recYVKe6hNuwttVk4": {
     "createdTime": "2019-01-23T09:36:43.000Z",
     "id": "recYVKe6hNuwttVk4",
+    "(You can't directly edit this column)": "Wendy Lin, AFXsi RheeL Director",
     "groupIds": [
       "recKIT6nxJFIUwaCF"
     ],
@@ -38585,12 +38586,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Wendy Lin, AFXsi RheeL Director"
+    "sortKey": "2018b"
   },
   "recarIRB5fVvYK0Bd": {
     "createdTime": "2019-01-23T09:24:03.000Z",
     "id": "recarIRB5fVvYK0Bd",
+    "(You can't directly edit this column)": "Anita Chan, AFXsi SAN Director",
     "groupIds": [
       "recUrnBvsEJATCt1Q"
     ],
@@ -38605,12 +38606,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014b",
-    "(You can't directly edit this column)": "Anita Chan, AFXsi SAN Director"
+    "sortKey": "2014b"
   },
   "recNsn8aA6zrs8o3D": {
     "createdTime": "2019-01-23T09:24:14.000Z",
     "id": "recNsn8aA6zrs8o3D",
+    "(You can't directly edit this column)": "Sierra Feasel, AFXsi SAN Director",
     "groupIds": [
       "recUrnBvsEJATCt1Q"
     ],
@@ -38625,12 +38626,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recApj4OON4ph8eu5"
     ],
-    "sortKey": "2014b",
-    "(You can't directly edit this column)": "Sierra Feasel, AFXsi SAN Director"
+    "sortKey": "2014b"
   },
   "recPUJmKHlBy18YKn": {
     "createdTime": "2019-01-23T09:34:05.000Z",
     "id": "recPUJmKHlBy18YKn",
+    "(You can't directly edit this column)": "Lilian Chen, AFXsi Slumber Party Director",
     "groupIds": [
       "recn6LlGtFykr0SZo"
     ],
@@ -38673,12 +38674,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Lilian Chen, AFXsi Slumber Party Director"
+    "sortKey": "2017b"
   },
   "recKefbsymSU2XoQQ": {
     "createdTime": "2018-11-10T18:42:36.000Z",
     "id": "recKefbsymSU2XoQQ",
+    "(You can't directly edit this column)": "Alex Nguyen, AFXsi Slumber Party Director",
     "groupIds": [
       "recn6LlGtFykr0SZo"
     ],
@@ -38721,12 +38722,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Alex Nguyen, AFXsi Slumber Party Director"
+    "sortKey": "2017b"
   },
   "recUMDlSdJPSLOorB": {
     "createdTime": "2018-11-03T18:35:25.000Z",
     "id": "recUMDlSdJPSLOorB",
+    "(You can't directly edit this column)": "Emily Zhang, AFXsi Smol Chunks Director",
     "groupIds": [
       "recJGCk5JPfHJ5nI5"
     ],
@@ -38769,12 +38770,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Emily Zhang, AFXsi Smol Chunks Director"
+    "sortKey": "2018b"
   },
   "reccuIpsZHfgfMdHZ": {
     "createdTime": "2018-11-10T18:34:38.000Z",
     "id": "reccuIpsZHfgfMdHZ",
+    "(You can't directly edit this column)": "Jennifer Zhang, AFXsi Smol Chunks Director",
     "groupIds": [
       "recJGCk5JPfHJ5nI5"
     ],
@@ -38817,12 +38818,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Jennifer Zhang, AFXsi Smol Chunks Director"
+    "sortKey": "2018b"
   },
   "rechMfFiXW6u3hig7": {
     "createdTime": "2018-11-10T18:34:54.000Z",
     "id": "rechMfFiXW6u3hig7",
+    "(You can't directly edit this column)": "Joseph Jiang, AFXsi Smol Chunks Director",
     "groupIds": [
       "recJGCk5JPfHJ5nI5"
     ],
@@ -38865,12 +38866,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Joseph Jiang, AFXsi Smol Chunks Director"
+    "sortKey": "2018b"
   },
   "reciObpc8gPiKo1In": {
     "createdTime": "2018-12-12T10:40:26.000Z",
     "id": "reciObpc8gPiKo1In",
+    "(You can't directly edit this column)": "Sean Zhu, AFXsi WaSteD Director",
     "groupIds": [
       "recFJhX3DlVrqJRRn"
     ],
@@ -38913,12 +38914,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Sean Zhu, AFXsi WaSteD Director"
+    "sortKey": "2018b"
   },
   "recnQ9X5cMaRnFV53": {
     "createdTime": "2018-12-12T10:42:23.000Z",
     "id": "recnQ9X5cMaRnFV53",
+    "(You can't directly edit this column)": "Whitney Li, AFXsi WaSteD Director",
     "groupIds": [
       "recFJhX3DlVrqJRRn"
     ],
@@ -38961,12 +38962,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Whitney Li, AFXsi WaSteD Director"
+    "sortKey": "2018b"
   },
   "recD42sX1oii6b3so": {
     "createdTime": "2018-12-12T10:43:34.000Z",
     "id": "recD42sX1oii6b3so",
+    "(You can't directly edit this column)": "Daniel Ra, AFXsi WaSteD Director",
     "groupIds": [
       "recFJhX3DlVrqJRRn"
     ],
@@ -39009,12 +39010,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018b",
-    "(You can't directly edit this column)": "Daniel Ra, AFXsi WaSteD Director"
+    "sortKey": "2018b"
   },
   "recKY4ZkPFqNTRT39": {
     "createdTime": "2019-01-23T07:07:03.000Z",
     "id": "recKY4ZkPFqNTRT39",
+    "(You can't directly edit this column)": "Jackie Kim, AFXTRA Director",
     "groupIds": [
       "recvzImCC7gALMQuK"
     ],
@@ -39029,12 +39030,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Jackie Kim, AFXTRA Director"
+    "sortKey": "2017a"
   },
   "rec12VITQsJQQJeWL": {
     "createdTime": "2019-01-23T07:07:36.000Z",
     "id": "rec12VITQsJQQJeWL",
+    "(You can't directly edit this column)": "Nathan Jin, AFXTRA Director",
     "groupIds": [
       "recvzImCC7gALMQuK"
     ],
@@ -39049,12 +39050,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Nathan Jin, AFXTRA Director"
+    "sortKey": "2017a"
   },
   "recaNKjCOdfm2sevX": {
     "createdTime": "2019-01-23T07:08:14.000Z",
     "id": "recaNKjCOdfm2sevX",
+    "(You can't directly edit this column)": "Yuki Pan, AFXTRA Director",
     "groupIds": [
       "recvzImCC7gALMQuK"
     ],
@@ -39069,12 +39070,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Yuki Pan, AFXTRA Director"
+    "sortKey": "2017a"
   },
   "recoKxV2bk6pdT1Pk": {
     "createdTime": "2019-01-23T09:29:14.000Z",
     "id": "recoKxV2bk6pdT1Pk",
+    "(You can't directly edit this column)": "Aloysius Makalinao, AFXTRM Director",
     "groupIds": [
       "rec0CkXoH2GWsRqI9"
     ],
@@ -39117,12 +39118,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Aloysius Makalinao, AFXTRM Director"
+    "sortKey": "2017b"
   },
   "recbTh9069guX5GSd": {
     "createdTime": "2019-01-23T09:30:03.000Z",
     "id": "recbTh9069guX5GSd",
+    "(You can't directly edit this column)": "Miguel Francisco, AFXTRM Director",
     "groupIds": [
       "rec0CkXoH2GWsRqI9"
     ],
@@ -39165,12 +39166,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Miguel Francisco, AFXTRM Director"
+    "sortKey": "2017b"
   },
   "recWSUiRJu5R8tjas": {
     "createdTime": "2019-01-23T09:30:09.000Z",
     "id": "recWSUiRJu5R8tjas",
+    "(You can't directly edit this column)": "Vienna Harvey, AFXTRM Director",
     "groupIds": [
       "rec0CkXoH2GWsRqI9"
     ],
@@ -39213,12 +39214,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recd2QXLEA5yJeKlX"
     ],
-    "sortKey": "2017b",
-    "(You can't directly edit this column)": "Vienna Harvey, AFXTRM Director"
+    "sortKey": "2017b"
   },
   "reciTQZrpjz6GPY0E": {
     "createdTime": "2018-12-01T19:02:43.000Z",
     "id": "reciTQZrpjz6GPY0E",
+    "(You can't directly edit this column)": "Julie Liu , AFXXX Director",
     "groupIds": [
       "recvYtPBSrT8l3Oel"
     ],
@@ -39261,12 +39262,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Julie Liu , AFXXX Director"
+    "sortKey": "2018c"
   },
   "recvJU1WJLwEMjjp9": {
     "createdTime": "2018-12-01T19:03:00.000Z",
     "id": "recvJU1WJLwEMjjp9",
+    "(You can't directly edit this column)": "Katherine Bigelow, AFXXX Director",
     "groupIds": [
       "recvYtPBSrT8l3Oel"
     ],
@@ -39309,12 +39310,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Katherine Bigelow, AFXXX Director"
+    "sortKey": "2018c"
   },
   "recwMSrRTOGB90NW7": {
     "createdTime": "2018-12-01T19:03:05.000Z",
     "id": "recwMSrRTOGB90NW7",
+    "(You can't directly edit this column)": "Brandon Park Coy, AFXXX Director",
     "groupIds": [
       "recvYtPBSrT8l3Oel"
     ],
@@ -39357,12 +39358,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recJ4hDACtEzrRW8f"
     ],
-    "sortKey": "2018c",
-    "(You can't directly edit this column)": "Brandon Park Coy, AFXXX Director"
+    "sortKey": "2018c"
   },
   "recq21Woch5bYPd9W": {
     "createdTime": "2019-01-23T09:14:14.000Z",
     "id": "recq21Woch5bYPd9W",
+    "(You can't directly edit this column)": "Daniel He, CFX Dandrew Director",
     "groupIds": [
       "recmrNMrtOPRnptlj"
     ],
@@ -39377,12 +39378,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Daniel He, CFX Dandrew Director"
+    "sortKey": "2013a"
   },
   "rec5mcgCORGIFQmTo": {
     "createdTime": "2019-01-23T09:14:27.000Z",
     "id": "rec5mcgCORGIFQmTo",
+    "(You can't directly edit this column)": "Andrew Lee, CFX Dandrew Director",
     "groupIds": [
       "recmrNMrtOPRnptlj"
     ],
@@ -39397,12 +39398,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Andrew Lee, CFX Dandrew Director"
+    "sortKey": "2013a"
   },
   "rectcZoQMXXJwhKz6": {
     "createdTime": "2019-01-23T09:14:31.000Z",
     "id": "rectcZoQMXXJwhKz6",
+    "(You can't directly edit this column)": "Akina Tran, CFX Jakina Director",
     "groupIds": [
       "recOXMrmfqrI4w81D"
     ],
@@ -39417,12 +39418,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Akina Tran, CFX Jakina Director"
+    "sortKey": "2013a"
   },
   "recOMZ6S9ObqsLJ0g": {
     "createdTime": "2019-01-23T09:15:24.000Z",
     "id": "recOMZ6S9ObqsLJ0g",
+    "(You can't directly edit this column)": "James Arias, CFX Jakina Director",
     "groupIds": [
       "recOXMrmfqrI4w81D"
     ],
@@ -39437,12 +39438,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "James Arias, CFX Jakina Director"
+    "sortKey": "2013a"
   },
   "recFPBKRkTqNAbt8v": {
     "createdTime": "2019-01-23T09:15:30.000Z",
     "id": "recFPBKRkTqNAbt8v",
+    "(You can't directly edit this column)": "Felix Li, CFX Kelix Director",
     "groupIds": [
       "rec89U7CQbAdA14Ad"
     ],
@@ -39457,12 +39458,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Felix Li, CFX Kelix Director"
+    "sortKey": "2013a"
   },
   "recfld55pP2plteXM": {
     "createdTime": "2019-01-23T09:15:49.000Z",
     "id": "recfld55pP2plteXM",
+    "(You can't directly edit this column)": "Kevin Song, CFX Kelix Director",
     "groupIds": [
       "rec89U7CQbAdA14Ad"
     ],
@@ -39477,12 +39478,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Kevin Song, CFX Kelix Director"
+    "sortKey": "2013a"
   },
   "recLgzRnxUGSyGl3D": {
     "createdTime": "2019-01-23T09:15:51.000Z",
     "id": "recLgzRnxUGSyGl3D",
+    "(You can't directly edit this column)": "Peter Joo, CFX Yujoo Director",
     "groupIds": [
       "recHUtfGFtTovTeMw"
     ],
@@ -39497,12 +39498,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Peter Joo, CFX Yujoo Director"
+    "sortKey": "2013a"
   },
   "rece3NNQjxP3g641W": {
     "createdTime": "2019-01-23T09:16:10.000Z",
     "id": "rece3NNQjxP3g641W",
+    "(You can't directly edit this column)": "Chrystina Yu, CFX Yujoo Director",
     "groupIds": [
       "recHUtfGFtTovTeMw"
     ],
@@ -39545,12 +39546,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNoD9Wx0WqCgYfo"
     ],
-    "sortKey": "2013a",
-    "(You can't directly edit this column)": "Chrystina Yu, CFX Yujoo Director"
+    "sortKey": "2013a"
   },
   "recdorPubxlSCAzhI": {
     "createdTime": "2019-01-24T08:26:44.000Z",
     "id": "recdorPubxlSCAzhI",
+    "(You can't directly edit this column)": "Gillian Norton, AFX Comp Comp Communications",
     "groupIds": [
       "recMrz5vvYNRVkcDd"
     ],
@@ -39593,12 +39594,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Gillian Norton, AFX Comp Comp Communications"
+    "sortKey": "2019a"
   },
   "rec9aRSdZcx7YOcVo": {
     "createdTime": "2019-01-24T08:33:28.000Z",
     "id": "rec9aRSdZcx7YOcVo",
+    "(You can't directly edit this column)": "Kristina Kim, AFX Board Spring 2019 PR Design",
     "groupIds": [
       "recPf7ywA4liEHRje"
     ],
@@ -39641,12 +39642,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Kristina Kim, AFX Board Spring 2019 PR Design"
+    "sortKey": "2019a"
   },
   "recxQEGsS65fbRfXF": {
     "createdTime": "2019-01-24T08:35:09.000Z",
     "id": "recxQEGsS65fbRfXF",
+    "(You can't directly edit this column)": "Audrey Ma, AFX Board Spring 2019 External Events",
     "groupIds": [
       "recPf7ywA4liEHRje"
     ],
@@ -39689,12 +39690,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Audrey Ma, AFX Board Spring 2019 External Events"
+    "sortKey": "2019a"
   },
   "recuQ8KNmMl0cq6LL": {
     "createdTime": "2019-01-24T08:39:02.000Z",
     "id": "recuQ8KNmMl0cq6LL",
+    "(You can't directly edit this column)": "Aaron Luu, AFX Board Spring 2019 Reach Chair",
     "groupIds": [
       "recPf7ywA4liEHRje"
     ],
@@ -39737,12 +39738,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Aaron Luu, AFX Board Spring 2019 Reach Chair"
+    "sortKey": "2019a"
   },
   "rec2CbBMHexMIRUIb": {
     "createdTime": "2019-01-24T08:42:02.000Z",
     "id": "rec2CbBMHexMIRUIb",
+    "(You can't directly edit this column)": "Allison Yeh, AFX Board Summer/Fall 2018 Tech Committee Lead",
     "groupIds": [
       "recacbKTL0BnOU1WC"
     ],
@@ -39786,12 +39787,12 @@ export let PersonPositions = {
       "recJ4hDACtEzrRW8f",
       "recQyG9LRNGj3oJL9"
     ],
-    "sortKey": "2018c, 2018b",
-    "(You can't directly edit this column)": "Allison Yeh, AFX Board Summer/Fall 2018 Tech Committee Lead"
+    "sortKey": "2018c, 2018b"
   },
   "rechsSsuF1cykJjvP": {
     "createdTime": "2019-01-24T09:21:13.000Z",
     "id": "rechsSsuF1cykJjvP",
+    "(You can't directly edit this column)": "Aimee Pepper, AFX ATP Director",
     "groupIds": [
       "rec0VciUnJmJJ6oeD"
     ],
@@ -39834,12 +39835,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recNgq1uYEeYnepMi"
     ],
-    "sortKey": "2017c",
-    "(You can't directly edit this column)": "Aimee Pepper, AFX ATP Director"
+    "sortKey": "2017c"
   },
   "rec5Pawz2nFTlCpps": {
     "createdTime": "2019-02-13T01:41:46.000Z",
     "id": "rec5Pawz2nFTlCpps",
+    "(You can't directly edit this column)": "Jason Bouatavanh, AFeggs (AFX Eggs) Director",
     "groupIds": [
       "recRStEXgCZeq7Ieb"
     ],
@@ -39882,12 +39883,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Jason Bouatavanh, AFeggs (AFX Eggs) Director"
+    "sortKey": "2019a"
   },
   "recG2eJKjB5s2fnSn": {
     "createdTime": "2019-02-13T01:46:52.000Z",
     "id": "recG2eJKjB5s2fnSn",
+    "(You can't directly edit this column)": "Jeffrey Chen, AFeggs (AFX Eggs) Director",
     "groupIds": [
       "recRStEXgCZeq7Ieb"
     ],
@@ -39930,12 +39931,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Jeffrey Chen, AFeggs (AFX Eggs) Director"
+    "sortKey": "2019a"
   },
   "recIuj85dqQUEWRyx": {
     "createdTime": "2019-02-13T01:48:38.000Z",
     "id": "recIuj85dqQUEWRyx",
+    "(You can't directly edit this column)": "Jo (Jaemin) Lee, AFeggs (AFX Eggs) Director",
     "groupIds": [
       "recRStEXgCZeq7Ieb"
     ],
@@ -39978,12 +39979,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Jo (Jaemin) Lee, AFeggs (AFX Eggs) Director"
+    "sortKey": "2019a"
   },
   "recRxE6fIFSD4vjOz": {
     "createdTime": "2019-02-13T01:52:40.000Z",
     "id": "recRxE6fIFSD4vjOz",
+    "(You can't directly edit this column)": "Sinporion Phuong, AFleX (AFX Flex) Director",
     "groupIds": [
       "recYZclznD8pqmJv1"
     ],
@@ -40026,12 +40027,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Sinporion Phuong, AFleX (AFX Flex) Director"
+    "sortKey": "2019a"
   },
   "recHihFAN5TcAwHsZ": {
     "createdTime": "2019-02-13T01:54:37.000Z",
     "id": "recHihFAN5TcAwHsZ",
+    "(You can't directly edit this column)": "Bryan Lov, AFleX (AFX Flex) Director",
     "groupIds": [
       "recYZclznD8pqmJv1"
     ],
@@ -40074,12 +40075,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Bryan Lov, AFleX (AFX Flex) Director"
+    "sortKey": "2019a"
   },
   "rec4wIjtz81BdYXho": {
     "createdTime": "2019-02-13T01:55:55.000Z",
     "id": "rec4wIjtz81BdYXho",
+    "(You can't directly edit this column)": "Socheatha Tork, AFX Empathy Director",
     "groupIds": [
       "recN8Jr8BojBeAvpO"
     ],
@@ -40122,12 +40123,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Socheatha Tork, AFX Empathy Director"
+    "sortKey": "2019a"
   },
   "recxB4ukzcmkuN2hi": {
     "createdTime": "2019-02-13T01:59:35.000Z",
     "id": "recxB4ukzcmkuN2hi",
+    "(You can't directly edit this column)": "Jenavie Alcaraz, AFX Empathy Director",
     "groupIds": [
       "recN8Jr8BojBeAvpO"
     ],
@@ -40170,12 +40171,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Jenavie Alcaraz, AFX Empathy Director"
+    "sortKey": "2019a"
   },
   "reczZUeC7Cdsibric": {
     "createdTime": "2019-02-13T02:00:35.000Z",
     "id": "reczZUeC7Cdsibric",
+    "(You can't directly edit this column)": "Emiko Tsutsumi, AFX ENVY Director",
     "groupIds": [
       "rec3kclpJYg12aHSI"
     ],
@@ -40218,12 +40219,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Emiko Tsutsumi, AFX ENVY Director"
+    "sortKey": "2019a"
   },
   "recl3HgBPYUTjadQh": {
     "createdTime": "2019-02-13T02:02:18.000Z",
     "id": "recl3HgBPYUTjadQh",
+    "(You can't directly edit this column)": "Navid Jawad, AFX ENVY Director",
     "groupIds": [
       "rec3kclpJYg12aHSI"
     ],
@@ -40266,12 +40267,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Navid Jawad, AFX ENVY Director"
+    "sortKey": "2019a"
   },
   "rec7hzCmooUKZdF1v": {
     "createdTime": "2019-02-13T02:03:31.000Z",
     "id": "rec7hzCmooUKZdF1v",
+    "(You can't directly edit this column)": "Vicky Tu, AFX ENVY Director",
     "groupIds": [
       "rec3kclpJYg12aHSI"
     ],
@@ -40314,12 +40315,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Vicky Tu, AFX ENVY Director"
+    "sortKey": "2019a"
   },
   "recVMOHaTG35Raeny": {
     "createdTime": "2019-02-13T02:04:36.000Z",
     "id": "recVMOHaTG35Raeny",
+    "(You can't directly edit this column)": "Andy Vendrell, AFX Fame Director",
     "groupIds": [
       "recyCM6mqK1ywwwkH"
     ],
@@ -40362,12 +40363,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Andy Vendrell, AFX Fame Director"
+    "sortKey": "2019a"
   },
   "recPGHMDd9TnvUxb4": {
     "createdTime": "2019-02-13T02:09:21.000Z",
     "id": "recPGHMDd9TnvUxb4",
+    "(You can't directly edit this column)": "Elizabeth Montes, AFX Toxic Director",
     "groupIds": [
       "recOg68Xg2dioLhpH"
     ],
@@ -40410,12 +40411,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Elizabeth Montes, AFX Toxic Director"
+    "sortKey": "2018a"
   },
   "rec5fS7XhrPfCuBJ9": {
     "createdTime": "2019-02-13T02:14:21.000Z",
     "id": "rec5fS7XhrPfCuBJ9",
+    "(You can't directly edit this column)": "Kartini Handoko, AFX Toxic Director",
     "groupIds": [
       "recOg68Xg2dioLhpH"
     ],
@@ -40458,12 +40459,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Kartini Handoko, AFX Toxic Director"
+    "sortKey": "2018a"
   },
   "recuFMeM7zL6F7EIK": {
     "createdTime": "2019-02-13T02:16:44.000Z",
     "id": "recuFMeM7zL6F7EIK",
+    "(You can't directly edit this column)": "Alex Rodriguez, AFX Toxic Director",
     "groupIds": [
       "recOg68Xg2dioLhpH"
     ],
@@ -40506,12 +40507,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Alex Rodriguez, AFX Toxic Director"
+    "sortKey": "2018a"
   },
   "recPLaJ0mXHfQZF8a": {
     "createdTime": "2019-02-13T02:19:52.000Z",
     "id": "recPLaJ0mXHfQZF8a",
+    "(You can't directly edit this column)": "Alex Rodriguez, AFX Fame Director",
     "groupIds": [
       "recyCM6mqK1ywwwkH"
     ],
@@ -40554,12 +40555,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Alex Rodriguez, AFX Fame Director"
+    "sortKey": "2019a"
   },
   "recAdnuPN07R4d3Rs": {
     "createdTime": "2019-02-13T02:22:12.000Z",
     "id": "recAdnuPN07R4d3Rs",
+    "(You can't directly edit this column)": "Brandon Park Coy, AFX Luxe Director",
     "groupIds": [
       "recdEeLs6iiKupepQ"
     ],
@@ -40602,12 +40603,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Brandon Park Coy, AFX Luxe Director"
+    "sortKey": "2019a"
   },
   "recWVUmHw1Iv9GY7e": {
     "createdTime": "2019-02-13T02:24:16.000Z",
     "id": "recWVUmHw1Iv9GY7e",
+    "(You can't directly edit this column)": "Akshata Nagendra, AFX Luxe Director",
     "groupIds": [
       "recdEeLs6iiKupepQ"
     ],
@@ -40650,12 +40651,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Akshata Nagendra, AFX Luxe Director"
+    "sortKey": "2019a"
   },
   "recbrewE6oFJuXvqJ": {
     "createdTime": "2019-02-13T02:25:15.000Z",
     "id": "recbrewE6oFJuXvqJ",
+    "(You can't directly edit this column)": "Daniel Callejas, AFX Luxe Director",
     "groupIds": [
       "recdEeLs6iiKupepQ"
     ],
@@ -40698,12 +40699,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Daniel Callejas, AFX Luxe Director"
+    "sortKey": "2019a"
   },
   "rectlTd1rXE5DTSXz": {
     "createdTime": "2019-02-13T02:26:10.000Z",
     "id": "rectlTd1rXE5DTSXz",
+    "(You can't directly edit this column)": "Angela Ea, AFX MO Director",
     "groupIds": [
       "recwgKaikrIi37mzE"
     ],
@@ -40746,12 +40747,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Angela Ea, AFX MO Director"
+    "sortKey": "2019a"
   },
   "rec7aJttlzTYQblrx": {
     "createdTime": "2019-02-13T02:27:03.000Z",
     "id": "rec7aJttlzTYQblrx",
+    "(You can't directly edit this column)": "Nicholas Te, AFX MO Director",
     "groupIds": [
       "recwgKaikrIi37mzE"
     ],
@@ -40794,12 +40795,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Nicholas Te, AFX MO Director"
+    "sortKey": "2019a"
   },
   "recacr4bnVLL54atl": {
     "createdTime": "2019-02-13T02:29:33.000Z",
     "id": "recacr4bnVLL54atl",
+    "(You can't directly edit this column)": "Laura Mackenzie, AFX Outcast Director",
     "groupIds": [
       "receA2zLbg3KNlhVp"
     ],
@@ -40842,12 +40843,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Laura Mackenzie, AFX Outcast Director"
+    "sortKey": "2019a"
   },
   "recu4tP2DE8mGfm90": {
     "createdTime": "2019-02-13T02:30:37.000Z",
     "id": "recu4tP2DE8mGfm90",
+    "(You can't directly edit this column)": "Maxwell Nguyen, AFX Outcast Director",
     "groupIds": [
       "receA2zLbg3KNlhVp"
     ],
@@ -40890,12 +40891,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Maxwell Nguyen, AFX Outcast Director"
+    "sortKey": "2019a"
   },
   "recxu35TuQiFhbhRv": {
     "createdTime": "2019-02-13T02:31:27.000Z",
     "id": "recxu35TuQiFhbhRv",
+    "(You can't directly edit this column)": "Jennifer Jo, AFX YEN Director",
     "groupIds": [
       "recg4L2Ql8B9C6K2r"
     ],
@@ -40938,12 +40939,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Jennifer Jo, AFX YEN Director"
+    "sortKey": "2019a"
   },
   "recNYahlTMV5v0DUe": {
     "createdTime": "2019-02-13T02:32:23.000Z",
     "id": "recNYahlTMV5v0DUe",
+    "(You can't directly edit this column)": "Yuu Ohno, AFX YEN Director",
     "groupIds": [
       "recg4L2Ql8B9C6K2r"
     ],
@@ -40986,12 +40987,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Yuu Ohno, AFX YEN Director"
+    "sortKey": "2019a"
   },
   "recI1bwTle0X74bLd": {
     "createdTime": "2019-02-13T02:33:18.000Z",
     "id": "recI1bwTle0X74bLd",
+    "(You can't directly edit this column)": "Kirk La, AFX 7DS Director",
     "groupIds": [
       "recg9FXsPIzu23nIw"
     ],
@@ -41034,12 +41035,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Kirk La, AFX 7DS Director"
+    "sortKey": "2019a"
   },
   "recQpSJokjHg5v5DG": {
     "createdTime": "2019-02-13T02:34:26.000Z",
     "id": "recQpSJokjHg5v5DG",
+    "(You can't directly edit this column)": "Mark Reed, AFX 7DS Director",
     "groupIds": [
       "recg9FXsPIzu23nIw"
     ],
@@ -41082,12 +41083,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Mark Reed, AFX 7DS Director"
+    "sortKey": "2019a"
   },
   "recUZVbaQFvbNFiFF": {
     "createdTime": "2019-02-13T02:35:25.000Z",
     "id": "recUZVbaQFvbNFiFF",
+    "(You can't directly edit this column)": "Maxwell Yeo, AFX 7DS Director",
     "groupIds": [
       "recg9FXsPIzu23nIw"
     ],
@@ -41130,12 +41131,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Maxwell Yeo, AFX 7DS Director"
+    "sortKey": "2019a"
   },
   "recN9aYiCQ9CYtj38": {
     "createdTime": "2019-02-13T02:39:07.000Z",
     "id": "recN9aYiCQ9CYtj38",
+    "(You can't directly edit this column)": "Patrick Lin, AFX Platinum Director",
     "groupIds": [
       "recVE43xY4VQvYs7j"
     ],
@@ -41178,12 +41179,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Patrick Lin, AFX Platinum Director"
+    "sortKey": "2019a"
   },
   "rec7t3JsTZMyDX5OL": {
     "createdTime": "2019-02-13T02:39:37.000Z",
     "id": "rec7t3JsTZMyDX5OL",
+    "(You can't directly edit this column)": "Darius Sparks, AFX M.A.D. Director",
     "groupIds": [
       "recCDgbXTdW2RvKWG"
     ],
@@ -41226,12 +41227,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Darius Sparks, AFX M.A.D. Director"
+    "sortKey": "2019a"
   },
   "recHyKoV3g9xnvw5y": {
     "createdTime": "2019-02-13T02:40:50.000Z",
     "id": "recHyKoV3g9xnvw5y",
+    "(You can't directly edit this column)": "Marvie Alcaraz, AFX M.A.D. Director",
     "groupIds": [
       "recCDgbXTdW2RvKWG"
     ],
@@ -41274,12 +41275,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Marvie Alcaraz, AFX M.A.D. Director"
+    "sortKey": "2019a"
   },
   "rec3Jmm3aPLJQf4ge": {
     "createdTime": "2019-02-13T08:17:30.000Z",
     "id": "rec3Jmm3aPLJQf4ge",
+    "(You can't directly edit this column)": "Jonah Tang, AFX MO Director",
     "groupIds": [
       "recwgKaikrIi37mzE"
     ],
@@ -41322,12 +41323,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Jonah Tang, AFX MO Director"
+    "sortKey": "2019a"
   },
   "recMm7PyNw6042frN": {
     "createdTime": "2019-02-13T08:59:39.000Z",
     "id": "recMm7PyNw6042frN",
+    "(You can't directly edit this column)": "Alison Tanubrata, AFX Platinum Director",
     "groupIds": [
       "recVE43xY4VQvYs7j"
     ],
@@ -41370,12 +41371,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5XKEgTIG4JPqKB"
     ],
-    "sortKey": "2019a",
-    "(You can't directly edit this column)": "Alison Tanubrata, AFX Platinum Director"
+    "sortKey": "2019a"
   },
   "recr0AaFG1kqeWhoy": {
     "createdTime": "2019-02-13T10:10:48.000Z",
     "id": "recr0AaFG1kqeWhoy",
+    "(You can't directly edit this column)": "Charmaine Lai, AFX RCK Director",
     "groupIds": [
       "recc2ItnT2n7d7FrO"
     ],
@@ -41418,12 +41419,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Charmaine Lai, AFX RCK Director"
+    "sortKey": "2018a"
   },
   "recmyz5bFTgQVdDGa": {
     "createdTime": "2019-02-13T10:14:12.000Z",
     "id": "recmyz5bFTgQVdDGa",
+    "(You can't directly edit this column)": "Robert Yu, AFX RCK Director",
     "groupIds": [
       "recc2ItnT2n7d7FrO"
     ],
@@ -41466,12 +41467,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Robert Yu, AFX RCK Director"
+    "sortKey": "2018a"
   },
   "recQpyHLkhOFrWiKe": {
     "createdTime": "2019-02-13T10:15:51.000Z",
     "id": "recQpyHLkhOFrWiKe",
+    "(You can't directly edit this column)": "Kathy Liu, AFX RCK Director",
     "groupIds": [
       "recc2ItnT2n7d7FrO"
     ],
@@ -41514,12 +41515,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmdSIsenKNx7Sgq"
     ],
-    "sortKey": "2018a",
-    "(You can't directly edit this column)": "Kathy Liu, AFX RCK Director"
+    "sortKey": "2018a"
   },
   "recCbfSYlgiRL8cxK": {
     "createdTime": "2019-02-14T07:04:23.000Z",
     "id": "recCbfSYlgiRL8cxK",
+    "(You can't directly edit this column)": "Patrick Lin, AFX Board Spring 2017 PR Marketing",
     "groupIds": [
       "recSb1AY0752pOYe6"
     ],
@@ -41566,12 +41567,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recZUIegVvDgUQVqN"
     ],
-    "sortKey": "2017a",
-    "(You can't directly edit this column)": "Patrick Lin, AFX Board Spring 2017 PR Marketing"
+    "sortKey": "2017a"
   },
   "recdeEC83PIyvSJFq": {
     "createdTime": "2020-02-26T00:01:47.000Z",
     "id": "recdeEC83PIyvSJFq",
+    "(You can't directly edit this column)": "Alicia Chow, AFX Board Summer/Fall 2019 Executive Director",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41615,12 +41616,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Alicia Chow, AFX Board Summer/Fall 2019 Executive Director"
+    "sortKey": "2019c, 2019b"
   },
   "rec9GOlMUeE9oLJSB": {
     "createdTime": "2020-02-26T00:04:15.000Z",
     "id": "rec9GOlMUeE9oLJSB",
+    "(You can't directly edit this column)": "Jocelyn Li, AFX Board Summer/Fall 2019 Vice Executive",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41664,12 +41665,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Jocelyn Li, AFX Board Summer/Fall 2019 Vice Executive"
+    "sortKey": "2019c, 2019b"
   },
   "rec6qMGzPGRsMGs5O": {
     "createdTime": "2020-02-26T00:04:41.000Z",
     "id": "rec6qMGzPGRsMGs5O",
+    "(You can't directly edit this column)": "Vincent Young, AFX Board Summer/Fall 2019 Vice Executive",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41713,12 +41714,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Vincent Young, AFX Board Summer/Fall 2019 Vice Executive"
+    "sortKey": "2019c, 2019b"
   },
   "reccj4yNTwBotfLwq": {
     "createdTime": "2020-02-26T00:05:11.000Z",
     "id": "reccj4yNTwBotfLwq",
+    "(You can't directly edit this column)": "Kristina Kim, AFX Board Summer/Fall 2019 Vice Executive",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41762,12 +41763,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Kristina Kim, AFX Board Summer/Fall 2019 Vice Executive"
+    "sortKey": "2019c, 2019b"
   },
   "recJj7y66xxQG8RN7": {
     "createdTime": "2020-02-26T00:06:03.000Z",
     "id": "recJj7y66xxQG8RN7",
+    "(You can't directly edit this column)": "Sherry Wu, AFX Board Summer/Fall 2019 External Events",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41811,12 +41812,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Sherry Wu, AFX Board Summer/Fall 2019 External Events"
+    "sortKey": "2019c, 2019b"
   },
   "recXzA1rsuG3ls0Vs": {
     "createdTime": "2020-02-26T00:06:53.000Z",
     "id": "recXzA1rsuG3ls0Vs",
+    "(You can't directly edit this column)": "Catherine Kim, AFX Board Summer/Fall 2019 External Events",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41860,12 +41861,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Catherine Kim, AFX Board Summer/Fall 2019 External Events"
+    "sortKey": "2019c, 2019b"
   },
   "recLVm4OQquXutCZi": {
     "createdTime": "2020-02-26T00:07:20.000Z",
     "id": "recLVm4OQquXutCZi",
+    "(You can't directly edit this column)": "Danielle Hong, AFX Board Summer/Fall 2019 Internal Events",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41909,12 +41910,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Danielle Hong, AFX Board Summer/Fall 2019 Internal Events"
+    "sortKey": "2019c, 2019b"
   },
   "recj5YLbkA6WjfTe1": {
     "createdTime": "2020-02-26T00:08:06.000Z",
     "id": "recj5YLbkA6WjfTe1",
+    "(You can't directly edit this column)": "Scarlett Tao, AFX Board Summer/Fall 2019 Internal Events",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -41958,12 +41959,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Scarlett Tao, AFX Board Summer/Fall 2019 Internal Events"
+    "sortKey": "2019c, 2019b"
   },
   "recp87ZA3pFLdoa3q": {
     "createdTime": "2020-02-26T00:08:36.000Z",
     "id": "recp87ZA3pFLdoa3q",
+    "(You can't directly edit this column)": "Christina Liu, AFX Board Summer/Fall 2019 Finance Chair",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42007,12 +42008,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Christina Liu, AFX Board Summer/Fall 2019 Finance Chair"
+    "sortKey": "2019c, 2019b"
   },
   "recIVuaLvUetKgiEi": {
     "createdTime": "2020-02-26T00:09:09.000Z",
     "id": "recIVuaLvUetKgiEi",
+    "(You can't directly edit this column)": "Ianna Zhu, AFX Board Summer/Fall 2019 Finance Chair",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42056,12 +42057,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Ianna Zhu, AFX Board Summer/Fall 2019 Finance Chair"
+    "sortKey": "2019c, 2019b"
   },
   "recBxf4mdZ1Y26pAQ": {
     "createdTime": "2020-02-26T00:09:28.000Z",
     "id": "recBxf4mdZ1Y26pAQ",
+    "(You can't directly edit this column)": "Caroline Jones, AFX Board Summer/Fall 2019 Finance Chair",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42105,12 +42106,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Caroline Jones, AFX Board Summer/Fall 2019 Finance Chair"
+    "sortKey": "2019c, 2019b"
   },
   "rect7JHHSaJPhER5P": {
     "createdTime": "2020-02-26T00:10:01.000Z",
     "id": "rect7JHHSaJPhER5P",
+    "(You can't directly edit this column)": "Amanda Harmon, AFX Board Summer/Fall 2019 PR Marketing",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42154,12 +42155,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Amanda Harmon, AFX Board Summer/Fall 2019 PR Marketing"
+    "sortKey": "2019c, 2019b"
   },
   "recBD3BkbMQdGFdGv": {
     "createdTime": "2020-02-26T00:11:09.000Z",
     "id": "recBD3BkbMQdGFdGv",
+    "(You can't directly edit this column)": "Avril Lu, AFX Board Summer/Fall 2019 PR Marketing",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42203,12 +42204,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Avril Lu, AFX Board Summer/Fall 2019 PR Marketing"
+    "sortKey": "2019c, 2019b"
   },
   "recNX4CxqWW3wuVTM": {
     "createdTime": "2020-02-26T00:11:24.000Z",
     "id": "recNX4CxqWW3wuVTM",
+    "(You can't directly edit this column)": "Jimmy Guevara, AFX Board Summer/Fall 2019 PR Marketing",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42252,12 +42253,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Jimmy Guevara, AFX Board Summer/Fall 2019 PR Marketing"
+    "sortKey": "2019c, 2019b"
   },
   "recIJdMkYY73L9CBl": {
     "createdTime": "2020-02-26T00:12:01.000Z",
     "id": "recIJdMkYY73L9CBl",
+    "(You can't directly edit this column)": "Emily Bui, AFX Board Summer/Fall 2019 PR Design",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42301,12 +42302,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Emily Bui, AFX Board Summer/Fall 2019 PR Design"
+    "sortKey": "2019c, 2019b"
   },
   "recxmRzpVyZFN5wKn": {
     "createdTime": "2020-02-26T00:12:27.000Z",
     "id": "recxmRzpVyZFN5wKn",
+    "(You can't directly edit this column)": "Erica Lin, AFX Board Summer/Fall 2019 PR Design",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42350,12 +42351,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Erica Lin, AFX Board Summer/Fall 2019 PR Design"
+    "sortKey": "2019c, 2019b"
   },
   "recesFOKfG6zokZMa": {
     "createdTime": "2020-02-26T00:12:49.000Z",
     "id": "recesFOKfG6zokZMa",
+    "(You can't directly edit this column)": "Mohak Jain, AFX Board Summer/Fall 2019 PR Design",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42399,12 +42400,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Mohak Jain, AFX Board Summer/Fall 2019 PR Design"
+    "sortKey": "2019c, 2019b"
   },
   "recITmltrd6sqkiCz": {
     "createdTime": "2020-02-26T00:13:15.000Z",
     "id": "recITmltrd6sqkiCz",
+    "(You can't directly edit this column)": "Grace Liu, AFX Board Summer/Fall 2019 Historian",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42448,12 +42449,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Grace Liu, AFX Board Summer/Fall 2019 Historian"
+    "sortKey": "2019c, 2019b"
   },
   "reck98KeJvUCYRxLJ": {
     "createdTime": "2020-02-26T00:13:54.000Z",
     "id": "reck98KeJvUCYRxLJ",
+    "(You can't directly edit this column)": "Ronnie Ghose, AFX Board Summer/Fall 2019 Historian",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42497,12 +42498,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Ronnie Ghose, AFX Board Summer/Fall 2019 Historian"
+    "sortKey": "2019c, 2019b"
   },
   "recApIUwnv70Bdg0x": {
     "createdTime": "2020-02-26T00:14:21.000Z",
     "id": "recApIUwnv70Bdg0x",
+    "(You can't directly edit this column)": "Sheena Echano, AFX Board Summer/Fall 2019 Historian",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42546,12 +42547,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Sheena Echano, AFX Board Summer/Fall 2019 Historian"
+    "sortKey": "2019c, 2019b"
   },
   "recXkGnIjRvt4teek": {
     "createdTime": "2020-02-26T00:14:48.000Z",
     "id": "recXkGnIjRvt4teek",
+    "(You can't directly edit this column)": "Dina Alhassani, AFX Board Summer/Fall 2019 Reach Chair",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42595,12 +42596,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Dina Alhassani, AFX Board Summer/Fall 2019 Reach Chair"
+    "sortKey": "2019c, 2019b"
   },
   "recgCzLTfAFDcVAXa": {
     "createdTime": "2020-02-26T00:15:14.000Z",
     "id": "recgCzLTfAFDcVAXa",
+    "(You can't directly edit this column)": "Liam Will, AFX Board Summer/Fall 2019 Reach Chair",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42644,12 +42645,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Liam Will, AFX Board Summer/Fall 2019 Reach Chair"
+    "sortKey": "2019c, 2019b"
   },
   "rec0TZ0a1c8HToRsd": {
     "createdTime": "2020-02-26T00:15:41.000Z",
     "id": "rec0TZ0a1c8HToRsd",
+    "(You can't directly edit this column)": "Christopher Lau, AFX Dance Camp, AFX Comp Comp Artistics",
     "groupIds": [
       "recr3Tybch1xtJl8C",
       "recceqOsfCIDj29Eg"
@@ -42695,12 +42696,12 @@ export let PersonPositions = {
       "recoUgcNHU3iLI040",
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019b, 2019c",
-    "(You can't directly edit this column)": "Christopher Lau, AFX Dance Camp, AFX Comp Comp Artistics"
+    "sortKey": "2019b, 2019c"
   },
   "recVkCeZ1lR4Kz14O": {
     "createdTime": "2020-02-26T00:17:12.000Z",
     "id": "recVkCeZ1lR4Kz14O",
+    "(You can't directly edit this column)": "Jae Lee, AFX Dance Camp, AFX Comp Comp Artistics",
     "groupIds": [
       "recr3Tybch1xtJl8C",
       "recceqOsfCIDj29Eg"
@@ -42746,12 +42747,12 @@ export let PersonPositions = {
       "recoUgcNHU3iLI040",
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019b, 2019c",
-    "(You can't directly edit this column)": "Jae Lee, AFX Dance Camp, AFX Comp Comp Artistics"
+    "sortKey": "2019b, 2019c"
   },
   "recdlxZPESHvQQps4": {
     "createdTime": "2020-02-26T00:17:35.000Z",
     "id": "recdlxZPESHvQQps4",
+    "(You can't directly edit this column)": "Christopher Herrera, AFX Dance Camp, AFX Comp Comp Artistics",
     "groupIds": [
       "recr3Tybch1xtJl8C",
       "recceqOsfCIDj29Eg"
@@ -42797,12 +42798,12 @@ export let PersonPositions = {
       "recoUgcNHU3iLI040",
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019b, 2019c",
-    "(You can't directly edit this column)": "Christopher Herrera, AFX Dance Camp, AFX Comp Comp Artistics"
+    "sortKey": "2019b, 2019c"
   },
   "recdWDPt1ppzUOxRD": {
     "createdTime": "2020-02-26T00:18:15.000Z",
     "id": "recdWDPt1ppzUOxRD",
+    "(You can't directly edit this column)": "Cheryl Chen, AFX Dance Camp, AFX Comp Comp Captain",
     "groupIds": [
       "recr3Tybch1xtJl8C",
       "recceqOsfCIDj29Eg"
@@ -42848,12 +42849,12 @@ export let PersonPositions = {
       "recoUgcNHU3iLI040",
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019b, 2019c",
-    "(You can't directly edit this column)": "Cheryl Chen, AFX Dance Camp, AFX Comp Comp Captain"
+    "sortKey": "2019b, 2019c"
   },
   "recdvb7l7fghu4uQU": {
     "createdTime": "2020-02-26T00:18:40.000Z",
     "id": "recdvb7l7fghu4uQU",
+    "(You can't directly edit this column)": "Sujin Ha, AFX Dance Camp, AFX Comp Comp Captain",
     "groupIds": [
       "recr3Tybch1xtJl8C",
       "recceqOsfCIDj29Eg"
@@ -42899,12 +42900,12 @@ export let PersonPositions = {
       "recoUgcNHU3iLI040",
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019b, 2019c",
-    "(You can't directly edit this column)": "Sujin Ha, AFX Dance Camp, AFX Comp Comp Captain"
+    "sortKey": "2019b, 2019c"
   },
   "recqTXujP74OCiVc3": {
     "createdTime": "2020-02-26T00:19:01.000Z",
     "id": "recqTXujP74OCiVc3",
+    "(You can't directly edit this column)": "Shanna Inouye, AFX Dance Camp, AFX Comp Comp Communications",
     "groupIds": [
       "recr3Tybch1xtJl8C",
       "recceqOsfCIDj29Eg"
@@ -42950,12 +42951,12 @@ export let PersonPositions = {
       "recoUgcNHU3iLI040",
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019b, 2019c",
-    "(You can't directly edit this column)": "Shanna Inouye, AFX Dance Camp, AFX Comp Comp Communications"
+    "sortKey": "2019b, 2019c"
   },
   "recrqzpubLsOUy84k": {
     "createdTime": "2020-02-26T00:19:29.000Z",
     "id": "recrqzpubLsOUy84k",
+    "(You can't directly edit this column)": "Allison Yeh, AFX Board Summer/Fall 2019 Tech Committee Lead",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -42999,12 +43000,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Allison Yeh, AFX Board Summer/Fall 2019 Tech Committee Lead"
+    "sortKey": "2019c, 2019b"
   },
   "recy1jJ1d9J61gZIE": {
     "createdTime": "2020-02-26T00:19:45.000Z",
     "id": "recy1jJ1d9J61gZIE",
+    "(You can't directly edit this column)": "Catherine Chi, AFX Board Summer/Fall 2019 Tech Committee Lead",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -43048,12 +43049,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Catherine Chi, AFX Board Summer/Fall 2019 Tech Committee Lead"
+    "sortKey": "2019c, 2019b"
   },
   "rechKcZFhYbPdN0fw": {
     "createdTime": "2020-02-26T00:20:04.000Z",
     "id": "rechKcZFhYbPdN0fw",
+    "(You can't directly edit this column)": "Michelle Fan, AFX Board Summer/Fall 2019 Tech Committee Lead",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -43097,12 +43098,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Michelle Fan, AFX Board Summer/Fall 2019 Tech Committee Lead"
+    "sortKey": "2019c, 2019b"
   },
   "recDZx9fWnPJzZc6k": {
     "createdTime": "2020-02-26T00:20:18.000Z",
     "id": "recDZx9fWnPJzZc6k",
+    "(You can't directly edit this column)": "Sheldon Chen, AFX Board Summer/Fall 2019 Tech Committee Lead",
     "groupIds": [
       "recOduY8SoVdTlrdk"
     ],
@@ -43146,12 +43147,12 @@ export let PersonPositions = {
       "recCxthtPcgHxFHH1",
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019c, 2019b",
-    "(You can't directly edit this column)": "Sheldon Chen, AFX Board Summer/Fall 2019 Tech Committee Lead"
+    "sortKey": "2019c, 2019b"
   },
   "recS6Alvj0ucoHpAP": {
     "createdTime": "2020-02-27T00:26:59.000Z",
     "id": "recS6Alvj0ucoHpAP",
+    "(You can't directly edit this column)": "Jocelyn Li, AFX Board Spring 2020 Internal Executive ",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43194,12 +43195,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jocelyn Li, AFX Board Spring 2020 Internal Executive "
+    "sortKey": "2020a"
   },
   "recUZrJ501CXEKzUg": {
     "createdTime": "2020-02-27T00:27:33.000Z",
     "id": "recUZrJ501CXEKzUg",
+    "(You can't directly edit this column)": "Catherine Kim, AFX Board Spring 2020 Internal Executive ",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43242,12 +43243,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Catherine Kim, AFX Board Spring 2020 Internal Executive "
+    "sortKey": "2020a"
   },
   "recSTOAAePi4eKf5q": {
     "createdTime": "2020-02-27T00:28:34.000Z",
     "id": "recSTOAAePi4eKf5q",
+    "(You can't directly edit this column)": "Danielle Hong, AFX Board Spring 2020 External Executive",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43290,12 +43291,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Danielle Hong, AFX Board Spring 2020 External Executive"
+    "sortKey": "2020a"
   },
   "recgALF0ely2I6biN": {
     "createdTime": "2020-02-27T00:28:52.000Z",
     "id": "recgALF0ely2I6biN",
+    "(You can't directly edit this column)": "Vincent Young, AFX Board Spring 2020 External Executive",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43338,12 +43339,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Vincent Young, AFX Board Spring 2020 External Executive"
+    "sortKey": "2020a"
   },
   "recZ15YVO2u7Eb1Wo": {
     "createdTime": "2020-02-27T00:29:10.000Z",
     "id": "recZ15YVO2u7Eb1Wo",
+    "(You can't directly edit this column)": "Aram Cariaga, AFX Board Spring 2020 Director Executive",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43386,12 +43387,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Aram Cariaga, AFX Board Spring 2020 Director Executive"
+    "sortKey": "2020a"
   },
   "reca2tVvetXf47hIb": {
     "createdTime": "2020-02-27T00:29:25.000Z",
     "id": "reca2tVvetXf47hIb",
+    "(You can't directly edit this column)": "Jason Bouatavanh, AFX Board Spring 2020 Director Executive",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43434,12 +43435,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jason Bouatavanh, AFX Board Spring 2020 Director Executive"
+    "sortKey": "2020a"
   },
   "rec44RJaivixZgjGm": {
     "createdTime": "2020-02-27T00:29:58.000Z",
     "id": "rec44RJaivixZgjGm",
+    "(You can't directly edit this column)": "Ethan Chung, AFX Board Spring 2020 Director Executive",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -43482,12 +43483,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Ethan Chung, AFX Board Spring 2020 Director Executive"
+    "sortKey": "2020a"
   },
   "recvMRq1YEFDbhiP7": {
     "createdTime": "2020-02-27T00:30:38.000Z",
     "id": "recvMRq1YEFDbhiP7",
+    "(You can't directly edit this column)": "Catherine Chi, AFXsi academi Director",
     "groupIds": [
       "recfAUgLBT1aC9XQP"
     ],
@@ -43530,12 +43531,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Catherine Chi, AFXsi academi Director"
+    "sortKey": "2019b"
   },
   "recXHgJO7ffiU0Lk8": {
     "createdTime": "2020-02-27T00:30:54.000Z",
     "id": "recXHgJO7ffiU0Lk8",
+    "(You can't directly edit this column)": "Devin Balcorta, AFXsi academi Director",
     "groupIds": [
       "recfAUgLBT1aC9XQP"
     ],
@@ -43578,12 +43579,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Devin Balcorta, AFXsi academi Director"
+    "sortKey": "2019b"
   },
   "recFCRNe7QMrINpWi": {
     "createdTime": "2020-02-27T00:31:14.000Z",
     "id": "recFCRNe7QMrINpWi",
+    "(You can't directly edit this column)": "Michelle Zhao, AFXsi academi Director",
     "groupIds": [
       "recfAUgLBT1aC9XQP"
     ],
@@ -43626,12 +43627,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Michelle Zhao, AFXsi academi Director"
+    "sortKey": "2019b"
   },
   "rece3Twz5bUNoYJQq": {
     "createdTime": "2020-02-27T00:31:54.000Z",
     "id": "rece3Twz5bUNoYJQq",
+    "(You can't directly edit this column)": "Aram Cariaga, AFXsi CAT Director",
     "groupIds": [
       "recZcAKpwvlVG0wkn"
     ],
@@ -43674,12 +43675,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Aram Cariaga, AFXsi CAT Director"
+    "sortKey": "2019b"
   },
   "recGBsm5FiTLRkTO6": {
     "createdTime": "2020-02-27T00:32:09.000Z",
     "id": "recGBsm5FiTLRkTO6",
+    "(You can't directly edit this column)": "Callyn Oshita, AFXsi CAT Director",
     "groupIds": [
       "recZcAKpwvlVG0wkn"
     ],
@@ -43722,12 +43723,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Callyn Oshita, AFXsi CAT Director"
+    "sortKey": "2019b"
   },
   "recuYMAt6PuKGQTnE": {
     "createdTime": "2020-02-27T00:32:37.000Z",
     "id": "recuYMAt6PuKGQTnE",
+    "(You can't directly edit this column)": "Timothy Zhao, AFXsi CAT Director",
     "groupIds": [
       "recZcAKpwvlVG0wkn"
     ],
@@ -43770,12 +43771,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Timothy Zhao, AFXsi CAT Director"
+    "sortKey": "2019b"
   },
   "recPHR2qm3eB3lS82": {
     "createdTime": "2020-02-27T00:32:59.000Z",
     "id": "recPHR2qm3eB3lS82",
+    "(You can't directly edit this column)": "Davina Dou, AFXsi DNA Director",
     "groupIds": [
       "recKWZBPRhwAsz6oW"
     ],
@@ -43818,12 +43819,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Davina Dou, AFXsi DNA Director"
+    "sortKey": "2019b"
   },
   "recR2vibLhI6sp0i6": {
     "createdTime": "2020-02-27T00:33:29.000Z",
     "id": "recR2vibLhI6sp0i6",
+    "(You can't directly edit this column)": "Anthony Chen, AFXsi DNA Director",
     "groupIds": [
       "recKWZBPRhwAsz6oW"
     ],
@@ -43866,12 +43867,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Anthony Chen, AFXsi DNA Director"
+    "sortKey": "2019b"
   },
   "rec41HtKbfI7m0kyo": {
     "createdTime": "2020-02-27T00:33:46.000Z",
     "id": "rec41HtKbfI7m0kyo",
+    "(You can't directly edit this column)": "Charles Hager, AFXsi Esh Director",
     "groupIds": [
       "recJC65qVeGQSw2B5"
     ],
@@ -43914,12 +43915,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Charles Hager, AFXsi Esh Director"
+    "sortKey": "2019b"
   },
   "recc8CL1fQuPVt8ag": {
     "createdTime": "2020-02-27T00:34:12.000Z",
     "id": "recc8CL1fQuPVt8ag",
+    "(You can't directly edit this column)": "Julie Liu , AFXsi Esh Director",
     "groupIds": [
       "recJC65qVeGQSw2B5"
     ],
@@ -43962,12 +43963,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Julie Liu , AFXsi Esh Director"
+    "sortKey": "2019b"
   },
   "rec7TLlWfRa1dBHws": {
     "createdTime": "2020-02-27T00:34:29.000Z",
     "id": "rec7TLlWfRa1dBHws",
+    "(You can't directly edit this column)": "Jacob Ngo, AFXsi MissingNo. Director",
     "groupIds": [
       "recUdGJ9VDyz88Fsz"
     ],
@@ -44010,12 +44011,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Jacob Ngo, AFXsi MissingNo. Director"
+    "sortKey": "2019b"
   },
   "recU3Yf4696z6l74k": {
     "createdTime": "2020-02-27T00:34:48.000Z",
     "id": "recU3Yf4696z6l74k",
+    "(You can't directly edit this column)": "Kore Lum, AFXsi MissingNo. Director",
     "groupIds": [
       "recUdGJ9VDyz88Fsz"
     ],
@@ -44058,12 +44059,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Kore Lum, AFXsi MissingNo. Director"
+    "sortKey": "2019b"
   },
   "recWlGq2DiltPcpmH": {
     "createdTime": "2020-02-27T00:35:02.000Z",
     "id": "recWlGq2DiltPcpmH",
+    "(You can't directly edit this column)": "Nathan Ngoy, AFXsi MissingNo. Director",
     "groupIds": [
       "recUdGJ9VDyz88Fsz"
     ],
@@ -44106,12 +44107,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Nathan Ngoy, AFXsi MissingNo. Director"
+    "sortKey": "2019b"
   },
   "recLBBvgZN0sn6xga": {
     "createdTime": "2020-02-27T00:35:29.000Z",
     "id": "recLBBvgZN0sn6xga",
+    "(You can't directly edit this column)": "Alicia Chow, AFXsi Reflect Director",
     "groupIds": [
       "recDU6MCQf0aPIhAe"
     ],
@@ -44154,12 +44155,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Alicia Chow, AFXsi Reflect Director"
+    "sortKey": "2019b"
   },
   "recw1dzuv4moOA65T": {
     "createdTime": "2020-02-27T00:35:41.000Z",
     "id": "recw1dzuv4moOA65T",
+    "(You can't directly edit this column)": "Soo Rim Choi, AFXsi Reflect Director",
     "groupIds": [
       "recDU6MCQf0aPIhAe"
     ],
@@ -44202,12 +44203,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Soo Rim Choi, AFXsi Reflect Director"
+    "sortKey": "2019b"
   },
   "rectBgfwD8GXTutiw": {
     "createdTime": "2020-02-27T00:36:01.000Z",
     "id": "rectBgfwD8GXTutiw",
+    "(You can't directly edit this column)": "Grace Lee, AFXsi Reflect Director",
     "groupIds": [
       "recDU6MCQf0aPIhAe"
     ],
@@ -44250,12 +44251,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Grace Lee, AFXsi Reflect Director"
+    "sortKey": "2019b"
   },
   "recNrO6VOCgg8o1sO": {
     "createdTime": "2020-02-27T00:36:15.000Z",
     "id": "recNrO6VOCgg8o1sO",
+    "(You can't directly edit this column)": "Ethan Chung, AFXsi Reboot Director",
     "groupIds": [
       "recpTTmzaWcKDPIDv"
     ],
@@ -44298,12 +44299,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Ethan Chung, AFXsi Reboot Director"
+    "sortKey": "2019b"
   },
   "recVREQvRJDw6VGUW": {
     "createdTime": "2020-02-27T00:36:29.000Z",
     "id": "recVREQvRJDw6VGUW",
+    "(You can't directly edit this column)": "Jonathan Boyle, AFXsi Reboot Director",
     "groupIds": [
       "recpTTmzaWcKDPIDv"
     ],
@@ -44346,12 +44347,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Jonathan Boyle, AFXsi Reboot Director"
+    "sortKey": "2019b"
   },
   "recnyfSwua6oU4pYo": {
     "createdTime": "2020-02-27T00:37:00.000Z",
     "id": "recnyfSwua6oU4pYo",
+    "(You can't directly edit this column)": "Alex Nguyen, AFXsi Illuminaughty Director",
     "groupIds": [
       "recuo3QfDjlmxKz8H"
     ],
@@ -44394,12 +44395,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Alex Nguyen, AFXsi Illuminaughty Director"
+    "sortKey": "2019b"
   },
   "recMHfF9nU37OHEsL": {
     "createdTime": "2020-02-27T00:37:21.000Z",
     "id": "recMHfF9nU37OHEsL",
+    "(You can't directly edit this column)": "Princeton Liu, AFXsi PSA Director",
     "groupIds": [
       "recrIPIpHx3uWV01S"
     ],
@@ -44442,12 +44443,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Princeton Liu, AFXsi PSA Director"
+    "sortKey": "2019b"
   },
   "recUXUsLPaEZY0CLE": {
     "createdTime": "2020-02-27T00:37:33.000Z",
     "id": "recUXUsLPaEZY0CLE",
+    "(You can't directly edit this column)": "Alice Wang, AFXsi PSA Director",
     "groupIds": [
       "recrIPIpHx3uWV01S"
     ],
@@ -44490,12 +44491,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Alice Wang, AFXsi PSA Director"
+    "sortKey": "2019b"
   },
   "rectOCoGIkmJmPwE5": {
     "createdTime": "2020-02-27T00:37:57.000Z",
     "id": "rectOCoGIkmJmPwE5",
+    "(You can't directly edit this column)": "Kimisato Wago, AFX Irrelevant Director",
     "groupIds": [
       "reckk4MJoedAYTTxz"
     ],
@@ -44538,12 +44539,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Kimisato Wago, AFX Irrelevant Director"
+    "sortKey": "2019b"
   },
   "reckQyOYXBBmyc8Me": {
     "createdTime": "2020-02-27T00:38:11.000Z",
     "id": "reckQyOYXBBmyc8Me",
+    "(You can't directly edit this column)": "Christopher Lau, AFX Irrelevant Director",
     "groupIds": [
       "reckk4MJoedAYTTxz"
     ],
@@ -44586,12 +44587,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recoUgcNHU3iLI040"
     ],
-    "sortKey": "2019b",
-    "(You can't directly edit this column)": "Christopher Lau, AFX Irrelevant Director"
+    "sortKey": "2019b"
   },
   "recYZyBUolAhW8Ntz": {
     "createdTime": "2020-02-27T00:38:32.000Z",
     "id": "recYZyBUolAhW8Ntz",
+    "(You can't directly edit this column)": "Elle Cheung, AFX Blastzone Director",
     "groupIds": [
       "recQhQkwKveHsbQAG"
     ],
@@ -44634,12 +44635,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Elle Cheung, AFX Blastzone Director"
+    "sortKey": "2019c"
   },
   "recDMxXrg11GQKqVu": {
     "createdTime": "2020-02-27T00:38:45.000Z",
     "id": "recDMxXrg11GQKqVu",
+    "(You can't directly edit this column)": "Angela Hou, AFX Blastzone Director",
     "groupIds": [
       "recQhQkwKveHsbQAG"
     ],
@@ -44682,12 +44683,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Angela Hou, AFX Blastzone Director"
+    "sortKey": "2019c"
   },
   "recI3xBtVQU6PC2Im": {
     "createdTime": "2020-02-27T00:39:03.000Z",
     "id": "recI3xBtVQU6PC2Im",
+    "(You can't directly edit this column)": "Vincent Young, AFX Blastzone Director",
     "groupIds": [
       "recQhQkwKveHsbQAG"
     ],
@@ -44730,12 +44731,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Vincent Young, AFX Blastzone Director"
+    "sortKey": "2019c"
   },
   "rec6kbi1qfzYVZg6U": {
     "createdTime": "2020-02-27T00:39:22.000Z",
     "id": "rec6kbi1qfzYVZg6U",
+    "(You can't directly edit this column)": "Hana Komine, AFX Benihana Director",
     "groupIds": [
       "recGuko0Ui74xBRp5"
     ],
@@ -44778,12 +44779,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Hana Komine, AFX Benihana Director"
+    "sortKey": "2019c"
   },
   "recMdHDA3vrEVUHbc": {
     "createdTime": "2020-02-27T00:39:35.000Z",
     "id": "recMdHDA3vrEVUHbc",
+    "(You can't directly edit this column)": "Ben Carlson, AFX Benihana Director",
     "groupIds": [
       "recGuko0Ui74xBRp5"
     ],
@@ -44826,12 +44827,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Ben Carlson, AFX Benihana Director"
+    "sortKey": "2019c"
   },
   "reclwyyMJV39gTnRx": {
     "createdTime": "2020-02-27T00:40:02.000Z",
     "id": "reclwyyMJV39gTnRx",
+    "(You can't directly edit this column)": "Charlie Lu, AFX Greasers Director",
     "groupIds": [
       "recAYHrCizFTmZRQl"
     ],
@@ -44874,12 +44875,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Charlie Lu, AFX Greasers Director"
+    "sortKey": "2019c"
   },
   "recW8oKpoVY4Mq1j8": {
     "createdTime": "2020-02-27T00:40:14.000Z",
     "id": "recW8oKpoVY4Mq1j8",
+    "(You can't directly edit this column)": "Diamond Luong, AFX Greasers Director",
     "groupIds": [
       "recAYHrCizFTmZRQl"
     ],
@@ -44922,12 +44923,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Diamond Luong, AFX Greasers Director"
+    "sortKey": "2019c"
   },
   "rec9r4aSvW0V3cZhS": {
     "createdTime": "2020-02-27T00:40:37.000Z",
     "id": "rec9r4aSvW0V3cZhS",
+    "(You can't directly edit this column)": "Elizabeth Montes, AFX In-N-Out Director",
     "groupIds": [
       "reclNAvARAjdKqCvU"
     ],
@@ -44970,12 +44971,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Elizabeth Montes, AFX In-N-Out Director"
+    "sortKey": "2019c"
   },
   "recj9mwMAjvWL1M5H": {
     "createdTime": "2020-02-27T00:40:48.000Z",
     "id": "recj9mwMAjvWL1M5H",
+    "(You can't directly edit this column)": "Jahara Cayabyab, AFX In-N-Out Director",
     "groupIds": [
       "reclNAvARAjdKqCvU"
     ],
@@ -45018,12 +45019,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Jahara Cayabyab, AFX In-N-Out Director"
+    "sortKey": "2019c"
   },
   "recQIbvAgmZ59w07k": {
     "createdTime": "2020-02-27T00:41:12.000Z",
     "id": "recQIbvAgmZ59w07k",
+    "(You can't directly edit this column)": "Tiffany Park, AFX In-N-Out Director",
     "groupIds": [
       "reclNAvARAjdKqCvU"
     ],
@@ -45066,12 +45067,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Tiffany Park, AFX In-N-Out Director"
+    "sortKey": "2019c"
   },
   "reczcYYKh6wGUw2h6": {
     "createdTime": "2020-02-27T00:41:31.000Z",
     "id": "reczcYYKh6wGUw2h6",
+    "(You can't directly edit this column)": "Helen Li, AFX hahaha Director",
     "groupIds": [
       "reche2ErQ0Lo3Xv4J"
     ],
@@ -45114,12 +45115,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Helen Li, AFX hahaha Director"
+    "sortKey": "2019c"
   },
   "recn6TV94FQoO93kq": {
     "createdTime": "2020-02-27T00:41:45.000Z",
     "id": "recn6TV94FQoO93kq",
+    "(You can't directly edit this column)": "Allen Ruan, AFX hahaha Director",
     "groupIds": [
       "reche2ErQ0Lo3Xv4J"
     ],
@@ -45162,12 +45163,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Allen Ruan, AFX hahaha Director"
+    "sortKey": "2019c"
   },
   "rec6Y58Ucc4pmbq22": {
     "createdTime": "2020-02-27T00:42:01.000Z",
     "id": "rec6Y58Ucc4pmbq22",
+    "(You can't directly edit this column)": "Laura Mackenzie, AFX :Assemble Director",
     "groupIds": [
       "recN2IzdJQdSBvSAv"
     ],
@@ -45210,12 +45211,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Laura Mackenzie, AFX :Assemble Director"
+    "sortKey": "2019c"
   },
   "recFzhxd3DvWg4T8W": {
     "createdTime": "2020-02-27T00:42:11.000Z",
     "id": "recFzhxd3DvWg4T8W",
+    "(You can't directly edit this column)": "Ryan Searcy, AFX :Assemble Director",
     "groupIds": [
       "recN2IzdJQdSBvSAv"
     ],
@@ -45258,12 +45259,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Ryan Searcy, AFX :Assemble Director"
+    "sortKey": "2019c"
   },
   "rec0RtZppS9jM3Eii": {
     "createdTime": "2020-02-27T00:42:38.000Z",
     "id": "rec0RtZppS9jM3Eii",
+    "(You can't directly edit this column)": "Cesar Villalobos, AFX :Assemble Director",
     "groupIds": [
       "recN2IzdJQdSBvSAv"
     ],
@@ -45306,12 +45307,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Cesar Villalobos, AFX :Assemble Director"
+    "sortKey": "2019c"
   },
   "recmzeMEvZCWdwMsk": {
     "createdTime": "2020-02-27T00:43:11.000Z",
     "id": "recmzeMEvZCWdwMsk",
+    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX ITO Director",
     "groupIds": [
       "rectMbNhLM5mP4JYe"
     ],
@@ -45354,12 +45355,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX ITO Director"
+    "sortKey": "2019c"
   },
   "recjRkEVNzhYxeuEa": {
     "createdTime": "2020-02-27T00:43:29.000Z",
     "id": "recjRkEVNzhYxeuEa",
+    "(You can't directly edit this column)": "Alvan Cai, AFX ITO Director",
     "groupIds": [
       "rectMbNhLM5mP4JYe"
     ],
@@ -45402,12 +45403,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Alvan Cai, AFX ITO Director"
+    "sortKey": "2019c"
   },
   "recrR4y1gHe8cKGWA": {
     "createdTime": "2020-02-27T00:43:46.000Z",
     "id": "recrR4y1gHe8cKGWA",
+    "(You can't directly edit this column)": "Alex Kum, AFX ITO Director",
     "groupIds": [
       "rectMbNhLM5mP4JYe"
     ],
@@ -45450,12 +45451,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Alex Kum, AFX ITO Director"
+    "sortKey": "2019c"
   },
   "recweGoZHKErEhORX": {
     "createdTime": "2020-02-27T00:44:07.000Z",
     "id": "recweGoZHKErEhORX",
+    "(You can't directly edit this column)": "Greg Fernandez, AFX K.D.A. Director",
     "groupIds": [
       "reci3ih0tLpf6MhCb"
     ],
@@ -45498,12 +45499,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Greg Fernandez, AFX K.D.A. Director"
+    "sortKey": "2019c"
   },
   "recpsoV85eueqCaGJ": {
     "createdTime": "2020-02-27T00:44:19.000Z",
     "id": "recpsoV85eueqCaGJ",
+    "(You can't directly edit this column)": "Nick Yang, AFX K.D.A. Director",
     "groupIds": [
       "reci3ih0tLpf6MhCb"
     ],
@@ -45546,12 +45547,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Nick Yang, AFX K.D.A. Director"
+    "sortKey": "2019c"
   },
   "recHRgG6Hb5M1lhAR": {
     "createdTime": "2020-02-27T00:44:35.000Z",
     "id": "recHRgG6Hb5M1lhAR",
+    "(You can't directly edit this column)": "Kimisato Wago, AFX Relevant Director",
     "groupIds": [
       "recTUVvE8OHpGhn4R"
     ],
@@ -45594,12 +45595,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Kimisato Wago, AFX Relevant Director"
+    "sortKey": "2019c"
   },
   "recq3JTsXmiVdVTFW": {
     "createdTime": "2020-02-27T00:44:45.000Z",
     "id": "recq3JTsXmiVdVTFW",
+    "(You can't directly edit this column)": "Jason Bouatavanh, AFX TBD Director",
     "groupIds": [
       "recikXdCr1tnZ7p1x"
     ],
@@ -45642,12 +45643,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Jason Bouatavanh, AFX TBD Director"
+    "sortKey": "2019c"
   },
   "recIYuoDSyiceJiKk": {
     "createdTime": "2020-02-27T00:45:01.000Z",
     "id": "recIYuoDSyiceJiKk",
+    "(You can't directly edit this column)": "Stacey Jung, AFX TBD Director",
     "groupIds": [
       "recikXdCr1tnZ7p1x"
     ],
@@ -45690,12 +45691,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recCxthtPcgHxFHH1"
     ],
-    "sortKey": "2019c",
-    "(You can't directly edit this column)": "Stacey Jung, AFX TBD Director"
+    "sortKey": "2019c"
   },
   "recbv3Lv55I5YUqdm": {
     "createdTime": "2020-02-27T00:48:15.000Z",
     "id": "recbv3Lv55I5YUqdm",
+    "(You can't directly edit this column)": "Queeny Chan, AFX Board Spring 2020 PR Marketing",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -45738,12 +45739,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Queeny Chan, AFX Board Spring 2020 PR Marketing"
+    "sortKey": "2020a"
   },
   "recrqiI6Z8sNdAj0W": {
     "createdTime": "2020-02-27T00:48:28.000Z",
     "id": "recrqiI6Z8sNdAj0W",
+    "(You can't directly edit this column)": "Albert Tran, AFX Board Spring 2020 PR Marketing",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -45786,12 +45787,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Albert Tran, AFX Board Spring 2020 PR Marketing"
+    "sortKey": "2020a"
   },
   "recdzVXETWnQVa1gK": {
     "createdTime": "2020-02-27T00:48:49.000Z",
     "id": "recdzVXETWnQVa1gK",
+    "(You can't directly edit this column)": "Mohak Jain, AFX Board Spring 2020 PR Design",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -45834,12 +45835,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Mohak Jain, AFX Board Spring 2020 PR Design"
+    "sortKey": "2020a"
   },
   "recCLdf034B1xAvAu": {
     "createdTime": "2020-02-27T00:49:01.000Z",
     "id": "recCLdf034B1xAvAu",
+    "(You can't directly edit this column)": "Erica Lin, AFX Board Spring 2020 PR Design",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -45882,12 +45883,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Erica Lin, AFX Board Spring 2020 PR Design"
+    "sortKey": "2020a"
   },
   "recmlDSPRMNUux0Cb": {
     "createdTime": "2020-02-27T00:49:10.000Z",
     "id": "recmlDSPRMNUux0Cb",
+    "(You can't directly edit this column)": "Shay Ma, AFX Board Spring 2020 PR Design",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -45930,12 +45931,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Shay Ma, AFX Board Spring 2020 PR Design"
+    "sortKey": "2020a"
   },
   "recgfmWgQVjc9voz4": {
     "createdTime": "2020-02-27T00:49:20.000Z",
     "id": "recgfmWgQVjc9voz4",
+    "(You can't directly edit this column)": "Andrew Dacayanan, AFX Board Spring 2020 External Events",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -45978,12 +45979,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Andrew Dacayanan, AFX Board Spring 2020 External Events"
+    "sortKey": "2020a"
   },
   "rec05fV6mwS1RTeux": {
     "createdTime": "2020-02-27T00:49:41.000Z",
     "id": "rec05fV6mwS1RTeux",
+    "(You can't directly edit this column)": "Amanda Jorgensen, AFX Board Spring 2020 External Events",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46026,12 +46027,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Amanda Jorgensen, AFX Board Spring 2020 External Events"
+    "sortKey": "2020a"
   },
   "rec5PlAE03SquEM4k": {
     "createdTime": "2020-02-27T00:50:02.000Z",
     "id": "rec5PlAE03SquEM4k",
+    "(You can't directly edit this column)": "Allyson Yang, AFX Board Spring 2020 Internal Events",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46074,12 +46075,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Allyson Yang, AFX Board Spring 2020 Internal Events"
+    "sortKey": "2020a"
   },
   "recPZtTL6Ur4jcVTP": {
     "createdTime": "2020-02-27T00:50:15.000Z",
     "id": "recPZtTL6Ur4jcVTP",
+    "(You can't directly edit this column)": "Jimmy Guevara, AFX Board Spring 2020 Internal Events",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46122,12 +46123,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jimmy Guevara, AFX Board Spring 2020 Internal Events"
+    "sortKey": "2020a"
   },
   "recPqF2yvcemBQJRW": {
     "createdTime": "2020-02-27T00:50:28.000Z",
     "id": "recPqF2yvcemBQJRW",
+    "(You can't directly edit this column)": "Christina Liu, AFX Board Spring 2020 Finance Chair",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46170,12 +46171,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Christina Liu, AFX Board Spring 2020 Finance Chair"
+    "sortKey": "2020a"
   },
   "recM4Lx7JsuEMjEoA": {
     "createdTime": "2020-02-27T00:50:39.000Z",
     "id": "recM4Lx7JsuEMjEoA",
+    "(You can't directly edit this column)": "Caroline Jones, AFX Board Spring 2020 Finance Chair",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46218,12 +46219,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Caroline Jones, AFX Board Spring 2020 Finance Chair"
+    "sortKey": "2020a"
   },
   "recAeEq0AKqHxn8uJ": {
     "createdTime": "2020-02-27T00:50:50.000Z",
     "id": "recAeEq0AKqHxn8uJ",
+    "(You can't directly edit this column)": "Victoria Li, AFX Board Spring 2020 Historian",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46266,12 +46267,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Victoria Li, AFX Board Spring 2020 Historian"
+    "sortKey": "2020a"
   },
   "recKxIbRuPyRV5ezf": {
     "createdTime": "2020-02-27T00:51:18.000Z",
     "id": "recKxIbRuPyRV5ezf",
+    "(You can't directly edit this column)": "Julia Pan, AFX Board Spring 2020 Historian",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46314,12 +46315,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Julia Pan, AFX Board Spring 2020 Historian"
+    "sortKey": "2020a"
   },
   "recO1Zv0VOp4aE1Bk": {
     "createdTime": "2020-02-27T00:52:05.000Z",
     "id": "recO1Zv0VOp4aE1Bk",
+    "(You can't directly edit this column)": "Cheryl Chen, AFX Comp Comp Captain",
     "groupIds": [
       "rec3oej2z8xqAAOpP"
     ],
@@ -46362,12 +46363,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Cheryl Chen, AFX Comp Comp Captain"
+    "sortKey": "2020a"
   },
   "recBIOKSGYBg83k83": {
     "createdTime": "2020-02-27T00:52:18.000Z",
     "id": "recBIOKSGYBg83k83",
+    "(You can't directly edit this column)": "Sujin Ha, AFX Comp Comp Captain",
     "groupIds": [
       "rec3oej2z8xqAAOpP"
     ],
@@ -46410,12 +46411,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Sujin Ha, AFX Comp Comp Captain"
+    "sortKey": "2020a"
   },
   "rec1adVGJWUxwQTqd": {
     "createdTime": "2020-02-27T00:52:48.000Z",
     "id": "rec1adVGJWUxwQTqd",
+    "(You can't directly edit this column)": "Christopher Herrera, AFX Comp Comp Artistics ",
     "groupIds": [
       "rec3oej2z8xqAAOpP"
     ],
@@ -46458,12 +46459,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Christopher Herrera, AFX Comp Comp Artistics "
+    "sortKey": "2020a"
   },
   "recbg37rHyFn0yJOT": {
     "createdTime": "2020-02-27T00:53:26.000Z",
     "id": "recbg37rHyFn0yJOT",
+    "(You can't directly edit this column)": "Edward Yao, AFX Comp Comp Artistic Assistants",
     "groupIds": [
       "rec3oej2z8xqAAOpP"
     ],
@@ -46506,12 +46507,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Edward Yao, AFX Comp Comp Artistic Assistants"
+    "sortKey": "2020a"
   },
   "recwuEfnDzwuYTQzC": {
     "createdTime": "2020-02-27T00:54:09.000Z",
     "id": "recwuEfnDzwuYTQzC",
+    "(You can't directly edit this column)": "Amanda Harmon, AFX Comp Comp Communications",
     "groupIds": [
       "rec3oej2z8xqAAOpP"
     ],
@@ -46554,12 +46555,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Amanda Harmon, AFX Comp Comp Communications"
+    "sortKey": "2020a"
   },
   "recQU8GzX7coH8oSt": {
     "createdTime": "2020-02-27T00:54:28.000Z",
     "id": "recQU8GzX7coH8oSt",
+    "(You can't directly edit this column)": "Shanna Inouye, AFX Comp Comp Communications",
     "groupIds": [
       "rec3oej2z8xqAAOpP"
     ],
@@ -46602,12 +46603,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Shanna Inouye, AFX Comp Comp Communications"
+    "sortKey": "2020a"
   },
   "recez5kPWgg1XBzIi": {
     "createdTime": "2020-02-27T00:55:01.000Z",
     "id": "recez5kPWgg1XBzIi",
+    "(You can't directly edit this column)": "Allison Yeh, AFX Board Spring 2020 Tech Committee Lead",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46650,12 +46651,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Allison Yeh, AFX Board Spring 2020 Tech Committee Lead"
+    "sortKey": "2020a"
   },
   "receuV0hGQA5pth9v": {
     "createdTime": "2020-02-27T00:55:16.000Z",
     "id": "receuV0hGQA5pth9v",
+    "(You can't directly edit this column)": "Howard Wang, AFX Board Spring 2020 Tech Committee Lead",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46698,12 +46699,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Howard Wang, AFX Board Spring 2020 Tech Committee Lead"
+    "sortKey": "2020a"
   },
   "recXH9pNRQ9UCmPzp": {
     "createdTime": "2020-02-27T00:55:43.000Z",
     "id": "recXH9pNRQ9UCmPzp",
+    "(You can't directly edit this column)": "Joe Zou, AFX Board Spring 2020 Tech Committee Lead",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46746,12 +46747,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Joe Zou, AFX Board Spring 2020 Tech Committee Lead"
+    "sortKey": "2020a"
   },
   "recSi2ro6UqdZyrO9": {
     "createdTime": "2020-02-27T00:55:58.000Z",
     "id": "recSi2ro6UqdZyrO9",
+    "(You can't directly edit this column)": "Sophie Lian, AFX Board Spring 2020 Tech Committee Lead",
     "groupIds": [
       "recqeqsYTuU8E5BlY"
     ],
@@ -46794,12 +46795,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Sophie Lian, AFX Board Spring 2020 Tech Committee Lead"
+    "sortKey": "2020a"
   },
   "rec00di1F0j1G7dFf": {
     "createdTime": "2020-02-27T19:24:49.000Z",
     "id": "rec00di1F0j1G7dFf",
+    "(You can't directly edit this column)": "Alex Rodriguez, AFX Más Director",
     "groupIds": [
       "recloqqQnflF21Mvo"
     ],
@@ -46842,12 +46843,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Alex Rodriguez, AFX Más Director"
+    "sortKey": "2020a"
   },
   "recnxOelmrU61B3z3": {
     "createdTime": "2020-02-27T19:25:08.000Z",
     "id": "recnxOelmrU61B3z3",
+    "(You can't directly edit this column)": "Jonathan Boyle, AFX afk Director",
     "groupIds": [
       "recQZZq8KlesmFyQN"
     ],
@@ -46890,12 +46891,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jonathan Boyle, AFX afk Director"
+    "sortKey": "2020a"
   },
   "recnDQ7U04iZSgYsR": {
     "createdTime": "2020-02-27T19:25:19.000Z",
     "id": "recnDQ7U04iZSgYsR",
+    "(You can't directly edit this column)": "Vivian Nguyen, AFX afk Director",
     "groupIds": [
       "recQZZq8KlesmFyQN"
     ],
@@ -46938,12 +46939,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Vivian Nguyen, AFX afk Director"
+    "sortKey": "2020a"
   },
   "rec6QyFLND68vU8Gp": {
     "createdTime": "2020-02-27T19:25:49.000Z",
     "id": "rec6QyFLND68vU8Gp",
+    "(You can't directly edit this column)": "Shruti Natarajan, AFX afk Director",
     "groupIds": [
       "recQZZq8KlesmFyQN"
     ],
@@ -46986,12 +46987,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Shruti Natarajan, AFX afk Director"
+    "sortKey": "2020a"
   },
   "recjYhe4XhW18GfAD": {
     "createdTime": "2020-02-27T19:26:13.000Z",
     "id": "recjYhe4XhW18GfAD",
+    "(You can't directly edit this column)": "Moniish Elanchezhian, AFX Bill Graham Director",
     "groupIds": [
       "recaDRosC21YambGs"
     ],
@@ -47034,12 +47035,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Moniish Elanchezhian, AFX Bill Graham Director"
+    "sortKey": "2020a"
   },
   "recbKAWSyK9HMh73R": {
     "createdTime": "2020-02-27T19:26:33.000Z",
     "id": "recbKAWSyK9HMh73R",
+    "(You can't directly edit this column)": "Stephen Jayakar, AFX Bill Graham Director",
     "groupIds": [
       "recaDRosC21YambGs"
     ],
@@ -47082,12 +47083,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Stephen Jayakar, AFX Bill Graham Director"
+    "sortKey": "2020a"
   },
   "rec6K3KbqxS3JT3JA": {
     "createdTime": "2020-02-27T19:26:50.000Z",
     "id": "rec6K3KbqxS3JT3JA",
+    "(You can't directly edit this column)": "Charles Hager, AFX It's Complicated Director",
     "groupIds": [
       "reczyBJlfZtj5ovNj"
     ],
@@ -47130,12 +47131,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Charles Hager, AFX It's Complicated Director"
+    "sortKey": "2020a"
   },
   "recyaTFJH9RoIH3md": {
     "createdTime": "2020-02-27T19:27:01.000Z",
     "id": "recyaTFJH9RoIH3md",
+    "(You can't directly edit this column)": "Akshata Nagendra, AFX REM Director",
     "groupIds": [
       "recwZIqvLbYbzKSZn"
     ],
@@ -47178,12 +47179,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Akshata Nagendra, AFX REM Director"
+    "sortKey": "2020a"
   },
   "rec5Px0R7YFqwdcWn": {
     "createdTime": "2020-02-27T19:27:12.000Z",
     "id": "rec5Px0R7YFqwdcWn",
+    "(You can't directly edit this column)": "Ryan Searcy, AFX REM Director",
     "groupIds": [
       "recwZIqvLbYbzKSZn"
     ],
@@ -47226,12 +47227,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Ryan Searcy, AFX REM Director"
+    "sortKey": "2020a"
   },
   "recFynU6XE8dDyi05": {
     "createdTime": "2020-02-27T19:27:34.000Z",
     "id": "recFynU6XE8dDyi05",
+    "(You can't directly edit this column)": "Andrew Dacayanan, AFX s a d Director",
     "groupIds": [
       "recFzxrCOVPV8Vy8m"
     ],
@@ -47274,12 +47275,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Andrew Dacayanan, AFX s a d Director"
+    "sortKey": "2020a"
   },
   "recYljKzzsjwGrKx2": {
     "createdTime": "2020-02-27T19:27:47.000Z",
     "id": "recYljKzzsjwGrKx2",
+    "(You can't directly edit this column)": "Alan Syau, AFX s a d Director",
     "groupIds": [
       "recFzxrCOVPV8Vy8m"
     ],
@@ -47322,12 +47323,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Alan Syau, AFX s a d Director"
+    "sortKey": "2020a"
   },
   "rec91sZxNBMIplMCN": {
     "createdTime": "2020-02-27T19:28:02.000Z",
     "id": "rec91sZxNBMIplMCN",
+    "(You can't directly edit this column)": "Helen Wang, AFX T6 Director",
     "groupIds": [
       "rec0Nn9tEIQbK7McN"
     ],
@@ -47370,12 +47371,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Helen Wang, AFX T6 Director"
+    "sortKey": "2020a"
   },
   "rec4u5Hz41wEtLgIq": {
     "createdTime": "2020-02-27T19:28:26.000Z",
     "id": "rec4u5Hz41wEtLgIq",
+    "(You can't directly edit this column)": "Samantha Fang, AFX T6 Director",
     "groupIds": [
       "rec0Nn9tEIQbK7McN"
     ],
@@ -47418,12 +47419,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Samantha Fang, AFX T6 Director"
+    "sortKey": "2020a"
   },
   "rec82yijgd8fQTqBR": {
     "createdTime": "2020-02-27T19:28:40.000Z",
     "id": "rec82yijgd8fQTqBR",
+    "(You can't directly edit this column)": "Nic Liang, AFX T6 Director",
     "groupIds": [
       "rec0Nn9tEIQbK7McN"
     ],
@@ -47466,12 +47467,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Nic Liang, AFX T6 Director"
+    "sortKey": "2020a"
   },
   "rechN0rJnUjJYTn6C": {
     "createdTime": "2020-02-27T19:28:56.000Z",
     "id": "rechN0rJnUjJYTn6C",
+    "(You can't directly edit this column)": "Raymond Tan, AFX Untitled Director",
     "groupIds": [
       "recI6ObEzkE4orGkI"
     ],
@@ -47514,12 +47515,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Raymond Tan, AFX Untitled Director"
+    "sortKey": "2020a"
   },
   "recLrLnlQMSIzEfOQ": {
     "createdTime": "2020-02-27T19:29:07.000Z",
     "id": "recLrLnlQMSIzEfOQ",
+    "(You can't directly edit this column)": "Jasmine Casey, AFX Untitled Director",
     "groupIds": [
       "recI6ObEzkE4orGkI"
     ],
@@ -47562,12 +47563,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jasmine Casey, AFX Untitled Director"
+    "sortKey": "2020a"
   },
   "recisAw1anYdh4PHc": {
     "createdTime": "2020-02-27T19:29:27.000Z",
     "id": "recisAw1anYdh4PHc",
+    "(You can't directly edit this column)": "Anthony Zhou, AFX Untitled Director",
     "groupIds": [
       "recI6ObEzkE4orGkI"
     ],
@@ -47610,12 +47611,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Anthony Zhou, AFX Untitled Director"
+    "sortKey": "2020a"
   },
   "recsUwUt5d3zh3R6U": {
     "createdTime": "2020-02-27T19:29:47.000Z",
     "id": "recsUwUt5d3zh3R6U",
+    "(You can't directly edit this column)": "Eshna Kulkarni, AFX51 Director",
     "groupIds": [
       "recFfASUlfJErnhUW"
     ],
@@ -47658,12 +47659,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Eshna Kulkarni, AFX51 Director"
+    "sortKey": "2020a"
   },
   "rectIJDBiuqwrdazm": {
     "createdTime": "2020-02-27T19:30:13.000Z",
     "id": "rectIJDBiuqwrdazm",
+    "(You can't directly edit this column)": "Maddi Gjovik, AFX51 Director",
     "groupIds": [
       "recFfASUlfJErnhUW"
     ],
@@ -47706,12 +47707,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Maddi Gjovik, AFX51 Director"
+    "sortKey": "2020a"
   },
   "rechIunAWBaNzBUlS": {
     "createdTime": "2020-02-27T19:30:29.000Z",
     "id": "rechIunAWBaNzBUlS",
+    "(You can't directly edit this column)": "Zaw Maw Htun, AFX51 Director",
     "groupIds": [
       "recFfASUlfJErnhUW"
     ],
@@ -47754,12 +47755,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Zaw Maw Htun, AFX51 Director"
+    "sortKey": "2020a"
   },
   "recMC6zUTOh5MfWH8": {
     "createdTime": "2020-02-27T19:30:46.000Z",
     "id": "recMC6zUTOh5MfWH8",
+    "(You can't directly edit this column)": "Alice Wang, AFX Bloopers Director",
     "groupIds": [
       "recRws5RTGBS6YJYY"
     ],
@@ -47802,12 +47803,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Alice Wang, AFX Bloopers Director"
+    "sortKey": "2020a"
   },
   "recI0J5SbEQPF20Gd": {
     "createdTime": "2020-02-27T19:30:57.000Z",
     "id": "recI0J5SbEQPF20Gd",
+    "(You can't directly edit this column)": "Jonathan Ting, AFX Bloopers Director",
     "groupIds": [
       "recRws5RTGBS6YJYY"
     ],
@@ -47850,12 +47851,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jonathan Ting, AFX Bloopers Director"
+    "sortKey": "2020a"
   },
   "recOceWqpEqBfKy2C": {
     "createdTime": "2020-02-27T19:31:09.000Z",
     "id": "recOceWqpEqBfKy2C",
+    "(You can't directly edit this column)": "Jasmine Lai, AFX Bloopers Director",
     "groupIds": [
       "recRws5RTGBS6YJYY"
     ],
@@ -47898,12 +47899,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Jasmine Lai, AFX Bloopers Director"
+    "sortKey": "2020a"
   },
   "recq4SnQP1qxT1QS4": {
     "createdTime": "2020-02-27T19:31:25.000Z",
     "id": "recq4SnQP1qxT1QS4",
+    "(You can't directly edit this column)": "Taylor Wang, AFX Bloopers Director",
     "groupIds": [
       "recRws5RTGBS6YJYY"
     ],
@@ -47946,12 +47947,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Taylor Wang, AFX Bloopers Director"
+    "sortKey": "2020a"
   },
   "recAthXQMIr9ijTsV": {
     "createdTime": "2020-02-27T19:31:38.000Z",
     "id": "recAthXQMIr9ijTsV",
+    "(You can't directly edit this column)": "Kore Lum, AFX tato Director",
     "groupIds": [
       "rec2ZJHTMnn0FAJKo"
     ],
@@ -47994,12 +47995,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Kore Lum, AFX tato Director"
+    "sortKey": "2020a"
   },
   "recHHFAx34eDX6Z7a": {
     "createdTime": "2020-02-27T19:31:47.000Z",
     "id": "recHHFAx34eDX6Z7a",
+    "(You can't directly edit this column)": "Austin Nguyen, AFX tato Director",
     "groupIds": [
       "rec2ZJHTMnn0FAJKo"
     ],
@@ -48042,12 +48043,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Austin Nguyen, AFX tato Director"
+    "sortKey": "2020a"
   },
   "recZU2ANvu48KVoHG": {
     "createdTime": "2020-02-27T19:32:04.000Z",
     "id": "recZU2ANvu48KVoHG",
+    "(You can't directly edit this column)": "Amy Shen, AFX tato Director",
     "groupIds": [
       "rec2ZJHTMnn0FAJKo"
     ],
@@ -48090,12 +48091,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Amy Shen, AFX tato Director"
+    "sortKey": "2020a"
   },
   "rec4F98HwuqlqOOOe": {
     "createdTime": "2020-02-27T19:32:17.000Z",
     "id": "rec4F98HwuqlqOOOe",
+    "(You can't directly edit this column)": "Aileen Gui, AFX Uncapped Director",
     "groupIds": [
       "recJkZzEekKYR2im7"
     ],
@@ -48138,12 +48139,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Aileen Gui, AFX Uncapped Director"
+    "sortKey": "2020a"
   },
   "recNTplTO05AYehEy": {
     "createdTime": "2020-02-27T19:32:26.000Z",
     "id": "recNTplTO05AYehEy",
+    "(You can't directly edit this column)": "Princeton Liu, AFX Uncapped Director",
     "groupIds": [
       "recJkZzEekKYR2im7"
     ],
@@ -48186,12 +48187,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Princeton Liu, AFX Uncapped Director"
+    "sortKey": "2020a"
   },
   "receSsUOI6G8EHnyt": {
     "createdTime": "2020-02-27T19:32:35.000Z",
     "id": "receSsUOI6G8EHnyt",
+    "(You can't directly edit this column)": "Christy Le, AFX Uncapped Director",
     "groupIds": [
       "recJkZzEekKYR2im7"
     ],
@@ -48234,12 +48235,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec4GaaU2uP8FRfw3"
     ],
-    "sortKey": "2020a",
-    "(You can't directly edit this column)": "Christy Le, AFX Uncapped Director"
+    "sortKey": "2020a"
   },
   "recZffCbiV7CxYpSC": {
     "createdTime": "2020-12-10T19:58:48.000Z",
     "id": "recZffCbiV7CxYpSC",
+    "(You can't directly edit this column)": "Ethan Chung, AFX Board Summer/Fall 2020 Director Executive",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48283,12 +48284,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Ethan Chung, AFX Board Summer/Fall 2020 Director Executive"
+    "sortKey": "2020c, 2020b"
   },
   "recALgfsxHOYbWHVW": {
     "createdTime": "2020-12-10T20:21:36.000Z",
     "id": "recALgfsxHOYbWHVW",
+    "(You can't directly edit this column)": "Allyson Yang, AFX Board Summer/Fall 2020 External Events",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48332,12 +48333,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Allyson Yang, AFX Board Summer/Fall 2020 External Events"
+    "sortKey": "2020c, 2020b"
   },
   "recEwQF67Uv6YYc8X": {
     "createdTime": "2020-12-10T20:24:19.000Z",
     "id": "recEwQF67Uv6YYc8X",
+    "(You can't directly edit this column)": "Amanda Jorgensen, AFX Board Summer/Fall 2020 External Events",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48381,12 +48382,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Amanda Jorgensen, AFX Board Summer/Fall 2020 External Events"
+    "sortKey": "2020c, 2020b"
   },
   "recuINmKlXkAUALTL": {
     "createdTime": "2020-12-10T20:25:27.000Z",
     "id": "recuINmKlXkAUALTL",
+    "(You can't directly edit this column)": "Albert Tran, AFX Board Summer/Fall 2020 Finance Chair",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48430,12 +48431,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Albert Tran, AFX Board Summer/Fall 2020 Finance Chair"
+    "sortKey": "2020c, 2020b"
   },
   "recVkBsKefyTOWCgj": {
     "createdTime": "2020-12-10T20:35:51.000Z",
     "id": "recVkBsKefyTOWCgj",
+    "(You can't directly edit this column)": "Queeny Chan, AFX Board Summer/Fall 2020 PR Marketing",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48479,12 +48480,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Queeny Chan, AFX Board Summer/Fall 2020 PR Marketing"
+    "sortKey": "2020c, 2020b"
   },
   "rec6e2yqSGGMUjMYh": {
     "createdTime": "2020-12-10T20:36:43.000Z",
     "id": "rec6e2yqSGGMUjMYh",
+    "(You can't directly edit this column)": "Jenavie Alcaraz, AFX Board Summer/Fall 2020 Director Executive",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48528,12 +48529,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Jenavie Alcaraz, AFX Board Summer/Fall 2020 Director Executive"
+    "sortKey": "2020c, 2020b"
   },
   "rec3iZfH5Ez8wLfBY": {
     "createdTime": "2020-12-10T20:37:25.000Z",
     "id": "rec3iZfH5Ez8wLfBY",
+    "(You can't directly edit this column)": "Julia Pan, AFX Board Summer/Fall 2020 Internal Executive ",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48577,12 +48578,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Julia Pan, AFX Board Summer/Fall 2020 Internal Executive "
+    "sortKey": "2020c, 2020b"
   },
   "recHdu6wfx1N12bz8": {
     "createdTime": "2020-12-10T20:44:46.000Z",
     "id": "recHdu6wfx1N12bz8",
+    "(You can't directly edit this column)": "Tijmen Sep, AFX Board Summer/Fall 2020 PR Design",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48626,12 +48627,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Tijmen Sep, AFX Board Summer/Fall 2020 PR Design"
+    "sortKey": "2020c, 2020b"
   },
   "recXg8EorutVDbJ4u": {
     "createdTime": "2020-12-10T20:45:54.000Z",
     "id": "recXg8EorutVDbJ4u",
+    "(You can't directly edit this column)": "Izzie Lau, AFX Board Summer/Fall 2020 PR Design",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48675,12 +48676,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Izzie Lau, AFX Board Summer/Fall 2020 PR Design"
+    "sortKey": "2020c, 2020b"
   },
   "rec1SJjDDWi6Xghf4": {
     "createdTime": "2020-12-10T20:47:59.000Z",
     "id": "rec1SJjDDWi6Xghf4",
+    "(You can't directly edit this column)": "Derek Yao, AFX Board Summer/Fall 2020 PR Marketing",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48724,12 +48725,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Derek Yao, AFX Board Summer/Fall 2020 PR Marketing"
+    "sortKey": "2020c, 2020b"
   },
   "recbbHLsxJSPA55LX": {
     "createdTime": "2020-12-10T20:50:57.000Z",
     "id": "recbbHLsxJSPA55LX",
+    "(You can't directly edit this column)": "David Ren, AFX Board Summer/Fall 2020 Internal Events",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48773,12 +48774,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "David Ren, AFX Board Summer/Fall 2020 Internal Events"
+    "sortKey": "2020c, 2020b"
   },
   "rec2ICNR1qhBULSjQ": {
     "createdTime": "2020-12-10T20:51:48.000Z",
     "id": "rec2ICNR1qhBULSjQ",
+    "(You can't directly edit this column)": "Sushanth Kanumuri, AFX Board Summer/Fall 2020 Finance Chair",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48822,12 +48823,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Sushanth Kanumuri, AFX Board Summer/Fall 2020 Finance Chair"
+    "sortKey": "2020c, 2020b"
   },
   "rec6J1RKduB6fnRcQ": {
     "createdTime": "2020-12-10T20:53:39.000Z",
     "id": "rec6J1RKduB6fnRcQ",
+    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Summer/Fall 2020 Internal Events",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48871,12 +48872,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Summer/Fall 2020 Internal Events"
+    "sortKey": "2020c, 2020b"
   },
   "recStx5YRKez8q4RB": {
     "createdTime": "2020-12-10T21:01:08.000Z",
     "id": "recStx5YRKez8q4RB",
+    "(You can't directly edit this column)": "Rulan Yi, AFX Board Summer/Fall 2020 Historian",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48920,12 +48921,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Rulan Yi, AFX Board Summer/Fall 2020 Historian"
+    "sortKey": "2020c, 2020b"
   },
   "reclyNYr3RNpXOc4y": {
     "createdTime": "2020-12-10T21:18:23.000Z",
     "id": "reclyNYr3RNpXOc4y",
+    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX Board Summer/Fall 2020 Historian",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -48969,12 +48970,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX Board Summer/Fall 2020 Historian"
+    "sortKey": "2020c, 2020b"
   },
   "recSl4L23CCQA9eLe": {
     "createdTime": "2020-12-10T21:56:16.000Z",
     "id": "recSl4L23CCQA9eLe",
+    "(You can't directly edit this column)": "Caroline Jones, AFX Board Summer/Fall 2020 External Executive",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -49018,12 +49019,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Caroline Jones, AFX Board Summer/Fall 2020 External Executive"
+    "sortKey": "2020c, 2020b"
   },
   "rec4Sk02nWS9BCdXs": {
     "createdTime": "2020-12-10T22:45:45.000Z",
     "id": "rec4Sk02nWS9BCdXs",
+    "(You can't directly edit this column)": "Kimisato Wago, AFX Dance Camp, AFX Dance Camp Comp Artistics",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49069,12 +49070,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Kimisato Wago, AFX Dance Camp, AFX Dance Camp Comp Artistics"
+    "sortKey": "2020b, 2020c"
   },
   "recAEjycJJKJbHCKQ": {
     "createdTime": "2020-12-10T22:46:53.000Z",
     "id": "recAEjycJJKJbHCKQ",
+    "(You can't directly edit this column)": "Shanna Inouye, AFX Dance Camp, AFX Dance Camp Comp Communications",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49120,12 +49121,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Shanna Inouye, AFX Dance Camp, AFX Dance Camp Comp Communications"
+    "sortKey": "2020b, 2020c"
   },
   "recQ6NxDC0NyqfKCp": {
     "createdTime": "2020-12-10T22:47:24.000Z",
     "id": "recQ6NxDC0NyqfKCp",
+    "(You can't directly edit this column)": "Christopher Herrera, AFX Dance Camp, AFX Dance Camp Comp Artistics",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49171,12 +49172,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Christopher Herrera, AFX Dance Camp, AFX Dance Camp Comp Artistics"
+    "sortKey": "2020b, 2020c"
   },
   "recNOpBsbqPNI8gGS": {
     "createdTime": "2020-12-10T22:48:00.000Z",
     "id": "recNOpBsbqPNI8gGS",
+    "(You can't directly edit this column)": "Cheryl Chen, AFX Dance Camp, AFX Dance Camp Comp Captain",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49222,12 +49223,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Cheryl Chen, AFX Dance Camp, AFX Dance Camp Comp Captain"
+    "sortKey": "2020b, 2020c"
   },
   "recux0rdkYhUffKKA": {
     "createdTime": "2020-12-10T22:48:32.000Z",
     "id": "recux0rdkYhUffKKA",
+    "(You can't directly edit this column)": "Anthony Chen, AFX Dance Camp, AFX Dance Camp Comp Captain",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49273,12 +49274,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Anthony Chen, AFX Dance Camp, AFX Dance Camp Comp Captain"
+    "sortKey": "2020b, 2020c"
   },
   "recvmR2yXhDkrWx7H": {
     "createdTime": "2020-12-10T22:49:50.000Z",
     "id": "recvmR2yXhDkrWx7H",
+    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Camp, AFX Dance Camp Comp Artistic Assistants",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49324,12 +49325,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Camp, AFX Dance Camp Comp Artistic Assistants"
+    "sortKey": "2020b, 2020c"
   },
   "recf0bG6w3ZNy0FLJ": {
     "createdTime": "2020-12-10T22:50:53.000Z",
     "id": "recf0bG6w3ZNy0FLJ",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Camp, AFX Dance Camp Comp Artistic Assistants",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49375,12 +49376,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Camp, AFX Dance Camp Comp Artistic Assistants"
+    "sortKey": "2020b, 2020c"
   },
   "recfaASr2381olW2F": {
     "createdTime": "2020-12-10T22:51:53.000Z",
     "id": "recfaASr2381olW2F",
+    "(You can't directly edit this column)": "Jasmine Syu, AFX Dance Camp, AFX Dance Camp Comp Communications",
     "groupIds": [
       "recLtIuWTRWOxjK2e",
       "recadTiaVOxLbdQWB"
@@ -49426,12 +49427,12 @@ export let PersonPositions = {
       "rec43lCerLj49aZ9m",
       "rec9kitTLOaSVzuFw"
     ],
-    "sortKey": "2020b, 2020c",
-    "(You can't directly edit this column)": "Jasmine Syu, AFX Dance Camp, AFX Dance Camp Comp Communications"
+    "sortKey": "2020b, 2020c"
   },
   "recshc39FZ6Q2J46V": {
     "createdTime": "2020-12-11T01:17:51.000Z",
     "id": "recshc39FZ6Q2J46V",
+    "(You can't directly edit this column)": "Christina Liu, AFX Board Summer/Fall 2020 Internal Executive ",
     "groupIds": [
       "rec8S4xFJZK8NTmct"
     ],
@@ -49475,12 +49476,12 @@ export let PersonPositions = {
       "rec9kitTLOaSVzuFw",
       "rec43lCerLj49aZ9m"
     ],
-    "sortKey": "2020c, 2020b",
-    "(You can't directly edit this column)": "Christina Liu, AFX Board Summer/Fall 2020 Internal Executive "
+    "sortKey": "2020c, 2020b"
   },
   "rec0t5fX4vTrLczFO": {
     "createdTime": "2023-03-06T03:19:16.000Z",
     "id": "rec0t5fX4vTrLczFO",
+    "(You can't directly edit this column)": "Ellie Kuang, AFX Board Spring 2023  External Executive",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49523,12 +49524,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Ellie Kuang, AFX Board Spring 2023  External Executive"
+    "sortKey": "2023a"
   },
   "recbdKhwWle6omMD1": {
     "createdTime": "2023-03-06T03:58:28.000Z",
     "id": "recbdKhwWle6omMD1",
+    "(You can't directly edit this column)": "Victoria Lu, AFX Board Spring 2023  External Executive",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49571,12 +49572,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Victoria Lu, AFX Board Spring 2023  External Executive"
+    "sortKey": "2023a"
   },
   "recKp478GfEoByCcv": {
     "createdTime": "2023-03-06T03:59:44.000Z",
     "id": "recKp478GfEoByCcv",
+    "(You can't directly edit this column)": "Grace Guan, AFX Board Spring 2023  Director Executive",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49619,12 +49620,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Grace Guan, AFX Board Spring 2023  Director Executive"
+    "sortKey": "2023a"
   },
   "rec1cUXcTDrocdmdY": {
     "createdTime": "2023-03-06T04:03:12.000Z",
     "id": "rec1cUXcTDrocdmdY",
+    "(You can't directly edit this column)": "Ronald Wang, AFX Board Spring 2023  Director Executive",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49667,12 +49668,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Ronald Wang, AFX Board Spring 2023  Director Executive"
+    "sortKey": "2023a"
   },
   "reciJRFeNbAFd1zns": {
     "createdTime": "2023-03-06T04:04:50.000Z",
     "id": "reciJRFeNbAFd1zns",
+    "(You can't directly edit this column)": "Apple Zhou, AFX Board Spring 2023  PR Marketing",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49715,12 +49716,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Apple Zhou, AFX Board Spring 2023  PR Marketing"
+    "sortKey": "2023a"
   },
   "recFj2KbSVQNOtRXs": {
     "createdTime": "2023-03-06T04:05:27.000Z",
     "id": "recFj2KbSVQNOtRXs",
+    "(You can't directly edit this column)": "Kat Cheng, AFX Board Spring 2023  PR Design",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49763,12 +49764,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Kat Cheng, AFX Board Spring 2023  PR Design"
+    "sortKey": "2023a"
   },
   "recklGJhyEIGk1OgO": {
     "createdTime": "2023-03-06T04:06:19.000Z",
     "id": "recklGJhyEIGk1OgO",
+    "(You can't directly edit this column)": "Sylvie Lam, AFX Board Spring 2023  PR Design",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49811,12 +49812,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Sylvie Lam, AFX Board Spring 2023  PR Design"
+    "sortKey": "2023a"
   },
   "reckXtn7MdTYfsq32": {
     "createdTime": "2023-03-06T04:10:11.000Z",
     "id": "reckXtn7MdTYfsq32",
+    "(You can't directly edit this column)": "Sophie Hoang, AFX Board Spring 2023  Internal Events",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49859,12 +49860,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Sophie Hoang, AFX Board Spring 2023  Internal Events"
+    "sortKey": "2023a"
   },
   "recF3XLsEJzECzoRt": {
     "createdTime": "2023-03-06T04:10:48.000Z",
     "id": "recF3XLsEJzECzoRt",
+    "(You can't directly edit this column)": "Emily Lu, AFX Board Spring 2023  External Events",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49907,12 +49908,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Emily Lu, AFX Board Spring 2023  External Events"
+    "sortKey": "2023a"
   },
   "rec6FHEPcLbM6T4Al": {
     "createdTime": "2023-03-06T04:15:10.000Z",
     "id": "rec6FHEPcLbM6T4Al",
+    "(You can't directly edit this column)": "Ariane Vidal, AFX Board Spring 2023  Internal Events",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -49955,12 +49956,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Ariane Vidal, AFX Board Spring 2023  Internal Events"
+    "sortKey": "2023a"
   },
   "recr5e7whIPIXumZW": {
     "createdTime": "2023-03-06T04:15:53.000Z",
     "id": "recr5e7whIPIXumZW",
+    "(You can't directly edit this column)": "Angela Zhang, AFX Board Spring 2023  External Events",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50003,12 +50004,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Angela Zhang, AFX Board Spring 2023  External Events"
+    "sortKey": "2023a"
   },
   "rectOUuWhqdvCyj6q": {
     "createdTime": "2023-03-06T04:16:28.000Z",
     "id": "rectOUuWhqdvCyj6q",
+    "(You can't directly edit this column)": "Anna Ha, AFX Board Spring 2023  Finance Chair",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50051,12 +50052,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Anna Ha, AFX Board Spring 2023  Finance Chair"
+    "sortKey": "2023a"
   },
   "rec8lp28BqZBs6TdK": {
     "createdTime": "2023-03-06T04:17:13.000Z",
     "id": "rec8lp28BqZBs6TdK",
+    "(You can't directly edit this column)": "Keilan Hooper, AFX Board Spring 2023  Finance Chair",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50099,12 +50100,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Keilan Hooper, AFX Board Spring 2023  Finance Chair"
+    "sortKey": "2023a"
   },
   "rec2IustB22cVOTjg": {
     "createdTime": "2023-03-06T04:17:58.000Z",
     "id": "rec2IustB22cVOTjg",
+    "(You can't directly edit this column)": "Temmie Park, AFX Board Spring 2023  Finance Chair",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50147,12 +50148,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Temmie Park, AFX Board Spring 2023  Finance Chair"
+    "sortKey": "2023a"
   },
   "recjkdh9leNKAasGY": {
     "createdTime": "2023-03-06T04:18:55.000Z",
     "id": "recjkdh9leNKAasGY",
+    "(You can't directly edit this column)": "Anna Jiang, AFX Board Spring 2023  Historian",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50195,12 +50196,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Anna Jiang, AFX Board Spring 2023  Historian"
+    "sortKey": "2023a"
   },
   "rec7zvBysAwIDbk4t": {
     "createdTime": "2023-03-06T04:20:32.000Z",
     "id": "rec7zvBysAwIDbk4t",
+    "(You can't directly edit this column)": "Allison Lee, AFX Board Spring 2023  Internal Executive ",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50243,12 +50244,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Allison Lee, AFX Board Spring 2023  Internal Executive "
+    "sortKey": "2023a"
   },
   "rectO59mvOUZJpHNQ": {
     "createdTime": "2023-03-06T04:21:20.000Z",
     "id": "rectO59mvOUZJpHNQ",
+    "(You can't directly edit this column)": "Joy Zhang, AFX Board Spring 2023  Internal Executive ",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50291,12 +50292,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Joy Zhang, AFX Board Spring 2023  Internal Executive "
+    "sortKey": "2023a"
   },
   "recwSefVpEp8WiZgw": {
     "createdTime": "2023-04-17T20:19:20.000Z",
     "id": "recwSefVpEp8WiZgw",
+    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Spring 2021 Internal Executive ",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50311,12 +50312,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Spring 2021 Internal Executive "
+    "sortKey": "2021a"
   },
   "recv0nPzGtiq23fgy": {
     "createdTime": "2023-04-17T20:31:40.000Z",
     "id": "recv0nPzGtiq23fgy",
+    "(You can't directly edit this column)": "Julia Pan, AFX Board Spring 2021 Internal Executive ",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50331,12 +50332,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Julia Pan, AFX Board Spring 2021 Internal Executive "
+    "sortKey": "2021a"
   },
   "recVf7zuhgt9Qn8TY": {
     "createdTime": "2023-04-17T20:42:13.000Z",
     "id": "recVf7zuhgt9Qn8TY",
+    "(You can't directly edit this column)": "Joy Zhang, AFX Board Spring 2023  Tech Committee Lead",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50379,12 +50380,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Joy Zhang, AFX Board Spring 2023  Tech Committee Lead"
+    "sortKey": "2023a"
   },
   "recYBhH3m8oOfN3oF": {
     "createdTime": "2023-04-17T20:43:13.000Z",
     "id": "recYBhH3m8oOfN3oF",
+    "(You can't directly edit this column)": "Anusha Muley, AFX Board Spring 2023  Tech Committee Lead",
     "groupIds": [
       "recxslFUAow6jl7nj"
     ],
@@ -50427,12 +50428,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Anusha Muley, AFX Board Spring 2023  Tech Committee Lead"
+    "sortKey": "2023a"
   },
   "recQJEPfMaT7qoOdM": {
     "createdTime": "2023-04-17T20:53:59.000Z",
     "id": "recQJEPfMaT7qoOdM",
+    "(You can't directly edit this column)": "Albert Tran, AFX Board Spring 2021 External Executive",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50447,12 +50448,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Albert Tran, AFX Board Spring 2021 External Executive"
+    "sortKey": "2021a"
   },
   "recdU65r5tNJuwcQV": {
     "createdTime": "2023-04-17T20:54:36.000Z",
     "id": "recdU65r5tNJuwcQV",
+    "(You can't directly edit this column)": "Ethan Chung, AFX Board Spring 2021 Director Executive",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50467,12 +50468,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Ethan Chung, AFX Board Spring 2021 Director Executive"
+    "sortKey": "2021a"
   },
   "rece0AK37OpbbG3oB": {
     "createdTime": "2023-04-17T20:54:59.000Z",
     "id": "rece0AK37OpbbG3oB",
+    "(You can't directly edit this column)": "Stacey Jung, AFX Board Spring 2021 Director Executive",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50487,12 +50488,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Stacey Jung, AFX Board Spring 2021 Director Executive"
+    "sortKey": "2021a"
   },
   "recPSImEVm6y798CP": {
     "createdTime": "2023-04-17T21:51:24.000Z",
     "id": "recPSImEVm6y798CP",
+    "(You can't directly edit this column)": "Queeny Chan, AFX Board Spring 2021 PR Marketing",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50507,12 +50508,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Queeny Chan, AFX Board Spring 2021 PR Marketing"
+    "sortKey": "2021a"
   },
   "recNv34i000VjlJmN": {
     "createdTime": "2023-04-17T21:51:53.000Z",
     "id": "recNv34i000VjlJmN",
+    "(You can't directly edit this column)": "Jocelyn Wang, AFX Board Spring 2021 PR Marketing",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50527,12 +50528,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Jocelyn Wang, AFX Board Spring 2021 PR Marketing"
+    "sortKey": "2021a"
   },
   "receukwVUqhSOqlt1": {
     "createdTime": "2023-04-17T21:52:23.000Z",
     "id": "receukwVUqhSOqlt1",
+    "(You can't directly edit this column)": "Angelina Wang, AFX Board Spring 2021 PR Design",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50547,12 +50548,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Angelina Wang, AFX Board Spring 2021 PR Design"
+    "sortKey": "2021a"
   },
   "recaRxPLmIxHHNG2g": {
     "createdTime": "2023-04-17T21:52:50.000Z",
     "id": "recaRxPLmIxHHNG2g",
+    "(You can't directly edit this column)": "Haixin Guo, AFX Board Spring 2021 PR Design",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50567,12 +50568,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Haixin Guo, AFX Board Spring 2021 PR Design"
+    "sortKey": "2021a"
   },
   "recnkgadMcRhFNpX5": {
     "createdTime": "2023-04-17T21:53:26.000Z",
     "id": "recnkgadMcRhFNpX5",
+    "(You can't directly edit this column)": "Allyson Yang, AFX Board Spring 2021 Events Chair",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50587,12 +50588,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Allyson Yang, AFX Board Spring 2021 Events Chair"
+    "sortKey": "2021a"
   },
   "recGHgr2qGgTmqq6O": {
     "createdTime": "2023-04-17T21:53:58.000Z",
     "id": "recGHgr2qGgTmqq6O",
+    "(You can't directly edit this column)": "Sushanth Varma, AFX Board Spring 2021 Finance Chair",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50607,12 +50608,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Sushanth Varma, AFX Board Spring 2021 Finance Chair"
+    "sortKey": "2021a"
   },
   "recE34wl2Rug3KAdC": {
     "createdTime": "2023-04-17T21:54:37.000Z",
     "id": "recE34wl2Rug3KAdC",
+    "(You can't directly edit this column)": "Rulan Yi, AFX Board Spring 2021 Historian",
     "groupIds": [
       "recQng6cPgDpcxxTL"
     ],
@@ -50627,12 +50628,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Rulan Yi, AFX Board Spring 2021 Historian"
+    "sortKey": "2021a"
   },
   "rec6AcMuF1ovydWY8": {
     "createdTime": "2023-04-17T21:59:55.000Z",
     "id": "rec6AcMuF1ovydWY8",
+    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Summer/Fall 2021 Internal Executive ",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50648,12 +50649,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Summer/Fall 2021 Internal Executive "
+    "sortKey": "2021c, 2021b"
   },
   "recIPRqYzgCkQB2Gy": {
     "createdTime": "2023-04-17T22:00:15.000Z",
     "id": "recIPRqYzgCkQB2Gy",
+    "(You can't directly edit this column)": "Julia Pan, AFX Board Summer/Fall 2021 Internal Executive ",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50669,12 +50670,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Julia Pan, AFX Board Summer/Fall 2021 Internal Executive "
+    "sortKey": "2021c, 2021b"
   },
   "recGjlTssYqBAOOB8": {
     "createdTime": "2023-04-17T22:00:32.000Z",
     "id": "recGjlTssYqBAOOB8",
+    "(You can't directly edit this column)": "Albert Tran, AFX Board Summer/Fall 2021 External Executive",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50690,12 +50691,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Albert Tran, AFX Board Summer/Fall 2021 External Executive"
+    "sortKey": "2021c, 2021b"
   },
   "recWIjJdVO6zeH0Ad": {
     "createdTime": "2023-04-17T22:00:58.000Z",
     "id": "recWIjJdVO6zeH0Ad",
+    "(You can't directly edit this column)": "Allyson Yang, AFX Board Summer/Fall 2021 External Executive",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50711,12 +50712,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Allyson Yang, AFX Board Summer/Fall 2021 External Executive"
+    "sortKey": "2021c, 2021b"
   },
   "rec0iwIGwhG4jWp43": {
     "createdTime": "2023-04-17T22:01:16.000Z",
     "id": "rec0iwIGwhG4jWp43",
+    "(You can't directly edit this column)": "Harika Thejaswini Gopi, AFX Board Summer/Fall 2021 Director Executive",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50732,12 +50733,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Harika Thejaswini Gopi, AFX Board Summer/Fall 2021 Director Executive"
+    "sortKey": "2021c, 2021b"
   },
   "recqrAoKOiju5DCW1": {
     "createdTime": "2023-04-17T22:01:41.000Z",
     "id": "recqrAoKOiju5DCW1",
+    "(You can't directly edit this column)": "Stacey Jung, AFX Board Summer/Fall 2021 Director Executive",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50753,12 +50754,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Stacey Jung, AFX Board Summer/Fall 2021 Director Executive"
+    "sortKey": "2021c, 2021b"
   },
   "reccIXexU5XbGUGtz": {
     "createdTime": "2023-04-17T22:02:34.000Z",
     "id": "reccIXexU5XbGUGtz",
+    "(You can't directly edit this column)": "Queeny Chan, AFX Board Summer/Fall 2021 PR Marketing",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50774,12 +50775,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Queeny Chan, AFX Board Summer/Fall 2021 PR Marketing"
+    "sortKey": "2021c, 2021b"
   },
   "rec4RdYlOfE3PzBrL": {
     "createdTime": "2023-04-17T22:02:52.000Z",
     "id": "rec4RdYlOfE3PzBrL",
+    "(You can't directly edit this column)": "Jocelyn Wang, AFX Board Summer/Fall 2021 PR Marketing",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50795,12 +50796,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Jocelyn Wang, AFX Board Summer/Fall 2021 PR Marketing"
+    "sortKey": "2021c, 2021b"
   },
   "recZ30JH2qdq3FpLo": {
     "createdTime": "2023-04-17T22:04:02.000Z",
     "id": "recZ30JH2qdq3FpLo",
+    "(You can't directly edit this column)": "Angelina Wang, AFX Board Summer/Fall 2021 PR Design",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50816,12 +50817,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Angelina Wang, AFX Board Summer/Fall 2021 PR Design"
+    "sortKey": "2021c, 2021b"
   },
   "recgwuiDaQdwv4F8E": {
     "createdTime": "2023-04-17T22:04:35.000Z",
     "id": "recgwuiDaQdwv4F8E",
+    "(You can't directly edit this column)": "Haixin Guo, AFX Board Summer/Fall 2021 PR Design",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50837,12 +50838,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Haixin Guo, AFX Board Summer/Fall 2021 PR Design"
+    "sortKey": "2021c, 2021b"
   },
   "recz7E0eimLYqUKcd": {
     "createdTime": "2023-04-17T22:05:00.000Z",
     "id": "recz7E0eimLYqUKcd",
+    "(You can't directly edit this column)": "Andrea Zak-Lee, AFX Board Summer/Fall 2021 Events Chair",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50858,12 +50859,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Andrea Zak-Lee, AFX Board Summer/Fall 2021 Events Chair"
+    "sortKey": "2021c, 2021b"
   },
   "rec92np4HzAcfBGUe": {
     "createdTime": "2023-04-17T22:05:22.000Z",
     "id": "rec92np4HzAcfBGUe",
+    "(You can't directly edit this column)": "Fianna Ton, AFX Board Summer/Fall 2021 Finance Chair",
     "groupIds": [
       "recdUpT0AR1vdjVYs"
     ],
@@ -50879,12 +50880,12 @@ export let PersonPositions = {
       "recC6oe6tliR3Ruto",
       "recTMrNvkUxGdJNGI"
     ],
-    "sortKey": "2021c, 2021b",
-    "(You can't directly edit this column)": "Fianna Ton, AFX Board Summer/Fall 2021 Finance Chair"
+    "sortKey": "2021c, 2021b"
   },
   "recsYdZqkClSjeamO": {
     "createdTime": "2023-04-17T22:09:34.000Z",
     "id": "recsYdZqkClSjeamO",
+    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Spring 2022 Internal Executive ",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -50927,12 +50928,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Spring 2022 Internal Executive "
+    "sortKey": "2022a"
   },
   "recPXwmYv3YGH21WZ": {
     "createdTime": "2023-04-17T22:10:10.000Z",
     "id": "recPXwmYv3YGH21WZ",
+    "(You can't directly edit this column)": "Julia Pan, AFX Board Spring 2022 Internal Executive ",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -50975,12 +50976,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Julia Pan, AFX Board Spring 2022 Internal Executive "
+    "sortKey": "2022a"
   },
   "recifGQwBVR1sqoSw": {
     "createdTime": "2023-04-17T22:11:13.000Z",
     "id": "recifGQwBVR1sqoSw",
+    "(You can't directly edit this column)": "Albert Tran, AFX Board Spring 2022 External Executive",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51023,12 +51024,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Albert Tran, AFX Board Spring 2022 External Executive"
+    "sortKey": "2022a"
   },
   "recb2qmWVMCsdEWHr": {
     "createdTime": "2023-04-17T22:11:39.000Z",
     "id": "recb2qmWVMCsdEWHr",
+    "(You can't directly edit this column)": "Haixin Guo, AFX Board Spring 2022 External Executive",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51071,12 +51072,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Haixin Guo, AFX Board Spring 2022 External Executive"
+    "sortKey": "2022a"
   },
   "recpyWZT3UC3cLvWl": {
     "createdTime": "2023-04-17T22:13:38.000Z",
     "id": "recpyWZT3UC3cLvWl",
+    "(You can't directly edit this column)": "Harika Thejaswini Gopi, AFX Board Spring 2022 External Executive",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51119,12 +51120,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Harika Thejaswini Gopi, AFX Board Spring 2022 External Executive"
+    "sortKey": "2022a"
   },
   "rechGuWUXVFTjq1Lt": {
     "createdTime": "2023-04-17T22:14:07.000Z",
     "id": "rechGuWUXVFTjq1Lt",
+    "(You can't directly edit this column)": "Francis Pan, AFX Board Spring 2022 Director Executive",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51167,12 +51168,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Francis Pan, AFX Board Spring 2022 Director Executive"
+    "sortKey": "2022a"
   },
   "recoXPrYIrYuMo9Y3": {
     "createdTime": "2023-04-17T22:14:40.000Z",
     "id": "recoXPrYIrYuMo9Y3",
+    "(You can't directly edit this column)": "Kristin Ma, AFX Board Spring 2022 Director Executive",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51215,12 +51216,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Kristin Ma, AFX Board Spring 2022 Director Executive"
+    "sortKey": "2022a"
   },
   "reco9RQ5DArSI4z9y": {
     "createdTime": "2023-04-17T22:16:38.000Z",
     "id": "reco9RQ5DArSI4z9y",
+    "(You can't directly edit this column)": "Victoria Lu, AFX Board Spring 2022 PR Marketing",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51263,12 +51264,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Victoria Lu, AFX Board Spring 2022 PR Marketing"
+    "sortKey": "2022a"
   },
   "recQXn7VNQA0NWomm": {
     "createdTime": "2023-04-17T22:17:11.000Z",
     "id": "recQXn7VNQA0NWomm",
+    "(You can't directly edit this column)": "Allison Lee, AFX Board Spring 2022 PR Marketing",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51311,12 +51312,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Allison Lee, AFX Board Spring 2022 PR Marketing"
+    "sortKey": "2022a"
   },
   "recjAKqNFfDkwb5Yv": {
     "createdTime": "2023-04-17T22:18:14.000Z",
     "id": "recjAKqNFfDkwb5Yv",
+    "(You can't directly edit this column)": "Grace Jiang, AFX Board Spring 2022 PR Design",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51359,12 +51360,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Grace Jiang, AFX Board Spring 2022 PR Design"
+    "sortKey": "2022a"
   },
   "recDid6JaPvbeJr0S": {
     "createdTime": "2023-04-17T22:18:57.000Z",
     "id": "recDid6JaPvbeJr0S",
+    "(You can't directly edit this column)": "Emily Xiao, AFX Board Spring 2022 PR Design",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51407,12 +51408,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Emily Xiao, AFX Board Spring 2022 PR Design"
+    "sortKey": "2022a"
   },
   "recRGkQzpAskq5ERZ": {
     "createdTime": "2023-04-17T22:21:45.000Z",
     "id": "recRGkQzpAskq5ERZ",
+    "(You can't directly edit this column)": "Fianna Ton, AFX Board Spring 2022 Finance Chair",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51427,12 +51428,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Fianna Ton, AFX Board Spring 2022 Finance Chair"
+    "sortKey": "2022a"
   },
   "rec0BYMUq83r36JdO": {
     "createdTime": "2023-04-17T22:22:14.000Z",
     "id": "rec0BYMUq83r36JdO",
+    "(You can't directly edit this column)": "Sophie Cui, AFX Board Spring 2022 Finance Chair",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51475,12 +51476,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Sophie Cui, AFX Board Spring 2022 Finance Chair"
+    "sortKey": "2022a"
   },
   "recVVo1tDknHzOFJE": {
     "createdTime": "2023-04-17T22:22:51.000Z",
     "id": "recVVo1tDknHzOFJE",
+    "(You can't directly edit this column)": "Emily Luo, AFX Board Spring 2022 Finance Chair",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51523,12 +51524,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Emily Luo, AFX Board Spring 2022 Finance Chair"
+    "sortKey": "2022a"
   },
   "recpLjz1BowpBXQ4B": {
     "createdTime": "2023-04-17T22:23:39.000Z",
     "id": "recpLjz1BowpBXQ4B",
+    "(You can't directly edit this column)": "Anna Ha, AFX Board Spring 2022 Finance Chair",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51571,12 +51572,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Anna Ha, AFX Board Spring 2022 Finance Chair"
+    "sortKey": "2022a"
   },
   "recqG0cpnGu436c3u": {
     "createdTime": "2023-04-17T22:24:06.000Z",
     "id": "recqG0cpnGu436c3u",
+    "(You can't directly edit this column)": "Joy Zhang, AFX Board Spring 2022 Historian",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51619,12 +51620,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Joy Zhang, AFX Board Spring 2022 Historian"
+    "sortKey": "2022a"
   },
   "receFdNjM1B936tWM": {
     "createdTime": "2023-04-17T22:24:35.000Z",
     "id": "receFdNjM1B936tWM",
+    "(You can't directly edit this column)": "Austin Chang, AFX Board Spring 2022 Historian",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51667,12 +51668,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Austin Chang, AFX Board Spring 2022 Historian"
+    "sortKey": "2022a"
   },
   "recGvkWr4DN6mwDCz": {
     "createdTime": "2023-04-17T22:29:03.000Z",
     "id": "recGvkWr4DN6mwDCz",
+    "(You can't directly edit this column)": "Milleno Pan, AFX Board Spring 2022 External Events",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51687,12 +51688,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Milleno Pan, AFX Board Spring 2022 External Events"
+    "sortKey": "2022a"
   },
   "recAlHjBNdF2LJnbJ": {
     "createdTime": "2023-04-17T22:29:34.000Z",
     "id": "recAlHjBNdF2LJnbJ",
+    "(You can't directly edit this column)": "Ly Ia, AFX Board Spring 2022 Internal Events",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51735,12 +51736,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Ly Ia, AFX Board Spring 2022 Internal Events"
+    "sortKey": "2022a"
   },
   "recZ1GZLIZQD45Gi0": {
     "createdTime": "2023-04-17T22:30:17.000Z",
     "id": "recZ1GZLIZQD45Gi0",
+    "(You can't directly edit this column)": "Lorenzo Mendez, AFX Board Spring 2022 Internal Events",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51783,12 +51784,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Lorenzo Mendez, AFX Board Spring 2022 Internal Events"
+    "sortKey": "2022a"
   },
   "recWJ47JdKfPcYJOS": {
     "createdTime": "2023-04-17T22:32:41.000Z",
     "id": "recWJ47JdKfPcYJOS",
+    "(You can't directly edit this column)": "Sophia Chan, AFX Board Spring 2022 External Events",
     "groupIds": [
       "reccBAscSm7GgQUXh"
     ],
@@ -51831,12 +51832,12 @@ export let PersonPositions = {
     "boardSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Sophia Chan, AFX Board Spring 2022 External Events"
+    "sortKey": "2022a"
   },
   "recVOa6t0ZeZygMNN": {
     "createdTime": "2023-04-17T22:43:34.000Z",
     "id": "recVOa6t0ZeZygMNN",
+    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Summer/Fall 2022 Internal Executive ",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -51880,12 +51881,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Tiffany Wong, AFX Board Summer/Fall 2022 Internal Executive "
+    "sortKey": "2022c, 2022b"
   },
   "recXRB7KWxR4rGTsK": {
     "createdTime": "2023-04-17T22:44:05.000Z",
     "id": "recXRB7KWxR4rGTsK",
+    "(You can't directly edit this column)": "Joy Zhang, AFX Board Summer/Fall 2022 Internal Executive ",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -51929,12 +51930,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Joy Zhang, AFX Board Summer/Fall 2022 Internal Executive "
+    "sortKey": "2022c, 2022b"
   },
   "recjUAAB6VS6yVCMw": {
     "createdTime": "2023-04-17T22:45:10.000Z",
     "id": "recjUAAB6VS6yVCMw",
+    "(You can't directly edit this column)": "Albert Tran, AFX Board Summer/Fall 2022 External Executive",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -51978,12 +51979,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Albert Tran, AFX Board Summer/Fall 2022 External Executive"
+    "sortKey": "2022c, 2022b"
   },
   "rec86PI9MPWxuHEtm": {
     "createdTime": "2023-04-17T22:45:47.000Z",
     "id": "rec86PI9MPWxuHEtm",
+    "(You can't directly edit this column)": "Haixin Guo, AFX Board Summer/Fall 2022 External Executive",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52027,12 +52028,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Haixin Guo, AFX Board Summer/Fall 2022 External Executive"
+    "sortKey": "2022c, 2022b"
   },
   "recd2M9RYIFR4Sicq": {
     "createdTime": "2023-04-17T22:46:19.000Z",
     "id": "recd2M9RYIFR4Sicq",
+    "(You can't directly edit this column)": "Sophia Chan, AFX Board Summer/Fall 2022 External Executive",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52076,12 +52077,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Sophia Chan, AFX Board Summer/Fall 2022 External Executive"
+    "sortKey": "2022c, 2022b"
   },
   "reciipb4FihTlhnUu": {
     "createdTime": "2023-04-17T22:46:53.000Z",
     "id": "reciipb4FihTlhnUu",
+    "(You can't directly edit this column)": "Grace Guan, AFX Board Summer/Fall 2022 Director Executive",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52125,12 +52126,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Grace Guan, AFX Board Summer/Fall 2022 Director Executive"
+    "sortKey": "2022c, 2022b"
   },
   "recDN6tSKLXOHQyD6": {
     "createdTime": "2023-04-17T22:49:01.000Z",
     "id": "recDN6tSKLXOHQyD6",
+    "(You can't directly edit this column)": "Victoria Lu, AFX Board Summer/Fall 2022 PR Marketing",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52174,12 +52175,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Victoria Lu, AFX Board Summer/Fall 2022 PR Marketing"
+    "sortKey": "2022c, 2022b"
   },
   "reccq5DiLMXhZnk1c": {
     "createdTime": "2023-04-17T22:49:36.000Z",
     "id": "reccq5DiLMXhZnk1c",
+    "(You can't directly edit this column)": "Allison Lee, AFX Board Summer/Fall 2022 PR Marketing",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52223,12 +52224,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Allison Lee, AFX Board Summer/Fall 2022 PR Marketing"
+    "sortKey": "2022c, 2022b"
   },
   "recjL8JdgXUBPBkDR": {
     "createdTime": "2023-04-17T22:50:06.000Z",
     "id": "recjL8JdgXUBPBkDR",
+    "(You can't directly edit this column)": "Grace Jiang, AFX Board Summer/Fall 2022 PR Design",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52272,12 +52273,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Grace Jiang, AFX Board Summer/Fall 2022 PR Design"
+    "sortKey": "2022c, 2022b"
   },
   "recx3a289XA6SsRBP": {
     "createdTime": "2023-04-17T22:50:34.000Z",
     "id": "recx3a289XA6SsRBP",
+    "(You can't directly edit this column)": "Shirlyn Rhee, AFX Board Summer/Fall 2022 External Events",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52321,12 +52322,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Shirlyn Rhee, AFX Board Summer/Fall 2022 External Events"
+    "sortKey": "2022c, 2022b"
   },
   "recFRTicmkigHZiER": {
     "createdTime": "2023-04-17T22:51:07.000Z",
     "id": "recFRTicmkigHZiER",
+    "(You can't directly edit this column)": "Angela Zhang, AFX Board Summer/Fall 2022 External Events",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52370,12 +52371,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Angela Zhang, AFX Board Summer/Fall 2022 External Events"
+    "sortKey": "2022c, 2022b"
   },
   "recuEN8wTHBdUX43h": {
     "createdTime": "2023-04-17T22:51:41.000Z",
     "id": "recuEN8wTHBdUX43h",
+    "(You can't directly edit this column)": "Evelyn Liu, AFX Board Summer/Fall 2022 Internal Events",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52419,12 +52420,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Evelyn Liu, AFX Board Summer/Fall 2022 Internal Events"
+    "sortKey": "2022c, 2022b"
   },
   "recWQ6KcFr6QSn7Ff": {
     "createdTime": "2023-04-17T22:52:10.000Z",
     "id": "recWQ6KcFr6QSn7Ff",
+    "(You can't directly edit this column)": "Lorenzo Mendez, AFX Board Summer/Fall 2022 Internal Events",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52468,12 +52469,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Lorenzo Mendez, AFX Board Summer/Fall 2022 Internal Events"
+    "sortKey": "2022c, 2022b"
   },
   "rec420465perISOHt": {
     "createdTime": "2023-04-17T22:52:42.000Z",
     "id": "rec420465perISOHt",
+    "(You can't directly edit this column)": "Keilan Hooper, AFX Board Summer/Fall 2022 Internal Events",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52517,12 +52518,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Keilan Hooper, AFX Board Summer/Fall 2022 Internal Events"
+    "sortKey": "2022c, 2022b"
   },
   "recG5WOP2Vld9wLY9": {
     "createdTime": "2023-04-17T22:53:11.000Z",
     "id": "recG5WOP2Vld9wLY9",
+    "(You can't directly edit this column)": "Ellie Kuang, AFX Board Summer/Fall 2022 Finance Chair",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52566,12 +52567,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Ellie Kuang, AFX Board Summer/Fall 2022 Finance Chair"
+    "sortKey": "2022c, 2022b"
   },
   "recJyGrgUe3Q3z2SF": {
     "createdTime": "2023-04-17T22:53:37.000Z",
     "id": "recJyGrgUe3Q3z2SF",
+    "(You can't directly edit this column)": "Sophie Cui, AFX Board Summer/Fall 2022 Finance Chair",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52615,12 +52616,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Sophie Cui, AFX Board Summer/Fall 2022 Finance Chair"
+    "sortKey": "2022c, 2022b"
   },
   "recTiLBOKZTSTxSba": {
     "createdTime": "2023-04-17T22:54:39.000Z",
     "id": "recTiLBOKZTSTxSba",
+    "(You can't directly edit this column)": "Emily Luo, AFX Board Summer/Fall 2022 Finance Chair",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52664,12 +52665,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Emily Luo, AFX Board Summer/Fall 2022 Finance Chair"
+    "sortKey": "2022c, 2022b"
   },
   "rec7BCUEEB9BaenuG": {
     "createdTime": "2023-04-17T22:55:21.000Z",
     "id": "rec7BCUEEB9BaenuG",
+    "(You can't directly edit this column)": "Anna Ha, AFX Board Summer/Fall 2022 Finance Chair",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52713,12 +52714,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Anna Ha, AFX Board Summer/Fall 2022 Finance Chair"
+    "sortKey": "2022c, 2022b"
   },
   "recXE4lkwgep0tUxx": {
     "createdTime": "2023-04-17T22:55:50.000Z",
     "id": "recXE4lkwgep0tUxx",
+    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX Board Summer/Fall 2022 Historian",
     "groupIds": [
       "recVk2cqXdNGyXwRi"
     ],
@@ -52762,12 +52763,12 @@ export let PersonPositions = {
       "rec5se8MkpXWoWY6E",
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022c, 2022b",
-    "(You can't directly edit this column)": "Lorenzo dela Cruz, AFX Board Summer/Fall 2022 Historian"
+    "sortKey": "2022c, 2022b"
   },
   "recoqqYdkcBG86FPX": {
     "createdTime": "2023-04-17T23:26:23.000Z",
     "id": "recoqqYdkcBG86FPX",
+    "(You can't directly edit this column)": "Kelly Tan, AFX {bliss} Director",
     "groupIds": [
       "recqfdRzJCVltOMDg"
     ],
@@ -52810,12 +52811,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Kelly Tan, AFX {bliss} Director"
+    "sortKey": "2023a"
   },
   "rectmARsSxvqVO3xb": {
     "createdTime": "2023-04-17T23:27:17.000Z",
     "id": "rectmARsSxvqVO3xb",
+    "(You can't directly edit this column)": "Leo Lin, AFX {bliss} Director",
     "groupIds": [
       "recqfdRzJCVltOMDg"
     ],
@@ -52858,12 +52859,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Leo Lin, AFX {bliss} Director"
+    "sortKey": "2023a"
   },
   "recI44Eb9G35x5fvo": {
     "createdTime": "2023-04-17T23:44:12.000Z",
     "id": "recI44Eb9G35x5fvo",
+    "(You can't directly edit this column)": "Hein San, AFX 5SG Director",
     "groupIds": [
       "recSCJc0IX2bHuHsa"
     ],
@@ -52906,12 +52907,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Hein San, AFX 5SG Director"
+    "sortKey": "2023a"
   },
   "rec5inBX9aHHErS17": {
     "createdTime": "2023-04-17T23:44:43.000Z",
     "id": "rec5inBX9aHHErS17",
+    "(You can't directly edit this column)": "Klaire Li, AFX 5SG Director",
     "groupIds": [
       "recSCJc0IX2bHuHsa"
     ],
@@ -52954,12 +52955,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Klaire Li, AFX 5SG Director"
+    "sortKey": "2023a"
   },
   "recq1P6Pj36LXCfZN": {
     "createdTime": "2023-04-18T00:24:49.000Z",
     "id": "recq1P6Pj36LXCfZN",
+    "(You can't directly edit this column)": "Grace Guan, AFX Party! Director",
     "groupIds": [
       "reck9A4CNdXPoAoce"
     ],
@@ -53002,12 +53003,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Grace Guan, AFX Party! Director"
+    "sortKey": "2022a"
   },
   "recFJRT6X1XViNijH": {
     "createdTime": "2023-04-18T00:25:20.000Z",
     "id": "recFJRT6X1XViNijH",
+    "(You can't directly edit this column)": "Madison Luzar, AFX Party! Director",
     "groupIds": [
       "reck9A4CNdXPoAoce"
     ],
@@ -53050,12 +53051,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Madison Luzar, AFX Party! Director"
+    "sortKey": "2022a"
   },
   "recIk6Gj9BUcilNUz": {
     "createdTime": "2023-04-18T00:26:07.000Z",
     "id": "recIk6Gj9BUcilNUz",
+    "(You can't directly edit this column)": "Faith Kwan, AFX Party! Director",
     "groupIds": [
       "reck9A4CNdXPoAoce"
     ],
@@ -53098,12 +53099,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Faith Kwan, AFX Party! Director"
+    "sortKey": "2022a"
   },
   "recCJv03m71j07Z9C": {
     "createdTime": "2023-04-18T00:28:32.000Z",
     "id": "recCJv03m71j07Z9C",
+    "(You can't directly edit this column)": "Novia Kayfetz-Vuong, awayFX Director",
     "groupIds": [
       "reczdSOZxJfYP1YFr"
     ],
@@ -53146,12 +53147,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Novia Kayfetz-Vuong, awayFX Director"
+    "sortKey": "2022a"
   },
   "recgUqkuudzmUUqFD": {
     "createdTime": "2023-04-18T00:28:53.000Z",
     "id": "recgUqkuudzmUUqFD",
+    "(You can't directly edit this column)": "Anthony Zhou, awayFX Director",
     "groupIds": [
       "reczdSOZxJfYP1YFr"
     ],
@@ -53194,12 +53195,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Anthony Zhou, awayFX Director"
+    "sortKey": "2022a"
   },
   "rec1g9ExWn0Z4o7c8": {
     "createdTime": "2023-04-18T00:29:13.000Z",
     "id": "rec1g9ExWn0Z4o7c8",
+    "(You can't directly edit this column)": "Alvin Han, awayFX Director",
     "groupIds": [
       "reczdSOZxJfYP1YFr"
     ],
@@ -53242,12 +53243,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Alvin Han, awayFX Director"
+    "sortKey": "2022a"
   },
   "recnInFtVMIVabDz1": {
     "createdTime": "2023-04-18T00:33:38.000Z",
     "id": "recnInFtVMIVabDz1",
+    "(You can't directly edit this column)": "Charles Hager, AFX Link Director",
     "groupIds": [
       "recn5hR7kPxL7EYsq"
     ],
@@ -53290,12 +53291,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Charles Hager, AFX Link Director"
+    "sortKey": "2022a"
   },
   "recOUzSORI1Vz0dX7": {
     "createdTime": "2023-04-18T00:34:03.000Z",
     "id": "recOUzSORI1Vz0dX7",
+    "(You can't directly edit this column)": "Amanda Luong, AFX Link Director",
     "groupIds": [
       "recn5hR7kPxL7EYsq"
     ],
@@ -53338,12 +53339,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Amanda Luong, AFX Link Director"
+    "sortKey": "2022a"
   },
   "recCjaktQbeKjBmK2": {
     "createdTime": "2023-04-18T00:43:50.000Z",
     "id": "recCjaktQbeKjBmK2",
+    "(You can't directly edit this column)": "Peter Kang, AFX ___ Director",
     "groupIds": [
       "rec7uJoed7pZ2lvoM"
     ],
@@ -53386,12 +53387,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Peter Kang, AFX ___ Director"
+    "sortKey": "2022a"
   },
   "recC3Am2fmvmAQR40": {
     "createdTime": "2023-04-18T00:44:12.000Z",
     "id": "recC3Am2fmvmAQR40",
+    "(You can't directly edit this column)": "Nick Yang, AFX ___ Director",
     "groupIds": [
       "rec7uJoed7pZ2lvoM"
     ],
@@ -53434,12 +53435,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Nick Yang, AFX ___ Director"
+    "sortKey": "2022a"
   },
   "recShl2ati959oJB1": {
     "createdTime": "2023-04-18T00:46:30.000Z",
     "id": "recShl2ati959oJB1",
+    "(You can't directly edit this column)": "John Flores, AFX Yin & Yang Director",
     "groupIds": [
       "recldc0nUbqals14f"
     ],
@@ -53482,12 +53483,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "John Flores, AFX Yin & Yang Director"
+    "sortKey": "2022a"
   },
   "recuxR75sqmh6AChH": {
     "createdTime": "2023-04-18T00:47:12.000Z",
     "id": "recuxR75sqmh6AChH",
+    "(You can't directly edit this column)": "Minh To, AFX Yin & Yang Director",
     "groupIds": [
       "recldc0nUbqals14f"
     ],
@@ -53530,12 +53531,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Minh To, AFX Yin & Yang Director"
+    "sortKey": "2022a"
   },
   "reczkRSCOytiDALoe": {
     "createdTime": "2023-04-18T00:52:34.000Z",
     "id": "reczkRSCOytiDALoe",
+    "(You can't directly edit this column)": "Michael Yu, slayFX Director",
     "groupIds": [
       "reclZ1enMu2PrNJh1"
     ],
@@ -53578,12 +53579,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Michael Yu, slayFX Director"
+    "sortKey": "2022c"
   },
   "recKeT27FRJR4nZTj": {
     "createdTime": "2023-04-18T00:54:09.000Z",
     "id": "recKeT27FRJR4nZTj",
+    "(You can't directly edit this column)": "Rachel Hu, slayFX Director",
     "groupIds": [
       "reclZ1enMu2PrNJh1"
     ],
@@ -53626,12 +53627,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Rachel Hu, slayFX Director"
+    "sortKey": "2022c"
   },
   "recF4nsminLDNgTIE": {
     "createdTime": "2023-04-18T00:54:36.000Z",
     "id": "recF4nsminLDNgTIE",
+    "(You can't directly edit this column)": "Megan Lui, slayFX Director",
     "groupIds": [
       "reclZ1enMu2PrNJh1"
     ],
@@ -53674,12 +53675,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Megan Lui, slayFX Director"
+    "sortKey": "2022c"
   },
   "rec9dyoJwf9zFTGb3": {
     "createdTime": "2023-04-18T00:56:38.000Z",
     "id": "rec9dyoJwf9zFTGb3",
+    "(You can't directly edit this column)": "Brandon Peav, afxoxo Director",
     "groupIds": [
       "recHr6xLDcba9SAOm"
     ],
@@ -53722,12 +53723,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Brandon Peav, afxoxo Director"
+    "sortKey": "2023a"
   },
   "recvxHb53X8LJjxYU": {
     "createdTime": "2023-04-18T00:57:08.000Z",
     "id": "recvxHb53X8LJjxYU",
+    "(You can't directly edit this column)": "Zoe Chen, afxoxo Director",
     "groupIds": [
       "recHr6xLDcba9SAOm"
     ],
@@ -53770,12 +53771,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Zoe Chen, afxoxo Director"
+    "sortKey": "2023a"
   },
   "recczEhP2V4OUsQOz": {
     "createdTime": "2023-04-18T00:57:44.000Z",
     "id": "recczEhP2V4OUsQOz",
+    "(You can't directly edit this column)": "Terra Tang, afxoxo Director",
     "groupIds": [
       "recHr6xLDcba9SAOm"
     ],
@@ -53818,12 +53819,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Terra Tang, afxoxo Director"
+    "sortKey": "2023a"
   },
   "recWzA2bEBMFbUBt7": {
     "createdTime": "2023-04-18T00:59:29.000Z",
     "id": "recWzA2bEBMFbUBt7",
+    "(You can't directly edit this column)": "Alexis Kim, AFX ØG Director",
     "groupIds": [
       "rec1wtyNcT5dQGxcC"
     ],
@@ -53866,12 +53867,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Alexis Kim, AFX ØG Director"
+    "sortKey": "2022c"
   },
   "rec0XVIHBsDlmOp8P": {
     "createdTime": "2023-04-18T00:59:46.000Z",
     "id": "rec0XVIHBsDlmOp8P",
+    "(You can't directly edit this column)": "Jason Simbre, AFX ØG Director",
     "groupIds": [
       "rec1wtyNcT5dQGxcC"
     ],
@@ -53914,12 +53915,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Jason Simbre, AFX ØG Director"
+    "sortKey": "2022c"
   },
   "reckEgTPwfoitKy4t": {
     "createdTime": "2023-04-18T01:17:17.000Z",
     "id": "reckEgTPwfoitKy4t",
+    "(You can't directly edit this column)": "Lorenzo dela Cruz, OPERATION: spyFX Director",
     "groupIds": [
       "rec7tmBX7UYLrkC7c"
     ],
@@ -53962,12 +53963,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Lorenzo dela Cruz, OPERATION: spyFX Director"
+    "sortKey": "2023a"
   },
   "recNQbMe4hyS2QMXE": {
     "createdTime": "2023-04-18T01:17:30.000Z",
     "id": "recNQbMe4hyS2QMXE",
+    "(You can't directly edit this column)": "Tiffany Wong, OPERATION: spyFX Director",
     "groupIds": [
       "rec7tmBX7UYLrkC7c"
     ],
@@ -54010,12 +54011,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Tiffany Wong, OPERATION: spyFX Director"
+    "sortKey": "2023a"
   },
   "recQi4JISLQ9dvofI": {
     "createdTime": "2023-04-18T01:17:40.000Z",
     "id": "recQi4JISLQ9dvofI",
+    "(You can't directly edit this column)": "Kenneth Sieu, OPERATION: spyFX Director",
     "groupIds": [
       "rec7tmBX7UYLrkC7c"
     ],
@@ -54058,12 +54059,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Kenneth Sieu, OPERATION: spyFX Director"
+    "sortKey": "2023a"
   },
   "recWQFta9Vc4lju35": {
     "createdTime": "2023-04-18T01:17:56.000Z",
     "id": "recWQFta9Vc4lju35",
+    "(You can't directly edit this column)": "David Ge, susFX Director",
     "groupIds": [
       "recddlCgEfLom4wV0"
     ],
@@ -54106,12 +54107,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "David Ge, susFX Director"
+    "sortKey": "2023a"
   },
   "recYBg2DkBf0UwHcz": {
     "createdTime": "2023-04-18T01:18:07.000Z",
     "id": "recYBg2DkBf0UwHcz",
+    "(You can't directly edit this column)": "Matthew Lu, susFX Director",
     "groupIds": [
       "recddlCgEfLom4wV0"
     ],
@@ -54154,12 +54155,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Matthew Lu, susFX Director"
+    "sortKey": "2023a"
   },
   "recK9VT1G5AAcFox1": {
     "createdTime": "2023-04-18T01:18:20.000Z",
     "id": "recK9VT1G5AAcFox1",
+    "(You can't directly edit this column)": "Amanda Luong, AFX dnd Director",
     "groupIds": [
       "recyKyrmWSHbzLgzi"
     ],
@@ -54202,12 +54203,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Amanda Luong, AFX dnd Director"
+    "sortKey": "2023a"
   },
   "reccFBkiK83zIpVOy": {
     "createdTime": "2023-04-18T01:18:29.000Z",
     "id": "reccFBkiK83zIpVOy",
+    "(You can't directly edit this column)": "Nicole Cheng, AFX dnd Director",
     "groupIds": [
       "recyKyrmWSHbzLgzi"
     ],
@@ -54250,12 +54251,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Nicole Cheng, AFX dnd Director"
+    "sortKey": "2023a"
   },
   "recB5xKaqqZT2rFTA": {
     "createdTime": "2023-04-18T01:18:42.000Z",
     "id": "recB5xKaqqZT2rFTA",
+    "(You can't directly edit this column)": "Amiel Shine, AFX dnd Director",
     "groupIds": [
       "recyKyrmWSHbzLgzi"
     ],
@@ -54270,12 +54271,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Amiel Shine, AFX dnd Director"
+    "sortKey": "2023a"
   },
   "recerd93pUaKhZYiT": {
     "createdTime": "2023-04-18T01:18:57.000Z",
     "id": "recerd93pUaKhZYiT",
+    "(You can't directly edit this column)": "Evan Lim, AFX KIN Director",
     "groupIds": [
       "recPz0Y05k34cKV2x"
     ],
@@ -54318,12 +54319,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Evan Lim, AFX KIN Director"
+    "sortKey": "2023a"
   },
   "rec5uTuYui0y1L3S9": {
     "createdTime": "2023-04-18T01:19:10.000Z",
     "id": "rec5uTuYui0y1L3S9",
+    "(You can't directly edit this column)": "Albert Tran, AFX rxn Director",
     "groupIds": [
       "recdxau2zvA5InY8L"
     ],
@@ -54338,12 +54339,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Albert Tran, AFX rxn Director"
+    "sortKey": "2023a"
   },
   "recDtnq7H9iUBz8vs": {
     "createdTime": "2023-04-18T01:19:23.000Z",
     "id": "recDtnq7H9iUBz8vs",
+    "(You can't directly edit this column)": "Sahishnu Raj Thapa, AFX rxn Director",
     "groupIds": [
       "recdxau2zvA5InY8L"
     ],
@@ -54358,12 +54359,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Sahishnu Raj Thapa, AFX rxn Director"
+    "sortKey": "2023a"
   },
   "recv4qtu3mrXZHUrT": {
     "createdTime": "2023-04-18T01:20:01.000Z",
     "id": "recv4qtu3mrXZHUrT",
+    "(You can't directly edit this column)": "Lizzy Trinh, AFX KIN Director",
     "groupIds": [
       "recPz0Y05k34cKV2x"
     ],
@@ -54406,12 +54407,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Lizzy Trinh, AFX KIN Director"
+    "sortKey": "2023a"
   },
   "recklhOSns0xZ5XOU": {
     "createdTime": "2023-04-18T01:20:18.000Z",
     "id": "recklhOSns0xZ5XOU",
+    "(You can't directly edit this column)": "Dana Li, AFX KIN Director",
     "groupIds": [
       "recPz0Y05k34cKV2x"
     ],
@@ -54454,12 +54455,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Dana Li, AFX KIN Director"
+    "sortKey": "2023a"
   },
   "rec19L1oy4LAs8DAQ": {
     "createdTime": "2023-04-18T04:03:01.000Z",
     "id": "rec19L1oy4LAs8DAQ",
+    "(You can't directly edit this column)": "Ariful Rigan, AFX AF Director",
     "groupIds": [
       "recJvEtI6hFX1YUTh"
     ],
@@ -54502,12 +54503,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Ariful Rigan, AFX AF Director"
+    "sortKey": "2021c"
   },
   "recXdT0zROHgw35sN": {
     "createdTime": "2023-04-18T04:04:11.000Z",
     "id": "recXdT0zROHgw35sN",
+    "(You can't directly edit this column)": "Francis Pan, AFX AF Director",
     "groupIds": [
       "recJvEtI6hFX1YUTh"
     ],
@@ -54550,12 +54551,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Francis Pan, AFX AF Director"
+    "sortKey": "2021c"
   },
   "rec4yQvOVLZDqOQsN": {
     "createdTime": "2023-04-18T04:04:56.000Z",
     "id": "rec4yQvOVLZDqOQsN",
+    "(You can't directly edit this column)": "Ryan Searcy, AFX Rush Director",
     "groupIds": [
       "recP3l1Qy8D4HUzHq"
     ],
@@ -54598,18 +54599,18 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Ryan Searcy, AFX Rush Director"
+    "sortKey": "2021c"
   },
   "reca3CadfHo1OUflh": {
     "createdTime": "2023-04-18T07:03:12.000Z",
     "id": "reca3CadfHo1OUflh",
-    "isValid": "Missing fields!",
-    "(You can't directly edit this column)": ",  "
+    "(You can't directly edit this column)": ",  ",
+    "isValid": "Missing fields!"
   },
   "rec2gX5yPAYWQCKK3": {
     "createdTime": "2023-04-18T07:03:24.000Z",
     "id": "rec2gX5yPAYWQCKK3",
+    "(You can't directly edit this column)": "Ethan Chung, AFX Power Director",
     "groupIds": [
       "recWBIwrAnxJUq2cU"
     ],
@@ -54652,12 +54653,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Ethan Chung, AFX Power Director"
+    "sortKey": "2021c"
   },
   "recnPGK5yG4live1m": {
     "createdTime": "2023-04-18T07:04:15.000Z",
     "id": "recnPGK5yG4live1m",
+    "(You can't directly edit this column)": "Shruti Natarajan, AFX Sesh Director",
     "groupIds": [
       "recyTMxv4iOMNX7kp"
     ],
@@ -54672,12 +54673,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Shruti Natarajan, AFX Sesh Director"
+    "sortKey": "2021a"
   },
   "recQghBDU6NQZrEFp": {
     "createdTime": "2023-04-18T07:04:31.000Z",
     "id": "recQghBDU6NQZrEFp",
+    "(You can't directly edit this column)": "Ethan Chung, AFX Sesh Director",
     "groupIds": [
       "recyTMxv4iOMNX7kp"
     ],
@@ -54720,12 +54721,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Ethan Chung, AFX Sesh Director"
+    "sortKey": "2021a"
   },
   "recvoisIpwRbgD1er": {
     "createdTime": "2023-04-18T07:04:45.000Z",
     "id": "recvoisIpwRbgD1er",
+    "(You can't directly edit this column)": "Harika Thejaswini Gopi, AFX Sesh Director",
     "groupIds": [
       "recyTMxv4iOMNX7kp"
     ],
@@ -54740,12 +54741,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Harika Thejaswini Gopi, AFX Sesh Director"
+    "sortKey": "2021a"
   },
   "recMIcMZC4xqhAsr6": {
     "createdTime": "2023-04-18T07:04:59.000Z",
     "id": "recMIcMZC4xqhAsr6",
+    "(You can't directly edit this column)": "Stacey Jung, AFX Sesh Director",
     "groupIds": [
       "recyTMxv4iOMNX7kp"
     ],
@@ -54760,12 +54761,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recYwSXXGENab7PSs"
     ],
-    "sortKey": "2021a",
-    "(You can't directly edit this column)": "Stacey Jung, AFX Sesh Director"
+    "sortKey": "2021a"
   },
   "recUQ3wBcet5Az3ly": {
     "createdTime": "2023-04-19T19:48:49.000Z",
     "id": "recUQ3wBcet5Az3ly",
+    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Camp Comp Artistics ",
     "groupIds": [
       "recuV8msu0Eb04FXH"
     ],
@@ -54808,12 +54809,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Camp Comp Artistics "
+    "sortKey": "2022b"
   },
   "rec8xDhvuiiNdpvpI": {
     "createdTime": "2023-04-19T19:51:56.000Z",
     "id": "rec8xDhvuiiNdpvpI",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Camp Comp Artistics ",
     "groupIds": [
       "recuV8msu0Eb04FXH"
     ],
@@ -54828,12 +54829,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Camp Comp Artistics "
+    "sortKey": "2022b"
   },
   "reclIBClqhswG1qSV": {
     "createdTime": "2023-04-19T19:55:05.000Z",
     "id": "reclIBClqhswG1qSV",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics ",
     "groupIds": [
       "recl7ncmpHYjBYZnN"
     ],
@@ -54876,12 +54877,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics "
+    "sortKey": "2022c"
   },
   "recCJot1z312t3kGd": {
     "createdTime": "2023-04-19T19:55:33.000Z",
     "id": "recCJot1z312t3kGd",
+    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Company Comp Artistics ",
     "groupIds": [
       "recl7ncmpHYjBYZnN"
     ],
@@ -54924,12 +54925,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Company Comp Artistics "
+    "sortKey": "2022c"
   },
   "rec3avk6l5s3d2hUF": {
     "createdTime": "2023-04-19T19:57:27.000Z",
     "id": "rec3avk6l5s3d2hUF",
+    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Captain",
     "groupIds": [
       "recl7ncmpHYjBYZnN"
     ],
@@ -54972,12 +54973,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Captain"
+    "sortKey": "2022c"
   },
   "recgxzkfcBkbwLgX5": {
     "createdTime": "2023-04-19T19:58:04.000Z",
     "id": "recgxzkfcBkbwLgX5",
+    "(You can't directly edit this column)": "Caroline Zhu, AFX Dance Company Comp Captain",
     "groupIds": [
       "recl7ncmpHYjBYZnN"
     ],
@@ -55020,12 +55021,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Caroline Zhu, AFX Dance Company Comp Captain"
+    "sortKey": "2022c"
   },
   "reczvoOjGG9wUxkC7": {
     "createdTime": "2023-04-19T20:00:02.000Z",
     "id": "reczvoOjGG9wUxkC7",
+    "(You can't directly edit this column)": "Neha Pubbi, AFX Dance Company Comp Communications",
     "groupIds": [
       "recl7ncmpHYjBYZnN"
     ],
@@ -55040,12 +55041,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Neha Pubbi, AFX Dance Company Comp Communications"
+    "sortKey": "2022c"
   },
   "recZfQZQNiWfpt4Tl": {
     "createdTime": "2023-04-19T20:00:29.000Z",
     "id": "recZfQZQNiWfpt4Tl",
+    "(You can't directly edit this column)": "Yaya Qu, AFX Dance Company Communications",
     "groupIds": [
       "recl7ncmpHYjBYZnN"
     ],
@@ -55088,12 +55089,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Yaya Qu, AFX Dance Company Communications"
+    "sortKey": "2022c"
   },
   "recUKYLaKf4QOa9dw": {
     "createdTime": "2023-04-19T20:10:32.000Z",
     "id": "recUKYLaKf4QOa9dw",
+    "(You can't directly edit this column)": "Christopher Herrera, AFX Comp Comp Director",
     "groupIds": [
       "rec3EMPZSFrPR7SSa"
     ],
@@ -55108,12 +55109,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Christopher Herrera, AFX Comp Comp Director"
+    "sortKey": "2021c"
   },
   "recBVIwZx72MxktNZ": {
     "createdTime": "2023-04-19T20:11:00.000Z",
     "id": "recBVIwZx72MxktNZ",
+    "(You can't directly edit this column)": "Anusha Silla, AFX Comp Comp Director",
     "groupIds": [
       "rec3EMPZSFrPR7SSa"
     ],
@@ -55128,12 +55129,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Anusha Silla, AFX Comp Comp Director"
+    "sortKey": "2021c"
   },
   "recdobPtmiN4SnNas": {
     "createdTime": "2023-04-19T20:12:38.000Z",
     "id": "recdobPtmiN4SnNas",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Comp Comp Director",
     "groupIds": [
       "rec3EMPZSFrPR7SSa"
     ],
@@ -55148,12 +55149,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Genevieve Hodge, AFX Comp Comp Director"
+    "sortKey": "2021c"
   },
   "recb4BJ5BYu22MDA4": {
     "createdTime": "2023-04-19T20:15:26.000Z",
     "id": "recb4BJ5BYu22MDA4",
+    "(You can't directly edit this column)": "John Flores, AFeXsi Director",
     "groupIds": [
       "recYdcrTg3jQ5AgZI"
     ],
@@ -55196,12 +55197,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "John Flores, AFeXsi Director"
+    "sortKey": "2022b"
   },
   "reciXP1saejCtEBZi": {
     "createdTime": "2023-04-19T20:15:57.000Z",
     "id": "reciXP1saejCtEBZi",
+    "(You can't directly edit this column)": "Nathaniel Lum, AFeXsi Director",
     "groupIds": [
       "recYdcrTg3jQ5AgZI"
     ],
@@ -55244,12 +55245,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Nathaniel Lum, AFeXsi Director"
+    "sortKey": "2022b"
   },
   "recWCx556XNqFF7k8": {
     "createdTime": "2023-04-19T20:16:24.000Z",
     "id": "recWCx556XNqFF7k8",
+    "(You can't directly edit this column)": "Stella Wan, AFeXsi Director",
     "groupIds": [
       "recYdcrTg3jQ5AgZI"
     ],
@@ -55292,12 +55293,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Stella Wan, AFeXsi Director"
+    "sortKey": "2022b"
   },
   "recSCK7fIx4hdrTo0": {
     "createdTime": "2023-04-19T20:18:11.000Z",
     "id": "recSCK7fIx4hdrTo0",
+    "(You can't directly edit this column)": "Ryan Searcy, AFX Aimbot Director",
     "groupIds": [
       "recDdKUJGivbiyyMy"
     ],
@@ -55340,12 +55341,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Ryan Searcy, AFX Aimbot Director"
+    "sortKey": "2022c"
   },
   "recy0sofSx3vimp8i": {
     "createdTime": "2023-04-19T20:18:54.000Z",
     "id": "recy0sofSx3vimp8i",
+    "(You can't directly edit this column)": "Ariful Rigan, AFX Aimbot Director",
     "groupIds": [
       "recDdKUJGivbiyyMy"
     ],
@@ -55388,12 +55389,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Ariful Rigan, AFX Aimbot Director"
+    "sortKey": "2022c"
   },
   "recOYas5BVO7gQAOx": {
     "createdTime": "2023-04-19T20:22:21.000Z",
     "id": "recOYas5BVO7gQAOx",
+    "(You can't directly edit this column)": "David Ge, AFXsi VI Director",
     "groupIds": [
       "recGtx1DlX2GsOTij"
     ],
@@ -55436,12 +55437,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "David Ge, AFXsi VI Director"
+    "sortKey": "2022b"
   },
   "recU5TFWylYk1qNpM": {
     "createdTime": "2023-04-19T20:22:44.000Z",
     "id": "recU5TFWylYk1qNpM",
+    "(You can't directly edit this column)": "Sophie Morrison, AFeliXir Director",
     "groupIds": [
       "recZjHt1Nzy9DMhb1"
     ],
@@ -55484,12 +55485,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Sophie Morrison, AFeliXir Director"
+    "sortKey": "2022c"
   },
   "receEfYDaQ7RPnsLu": {
     "createdTime": "2023-04-19T20:23:08.000Z",
     "id": "receEfYDaQ7RPnsLu",
+    "(You can't directly edit this column)": "Yiding Fan, AFeliXir Director",
     "groupIds": [
       "recZjHt1Nzy9DMhb1"
     ],
@@ -55532,12 +55533,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Yiding Fan, AFeliXir Director"
+    "sortKey": "2022c"
   },
   "recHXudGwfab0LvCL": {
     "createdTime": "2023-04-19T20:46:34.000Z",
     "id": "recHXudGwfab0LvCL",
+    "(You can't directly edit this column)": "Jasmine Casey, AFX Jaded Director",
     "groupIds": [
       "recAOqtSainLJmYho"
     ],
@@ -55580,12 +55581,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Jasmine Casey, AFX Jaded Director"
+    "sortKey": "2021c"
   },
   "recO0QehxYCMfCXDe": {
     "createdTime": "2023-04-19T20:46:53.000Z",
     "id": "recO0QehxYCMfCXDe",
+    "(You can't directly edit this column)": "Devin Balcorta, AFX Jaded Director",
     "groupIds": [
       "recAOqtSainLJmYho"
     ],
@@ -55628,12 +55629,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recC6oe6tliR3Ruto"
     ],
-    "sortKey": "2021c",
-    "(You can't directly edit this column)": "Devin Balcorta, AFX Jaded Director"
+    "sortKey": "2021c"
   },
   "recn1lyAcgp2ITHxD": {
     "createdTime": "2023-04-21T05:06:02.000Z",
     "id": "recn1lyAcgp2ITHxD",
+    "(You can't directly edit this column)": "Smit Rajyaguru, ayoFX Director",
     "groupIds": [
       "rec1gezaAX93L2iBG"
     ],
@@ -55676,12 +55677,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Smit Rajyaguru, ayoFX Director"
+    "sortKey": "2022c"
   },
   "recWdsrwT4v9T2Wiv": {
     "createdTime": "2023-04-21T05:06:57.000Z",
     "id": "recWdsrwT4v9T2Wiv",
+    "(You can't directly edit this column)": "Kevin Hsu, ayoFX Director",
     "groupIds": [
       "rec1gezaAX93L2iBG"
     ],
@@ -55724,12 +55725,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Kevin Hsu, ayoFX Director"
+    "sortKey": "2022c"
   },
   "recifr1LiLguqKO8V": {
     "createdTime": "2023-04-21T05:07:44.000Z",
     "id": "recifr1LiLguqKO8V",
+    "(You can't directly edit this column)": "Dao Geng, ayoFX Director",
     "groupIds": [
       "rec1gezaAX93L2iBG"
     ],
@@ -55772,12 +55773,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "rec5se8MkpXWoWY6E"
     ],
-    "sortKey": "2022c",
-    "(You can't directly edit this column)": "Dao Geng, ayoFX Director"
+    "sortKey": "2022c"
   },
   "recJ1dZofuTRVX94g": {
     "createdTime": "2023-04-24T01:32:26.000Z",
     "id": "recJ1dZofuTRVX94g",
+    "(You can't directly edit this column)": "Jacob Ngo, AFXsi HAG$ Director",
     "groupIds": [
       "recqJkRlbburIGxSO"
     ],
@@ -55820,12 +55821,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Jacob Ngo, AFXsi HAG$ Director"
+    "sortKey": "2022b"
   },
   "recno4Obz4yHngAB6": {
     "createdTime": "2023-04-24T01:32:30.000Z",
     "id": "recno4Obz4yHngAB6",
+    "(You can't directly edit this column)": "Princeton Liu, AFXsi HAG$ Director",
     "groupIds": [
       "recqJkRlbburIGxSO"
     ],
@@ -55868,12 +55869,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Princeton Liu, AFXsi HAG$ Director"
+    "sortKey": "2022b"
   },
   "recwH11qN1yIUtm82": {
     "createdTime": "2023-04-24T01:32:34.000Z",
     "id": "recwH11qN1yIUtm82",
+    "(You can't directly edit this column)": "Winston Nguyen, AFXsi HAG$ Director",
     "groupIds": [
       "recqJkRlbburIGxSO"
     ],
@@ -55916,12 +55917,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recmJ2ux7fEHLfY3B"
     ],
-    "sortKey": "2022b",
-    "(You can't directly edit this column)": "Winston Nguyen, AFXsi HAG$ Director"
+    "sortKey": "2022b"
   },
   "recWctyt7TXiH0kvE": {
     "createdTime": "2023-04-24T01:58:43.000Z",
     "id": "recWctyt7TXiH0kvE",
+    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Artistics",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -55964,12 +55965,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Artistics"
+    "sortKey": "2022a"
   },
   "recrfr3CT9FDyULrP": {
     "createdTime": "2023-04-24T01:59:39.000Z",
     "id": "recrfr3CT9FDyULrP",
+    "(You can't directly edit this column)": "Christopher Herrera, AFX Dance Company Comp Artistics",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -55984,12 +55985,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Christopher Herrera, AFX Dance Company Comp Artistics"
+    "sortKey": "2022a"
   },
   "rec1M6p5BGfxo646t": {
     "createdTime": "2023-04-24T02:15:41.000Z",
     "id": "rec1M6p5BGfxo646t",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics",
     "groupIds": [
       "recpkfHQ30hlVyuUk"
     ],
@@ -56032,12 +56033,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics"
+    "sortKey": "2023a"
   },
   "recX4J45K8l2CZoN6": {
     "createdTime": "2023-04-24T02:16:14.000Z",
     "id": "recX4J45K8l2CZoN6",
+    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Company Comp Artistics",
     "groupIds": [
       "recpkfHQ30hlVyuUk"
     ],
@@ -56080,12 +56081,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Ellie Kim, AFX Dance Company Comp Artistics"
+    "sortKey": "2023a"
   },
   "recDaxn1iT0ejqKDc": {
     "createdTime": "2023-04-24T02:16:37.000Z",
     "id": "recDaxn1iT0ejqKDc",
+    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Captain",
     "groupIds": [
       "recpkfHQ30hlVyuUk"
     ],
@@ -56128,12 +56129,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Anusha Silla, AFX Dance Company Comp Captain"
+    "sortKey": "2023a"
   },
   "recyNC84GfIKZGSf2": {
     "createdTime": "2023-04-24T02:17:17.000Z",
     "id": "recyNC84GfIKZGSf2",
+    "(You can't directly edit this column)": "Caroline Zhu, AFX Dance Company Comp Captain",
     "groupIds": [
       "recpkfHQ30hlVyuUk"
     ],
@@ -56176,12 +56177,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Caroline Zhu, AFX Dance Company Comp Captain"
+    "sortKey": "2023a"
   },
   "rec9b1TbYkqsDJVH3": {
     "createdTime": "2023-04-24T02:17:41.000Z",
     "id": "rec9b1TbYkqsDJVH3",
+    "(You can't directly edit this column)": "Yaya Qu, AFX Dance Company Comp Communications",
     "groupIds": [
       "recpkfHQ30hlVyuUk"
     ],
@@ -56224,12 +56225,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Yaya Qu, AFX Dance Company Comp Communications"
+    "sortKey": "2023a"
   },
   "recRPOCZwa4HUCRQa": {
     "createdTime": "2023-04-24T02:18:09.000Z",
     "id": "recRPOCZwa4HUCRQa",
+    "(You can't directly edit this column)": "Samantha Wray, AFX Dance Company Comp Finance",
     "groupIds": [
       "recpkfHQ30hlVyuUk"
     ],
@@ -56272,12 +56273,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recazNIM3EYCM5nnL"
     ],
-    "sortKey": "2023a",
-    "(You can't directly edit this column)": "Samantha Wray, AFX Dance Company Comp Finance"
+    "sortKey": "2023a"
   },
   "receJhNJx6pEKr7wb": {
     "createdTime": "2023-04-24T02:32:09.000Z",
     "id": "receJhNJx6pEKr7wb",
+    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -56292,12 +56293,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Genevieve Hodge, AFX Dance Company Comp Artistics"
+    "sortKey": "2022a"
   },
   "recMAAE691LGxHieN": {
     "createdTime": "2023-04-24T02:32:26.000Z",
     "id": "recMAAE691LGxHieN",
+    "(You can't directly edit this column)": "Gily Yu, AFX Dance Company Comp Artistics",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -56312,12 +56313,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Gily Yu, AFX Dance Company Comp Artistics"
+    "sortKey": "2022a"
   },
   "recM9SUDTXi0zT6uH": {
     "createdTime": "2023-04-24T02:32:50.000Z",
     "id": "recM9SUDTXi0zT6uH",
+    "(You can't directly edit this column)": "Jasmine Syu, AFX Dance Company Comp Captain",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -56360,12 +56361,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Jasmine Syu, AFX Dance Company Comp Captain"
+    "sortKey": "2022a"
   },
   "recf7sti0YrWhlPOy": {
     "createdTime": "2023-04-24T02:33:07.000Z",
     "id": "recf7sti0YrWhlPOy",
+    "(You can't directly edit this column)": "Shanna Inouye, AFX Dance Company Comp Captain",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -56408,12 +56409,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Shanna Inouye, AFX Dance Company Comp Captain"
+    "sortKey": "2022a"
   },
   "recIov7wzLMVp3HHr": {
     "createdTime": "2023-04-24T02:33:27.000Z",
     "id": "recIov7wzLMVp3HHr",
+    "(You can't directly edit this column)": "Samantha Wray, AFX Dance Company Comp Communications",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -56428,12 +56429,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Samantha Wray, AFX Dance Company Comp Communications"
+    "sortKey": "2022a"
   },
   "recynMLmpa2jA0Xvl": {
     "createdTime": "2023-04-24T02:33:45.000Z",
     "id": "recynMLmpa2jA0Xvl",
+    "(You can't directly edit this column)": "Sing Cheer To, AFX Dance Company Comp Communications",
     "groupIds": [
       "rec61aPJ5BxwyfBzz"
     ],
@@ -56476,12 +56477,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recvAfBNQAjSSRZw0"
     ],
-    "sortKey": "2022a",
-    "(You can't directly edit this column)": "Sing Cheer To, AFX Dance Company Comp Communications"
+    "sortKey": "2022a"
   },
   "recY2V66v4ovZO1EN": {
     "createdTime": "2023-08-22T19:16:00.000Z",
     "id": "recY2V66v4ovZO1EN",
+    "(You can't directly edit this column)": "Ronald Wang, AFXsi 0°F Director",
     "groupIds": [
       "recFNbip68biKEjk2"
     ],
@@ -56524,12 +56525,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recclu7y1ZObJCBHs"
     ],
-    "sortKey": "2023b",
-    "(You can't directly edit this column)": "Ronald Wang, AFXsi 0°F Director"
+    "sortKey": "2023b"
   },
   "reclPQ6EJJqmT2SKv": {
     "createdTime": "2023-08-22T19:17:12.000Z",
     "id": "reclPQ6EJJqmT2SKv",
+    "(You can't directly edit this column)": "Anna Ha, AFXsi 0°F Director",
     "groupIds": [
       "recFNbip68biKEjk2"
     ],
@@ -56572,12 +56573,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recclu7y1ZObJCBHs"
     ],
-    "sortKey": "2023b",
-    "(You can't directly edit this column)": "Anna Ha, AFXsi 0°F Director"
+    "sortKey": "2023b"
   },
   "recw1R3NTr6oXkS0V": {
     "createdTime": "2023-08-22T19:17:46.000Z",
     "id": "recw1R3NTr6oXkS0V",
+    "(You can't directly edit this column)": "Joy Zhang, AFXsi 0°F Director",
     "groupIds": [
       "recFNbip68biKEjk2"
     ],
@@ -56620,12 +56621,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recclu7y1ZObJCBHs"
     ],
-    "sortKey": "2023b",
-    "(You can't directly edit this column)": "Joy Zhang, AFXsi 0°F Director"
+    "sortKey": "2023b"
   },
   "reckt1ELvygetJitZ": {
     "createdTime": "2023-08-22T19:19:54.000Z",
     "id": "reckt1ELvygetJitZ",
+    "(You can't directly edit this column)": "Shanna Inouye, OhanaFX Director",
     "groupIds": [
       "recRxCPw2T0jhFMtD"
     ],
@@ -56668,12 +56669,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recclu7y1ZObJCBHs"
     ],
-    "sortKey": "2023b",
-    "(You can't directly edit this column)": "Shanna Inouye, OhanaFX Director"
+    "sortKey": "2023b"
   },
   "recHGvEvLReB23ZIA": {
     "createdTime": "2023-08-22T19:20:58.000Z",
     "id": "recHGvEvLReB23ZIA",
+    "(You can't directly edit this column)": "Emily Chau, OhanaFX Director",
     "groupIds": [
       "recRxCPw2T0jhFMtD"
     ],
@@ -56716,12 +56717,12 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recclu7y1ZObJCBHs"
     ],
-    "sortKey": "2023b",
-    "(You can't directly edit this column)": "Emily Chau, OhanaFX Director"
+    "sortKey": "2023b"
   },
   "recZFPgK0vOGkwNMD": {
     "createdTime": "2023-08-22T19:21:47.000Z",
     "id": "recZFPgK0vOGkwNMD",
+    "(You can't directly edit this column)": "Claire Chou, OhanaFX Director",
     "groupIds": [
       "recRxCPw2T0jhFMtD"
     ],
@@ -56764,8 +56765,7 @@ export let PersonPositions = {
     "teamSemesterId": [
       "recclu7y1ZObJCBHs"
     ],
-    "sortKey": "2023b",
-    "(You can't directly edit this column)": "Claire Chou, OhanaFX Director"
+    "sortKey": "2023b"
   }
 }
 
