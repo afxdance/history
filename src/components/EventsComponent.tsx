@@ -73,7 +73,7 @@ export const EventsComponent: React.FC = () => {
       })
   }, [])
 
-// Monday
+  // Monday
   const cypherM: singleTeam = {
     name: "AFX Cypher",
     start: "8:00 PM",
@@ -191,8 +191,7 @@ export const EventsComponent: React.FC = () => {
         <div className="about--text">
           <span>
             {" "}
-            <strong>AFX Fall Showcase:</strong> Saturday, April 22, 7-10 PM @ Zellerbach {" "}
-            <p>(date/location is subject to change!)</p>
+            <strong>AFX-[M] Spring Showcase:</strong> Saturday, December 2, 6:30-9:30 PM @ Zellerbach {" "}
           </span>
           {/* <br />
           <span>
@@ -216,7 +215,7 @@ export const EventsComponent: React.FC = () => {
         <hr></hr>
 
         <br />
-        <h2>Team Schedule Spring 2022</h2>
+        <h2>Team Schedule Fall 2023</h2>
         <div className="name-time-container">{teamSchedules}</div>
       </div>
       {/* <p>Official calendar TBD! Please go to <a href="https://www.facebook.com/AFXdance">our Facebook page </a>for more details on any upcoming events :)</p> */}
