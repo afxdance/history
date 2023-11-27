@@ -312,7 +312,7 @@ export let TimelineData = [
     photo: '',
     title: 'Fall 2022',
     content: '',
-    showcase_url: 'https://www.youtube.com/embed/JqD4zoKu274?si=Qhdb4Btl0pN3f18a',
+    showcase_url: 'https://www.youtube.com/embed/videoseries?list=PLMn56WXPSVU8HLCU_KEgVxnicdCtpoxJz',
     workshop_url: 'https://www.youtube.com/embed/8qYNpDI-W38?si=nMyC6PmtpIcyyBcG',
     awards: '',
   },
